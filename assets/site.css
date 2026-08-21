@@ -1,0 +1,26 @@
+* { box-sizing: border-box; }
+:root { color-scheme: light; --ink:#172033; --muted:#596579; --brand:#174ea6; --line:#d9e0ea; --paper:#fff; --wash:#f4f7fb; }
+body { margin:0; color:var(--ink); background:var(--wash); font:16px/1.6 system-ui,-apple-system,"Segoe UI",sans-serif; }
+a { color:var(--brand); }
+header { display:flex; justify-content:space-between; align-items:center; gap:1rem; padding:1rem max(1rem,calc((100% - 980px)/2)); background:#10213d; }
+header a { color:#fff; text-decoration:none; }
+.brand { font-size:1.15rem; font-weight:750; }
+nav { display:flex; gap:1rem; }
+main { width:min(980px,calc(100% - 2rem)); margin:2rem auto; }
+.hero,.bulletin,.card { background:var(--paper); border:1px solid var(--line); border-radius:12px; box-shadow:0 4px 18px #17203310; }
+.hero { padding:clamp(1.5rem,5vw,3.5rem); margin-bottom:2rem; }
+.hero h1 { font-size:clamp(2rem,6vw,3.5rem); line-height:1.15; max-width:18ch; }
+.eyebrow { color:var(--muted); font-weight:700; text-transform:uppercase; letter-spacing:.08em; font-size:.8rem; }
+.button { display:inline-block; color:#fff; background:var(--brand); padding:.7rem 1rem; border-radius:8px; text-decoration:none; font-weight:700; }
+.cards { display:grid; gap:1rem; grid-template-columns:repeat(auto-fit,minmax(260px,1fr)); }
+.card { padding:1rem 1.2rem; }
+.card h2 { font-size:1.05rem; line-height:1.35; }
+.card p { color:var(--muted); }
+.bulletin { padding:clamp(1rem,4vw,2.5rem); overflow-wrap:anywhere; }
+.bulletin b u { display:inline-block; margin-top:1.2rem; font-size:1.2rem; text-decoration:none; }
+.hash { color:var(--muted); font-size:.8rem; overflow-wrap:anywhere; }
+code { font-size:.8em; }
+label { display:block; font-weight:700; margin:.5rem 0; }
+input[type=search] { width:100%; max-width:34rem; padding:.75rem; margin-bottom:1.5rem; border:1px solid var(--line); border-radius:8px; font:inherit; }
+footer { width:min(980px,calc(100% - 2rem)); margin:3rem auto 1rem; border-top:1px solid var(--line); color:var(--muted); font-size:.85rem; }
+@media (max-width:560px) { header { align-items:flex-start; flex-direction:column; } }
