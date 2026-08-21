@@ -1,0 +1,14 @@
+[
+  {
+    "date": "2026-08-17",
+    "draft_sha256": "8ccd0a4dc9956894af0b2ddeb48b42392d455ee63cb41e4c4a3b4d2001ec2329",
+    "item_ids": [
+      "item-20260814-sfc-aml-circulars-4a43312779"
+    ],
+    "mode": "daily",
+    "path": "bulletins/2026/08/17/daily/",
+    "rendered_sha256": "0752b1a1253b0d2bcd9bea981ace819f80ff159f2b2ab65cb6ce75db4d0c0b60",
+    "schema_version": 1,
+    "title": "Regulatory Bulletin — 17 August 2026 (Daily)"
+  }
+]
