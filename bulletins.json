@@ -1,5 +1,17 @@
 [
   {
+    "date": "2026-08-26",
+    "draft_sha256": "e044ae400ec285b840c55e845a7b625d4a99811e061178904f62e4255945432f",
+    "item_ids": [
+      "item-20260825-pcpd-20260825-dpp3"
+    ],
+    "mode": "daily",
+    "path": "bulletins/2026/08/26/daily/",
+    "rendered_sha256": "0cbf191bab10e2be94fe67ecbeaaad5da22b05b4001a25f97b3d9da97a8254e8",
+    "schema_version": 1,
+    "title": "Regulatory Bulletin — 26 August 2026 (Daily)"
+  },
+  {
     "date": "2026-08-21",
     "draft_sha256": "8967e49b56e29515b505ea2f851bc92b0d7da13db8909ab3730e4428b4630064",
     "item_ids": [
