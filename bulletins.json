@@ -1,5 +1,17 @@
 [
   {
+    "date": "2026-08-27",
+    "draft_sha256": "2ad7b175d3b4584224cd86b4a96e8fca807d4e7d1d52b9f2478e2fbe137b39a2",
+    "item_ids": [
+      "item-20260826-hkma-press-89a8560c64"
+    ],
+    "mode": "daily",
+    "path": "bulletins/2026/08/27/daily/",
+    "rendered_sha256": "2f20054cd06d6d4bf6f366e04ba79cd157117c6a6b4189496dce9e1227df1d2a",
+    "schema_version": 1,
+    "title": "Regulatory Bulletin — 27 August 2026 (Daily)"
+  },
+  {
     "date": "2026-08-26",
     "draft_sha256": "e044ae400ec285b840c55e845a7b625d4a99811e061178904f62e4255945432f",
     "item_ids": [
