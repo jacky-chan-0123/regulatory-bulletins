@@ -1,6 +1,23 @@
 {
   "date": "2026-08-17",
   "draft_sha256": "8ccd0a4dc9956894af0b2ddeb48b42392d455ee63cb41e4c4a3b4d2001ec2329",
+  "findings": [
+    {
+      "authority": "Securities and Futures Commission",
+      "authority_label": "supervisory expectation",
+      "bulletin_date": "2026-08-17",
+      "deadline": "No source deadline stated",
+      "id": "item-20260814-sfc-aml-circulars-4a43312779",
+      "impact_areas": ["Financial crime", "Operational"],
+      "jurisdiction": "Hong Kong",
+      "official_published": "2026-08-14",
+      "products": ["Investment services", "Payments", "Virtual assets"],
+      "source_url": "https://apps.sfc.hk/edistributionWeb/gateway/EN/circular/aml/doc?refNo=26EC48",
+      "status": "current",
+      "summary": "The SFC expects in-scope securities and virtual-asset firms to update screening data following amendments to the UN ISIL and Al-Qaida sanctions list, while the corresponding Hong Kong Gazette update remained pending.",
+      "title": "SFC early alert on UN sanctions-list amendments"
+    }
+  ],
   "item_ids": [
     "item-20260814-sfc-aml-circulars-4a43312779"
   ],
@@ -8,6 +25,6 @@
   "path": "bulletins/2026/08/17/daily/",
   "rendered_html": "<b><u>📔 Regulatory Bulletin — 17 August 2026 (Daily)</u></b>\n\n<b><u>Executive Summary</u></b>\n\n  • 🟡 The SFC expects its licensed corporations, SFC-licensed virtual asset service providers and associated entities to update customer and payment sanctions-screening databases for recent UN list-detail amendments. Management should confirm whether relevant SFC-regulated activities or shared screening flows are in scope and that list-ingestion and screening evidence is available.\n\n<b><u>Hong Kong</u></b>\n\n\n<b>🟡 SFC early alert on UN sanctions-list amendments 🇭🇰</b>\n\n<b>Item ID:</b> item-20260814-sfc-aml-circulars-4a43312779\n<b>⏰ Deadline:</b> No source deadline stated\n<b>Products:</b> Investment services, payments, virtual assets\n\nThe Securities and Futures Commission (SFC) issued circular SFO/IS/030/2026 on 14 August after the relevant UN Security Council committee amended details for three individuals and one entity on the ISIL (Da’esh) and Al-Qaida sanctions list on 13 August, New York time. The SFC expects licensed corporations, SFC-licensed virtual asset service providers and associated entities to update customer and payment screening databases; it presents this within the expected standards in its 7 February 2018 UN-sanctions circular, not as a new bank-wide rule. The direct perimeter is the named SFC-regulated entities, with bank relevance where registered securities activity or shared screening is involved; delayed data ingestion or incomplete screening may affect client, beneficial-owner and counterparty screening. The SFC says an updated Cap. 537CB list was published on 14 August, while the corresponding Cap. 575 Gazette update was pending; it states no screening population, system design or compliance deadline.\n\nSource: <a href=\"https://apps.sfc.hk/edistributionWeb/gateway/EN/circular/aml/doc?refNo=26EC48\">SFC circular: Early Alert on United Nations Sanctions</a>\n\n<b><u>Mainland/GBA</u></b>\n\nNo validated current-run items.\n\n<b><u>SG/UK/GLOBAL Benchmark</u></b>\n\n<i>Comparable overseas developments and commercial/control benchmarks. They do not establish Hong Kong requirements.</i>\n\nNo validated current-run items.\n\n<b><u>Watch List</u></b>\n\n  • Monitor the pending Cap. 575 Gazette update referenced by the SFC to determine whether it changes the applicable sanctions list or response for in-scope entities.\n\n<b><u>Coverage</u></b>\n\n  • customs-tdo — skipped (0): out-of-cadence for daily mode\n  • consumer-council — skipped (0): out-of-cadence for daily mode\n  • interpol-financial-cyber — skipped (0): out-of-cadence for daily mode\n  • hkcert — skipped (0): out-of-cadence for daily mode\n  • sme-schemes — skipped (0): out-of-cadence for daily mode\n  • gba-official — skipped (0): out-of-cadence for daily mode\n  • gba-mainland-sweep — skipped (0): out-of-cadence for daily mode\n  • industry-bodies — skipped (0): out-of-cadence for daily mode\n  • lawfirm-big4-pages — skipped (0): out-of-cadence for daily mode\n  • lawfirm-big4-sweep — skipped (0): out-of-cadence for daily mode\n  • mas-benchmark — skipped (0): out-of-cadence for daily mode\n  • fca-benchmark — skipped (0): out-of-cadence for daily mode\n  • boe-benchmark — skipped (0): out-of-cadence for daily mode\n  • scam-fraud-cluster — disabled (0): blocked sources; no current fallback item\n  • regulation-asia — disabled (0): subscription-gated; disabled at user request\n  • hkma-circulars — empty (0): verified RSS; no run-window publication\n  • hkma-guidelines — empty (0): verified RSS; no run-window publication\n  • hkma-spm — empty (0): verified RSS; no run-window publication\n  • hkma-consultations — empty (0): verified RSS; no run-window publication\n  • hkma-press — ok (4): verified RSS and canonical evidence\n  • hkma-brdr — partial (0): TLS fetch failure; browser found no run-window publication\n  • sfc-circulars — empty (0): verified listing; no run-window publication\n  • sfc-aml-circulars — ok (1): verified listing and canonical browser evidence\n  • sfc-consultations — empty (0): verified API; no run-window publication\n  • sfc-web — ok (1): verified pages; one official SFC news publication\n  • pcpd — empty (0): verified listings; no run-window publication\n  • hk-enforcement-actions — empty (0): no qualifying bank or comparable action\n  • global-material-incidents-enforcement — partial (0): MAS maintenance shells; no exception-threshold event\n  • fstb — empty (0): verified listings; no scoped publication\n  • legco — partial (0): TLS fetch failure; browser found no run-window publication\n  • hk-banks-news — empty (0): verified listings; no qualifying new item\n  • lexology — partial (0): candidate detail blocked; publication date ambiguous",
   "rendered_sha256": "0752b1a1253b0d2bcd9bea981ace819f80ff159f2b2ab65cb6ce75db4d0c0b60",
-  "schema_version": 1,
+  "schema_version": 2,
   "title": "Regulatory Bulletin — 17 August 2026 (Daily)"
 }

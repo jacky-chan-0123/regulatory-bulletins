@@ -8,7 +8,7 @@
     "mode": "daily",
     "path": "bulletins/2026/08/28/daily/",
     "rendered_sha256": "0abd44c67dbafe3248bbc6b5cb49ace05e71edee77a05a9a188a3a43c36c1f81",
-    "schema_version": 1,
+    "schema_version": 2,
     "title": "Regulatory Bulletin — 28 August 2026 (Daily)"
   },
   {
@@ -20,7 +20,7 @@
     "mode": "daily",
     "path": "bulletins/2026/08/27/daily/",
     "rendered_sha256": "2f20054cd06d6d4bf6f366e04ba79cd157117c6a6b4189496dce9e1227df1d2a",
-    "schema_version": 1,
+    "schema_version": 2,
     "title": "Regulatory Bulletin — 27 August 2026 (Daily)"
   },
   {
@@ -32,7 +32,7 @@
     "mode": "daily",
     "path": "bulletins/2026/08/26/daily/",
     "rendered_sha256": "0cbf191bab10e2be94fe67ecbeaaad5da22b05b4001a25f97b3d9da97a8254e8",
-    "schema_version": 1,
+    "schema_version": 2,
     "title": "Regulatory Bulletin — 26 August 2026 (Daily)"
   },
   {
@@ -47,7 +47,7 @@
     "mode": "daily",
     "path": "bulletins/2026/08/21/daily/",
     "rendered_sha256": "2e83bf2efd10739037eaca9aaa3ff3958b9bddabe111a3cad1dcf5cdb5f683b2",
-    "schema_version": 1,
+    "schema_version": 2,
     "title": "Regulatory Bulletin — 21 August 2026 (Daily)"
   },
   {
@@ -59,7 +59,7 @@
     "mode": "daily",
     "path": "bulletins/2026/08/17/daily/",
     "rendered_sha256": "0752b1a1253b0d2bcd9bea981ace819f80ff159f2b2ab65cb6ce75db4d0c0b60",
-    "schema_version": 1,
+    "schema_version": 2,
     "title": "Regulatory Bulletin — 17 August 2026 (Daily)"
   }
 ]
