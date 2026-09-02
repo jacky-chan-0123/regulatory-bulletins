@@ -5,6 +5,7 @@
     "bulletin_date": "2026-08-28",
     "bulletin_path": "bulletins/2026/08/28/daily/",
     "deadline": "Technical trials commence later in 2026; no specific date stated.",
+    "document_type": "published development",
     "id": "item-20260827-hkma-press-74e83c55f1",
     "impact_areas": [
       "Technology/data",
@@ -19,10 +20,22 @@
       "SME onboarding",
       "Payments"
     ],
+    "publisher": "HKMA, SFC, IA and MPFA",
+    "publisher_id": "hkma-sfc-ia-and-mpfa",
+    "source_role": "published_source",
     "source_url": "https://www.hkma.gov.hk/eng/news-and-media/press-releases/2026/08/20260827-3/",
     "status": "current",
     "summary": "Four Hong Kong financial regulators announced the first GenA.I. Sandbox++ cohort for controlled testing of selected agentic-AI use cases; participation is not an industry-wide obligation.",
-    "title": "First cohort of GenA.I. Sandbox++"
+    "title": "First cohort of GenA.I. Sandbox++",
+    "topics": [
+      "Technology/data",
+      "Conduct/customer",
+      "Operational",
+      "Third-party",
+      "Digital banking",
+      "SME onboarding",
+      "Payments"
+    ]
   },
   {
     "authority": "Hong Kong Monetary Authority and Hong Kong Association of Banks",
@@ -30,6 +43,7 @@
     "bulletin_date": "2026-08-27",
     "bulletin_path": "bulletins/2026/08/27/daily/",
     "deadline": "No source deadline stated",
+    "document_type": "published development",
     "id": "item-20260826-hkma-press-89a8560c64",
     "impact_areas": [
       "Commercial",
@@ -41,10 +55,19 @@
       "Project finance",
       "Ancillary financial services"
     ],
+    "publisher": "Hong Kong Monetary Authority and Hong Kong Association of Banks",
+    "publisher_id": "hong-kong-monetary-authority-and-hong-kong-association-of-banks",
+    "source_role": "published_source",
     "source_url": "https://www.hkma.gov.hk/eng/news-and-media/press-releases/2026/08/20260826-3/",
     "status": "current",
     "summary": "HKMA and HKAB announced continuing work on financing models and risk mitigants for Northern Metropolis projects; this is a prospective commercial opportunity rather than a financing requirement or commitment.",
-    "title": "Northern Metropolis Financial Advisory Taskforce holds its second meeting"
+    "title": "Northern Metropolis Financial Advisory Taskforce holds its second meeting",
+    "topics": [
+      "Commercial",
+      "Prudential",
+      "Project finance",
+      "Ancillary financial services"
+    ]
   },
   {
     "authority": "Office of the Privacy Commissioner for Personal Data",
@@ -52,6 +75,7 @@
     "bulletin_date": "2026-08-26",
     "bulletin_path": "bulletins/2026/08/26/daily/",
     "deadline": "No source deadline stated",
+    "document_type": "published development",
     "id": "item-20260825-pcpd-20260825-dpp3",
     "impact_areas": [
       "Conduct/customer",
@@ -65,10 +89,21 @@
       "Loan applications",
       "Collections"
     ],
+    "publisher": "Office of the Privacy Commissioner for Personal Data",
+    "publisher_id": "office-of-the-privacy-commissioner-for-personal-data",
+    "source_role": "published_source",
     "source_url": "https://www.pcpd.org.hk/english/enforcement/commissioners_findings/files/20260825_DPP3.pdf",
     "status": "current",
     "summary": "The Privacy Commissioner's Office found misuse of employers' personal data in loan applications and advised financial institutions to remain vigilant, without finding that a lender breached the PDPO or creating a new lender rule.",
-    "title": "Employers' data in loan applications: PCPD findings"
+    "title": "Employers' data in loan applications: PCPD findings",
+    "topics": [
+      "Conduct/customer",
+      "Data/privacy",
+      "Operational",
+      "Lending",
+      "Loan applications",
+      "Collections"
+    ]
   },
   {
     "authority": "HSBC and Standard Chartered",
@@ -76,6 +111,7 @@
     "bulletin_date": "2026-08-21",
     "bulletin_path": "bulletins/2026/08/21/daily/",
     "deadline": "No source deadline stated",
+    "document_type": "published development",
     "id": "item-20260820-hk-banks-news-c040ad9fb8",
     "impact_areas": [
       "Operational",
@@ -90,10 +126,22 @@
       "Cross-border payments",
       "Corporate liquidity"
     ],
+    "publisher": "HSBC and Standard Chartered",
+    "publisher_id": "hsbc-and-standard-chartered",
+    "source_role": "published_source",
     "source_url": "https://www.about.hsbc.com.hk/news-and-media/hsbc-and-standard-chartered-execute-first-live-tokenised-deposit-transaction-on-swifts-blockchain",
     "status": "current",
     "summary": "HSBC and Standard Chartered announced a live cross-border tokenised-deposit transaction using Swift's blockchain-based ledger; it is market intelligence rather than a Hong Kong regulatory requirement.",
-    "title": "First live tokenised-deposit transaction on Swift's blockchain-based ledger"
+    "title": "First live tokenised-deposit transaction on Swift's blockchain-based ledger",
+    "topics": [
+      "Operational",
+      "Technology/data",
+      "Financial crime",
+      "Third-party",
+      "Tokenised deposits",
+      "Cross-border payments",
+      "Corporate liquidity"
+    ]
   },
   {
     "authority": "Hong Kong Monetary Authority",
@@ -101,6 +149,7 @@
     "bulletin_date": "2026-08-21",
     "bulletin_path": "bulletins/2026/08/21/daily/",
     "deadline": "No source deadline stated",
+    "document_type": "published development",
     "id": "item-20260820-hkma-brdr-35ab6b0e37",
     "impact_areas": [
       "Prudential",
@@ -113,10 +162,20 @@
       "Lending",
       "Capital reporting"
     ],
+    "publisher": "Hong Kong Monetary Authority",
+    "publisher_id": "hong-kong-monetary-authority",
+    "source_role": "published_source",
     "source_url": "https://brdr.hkma.gov.hk/eng/doc-ldg/current/20260810-1-EN",
     "status": "current",
     "summary": "HKMA listed implementation guidance on the Banking (Capital) Rules for all authorized institutions, but the available evidence did not support a conclusion about changed calculations, thresholds, reporting or transition dates.",
-    "title": "Implementation guidance on Banking (Capital) Rules"
+    "title": "Implementation guidance on Banking (Capital) Rules",
+    "topics": [
+      "Prudential",
+      "Technology/data",
+      "Commercial",
+      "Lending",
+      "Capital reporting"
+    ]
   },
   {
     "authority": "Hong Kong Monetary Authority and Insurance Authority",
@@ -124,6 +183,7 @@
     "bulletin_date": "2026-08-21",
     "bulletin_path": "bulletins/2026/08/21/daily/",
     "deadline": "No source deadline stated",
+    "document_type": "published development",
     "id": "item-20260820-hkma-brdr-8934644ea0",
     "impact_areas": [
       "Conduct/customer",
@@ -136,10 +196,20 @@
       "Premium finance",
       "Insurance distribution"
     ],
+    "publisher": "Hong Kong Monetary Authority and Insurance Authority",
+    "publisher_id": "hong-kong-monetary-authority-and-insurance-authority",
+    "source_role": "published_source",
     "source_url": "https://brdr.hkma.gov.hk/eng/doc-ldg/current/20260818-1-EN",
     "status": "current",
     "summary": "HKMA circulated Insurance Authority observations on insurance business using premium-financing facilities, but the available evidence did not disclose the observations, expectations, affected transactions or deadline.",
-    "title": "Insurance Authority observations on premium-financing facilities"
+    "title": "Insurance Authority observations on premium-financing facilities",
+    "topics": [
+      "Conduct/customer",
+      "Prudential",
+      "Commercial",
+      "Premium finance",
+      "Insurance distribution"
+    ]
   },
   {
     "authority": "Securities and Futures Commission",
@@ -147,6 +217,7 @@
     "bulletin_date": "2026-08-21",
     "bulletin_path": "bulletins/2026/08/21/daily/",
     "deadline": "No source deadline stated",
+    "document_type": "published development",
     "id": "item-20260820-sfc-circulars-26EC51",
     "impact_areas": [
       "Financial crime",
@@ -160,10 +231,21 @@
       "Client deposits",
       "Virtual assets"
     ],
+    "publisher": "Securities and Futures Commission",
+    "publisher_id": "securities-and-futures-commission",
+    "source_role": "published_source",
     "source_url": "https://apps.sfc.hk/edistributionWeb/gateway/EN/circular/intermediaries/supervision/doc?refNo=26EC51",
     "status": "current",
     "summary": "The SFC expects in-scope licensed corporations and virtual-asset firms using payee-initiated simplified eDDA to assess authorization, identity, fraud, red-flag and indemnity risks.",
-    "title": "Mitigating risks in receiving deposits through simplified eDDA arrangements"
+    "title": "Mitigating risks in receiving deposits through simplified eDDA arrangements",
+    "topics": [
+      "Financial crime",
+      "Conduct/customer",
+      "Operational",
+      "eDDA",
+      "Client deposits",
+      "Virtual assets"
+    ]
   },
   {
     "authority": "Securities and Futures Commission",
@@ -171,6 +253,7 @@
     "bulletin_date": "2026-08-17",
     "bulletin_path": "bulletins/2026/08/17/daily/",
     "deadline": "No source deadline stated",
+    "document_type": "published development",
     "id": "item-20260814-sfc-aml-circulars-4a43312779",
     "impact_areas": [
       "Financial crime",
@@ -183,9 +266,19 @@
       "Payments",
       "Virtual assets"
     ],
+    "publisher": "Securities and Futures Commission",
+    "publisher_id": "securities-and-futures-commission",
+    "source_role": "published_source",
     "source_url": "https://apps.sfc.hk/edistributionWeb/gateway/EN/circular/aml/doc?refNo=26EC48",
     "status": "current",
     "summary": "The SFC expects in-scope securities and virtual-asset firms to update screening data following amendments to the UN ISIL and Al-Qaida sanctions list, while the corresponding Hong Kong Gazette update remained pending.",
-    "title": "SFC early alert on UN sanctions-list amendments"
+    "title": "SFC early alert on UN sanctions-list amendments",
+    "topics": [
+      "Financial crime",
+      "Operational",
+      "Investment services",
+      "Payments",
+      "Virtual assets"
+    ]
   }
 ]
