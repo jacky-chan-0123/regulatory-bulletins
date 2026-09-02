@@ -70,7 +70,8 @@ h3 { font-size: 1.05rem; letter-spacing: -.015em; }
 .card p { margin: .45rem 0; color: var(--muted); }
 .card-meta { font-size: .76rem; font-weight: 750; letter-spacing: .06em; text-transform: uppercase; }
 .tags { display: flex; flex-wrap: wrap; gap: .4rem; margin-top: .9rem; }
-.tag { border: 1px solid var(--line); border-radius: 999px; padding: .18rem .55rem; color: var(--muted); background: var(--porcelain); font-size: .72rem; }
+.tag { display: inline-block; border: 1px solid var(--line); border-radius: 999px; padding: .18rem .55rem; color: var(--muted); background: var(--porcelain); font-size: .72rem; text-decoration: none; }
+.tag:hover { border-color: var(--blue); color: var(--blue); background: white; }
 .relationship { color: var(--blue); font-size: .78rem; font-weight: 750; }
 .status-banner { margin: 0 0 1.5rem; padding: .8rem 1rem; border-left: 4px solid var(--danger); background: #fff3f1; font-weight: 700; }
 .article-layout { display: grid; grid-template-columns: minmax(0, var(--reading)) minmax(230px, 1fr); gap: clamp(2rem, 6vw, 5rem); align-items: start; }
@@ -85,6 +86,7 @@ h3 { font-size: 1.05rem; letter-spacing: -.015em; }
 .metadata div { display: grid; gap: .2rem; padding: .75rem 0; border-bottom: 1px solid var(--line); }
 .metadata dt { color: var(--muted); font-size: .72rem; font-weight: 800; letter-spacing: .08em; text-transform: uppercase; }
 .metadata dd { margin: 0; font-size: .9rem; overflow-wrap: anywhere; }
+.metadata-tags { display: flex; flex-wrap: wrap; gap: .35rem; }
 .source-actions { display: grid; gap: .65rem; margin-top: 1.25rem; }
 .related { margin-top: 4rem; }
 .related-group { margin-top: 2rem; }
@@ -100,6 +102,20 @@ input[type="search"], select { width: 100%; min-height: 44px; padding: .65rem .7
 .directory { columns: 3 220px; column-gap: 2rem; margin: 1.5rem 0; padding: 0; list-style: none; }
 .directory li { break-inside: avoid; padding: .65rem 0; border-bottom: 1px solid var(--line); }
 .directory a { color: var(--ink); font-weight: 700; text-decoration: none; }
+.topic-tools { display: flex; align-items: end; justify-content: space-between; gap: 1rem; margin: 2rem 0 1rem; }
+.topic-tools label { width: min(100%, 32rem); }
+.sort-buttons { display: flex; gap: .5rem; }
+.sort-buttons button { min-height: 40px; padding: .5rem .75rem; border: 1px solid var(--line); border-radius: 999px; color: var(--ink); background: var(--paper); font: inherit; font-size: .8rem; font-weight: 700; cursor: pointer; }
+.sort-buttons button:hover { border-color: var(--blue); color: var(--blue); }
+.topic-cloud { display: flex; flex-wrap: wrap; align-items: baseline; justify-content: center; gap: clamp(.7rem, 2.5vw, 1.8rem); margin-top: 1.5rem; padding: clamp(1.5rem, 5vw, 4rem); border-block: 1px solid var(--ink); background: var(--paper); }
+.topic-word { color: var(--ink); font-family: ui-serif, Georgia, serif; line-height: 1; text-decoration: none; transition: color .15s ease, transform .15s ease; }
+.topic-word:hover { color: var(--blue); transform: translateY(-2px); }
+.topic-word span { color: var(--muted); font: 600 .65rem/1 ui-sans-serif, system-ui, sans-serif; vertical-align: super; }
+.topic-word.weight-1 { font-size: 1rem; }
+.topic-word.weight-2 { font-size: 1.35rem; }
+.topic-word.weight-3 { font-size: 1.75rem; }
+.topic-word.weight-4 { font-size: 2.2rem; }
+.topic-word.weight-5 { font-size: clamp(2.5rem, 6vw, 4.25rem); }
 .empty-state { padding: 2rem; border: 1px dashed var(--line); color: var(--muted); background: var(--paper); }
 .site-footer { width: min(var(--content), calc(100% - 2rem)); margin: 2rem auto 0; padding: 2rem 0 3rem; border-top: 1px solid var(--ink); color: var(--muted); font-size: .82rem; }
 .footer-grid { display: grid; grid-template-columns: 1fr minmax(220px, 2fr); gap: 2rem; }
@@ -119,6 +135,7 @@ input[type="search"], select { width: 100%; min-height: 44px; padding: .65rem .7
   .site-nav.open { display: flex; }
   main { padding-top: 2.5rem; }
   .filters { grid-template-columns: 1fr; }
+  .topic-tools { align-items: stretch; flex-direction: column; }
   .filters label:first-child { grid-column: auto; }
   .footer-grid { grid-template-columns: 1fr; }
 }

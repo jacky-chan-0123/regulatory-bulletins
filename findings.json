@@ -22,6 +22,24 @@
     ],
     "publisher": "HKMA, SFC, IA and MPFA",
     "publisher_id": "hkma-sfc-ia-and-mpfa",
+    "publishers": [
+      {
+        "id": "hkma",
+        "name": "Hong Kong Monetary Authority"
+      },
+      {
+        "id": "sfc",
+        "name": "Securities and Futures Commission"
+      },
+      {
+        "id": "ia",
+        "name": "Insurance Authority"
+      },
+      {
+        "id": "mpfa",
+        "name": "Mandatory Provident Fund Schemes Authority"
+      }
+    ],
     "source_role": "published_source",
     "source_url": "https://www.hkma.gov.hk/eng/news-and-media/press-releases/2026/08/20260827-3/",
     "status": "current",
@@ -57,6 +75,16 @@
     ],
     "publisher": "Hong Kong Monetary Authority and Hong Kong Association of Banks",
     "publisher_id": "hong-kong-monetary-authority-and-hong-kong-association-of-banks",
+    "publishers": [
+      {
+        "id": "hkma",
+        "name": "Hong Kong Monetary Authority"
+      },
+      {
+        "id": "hkab",
+        "name": "Hong Kong Association of Banks"
+      }
+    ],
     "source_role": "published_source",
     "source_url": "https://www.hkma.gov.hk/eng/news-and-media/press-releases/2026/08/20260826-3/",
     "status": "current",
@@ -91,6 +119,12 @@
     ],
     "publisher": "Office of the Privacy Commissioner for Personal Data",
     "publisher_id": "office-of-the-privacy-commissioner-for-personal-data",
+    "publishers": [
+      {
+        "id": "pcpd",
+        "name": "Office of the Privacy Commissioner for Personal Data"
+      }
+    ],
     "source_role": "published_source",
     "source_url": "https://www.pcpd.org.hk/english/enforcement/commissioners_findings/files/20260825_DPP3.pdf",
     "status": "current",
@@ -128,6 +162,16 @@
     ],
     "publisher": "HSBC and Standard Chartered",
     "publisher_id": "hsbc-and-standard-chartered",
+    "publishers": [
+      {
+        "id": "hsbc",
+        "name": "HSBC"
+      },
+      {
+        "id": "standard-chartered",
+        "name": "Standard Chartered"
+      }
+    ],
     "source_role": "published_source",
     "source_url": "https://www.about.hsbc.com.hk/news-and-media/hsbc-and-standard-chartered-execute-first-live-tokenised-deposit-transaction-on-swifts-blockchain",
     "status": "current",
@@ -164,6 +208,12 @@
     ],
     "publisher": "Hong Kong Monetary Authority",
     "publisher_id": "hong-kong-monetary-authority",
+    "publishers": [
+      {
+        "id": "hkma",
+        "name": "Hong Kong Monetary Authority"
+      }
+    ],
     "source_role": "published_source",
     "source_url": "https://brdr.hkma.gov.hk/eng/doc-ldg/current/20260810-1-EN",
     "status": "current",
@@ -198,6 +248,16 @@
     ],
     "publisher": "Hong Kong Monetary Authority and Insurance Authority",
     "publisher_id": "hong-kong-monetary-authority-and-insurance-authority",
+    "publishers": [
+      {
+        "id": "hkma",
+        "name": "Hong Kong Monetary Authority"
+      },
+      {
+        "id": "ia",
+        "name": "Insurance Authority"
+      }
+    ],
     "source_role": "published_source",
     "source_url": "https://brdr.hkma.gov.hk/eng/doc-ldg/current/20260818-1-EN",
     "status": "current",
@@ -233,6 +293,12 @@
     ],
     "publisher": "Securities and Futures Commission",
     "publisher_id": "securities-and-futures-commission",
+    "publishers": [
+      {
+        "id": "sfc",
+        "name": "Securities and Futures Commission"
+      }
+    ],
     "source_role": "published_source",
     "source_url": "https://apps.sfc.hk/edistributionWeb/gateway/EN/circular/intermediaries/supervision/doc?refNo=26EC51",
     "status": "current",
@@ -268,6 +334,12 @@
     ],
     "publisher": "Securities and Futures Commission",
     "publisher_id": "securities-and-futures-commission",
+    "publishers": [
+      {
+        "id": "sfc",
+        "name": "Securities and Futures Commission"
+      }
+    ],
     "source_role": "published_source",
     "source_url": "https://apps.sfc.hk/edistributionWeb/gateway/EN/circular/aml/doc?refNo=26EC48",
     "status": "current",

@@ -12,6 +12,19 @@
   const cards = [...document.querySelectorAll('[data-filter-card]')];
   const filters = [...document.querySelectorAll('[data-filter]')];
   const count = document.querySelector('#result-count');
+  const cloud = document.querySelector('[data-topic-cloud]');
+  if (cloud) {
+    for (const button of document.querySelectorAll('[data-topic-sort]')) {
+      button.addEventListener('click', () => {
+        const mode = button.dataset.topicSort;
+        const words = [...cloud.querySelectorAll('[data-filter-card]')];
+        words.sort((a, b) => mode === 'count'
+          ? Number(b.dataset.topicCount) - Number(a.dataset.topicCount) || a.dataset.topicLabel.localeCompare(b.dataset.topicLabel)
+          : a.dataset.topicLabel.localeCompare(b.dataset.topicLabel));
+        for (const word of words) cloud.append(word);
+      });
+    }
+  }
   if (!input || !cards.length) return;
 
   const params = new URLSearchParams(location.search);
@@ -32,7 +45,10 @@
       card.hidden = !(queryMatch && filterMatch);
       if (!card.hidden) visible += 1;
     }
-    if (count) count.textContent = `${visible} development${visible === 1 ? '' : 's'}`;
+    if (count) {
+      const noun = count.dataset.resultNoun || 'development';
+      count.textContent = `${visible} ${noun}${visible === 1 ? '' : 's'}`;
+    }
     if (updateUrl) {
       const next = new URLSearchParams();
       if (query) next.set('q', query);
