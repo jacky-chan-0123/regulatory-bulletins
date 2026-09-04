@@ -83,6 +83,91 @@
     ]
   },
   {
+    "authority": "Securities and Futures Commission",
+    "authority_label": "open interpretation",
+    "bulletin_date": "2026-08-31",
+    "bulletin_path": "bulletins/2026/08/31/daily/",
+    "deadline": "No source deadline stated",
+    "document_type": "AML/CFT circular",
+    "event_family": "United Nations sanctions early alert 26EC53",
+    "id": "item-20260828-sfc-aml-circulars-26EC53",
+    "impact_areas": [
+      "AML/CFT",
+      "sanctions screening",
+      "virtual-asset compliance"
+    ],
+    "jurisdiction": "HK",
+    "official_published": "2026-08-28",
+    "products": [
+      "investment",
+      "digital"
+    ],
+    "publisher": "Securities and Futures Commission",
+    "publisher_id": "securities-and-futures-commission",
+    "publishers": [
+      {
+        "id": "sfc",
+        "name": "Securities and Futures Commission"
+      }
+    ],
+    "source_role": "published_source",
+    "source_url": "https://apps.sfc.hk/edistributionWeb/gateway/EN/circular/aml/doc?refNo=26EC53",
+    "status": "current",
+    "summary": "The SFC published AML/CFT circular 26EC53 on 28 August 2026 for licensed corporations, SFC-licensed virtual-asset service providers and associated entities. Available official metadata identifies a sanctions-related alert but does not establish operative requirements, deadlines or broader authorised-institution applicability.",
+    "title": "Early Alert on United Nations Sanctions",
+    "topics": [
+      "AML/CFT",
+      "sanctions screening",
+      "virtual-asset compliance",
+      "investment",
+      "digital"
+    ]
+  },
+  {
+    "authority": "The Bank of East Asia and Anchorpoint Financial",
+    "authority_label": "commercial/risk recommendation",
+    "bulletin_date": "2026-08-31",
+    "bulletin_path": "bulletins/2026/08/31/daily/",
+    "deadline": "No source deadline stated",
+    "document_type": "bank market announcement",
+    "event_family": "HKDAP stablecoin-use-case exploration",
+    "id": "item-20260828-hk-banks-news-20260828en-1",
+    "impact_areas": [
+      "stablecoin strategy",
+      "payment and settlement innovation",
+      "product governance"
+    ],
+    "jurisdiction": "HK",
+    "official_published": "2026-08-28",
+    "primary_url": "https://www.hkbea.com/pdf/en/about-bea/new-release/2026/20260828en-1.pdf",
+    "products": [
+      "payment",
+      "digital",
+      "cross-border-GBA"
+    ],
+    "publisher": "The Bank of East Asia and Anchorpoint Financial",
+    "publisher_id": "the-bank-of-east-asia-and-anchorpoint-financial",
+    "publishers": [
+      {
+        "id": "the-bank-of-east-asia-and-anchorpoint-financial",
+        "name": "The Bank of East Asia and Anchorpoint Financial"
+      }
+    ],
+    "source_role": "published_source",
+    "source_url": "https://www.hkbea.com/pdf/en/about-bea/new-release/2026/20260828en-1.pdf",
+    "status": "current",
+    "summary": "BEA and Anchorpoint announced an exploratory memorandum on 28 August 2026 to consider HKDAP-enabled digital-asset initiatives, including payment and settlement use cases. The joint announcement does not announce a launched product, regulatory action or deadline.",
+    "title": "BEA Signs Memorandum of Understanding with Anchorpoint to Explore Real-World HKD-backed Stablecoin Applications",
+    "topics": [
+      "stablecoin strategy",
+      "payment and settlement innovation",
+      "product governance",
+      "payment",
+      "digital",
+      "cross-border-GBA"
+    ]
+  },
+  {
     "authority": "HKMA, SFC, IA and MPFA",
     "authority_label": "implementation option",
     "bulletin_date": "2026-08-28",

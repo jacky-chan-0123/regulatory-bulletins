@@ -13,6 +13,19 @@
     "title": "Regulatory Bulletin — 4 September 2026 (Daily)"
   },
   {
+    "date": "2026-08-31",
+    "draft_sha256": "ebed650e6caa939379ed82e06f241ec5aa1d7ca8c47ba471a7ba58f33e8ad2ef",
+    "item_ids": [
+      "item-20260828-hk-banks-news-20260828en-1",
+      "item-20260828-sfc-aml-circulars-26EC53"
+    ],
+    "mode": "daily",
+    "path": "bulletins/2026/08/31/daily/",
+    "rendered_sha256": "028944a1f1c930247f202e9fd72ad3c364ff313e0329592e987b1c1ad4451c31",
+    "schema_version": 2,
+    "title": "Regulatory Bulletin — 31 August 2026 (Daily)"
+  },
+  {
     "date": "2026-08-28",
     "draft_sha256": "d176b12c294f80692c686917d93bafdf2cc40e074cf2e648d57da73fb14b5705",
     "item_ids": [

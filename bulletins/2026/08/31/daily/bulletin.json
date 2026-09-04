@@ -1,0 +1,66 @@
+{
+  "date": "2026-08-31",
+  "draft_sha256": "ebed650e6caa939379ed82e06f241ec5aa1d7ca8c47ba471a7ba58f33e8ad2ef",
+  "findings": [
+    {
+      "authority": "Securities and Futures Commission",
+      "authority_label": "open interpretation",
+      "bulletin_date": "2026-08-31",
+      "deadline": "No source deadline stated",
+      "document_type": "AML/CFT circular",
+      "event_family": "United Nations sanctions early alert 26EC53",
+      "id": "item-20260828-sfc-aml-circulars-26EC53",
+      "impact_areas": [
+        "AML/CFT",
+        "sanctions screening",
+        "virtual-asset compliance"
+      ],
+      "jurisdiction": "HK",
+      "official_published": "2026-08-28",
+      "products": [
+        "investment",
+        "digital"
+      ],
+      "source_url": "https://apps.sfc.hk/edistributionWeb/gateway/EN/circular/aml/doc?refNo=26EC53",
+      "status": "current",
+      "summary": "The SFC published AML/CFT circular 26EC53 on 28 August 2026 for licensed corporations, SFC-licensed virtual-asset service providers and associated entities. Available official metadata identifies a sanctions-related alert but does not establish operative requirements, deadlines or broader authorised-institution applicability.",
+      "title": "Early Alert on United Nations Sanctions"
+    },
+    {
+      "authority": "The Bank of East Asia and Anchorpoint Financial",
+      "authority_label": "commercial/risk recommendation",
+      "bulletin_date": "2026-08-31",
+      "deadline": "No source deadline stated",
+      "document_type": "bank market announcement",
+      "event_family": "HKDAP stablecoin-use-case exploration",
+      "id": "item-20260828-hk-banks-news-20260828en-1",
+      "impact_areas": [
+        "stablecoin strategy",
+        "payment and settlement innovation",
+        "product governance"
+      ],
+      "jurisdiction": "HK",
+      "official_published": "2026-08-28",
+      "primary_url": "https://www.hkbea.com/pdf/en/about-bea/new-release/2026/20260828en-1.pdf",
+      "products": [
+        "payment",
+        "digital",
+        "cross-border-GBA"
+      ],
+      "source_url": "https://www.hkbea.com/pdf/en/about-bea/new-release/2026/20260828en-1.pdf",
+      "status": "current",
+      "summary": "BEA and Anchorpoint announced an exploratory memorandum on 28 August 2026 to consider HKDAP-enabled digital-asset initiatives, including payment and settlement use cases. The joint announcement does not announce a launched product, regulatory action or deadline.",
+      "title": "BEA Signs Memorandum of Understanding with Anchorpoint to Explore Real-World HKD-backed Stablecoin Applications"
+    }
+  ],
+  "item_ids": [
+    "item-20260828-hk-banks-news-20260828en-1",
+    "item-20260828-sfc-aml-circulars-26EC53"
+  ],
+  "mode": "daily",
+  "path": "bulletins/2026/08/31/daily/",
+  "rendered_html": "<b><u>📔 Regulatory Bulletin — 31 August 2026 (Daily)</u></b>\n\n<b><u>Executive Summary</u></b>\n  • 🟡 The Securities and Futures Commission (SFC) published a sanctions-related AML/CFT alert for licensed corporations, SFC-licensed virtual-asset service providers and associated entities; its operative requirements and final scope were not available in the run evidence.\n  • 🟡 BEA and Anchorpoint announced an exploratory memorandum on HKD-backed stablecoin payment and settlement use cases, signalling potential strategic and product-governance considerations rather than a launched product or Hong Kong requirement.\n\n<b><u>Hong Kong</u></b>\n\n\n<b>🟡 Early Alert on United Nations Sanctions 🇭🇰</b>\n<b>Item ID:</b> item-20260828-sfc-aml-circulars-26EC53\n<b>⏰ Deadline:</b> No source deadline stated\n<b>Products:</b> Investment, digital, virtual-asset services\n\nThe SFC published AML/CFT circular 26EC53, “Early Alert on United Nations Sanctions”, on 28 August 2026 for licensed corporations, SFC-licensed virtual-asset service providers and associated entities. The official metadata supports a sanctions-related alert, but the available run evidence does not establish a new rule, screening update, rescreening, reporting obligation, deadline or applicability to authorised institutions generally. It may affect a bank group only where an SFC-regulated entity, licensed virtual-asset service provider or shared financial-crime screening service falls within the final scope. Financial Crime Compliance should obtain the signed circular and attachments, confirm applicability, and make only source-supported changes while retaining list-version, configuration, reconciliation and case evidence.\n\nSource: <a href=\"https://apps.sfc.hk/edistributionWeb/gateway/EN/circular/aml/doc?refNo=26EC53\">SFC circular 26EC53 — Early Alert on United Nations Sanctions</a>\n\n\n<b>🟡 BEA Signs Memorandum of Understanding with Anchorpoint to Explore Real-World HKD-backed Stablecoin Applications 🇭🇰</b>\n<b>Item ID:</b> item-20260828-hk-banks-news-20260828en-1\n<b>⏰ Deadline:</b> No source deadline stated\n<b>Products:</b> Payments, digital, cross-border GBA\n\nBEA and Anchorpoint announced a memorandum of understanding on 28 August 2026 to explore digital-asset initiatives using HKDAP, described in the joint announcement as a regulated HKD-backed stablecoin. The parties say they will explore secure and compliant customer solutions and practical payment and settlement use cases, with further arrangement details to follow. This is an exploration partnership, not a launched customer product, regulatory action or Hong Kong requirement. A comparable initiative may affect payment, settlement and cross-border product strategy, and would need decisions on applicability, customer and entity scope, end-to-end flows, controls and evidence before implementation.\n\nSource: <a href=\"https://www.hkbea.com/pdf/en/about-bea/new-release/2026/20260828en-1.pdf\">BEA and Anchorpoint joint announcement</a>\nPrimary source: <a href=\"https://www.hkbea.com/pdf/en/about-bea/new-release/2026/20260828en-1.pdf\">official document</a>\n\n<b><u>SG/UK/GLOBAL Benchmark</u></b>\n<i>Comparable overseas developments and commercial/control benchmarks. They do not establish Hong Kong requirements.</i>\n\nNo qualifying benchmark developments were validated for this run.\n\n<b><u>Watch List</u></b>\n  • 🟢 Monitor the SFC circular and attachments for the UN measure, named entities, legal basis, effective date and any source-stated actions.\n  • 🟢 Monitor further HKDAP arrangement details for customer, entity, jurisdiction, settlement and regulatory-perimeter design.\n\n<b><u>Coverage</u></b>\n  • customs-tdo — skipped (0): out-of-cadence for daily mode\n  • consumer-council — skipped (0): out-of-cadence for daily mode\n  • interpol-financial-cyber — skipped (0): out-of-cadence for daily mode\n  • hkcert — skipped (0): out-of-cadence for daily mode\n  • sme-schemes — skipped (0): out-of-cadence for daily mode\n  • gba-official — skipped (0): out-of-cadence for daily mode\n  • gba-mainland-sweep — skipped (0): out-of-cadence for daily mode\n  • industry-bodies — skipped (0): out-of-cadence for daily mode\n  • lawfirm-big4-pages — skipped (0): out-of-cadence for daily mode\n  • lawfirm-big4-sweep — skipped (0): out-of-cadence for daily mode\n  • mas-benchmark — skipped (0): out-of-cadence for daily mode\n  • fca-benchmark — skipped (0): out-of-cadence for daily mode\n  • boe-benchmark — skipped (0): out-of-cadence for daily mode\n  • scam-fraud-cluster — disabled (0): CyberDefender and Scameter remain blocked; JFIU had no current activity\n  • regulation-asia — disabled (0): disabled at user request; subscription-gated extraction was unreliable\n  • daily-exploratory-search — partial (0): queries completed, but no material candidate could be canonically verified\n  • hkma-circulars — empty (0): no official publication dated 2026-08-28 through 2026-08-30\n  • hkma-guidelines — empty (0): no official publication dated 2026-08-28 through 2026-08-30\n  • hkma-spm — empty (0): no official publication dated 2026-08-28 through 2026-08-30\n  • hkma-consultations — empty (0): no official publication dated 2026-08-28 through 2026-08-30\n  • hkma-press — ok (2): two official publications confirmed on 2026-08-28\n  • hkma-brdr — empty (0): no official publication dated 2026-08-28 through 2026-08-30\n  • sfc-circulars — empty (0): no official publication dated 2026-08-28 through 2026-08-30\n  • sfc-aml-circulars — ok (1): 2026-08-28 Early Alert on United Nations Sanctions confirmed\n  • sfc-consultations — empty (0): no official publication dated 2026-08-28 through 2026-08-30\n  • sfc-web — empty (0): configured listings had no run-window publication\n  • pcpd — empty (0): configured listings had no run-window publication\n  • hk-enforcement-actions — partial (0): SFC enforcement listing content could not be browser rendered\n  • global-material-incidents-enforcement — partial (0): unavailable MAS primary sources leave composite coverage incomplete\n  • mas-parliamentary-replies — partial (0): MAS service-unavailable page prevented canonical verification\n  • fstb — partial (0): consultation index lacked an exact official publication date\n  • legco — partial (0): configured URLs failed TLS certificate verification\n  • hk-banks-news — ok (1): BEA’s stablecoin-exploration MoU was canonically confirmed\n  • lexology — empty (0): no eligible in-window banking or material-control candidate",
+  "rendered_sha256": "028944a1f1c930247f202e9fd72ad3c364ff313e0329592e987b1c1ad4451c31",
+  "schema_version": 2,
+  "title": "Regulatory Bulletin — 31 August 2026 (Daily)"
+}
