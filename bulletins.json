@@ -76,6 +76,20 @@
     "title": "Regulatory Bulletin — 17 August 2026 (Daily)"
   },
   {
+    "date": "2026-08-14",
+    "draft_sha256": "302bc93b076639f8bb604399638e80888cf77a4a2493847bf0e2d763163db693",
+    "item_ids": [
+      "item-20260810-gba-official-6a2d24667d",
+      "item-20260812-fstb-4127eae687",
+      "item-20260813-fca-benchmark-ef790d1388"
+    ],
+    "mode": "weekly",
+    "path": "bulletins/2026/08/14/weekly/",
+    "rendered_sha256": "294b8fd244bd5611c0ae34f6d1e556418ed4fc038e8fb5a644aefa61ce97fd95",
+    "schema_version": 2,
+    "title": "Regulatory Bulletin — 14 August 2026 (Weekly)"
+  },
+  {
     "date": "2026-08-07",
     "draft_sha256": "03936cd7c7b90757cfe735d44026cc2822d966f3b7d310767ad56a331f6156f5",
     "item_ids": [
