@@ -1,0 +1,97 @@
+{
+  "date": "2026-09-04",
+  "draft_sha256": "7147002a93adbd98dd5bfedebf4308ffca5841be0faf087454c8b8a6d99ea77b",
+  "findings": [
+    {
+      "authority": "Hong Kong Monetary Authority",
+      "authority_label": "supervisory expectation",
+      "bulletin_date": "2026-09-04",
+      "deadline": "No source deadline stated",
+      "document_type": "HKMA circular",
+      "event_family": "HKMA remote onboarding of individual customers update",
+      "id": "item-20260903-hkma-brdr-20260902-1",
+      "impact_areas": [
+        "AML/CFT",
+        "Fraud risk management",
+        "Customer onboarding",
+        "Technology controls",
+        "Governance and oversight"
+      ],
+      "jurisdiction": "HK",
+      "official_published": "2026-09-03",
+      "products": [
+        "Digital onboarding",
+        "Individual accounts"
+      ],
+      "publisher": "Hong Kong Monetary Authority",
+      "publisher_id": "hkma",
+      "publishers": [
+        {
+          "id": "hkma",
+          "name": "Hong Kong Monetary Authority"
+        }
+      ],
+      "source_role": "primary_authority",
+      "source_url": "https://brdr.hkma.gov.hk/eng/doc-ldg/current/20260902-1-EN",
+      "status": "current",
+      "summary": "HKMA updated supervisory expectations for remote onboarding of individual customers by authorised institutions and stored value facility licensees. The circular expects ongoing use of fraud and scam intelligence, continual solution updates and recalibration, reliable identity-document authentication, identity matching, and a comprehensive effectiveness review.",
+      "title": "Remote on-boarding of individual customers",
+      "topics": [
+        "remote onboarding",
+        "AML/CFT",
+        "fraud risk management",
+        "digital identity"
+      ]
+    },
+    {
+      "authority": "Securities and Futures Commission",
+      "authority_label": "required",
+      "bulletin_date": "2026-09-04",
+      "deadline": "Existing funds: take appropriate action, including offering-document updates, as soon as practicable; no fixed source deadline stated",
+      "document_type": "SFC circular",
+      "event_family": "SFC-authorised funds with private market asset exposure",
+      "id": "item-20260903-sfc-circular-26ec55",
+      "impact_areas": [
+        "Product governance",
+        "Disclosures",
+        "Suitability",
+        "Distribution controls"
+      ],
+      "jurisdiction": "HK",
+      "official_published": "2026-09-03",
+      "products": [
+        "Investment funds",
+        "Investment distribution"
+      ],
+      "publisher": "Securities and Futures Commission",
+      "publisher_id": "sfc",
+      "publishers": [
+        {
+          "id": "sfc",
+          "name": "Securities and Futures Commission"
+        }
+      ],
+      "source_role": "primary_authority",
+      "source_url": "https://apps.sfc.hk/edistributionWeb/gateway/EN/circular/doc?refNo=26EC55",
+      "status": "current",
+      "summary": "The SFC requires enhanced offering-document disclosures for affected public funds with direct or indirect exposure to private market assets. Funds with aggregate direct and indirect exposure of 50% or more of NAV will be considered complex products, and existing fund managers are expected to review funds, update documents as soon as practicable, and communicate properly with distributors.",
+      "title": "Circular on SFC-authorised funds with exposure to private market assets",
+      "topics": [
+        "private market assets",
+        "fund disclosures",
+        "complex products",
+        "investment distribution"
+      ]
+    }
+  ],
+  "item_ids": [
+    "item-20260903-hkma-brdr-20260902-1",
+    "item-20260903-sfc-circular-26ec55"
+  ],
+  "mode": "daily",
+  "path": "bulletins/2026/09/04/daily/",
+  "rendered_html": "<b><u>📔 Regulatory Bulletin — 4 September 2026 (Daily)</u></b>\n\n<b><u>Executive Summary</u></b>\n\n  • 🔴 HKMA expects authorised institutions and stored value facility licensees to refresh individual remote-onboarding controls against current fraud and scam intelligence; management should confirm scope, effectiveness-review evidence and remediation priorities.\n  • 🟡 The SFC requires enhanced disclosures for affected public funds with private-market exposure and treats aggregate direct and indirect exposure of 50% or more of NAV as a complex-product trigger; relevant fund-management and distribution footprints should be identified.\n\n<b><u>Hong Kong</u></b>\n\n\n<b>🔴 Remote on-boarding of individual customers 🇭🇰</b>\n<b>Item ID:</b> item-20260903-hkma-brdr-20260902-1\n<b>⏰ Deadline:</b> No source deadline stated\n<b>Products:</b> Digital onboarding, Individual accounts\n\nThe HKMA’s 3 September circular updates its supervisory expectations for remote onboarding of individual customers by authorised institutions and stored value facility licensees, replacing its 2019 individual-customer and 2021 iAM Smart circulars. It expects firms to use current fraud and scam intelligence on an ongoing basis, continually update and recalibrate remote-onboarding solutions, authenticate identity documents reliably and link the customer incontrovertibly to the identity provided. Firms should take a risk-based approach proportionate to the customer’s assessed money-laundering and terrorist-financing risk and conduct a comprehensive review of solutions, systems and oversight for ongoing effectiveness. Corporate onboarding remains governed by the separate 2020 circular, so the direct scope is individual-customer journeys; no fixed implementation date is stated.\n\n<b>Actions:</b> In the next 30 days, confirm the in-scope individual journeys and compare fraud-intelligence inputs, identity authentication and matching controls, and effectiveness-review evidence with the circular; prioritise and govern any identified remediation, retaining testing, configuration, data-reconciliation and management-review evidence.\n\nSource: <a href=\"https://brdr.hkma.gov.hk/eng/doc-ldg/current/20260902-1-EN\">Remote on-boarding of individual customers</a>\n\n\n<b>🟡 Circular on SFC-authorised funds with exposure to private market assets 🇭🇰</b>\n<b>Item ID:</b> item-20260903-sfc-circular-26ec55\n<b>⏰ Deadline:</b> Existing funds: take appropriate action, including offering-document updates, as soon as practicable; no fixed source deadline stated\n<b>Products:</b> Investment funds, Investment distribution\n\nThe SFC’s 3 September circular applies to managers of SFC-authorised funds offered to the public in Hong Kong that have direct or indirect exposure to private market assets. It requires enhanced offering-document disclosures on the extent and means of exposure, underlying-asset characteristics, and key risks, including in the key facts statement where appropriate. A fund with aggregate direct and indirect exposure of 50% or more of NAV will be considered a complex product, while the SFC may designate a fund below that threshold case by case. For existing funds, managers are expected to review the funds, update offering documents as soon as practicable and ensure necessary and proper distributor communications; where a bank manages or distributes affected funds, product inventory, product-risk classification and suitability controls may be affected.\n\nSource: <a href=\"https://apps.sfc.hk/edistributionWeb/gateway/EN/circular/doc?refNo=26EC55\">Circular on SFC-authorised funds with exposure to private market assets</a>\n\n<b><u>Mainland/GBA</u></b>\n\nNo validated Mainland/GBA developments in this restricted attempt.\n\n<b><u>SG/UK/GLOBAL Benchmark</u></b>\n\n<i>Comparable overseas developments and commercial/control benchmarks. They do not establish Hong Kong requirements.</i>\n\nNo validated benchmark developments in this restricted attempt.\n\n<b><u>Watch List</u></b>\n\n  • Monitor the scope of individual remote-onboarding journeys and third-party identity services covered by the HKMA circular.\n  • Monitor affected funds’ direct and indirect private-market-asset exposure, any SFC case-by-case complex-product designation, and whether they are distributed to retail customers.\n\n<b><u>Coverage</u></b>\n\n  • customs-tdo — skipped (0): out-of-cadence for daily mode\n  • consumer-council — skipped (0): out-of-cadence for daily mode\n  • interpol-financial-cyber — skipped (0): out-of-cadence for daily mode\n  • hkcert — skipped (0): out-of-cadence for daily mode\n  • sme-schemes — skipped (0): out-of-cadence for daily mode\n  • gba-official — skipped (0): out-of-cadence for daily mode\n  • gba-mainland-sweep — skipped (0): out-of-cadence for daily mode\n  • industry-bodies — skipped (0): out-of-cadence for daily mode\n  • lawfirm-big4-pages — skipped (0): out-of-cadence for daily mode\n  • lawfirm-big4-sweep — skipped (0): out-of-cadence for daily mode\n  • mas-benchmark — skipped (0): out-of-cadence for daily mode\n  • fca-benchmark — skipped (0): out-of-cadence for daily mode\n  • boe-benchmark — skipped (0): out-of-cadence for daily mode\n  • scam-fraud-cluster — disabled (0): disabled 2026-07-22; CyberDefender and Scameter were Cloudflare-blocked, and JFIU activity was from 2025\n  • regulation-asia — disabled (0): disabled at user request; subscription-gated latest-news page made extraction unreliable\n  • daily-exploratory-search — partial (0): Bing returned no listings and Google blocked one query; no candidate was canonically verified\n  • hkma-circulars — empty (0): verified RSS feed; no official publication dated 2026-09-03\n  • hkma-guidelines — empty (0): verified RSS feed; no official publication dated 2026-09-03\n  • hkma-spm — empty (0): verified RSS feed; no official publication dated 2026-09-03\n  • hkma-consultations — empty (0): verified RSS feed; no official publication dated 2026-09-03\n  • hkma-press — ok (1): verified RSS and current-run canonical evidence for the 2026-09-03 publication\n  • hkma-brdr — ok (1): verified BRDR listing and canonical document/PDF; one official publication dated 2026-09-03\n  • sfc-circulars — ok (1): verified SFC circular API and canonical PDF; circular 26EC55 officially published 2026-09-03\n  • sfc-aml-circulars — empty (0): verified SFC AML circular API; no 2026-09-03 publication\n  • sfc-consultations — empty (0): verified SFC consultation API; no publication dated 2026-09-03\n  • sfc-web — ok (0): verified listings; 26PR131 is the same event family as circular 26EC55\n  • pcpd — empty (0): verified configured PCPD listings; no official publication dated 2026-09-03\n  • hk-enforcement-actions — partial (0): HKMA listing was empty; SFC enforcement listing was an unresolved JavaScript shell\n  • global-material-incidents-enforcement — partial (0): MAS endpoints returned maintenance shells; no qualifying FCA or OCC publication\n  • mas-parliamentary-replies — partial (0): configured MAS URL returned a maintenance shell; no canonical dated listing was established\n  • fstb — empty (0): verified configured FSTB listings; latest entries pre-date 2026-09-03\n  • legco — partial (0): configured listings and browser navigation timed out; no dated evidence was established\n  • hk-banks-news — empty (0): verified bank listings; no qualifying 2026-09-03 publication was found\n  • lexology — partial (0): candidate pages were Cloudflare-blocked; no exact publisher date or canonical primary evidence was established",
+  "rendered_sha256": "6bebb19d4c9786f4f2f146d4f4c15cd7b0129bb3be98419136187ef2feb28768",
+  "schema_version": 2,
+  "title": "Regulatory Bulletin — 4 September 2026 (Daily)"
+}

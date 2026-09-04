@@ -1,5 +1,18 @@
 [
   {
+    "date": "2026-09-04",
+    "draft_sha256": "7147002a93adbd98dd5bfedebf4308ffca5841be0faf087454c8b8a6d99ea77b",
+    "item_ids": [
+      "item-20260903-hkma-brdr-20260902-1",
+      "item-20260903-sfc-circular-26ec55"
+    ],
+    "mode": "daily",
+    "path": "bulletins/2026/09/04/daily/",
+    "rendered_sha256": "6bebb19d4c9786f4f2f146d4f4c15cd7b0129bb3be98419136187ef2feb28768",
+    "schema_version": 2,
+    "title": "Regulatory Bulletin — 4 September 2026 (Daily)"
+  },
+  {
     "date": "2026-08-28",
     "draft_sha256": "d176b12c294f80692c686917d93bafdf2cc40e074cf2e648d57da73fb14b5705",
     "item_ids": [

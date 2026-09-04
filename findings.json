@@ -1,5 +1,88 @@
 [
   {
+    "authority": "Hong Kong Monetary Authority",
+    "authority_label": "supervisory expectation",
+    "bulletin_date": "2026-09-04",
+    "bulletin_path": "bulletins/2026/09/04/daily/",
+    "deadline": "No source deadline stated",
+    "document_type": "HKMA circular",
+    "event_family": "HKMA remote onboarding of individual customers update",
+    "id": "item-20260903-hkma-brdr-20260902-1",
+    "impact_areas": [
+      "AML/CFT",
+      "Fraud risk management",
+      "Customer onboarding",
+      "Technology controls",
+      "Governance and oversight"
+    ],
+    "jurisdiction": "HK",
+    "official_published": "2026-09-03",
+    "products": [
+      "Digital onboarding",
+      "Individual accounts"
+    ],
+    "publisher": "Hong Kong Monetary Authority",
+    "publisher_id": "hkma",
+    "publishers": [
+      {
+        "id": "hkma",
+        "name": "Hong Kong Monetary Authority"
+      }
+    ],
+    "source_role": "primary_authority",
+    "source_url": "https://brdr.hkma.gov.hk/eng/doc-ldg/current/20260902-1-EN",
+    "status": "current",
+    "summary": "HKMA updated supervisory expectations for remote onboarding of individual customers by authorised institutions and stored value facility licensees. The circular expects ongoing use of fraud and scam intelligence, continual solution updates and recalibration, reliable identity-document authentication, identity matching, and a comprehensive effectiveness review.",
+    "title": "Remote on-boarding of individual customers",
+    "topics": [
+      "remote onboarding",
+      "AML/CFT",
+      "fraud risk management",
+      "digital identity"
+    ]
+  },
+  {
+    "authority": "Securities and Futures Commission",
+    "authority_label": "required",
+    "bulletin_date": "2026-09-04",
+    "bulletin_path": "bulletins/2026/09/04/daily/",
+    "deadline": "Existing funds: take appropriate action, including offering-document updates, as soon as practicable; no fixed source deadline stated",
+    "document_type": "SFC circular",
+    "event_family": "SFC-authorised funds with private market asset exposure",
+    "id": "item-20260903-sfc-circular-26ec55",
+    "impact_areas": [
+      "Product governance",
+      "Disclosures",
+      "Suitability",
+      "Distribution controls"
+    ],
+    "jurisdiction": "HK",
+    "official_published": "2026-09-03",
+    "products": [
+      "Investment funds",
+      "Investment distribution"
+    ],
+    "publisher": "Securities and Futures Commission",
+    "publisher_id": "sfc",
+    "publishers": [
+      {
+        "id": "sfc",
+        "name": "Securities and Futures Commission"
+      }
+    ],
+    "source_role": "primary_authority",
+    "source_url": "https://apps.sfc.hk/edistributionWeb/gateway/EN/circular/doc?refNo=26EC55",
+    "status": "current",
+    "summary": "The SFC requires enhanced offering-document disclosures for affected public funds with direct or indirect exposure to private market assets. Funds with aggregate direct and indirect exposure of 50% or more of NAV will be considered complex products, and existing fund managers are expected to review funds, update documents as soon as practicable, and communicate properly with distributors.",
+    "title": "Circular on SFC-authorised funds with exposure to private market assets",
+    "topics": [
+      "private market assets",
+      "fund disclosures",
+      "complex products",
+      "investment distribution"
+    ]
+  },
+  {
     "authority": "HKMA, SFC, IA and MPFA",
     "authority_label": "implementation option",
     "bulletin_date": "2026-08-28",
