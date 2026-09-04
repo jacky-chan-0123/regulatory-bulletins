@@ -74,5 +74,20 @@
     "rendered_sha256": "0752b1a1253b0d2bcd9bea981ace819f80ff159f2b2ab65cb6ce75db4d0c0b60",
     "schema_version": 2,
     "title": "Regulatory Bulletin — 17 August 2026 (Daily)"
+  },
+  {
+    "date": "2026-08-07",
+    "draft_sha256": "03936cd7c7b90757cfe735d44026cc2822d966f3b7d310767ad56a331f6156f5",
+    "item_ids": [
+      "item-20260801-fstb-1ce0dd213a",
+      "item-20260803-fca-benchmark-transaction-reporting",
+      "item-20260803-interpol-financial-cyber-9491bd3cc1",
+      "item-20260805-hkcert-4a6e635770"
+    ],
+    "mode": "weekly",
+    "path": "bulletins/2026/08/07/weekly/",
+    "rendered_sha256": "5faec60b75153450930a873cbba49bc8ce6d590c19942b9c097e19a2d983914b",
+    "schema_version": 2,
+    "title": "Regulatory Bulletin — 7 August 2026 (Weekly)"
   }
 ]
