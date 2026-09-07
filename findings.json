@@ -1,5 +1,44 @@
 [
   {
+    "authority": "Securities and Futures Commission",
+    "authority_label": "open interpretation",
+    "bulletin_date": "2026-09-07",
+    "bulletin_path": "bulletins/2026/09/07/daily/",
+    "deadline": "No source deadline stated",
+    "document_type": "SFC Chief Executive speech synopsis",
+    "event_family": "SFC consideration of agentic-AI guidance",
+    "id": "item-20260904-sfc-web-7b93af15cc",
+    "impact_areas": [
+      "AI governance",
+      "conduct and client protection",
+      "operational resilience"
+    ],
+    "jurisdiction": "HK",
+    "official_published": "2026-09-04",
+    "primary_url": "https://www.sfc.hk/-/media/EN/files/COM/Speech/Synopsis_Hong-Kong-Association-of-Banks-Annual-Distinguished-Speaker-Luncheon_ENG.pdf?rev=9e1902d5b24d4affb146a745e3542f45&hash=B84871811C124BF2AB3929CEBF6DF266",
+    "products": [
+      "investment",
+      "digital"
+    ],
+    "publisher": "Securities and Futures Commission",
+    "publisher_id": "securities-and-futures-commission",
+    "publishers": [
+      {
+        "id": "securities-and-futures-commission",
+        "name": "Securities and Futures Commission"
+      }
+    ],
+    "source_role": "primary_authority",
+    "source_url": "https://apps.sfc.hk/edistributionWeb/gateway/EN/news/doc?refNo=26PR132",
+    "status": "current",
+    "summary": "The SFC’s 4 September 2026 news record links to its Chief Executive’s speech synopsis, which says the SFC is considering guidance on applying existing principles to agentic-AI use cases. The synopsis identifies ownership and human oversight, controlled access and defined scope, testing and monitoring, operational resilience, and escalation and remediation as relevant outcomes, but announces no final guidance, deadline or prescribed technology design.",
+    "title": "Powering Next Wave of Market Growth through AI and RMB Internationalisation",
+    "topics": [
+      "agentic AI",
+      "AI governance"
+    ]
+  },
+  {
     "authority": "Hong Kong Monetary Authority",
     "authority_label": "supervisory expectation",
     "bulletin_date": "2026-09-04",

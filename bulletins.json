@@ -1,5 +1,17 @@
 [
   {
+    "date": "2026-09-07",
+    "draft_sha256": "3c6aeb0501fc8f7bafb5c3bea341c5a7ce643f08fda23b193dc01b12366508f6",
+    "item_ids": [
+      "item-20260904-sfc-web-7b93af15cc"
+    ],
+    "mode": "daily",
+    "path": "bulletins/2026/09/07/daily/",
+    "rendered_sha256": "782d3482df2535cae7e61246ae25512529b3f726854bfef5f97171a54120967b",
+    "schema_version": 2,
+    "title": "Regulatory Bulletin — 7 September 2026 (Daily)"
+  },
+  {
     "date": "2026-09-04",
     "draft_sha256": "7147002a93adbd98dd5bfedebf4308ffca5841be0faf087454c8b8a6d99ea77b",
     "item_ids": [

@@ -1,0 +1,53 @@
+{
+  "date": "2026-09-07",
+  "draft_sha256": "3c6aeb0501fc8f7bafb5c3bea341c5a7ce643f08fda23b193dc01b12366508f6",
+  "findings": [
+    {
+      "authority": "Securities and Futures Commission",
+      "authority_label": "open interpretation",
+      "bulletin_date": "2026-09-07",
+      "deadline": "No source deadline stated",
+      "document_type": "SFC Chief Executive speech synopsis",
+      "event_family": "SFC consideration of agentic-AI guidance",
+      "id": "item-20260904-sfc-web-7b93af15cc",
+      "impact_areas": [
+        "AI governance",
+        "conduct and client protection",
+        "operational resilience"
+      ],
+      "jurisdiction": "HK",
+      "official_published": "2026-09-04",
+      "primary_url": "https://www.sfc.hk/-/media/EN/files/COM/Speech/Synopsis_Hong-Kong-Association-of-Banks-Annual-Distinguished-Speaker-Luncheon_ENG.pdf?rev=9e1902d5b24d4affb146a745e3542f45&hash=B84871811C124BF2AB3929CEBF6DF266",
+      "products": [
+        "investment",
+        "digital"
+      ],
+      "publisher": "Securities and Futures Commission",
+      "publisher_id": "securities-and-futures-commission",
+      "publishers": [
+        {
+          "id": "securities-and-futures-commission",
+          "name": "Securities and Futures Commission"
+        }
+      ],
+      "source_role": "primary_authority",
+      "source_url": "https://apps.sfc.hk/edistributionWeb/gateway/EN/news/doc?refNo=26PR132",
+      "status": "current",
+      "summary": "The SFC’s 4 September 2026 news record links to its Chief Executive’s speech synopsis, which says the SFC is considering guidance on applying existing principles to agentic-AI use cases. The synopsis identifies ownership and human oversight, controlled access and defined scope, testing and monitoring, operational resilience, and escalation and remediation as relevant outcomes, but announces no final guidance, deadline or prescribed technology design.",
+      "title": "Powering Next Wave of Market Growth through AI and RMB Internationalisation",
+      "topics": [
+        "agentic AI",
+        "AI governance"
+      ]
+    }
+  ],
+  "item_ids": [
+    "item-20260904-sfc-web-7b93af15cc"
+  ],
+  "mode": "daily",
+  "path": "bulletins/2026/09/07/daily/",
+  "rendered_html": "<b><u>📔 Regulatory Bulletin — 7 September 2026 (Daily)</u></b>\n\n<b><u>Executive Summary</u></b>\n\n  • 🟡 The SFC signals possible further guidance on applying existing principles to agentic-AI use cases; no final guidance, deadline or prescribed technology design was announced.\n  • Investment-facing AI use cases warrant monitoring for ownership, human oversight, access scope, testing, monitoring, resilience and escalation considerations if SFC follow-up materialises.\n\n<b><u>Hong Kong</u></b>\n\n\n<b>🟡 Powering Next Wave of Market Growth through AI and RMB Internationalisation 🇭🇰</b>\n\n<b>Item ID:</b> item-20260904-sfc-web-7b93af15cc\n<b>⏰ Deadline:</b> No source deadline stated\n<b>Products:</b> Investment services; Digital channels\n\nThe Securities and Futures Commission’s 4 September 2026 news record links to its Chief Executive’s speech synopsis, which says the SFC is considering guidance on applying existing principles to agentic-AI use cases. The synopsis identifies ownership and human oversight, controlled access and defined scope, testing and monitoring, operational resilience, and escalation and remediation as relevant outcomes. This is a prospective supervisory signal, not final guidance, a new rule or a prescribed technology design. Firms with investment-facing AI use cases may monitor subsequent SFC guidance and consider how relevant uses are governed; the scope and timing remain open.\n\nSource: <a href=\"https://apps.sfc.hk/edistributionWeb/gateway/EN/news/doc?refNo=26PR132\">Powering Next Wave of Market Growth through AI and RMB Internationalisation</a>\nPrimary source: <a href=\"https://www.sfc.hk/-/media/EN/files/COM/Speech/Synopsis_Hong-Kong-Association-of-Banks-Annual-Distinguished-Speaker-Luncheon_ENG.pdf?rev=9e1902d5b24d4affb146a745e3542f45&amp;hash=B84871811C124BF2AB3929CEBF6DF266\">official speech synopsis</a>\n\n<b><u>SG/UK/GLOBAL Benchmark</u></b>\n\n<i>Comparable overseas developments and commercial/control benchmarks. They do not establish Hong Kong requirements.</i>\n\nNo qualifying benchmark developments were included in this run.\n\n<b><u>Watch List</u></b>\n\n  • Monitor for any SFC guidance that clarifies the application of existing principles to agentic-AI use cases, including the firms, use cases and timing covered.\n\n<b><u>Coverage</u></b>\n\n  • customs-tdo — skipped (0): out-of-cadence for daily mode\n  • consumer-council — skipped (0): out-of-cadence for daily mode\n  • interpol-financial-cyber — skipped (0): out-of-cadence for daily mode\n  • hkcert — skipped (0): out-of-cadence for daily mode\n  • sme-schemes — skipped (0): out-of-cadence for daily mode\n  • gba-official — skipped (0): out-of-cadence for daily mode\n  • gba-mainland-sweep — skipped (0): out-of-cadence for daily mode\n  • industry-bodies — skipped (0): out-of-cadence for daily mode\n  • lawfirm-big4-pages — skipped (0): out-of-cadence for daily mode\n  • lawfirm-big4-sweep — skipped (0): out-of-cadence for daily mode\n  • mas-benchmark — skipped (0): out-of-cadence for daily mode\n  • fca-benchmark — skipped (0): out-of-cadence for daily mode\n  • boe-benchmark — skipped (0): out-of-cadence for daily mode\n  • scam-fraud-cluster — disabled (0): disabled 2026-07-22 — CyberDefender and Scameter return HTTP 403 and remain blocked by Cloudflare in browser mode; search fallback found no current items. JFIU is reachable but its latest listed activity is from 2025.\n  • regulation-asia — disabled (0): Disabled at user request: the latest-news page is subscription-gated, making extraction unreliable, and recent results yielded no scoped HK/CN-GBA/SG/UK banking items.\n  • daily-exploratory-search — partial (0): Bing returned no usable query-result candidates (query-01 returned unrelated Windows-support results); Google was verification-blocked for query-01; no canonical candidate was fetched or admitted\n  • hkma-circulars — empty (0): verified RSS fetched; latest item published 2026-09-03, before the 2026-09-04 through 2026-09-06 window\n  • hkma-guidelines — empty (0): verified RSS fetched; latest item published 2026-02-27, before the 2026-09-04 through 2026-09-06 window\n  • hkma-spm — empty (0): verified RSS fetched; latest item published 2026-06-09, before the 2026-09-04 through 2026-09-06 window\n  • hkma-consultations — empty (0): verified RSS fetched; latest item published 2026-08-28, before the 2026-09-04 through 2026-09-06 window\n  • hkma-press — ok (4): verified RSS; four 2026-09-04 primary press publications already captured in current-run inbox/evidence\n  • hkma-brdr — empty (0): verified TLS listing and browser-rendered What&#x27;s New; latest document dated 2026-09-03, before the publication window\n  • sfc-circulars — empty (0): verified TLS API/listing; the sole 2026-09-04 circular (26EC54) was a Brokers&#x27; Forum invitation, not a regulatory action or obligation\n  • sfc-aml-circulars — empty (0): verified TLS browser-rendered AML listing; latest publication dated 2026-08-28, before the publication window\n  • sfc-consultations — empty (0): verified TLS POST API; latest consultation conclusion dated 2026-06-05, before the publication window\n  • sfc-web — partial (1): verified TLS regulatory-update, news API and virtual-asset/product listings; collected 2026-09-04 SFC speech synopsis 26PR132; suitability listing returned only an SPA shell and browser did not expose current records\n  • pcpd — empty (0): verified TLS listings and browser-rendered media/guidance/findings indexes; latest media statement 2026-09-01, latest guidance August 2026, latest finding 2026-08-25\n  • hk-enforcement-actions — empty (0): verified HKMA disciplinary index (latest action 2025-07-22) and browser-rendered SFC enforcement listing; its sole 2026-09-04 entry was an individual securities-fraud trial-date notice without a material bank-control nexus\n  • global-material-incidents-enforcement — partial (0): MAS enforcement and media listings returned verified maintenance shells; SGPC configured endpoints did not yield a usable MAS listing; FCA had no qualifying item (latest news 2026-09-03; 2026-09-04 clone warning) and OCC latest related issuance was 2026-08-27\n  • mas-parliamentary-replies — partial (0): verified deterministic fetch and browser both returned MAS maintenance content; no reliable publication-window check was possible\n  • fstb — empty (0): verified press, consultation, bills/resolutions and LegCo-brief listings; latest dated entries were 2026-08-21, 2026-07-08 and 2026-01-21 respectively, with no in-window dated publication\n  • legco — partial (0): deterministic TLS verification failed for both configured bills and committee indexes; verified browser showed no dated 2026-09-04..2026-09-06 bill publication, and the committee index is an undated directory\n  • hk-banks-news — empty (0): verified all configured bank listings and Hang Seng current-year XML; no material 2026-09-04..2026-09-06 publication (BEA 2026-09-04 routine fraudulent-website notification excluded; Hang Seng latest 2026-08-28)\n  • lexology — partial (0): verified TLS popular listing; reviewed visible financial-services candidates, but direct canonical Lexology pages returned HTTP 403 and verified browser encountered Cloudflare, so exact publisher-controlled dates and primary links could not be established; no item admitted",
+  "rendered_sha256": "782d3482df2535cae7e61246ae25512529b3f726854bfef5f97171a54120967b",
+  "schema_version": 2,
+  "title": "Regulatory Bulletin — 7 September 2026 (Daily)"
+}
