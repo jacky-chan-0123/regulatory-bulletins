@@ -1,0 +1,94 @@
+{
+  "date": "2026-09-08",
+  "draft_sha256": "1a6d6fc4c24ff95132a64f88c9661ab0f3f047d1ed1a4e6090b99d64ce6c1442",
+  "findings": [
+    {
+      "authority": "Hong Kong Monetary Authority",
+      "authority_label": "open interpretation",
+      "bulletin_date": "2026-09-08",
+      "deadline": "2026-10-07 — consultation comments invited on or before this date",
+      "document_type": "public consultation announcement",
+      "event_family": "Hong Kong Taxonomy Phase 2B public consultation",
+      "id": "item-20260907-hkma-press-fc293c82d1",
+      "impact_areas": [
+        "sustainable-finance taxonomy",
+        "green-product governance",
+        "climate-risk methodology"
+      ],
+      "jurisdiction": "HK",
+      "official_published": "2026-09-07",
+      "products": [
+        "lending",
+        "investment",
+        "marketing"
+      ],
+      "publisher": "Hong Kong Monetary Authority",
+      "publisher_id": "hong-kong-monetary-authority",
+      "publishers": [
+        {
+          "id": "hong-kong-monetary-authority",
+          "name": "Hong Kong Monetary Authority"
+        }
+      ],
+      "source_role": "primary_authority",
+      "source_url": "https://www.hkma.gov.hk/eng/news-and-media/press-releases/2026/09/20260907-3/",
+      "status": "current",
+      "summary": "HKMA is consulting on the Phase 2B prototype of the Hong Kong Taxonomy for Sustainable Finance, which adds 10 economic activities and includes green, transition and climate-adaptation elements. Comments are invited by 7 October 2026.",
+      "title": "HKMA launches public consultation on Phase 2B prototype of Hong Kong Taxonomy for Sustainable Finance",
+      "topics": [
+        "sustainable-finance",
+        "taxonomy",
+        "climate-adaptation"
+      ]
+    },
+    {
+      "authority": "Securities and Futures Commission",
+      "authority_label": "supervisory expectation",
+      "bulletin_date": "2026-09-08",
+      "deadline": "No source deadline stated",
+      "document_type": "AML/CFT early-alert circular",
+      "event_family": "United Nations sanctions early alert 26EC56",
+      "id": "item-20260907-sfc-aml-circulars-57f197b1d4",
+      "impact_areas": [
+        "AML-CFT",
+        "sanctions screening",
+        "virtual-asset controls"
+      ],
+      "jurisdiction": "HK",
+      "official_published": "2026-09-07",
+      "products": [
+        "investment",
+        "payment",
+        "digital"
+      ],
+      "publisher": "Securities and Futures Commission",
+      "publisher_id": "securities-and-futures-commission",
+      "publishers": [
+        {
+          "id": "securities-and-futures-commission",
+          "name": "Securities and Futures Commission"
+        }
+      ],
+      "source_role": "primary_authority",
+      "source_url": "https://apps.sfc.hk/edistributionWeb/gateway/EN/circular/aml/doc?refNo=26EC56",
+      "status": "current",
+      "summary": "The SFC expects licensed corporations, SFC-licensed virtual-asset service providers and associated entities to update customer- and payment-screening databases for two UN sanctions-list amendments. It states no deadline.",
+      "title": "Early Alert on United Nations Sanctions",
+      "topics": [
+        "aml-cft",
+        "sanctions",
+        "virtual-assets"
+      ]
+    }
+  ],
+  "item_ids": [
+    "item-20260907-hkma-press-fc293c82d1",
+    "item-20260907-sfc-aml-circulars-57f197b1d4"
+  ],
+  "mode": "daily",
+  "path": "bulletins/2026/09/08/daily/",
+  "rendered_html": "<b><u>📔 Regulatory Bulletin — 8 September 2026 (Daily)</u></b>\n\n<b><u>Executive Summary</u></b>\n\n  • 🟡 Hong Kong — HKMA is consulting on a Phase 2B sustainable-finance taxonomy prototype; affected lending, investment and sustainability-claim governance teams can consider the implications and any comments before 7 October 2026.\n  • 🟡 Hong Kong — SFC expects licensed corporations, licensed virtual-asset service providers and associated entities to update customer- and payment-screening databases for two UN sanctions-list amendments.\n\n<b><u>Hong Kong</u></b>\n\n\n\n<b>🟡 HKMA consults on Phase 2B Hong Kong Taxonomy prototype 🇭🇰</b>\n\n<b>Item ID:</b> item-20260907-hkma-press-fc293c82d1\n<b>⏰ Deadline:</b> 7 October 2026 (consultation comments)\n<b>Products:</b> Lending, Investment, Marketing\n\nThe HKMA has opened a public consultation on the Phase 2B prototype of the Hong Kong Taxonomy for Sustainable Finance. The prototype adds 10 economic activities, taking the total from 25 to 39, and includes technical criteria for green and transition activities and a process-based climate-adaptation approach. Comments are invited on or before 7 October 2026. This is a consultation rather than a final taxonomy requirement; the final scope, applicability and adoption timing remain undecided.\n\nSource: <a href=\"https://www.hkma.gov.hk/eng/news-and-media/press-releases/2026/09/20260907-3/\">HKMA launches public consultation on Phase 2B prototype of Hong Kong Taxonomy for Sustainable Finance</a>\n\n\n\n<b>🟡 SFC early alert on UN sanctions-list amendments 🇭🇰</b>\n\n<b>Item ID:</b> item-20260907-sfc-aml-circulars-57f197b1d4\n<b>⏰ Deadline:</b> No source deadline stated\n<b>Products:</b> Investment, Payments, Digital\n\nThe SFC alerts licensed corporations, SFC-licensed virtual-asset service providers and associated entities to amendments made to two individual entries on the UN Security Council committee’s ISIL (Da’esh) and Al-Qaida sanctions list. It expects those entities to update customer- and payment-screening databases, with reference to the SFC’s 2018 circular on expected regulatory standards. An updated list under section 25 of Cap. 537CB was published on 6 September 2026, and the SFC says the entities will be alerted when the Cap. 575 list is gazetted. The alert expresses a supervisory expectation for its named perimeter and does not evidence a new prudential rule for authorised institutions generally.\n\nSource: <a href=\"https://apps.sfc.hk/edistributionWeb/gateway/EN/circular/aml/doc?refNo=26EC56\">Circular to Licensed Corporations, SFC-licensed Virtual Asset Service Providers and Associated Entities — Anti-Money Laundering / Counter-Financing of Terrorism — Early Alert on United Nations Sanctions</a>\n\n<b><u>Mainland/GBA</u></b>\n\nNo current-run items.\n\n<b><u>SG/UK/GLOBAL Benchmark</u></b>\n\n<i>Comparable overseas developments and commercial/control benchmarks. They do not establish Hong Kong requirements.</i>\n\nNo current-run items.\n\n<b><u>Watch List</u></b>\n\n  • Monitor the HKMA consultation outcome and any subsequent Phase 2B finalisation.\n  • Monitor for the Cap. 575 sanctions-list Gazette update that the SFC says it will alert entities about.\n\n<b><u>Coverage</u></b>\n\n  • customs-tdo — skipped (0): out-of-cadence for daily mode\n  • consumer-council — skipped (0): out-of-cadence for daily mode\n  • interpol-financial-cyber — skipped (0): out-of-cadence for daily mode\n  • hkcert — skipped (0): out-of-cadence for daily mode\n  • sme-schemes — skipped (0): out-of-cadence for daily mode\n  • gba-official — skipped (0): out-of-cadence for daily mode\n  • gba-mainland-sweep — skipped (0): out-of-cadence for daily mode\n  • industry-bodies — skipped (0): out-of-cadence for daily mode\n  • lawfirm-big4-pages — skipped (0): out-of-cadence for daily mode\n  • lawfirm-big4-sweep — skipped (0): out-of-cadence for daily mode\n  • mas-benchmark — skipped (0): out-of-cadence for daily mode\n  • fca-benchmark — skipped (0): out-of-cadence for daily mode\n  • boe-benchmark — skipped (0): out-of-cadence for daily mode\n  • scam-fraud-cluster — disabled (0): disabled; source-access limitations recorded\n  • regulation-asia — disabled (0): disabled at user request\n  • daily-exploratory-search — partial (0): Tavily authentication failure; no discovery candidates returned\n  • hkma-circulars — empty (0): verified RSS; no 7 September publication\n  • hkma-guidelines — empty (0): verified RSS; no 7 September publication\n  • hkma-spm — empty (0): verified RSS; no 7 September publication\n  • hkma-consultations — empty (0): verified RSS; no 7 September publication\n  • hkma-press — ok (4): verified RSS; four current-run publications captured\n  • hkma-brdr — ok (0): verified page; Phase 2B publication already captured from hkma-press\n  • sfc-circulars — empty (0): verified API; newest publication outside window\n  • sfc-aml-circulars — ok (1): verified listing and canonical publisher page\n  • sfc-consultations — empty (0): verified API; newest publication outside window\n  • sfc-web — partial (0): dynamic listing evidence unresolved for product-authorisation and suitability\n  • pcpd — empty (0): verified listings; no in-window publication\n  • hk-enforcement-actions — partial (0): SFC enforcement listing evidence unresolved\n  • global-material-incidents-enforcement — partial (0): MAS listings maintenance; no qualifying FCA/OCC event\n  • mas-parliamentary-replies — partial (0): MAS page maintenance\n  • fstb — empty (0): verified listings; no in-window publication\n  • legco — partial (0): TLS verification limitation; no in-window document\n  • hk-banks-news — ok (1): verified bank listings; one material item captured\n  • lexology — partial (0): access limitations prevented canonical-evidence recovery",
+  "rendered_sha256": "de9ace29fd30ab574761d25dfd2dba42df234c23b8fc25eb7b36348bf888ba51",
+  "schema_version": 2,
+  "title": "Regulatory Bulletin — 8 September 2026 (Daily)"
+}

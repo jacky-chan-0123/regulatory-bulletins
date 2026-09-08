@@ -1,5 +1,18 @@
 [
   {
+    "date": "2026-09-08",
+    "draft_sha256": "1a6d6fc4c24ff95132a64f88c9661ab0f3f047d1ed1a4e6090b99d64ce6c1442",
+    "item_ids": [
+      "item-20260907-hkma-press-fc293c82d1",
+      "item-20260907-sfc-aml-circulars-57f197b1d4"
+    ],
+    "mode": "daily",
+    "path": "bulletins/2026/09/08/daily/",
+    "rendered_sha256": "de9ace29fd30ab574761d25dfd2dba42df234c23b8fc25eb7b36348bf888ba51",
+    "schema_version": 2,
+    "title": "Regulatory Bulletin — 8 September 2026 (Daily)"
+  },
+  {
     "date": "2026-09-07",
     "draft_sha256": "3c6aeb0501fc8f7bafb5c3bea341c5a7ce643f08fda23b193dc01b12366508f6",
     "item_ids": [

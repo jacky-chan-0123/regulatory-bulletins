@@ -1,5 +1,85 @@
 [
   {
+    "authority": "Hong Kong Monetary Authority",
+    "authority_label": "open interpretation",
+    "bulletin_date": "2026-09-08",
+    "bulletin_path": "bulletins/2026/09/08/daily/",
+    "deadline": "2026-10-07 — consultation comments invited on or before this date",
+    "document_type": "public consultation announcement",
+    "event_family": "Hong Kong Taxonomy Phase 2B public consultation",
+    "id": "item-20260907-hkma-press-fc293c82d1",
+    "impact_areas": [
+      "sustainable-finance taxonomy",
+      "green-product governance",
+      "climate-risk methodology"
+    ],
+    "jurisdiction": "HK",
+    "official_published": "2026-09-07",
+    "products": [
+      "lending",
+      "investment",
+      "marketing"
+    ],
+    "publisher": "Hong Kong Monetary Authority",
+    "publisher_id": "hong-kong-monetary-authority",
+    "publishers": [
+      {
+        "id": "hong-kong-monetary-authority",
+        "name": "Hong Kong Monetary Authority"
+      }
+    ],
+    "source_role": "primary_authority",
+    "source_url": "https://www.hkma.gov.hk/eng/news-and-media/press-releases/2026/09/20260907-3/",
+    "status": "current",
+    "summary": "HKMA is consulting on the Phase 2B prototype of the Hong Kong Taxonomy for Sustainable Finance, which adds 10 economic activities and includes green, transition and climate-adaptation elements. Comments are invited by 7 October 2026.",
+    "title": "HKMA launches public consultation on Phase 2B prototype of Hong Kong Taxonomy for Sustainable Finance",
+    "topics": [
+      "sustainable-finance",
+      "taxonomy",
+      "climate-adaptation"
+    ]
+  },
+  {
+    "authority": "Securities and Futures Commission",
+    "authority_label": "supervisory expectation",
+    "bulletin_date": "2026-09-08",
+    "bulletin_path": "bulletins/2026/09/08/daily/",
+    "deadline": "No source deadline stated",
+    "document_type": "AML/CFT early-alert circular",
+    "event_family": "United Nations sanctions early alert 26EC56",
+    "id": "item-20260907-sfc-aml-circulars-57f197b1d4",
+    "impact_areas": [
+      "AML-CFT",
+      "sanctions screening",
+      "virtual-asset controls"
+    ],
+    "jurisdiction": "HK",
+    "official_published": "2026-09-07",
+    "products": [
+      "investment",
+      "payment",
+      "digital"
+    ],
+    "publisher": "Securities and Futures Commission",
+    "publisher_id": "securities-and-futures-commission",
+    "publishers": [
+      {
+        "id": "securities-and-futures-commission",
+        "name": "Securities and Futures Commission"
+      }
+    ],
+    "source_role": "primary_authority",
+    "source_url": "https://apps.sfc.hk/edistributionWeb/gateway/EN/circular/aml/doc?refNo=26EC56",
+    "status": "current",
+    "summary": "The SFC expects licensed corporations, SFC-licensed virtual-asset service providers and associated entities to update customer- and payment-screening databases for two UN sanctions-list amendments. It states no deadline.",
+    "title": "Early Alert on United Nations Sanctions",
+    "topics": [
+      "aml-cft",
+      "sanctions",
+      "virtual-assets"
+    ]
+  },
+  {
     "authority": "Securities and Futures Commission",
     "authority_label": "open interpretation",
     "bulletin_date": "2026-09-07",
