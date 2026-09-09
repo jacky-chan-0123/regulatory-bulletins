@@ -1,0 +1,61 @@
+{
+  "date": "2026-09-09",
+  "draft_sha256": "152ae8e6a9bd2181f3e6faffa25828e33748b2aaf4d81578b29e411187dc8834",
+  "findings": [
+    {
+      "authority": "Hong Kong Monetary Authority and Securities and Futures Commission",
+      "authority_label": "commercial/risk recommendation",
+      "bulletin_date": "2026-09-09",
+      "deadline": "No source deadline stated",
+      "document_type": "HKMA-SFC joint survey press release",
+      "event_family": "SFC-HKMA joint survey of non-exchange-traded investment-product sales 2025",
+      "id": "item-20260908-hkma-press-d9180d4899",
+      "impact_areas": [
+        "investment product distribution",
+        "product governance",
+        "digital channels",
+        "market intelligence"
+      ],
+      "jurisdiction": "HK",
+      "official_published": "2026-09-08",
+      "primary_url": "https://www.hkma.gov.hk/eng/news-and-media/press-releases/2026/09/20260908-3/",
+      "products": [
+        "investment",
+        "FX",
+        "digital"
+      ],
+      "publisher": "Hong Kong Monetary Authority",
+      "publisher_id": "hkma",
+      "publishers": [
+        {
+          "id": "hkma",
+          "name": "Hong Kong Monetary Authority"
+        },
+        {
+          "id": "sfc",
+          "name": "Securities and Futures Commission"
+        }
+      ],
+      "source_role": "primary_authority",
+      "source_url": "https://www.hkma.gov.hk/eng/news-and-media/press-releases/2026/09/20260908-3/",
+      "status": "current",
+      "summary": "The HKMA and SFC reported that 2025 non-exchange-traded investment-product sales reached HK$9.9 trillion, up 63% year on year; online sales were 21% of aggregate transaction value and currency-linked product sales were HK$698 billion. The release reports survey results and states no new deadline or requirement.",
+      "title": "Record year for investment product sales in Hong Kong with robust demand for FICC-related products: SFC-HKMA joint survey 2025",
+      "topics": [
+        "investment-products",
+        "product-distribution",
+        "digital-distribution",
+        "market-intelligence"
+      ]
+    }
+  ],
+  "item_ids": [
+    "item-20260908-hkma-press-d9180d4899"
+  ],
+  "mode": "daily",
+  "path": "bulletins/2026/09/09/daily/",
+  "rendered_html": "<b><u>📔 Regulatory Bulletin — 9 September 2026 (Daily)</u></b>\n\n<b><u>Executive Summary</u></b>\n\n  • 🟡 The HKMA and SFC reported that 2025 non-exchange-traded investment-product sales reached HK$9.9 trillion, up 63% year on year, alongside higher client participation and online distribution.\n  • The release is market intelligence rather than a new conduct or distribution requirement; it may inform commercial and risk prioritisation for investment-product businesses serving the surveyed customer segments.\n  • FICC-related demand, including HK$698 billion of currency-linked product sales, and online sales reaching 21% of aggregate value may warrant targeted management information and customer-journey monitoring.\n\n<b><u>Hong Kong</u></b>\n\n\n<b>🟡 Record year for investment product sales in Hong Kong with robust demand for FICC-related products: SFC-HKMA joint survey 2025 🇭🇰</b>\n<b>Item ID:</b> item-20260908-hkma-press-d9180d4899\n<b>⏰ Deadline:</b> No source deadline stated\n<b>Products:</b> Investment products, FX-linked products, digital distribution\n\nThe HKMA and SFC published their 2025 joint-survey results on 8 September, reporting HK$9.9 trillion of non-exchange-traded investment-product sales, up 63% year on year, across more than 1.6 million transacting clients and 452 selling firms. Collective investment schemes represented 42% of sales, structured products 40% and debt securities 9%; currency-linked product sales rose 50% to HK$698 billion. Online sales accounted for 21% of aggregate transaction value, compared with 17% in 2024, and 122 respondent firms distributed investment products online. This is official market intelligence, not a new requirement or supervisory action, but it may affect product-governance, distribution-risk and capacity prioritisation where a business serves the survey’s covered client segments.\n\nSource: <a href=\"https://www.hkma.gov.hk/eng/news-and-media/press-releases/2026/09/20260908-3/\">Record year for investment product sales in Hong Kong with robust demand for FICC-related products: SFC-HKMA joint survey 2025</a>\n\n<b><u>Mainland/GBA</u></b>\n\nNo qualifying current-run items.\n\n<b><u>SG/UK/GLOBAL Benchmark</u></b>\n\n<i>Comparable overseas developments and commercial/control benchmarks. They do not establish Hong Kong requirements.</i>\n\nNo qualifying current-run items.\n\n<b><u>Watch List</u></b>\n\n  • Monitor whether the reported FICC and online-distribution trends are reflected in relevant sales mix, customer journeys and management information; the release states no new deadline or requirement.\n\n<b><u>Coverage</u></b>\n\n  • customs-tdo — skipped (0): out-of-cadence for daily mode\n  • consumer-council — skipped (0): out-of-cadence for daily mode\n  • interpol-financial-cyber — skipped (0): out-of-cadence for daily mode\n  • hkcert — skipped (0): out-of-cadence for daily mode\n  • sme-schemes — skipped (0): out-of-cadence for daily mode\n  • gba-official — skipped (0): out-of-cadence for daily mode\n  • gba-mainland-sweep — skipped (0): out-of-cadence for daily mode\n  • industry-bodies — skipped (0): out-of-cadence for daily mode\n  • lawfirm-big4-pages — skipped (0): out-of-cadence for daily mode\n  • lawfirm-big4-sweep — skipped (0): out-of-cadence for daily mode\n  • mas-benchmark — skipped (0): out-of-cadence for daily mode\n  • fca-benchmark — skipped (0): out-of-cadence for daily mode\n  • boe-benchmark — skipped (0): out-of-cadence for daily mode\n  • scam-fraud-cluster — disabled (0): disabled 2026-07-22; CyberDefender and Scameter remain blocked, search fallback found no current items, and JFIU’s latest listed activity is from 2025\n  • regulation-asia — disabled (0): disabled at user request because the latest-news page is subscription-gated and recent results yielded no scoped items\n  • daily-exploratory-search — empty (0): Tavily plan completed; seven results reviewed and all excluded as non-material or non-publication discovery leads\n  • hkma-circulars — empty (0): verified RSS evidence found no 2026-09-08 publication\n  • hkma-guidelines — empty (0): verified RSS evidence found no 2026-09-08 publication\n  • hkma-spm — empty (0): verified RSS evidence found no 2026-09-08 publication\n  • hkma-consultations — empty (0): verified RSS evidence found no 2026-09-08 publication\n  • hkma-press — ok (3): verified RSS evidence; three 2026-09-08 official press publications were collected\n  • hkma-brdr — empty (0): verified BRDR listing evidence; no 2026-09-08 publication\n  • sfc-circulars — empty (0): verified SFC circular listing; no 2026-09-08 publication\n  • sfc-aml-circulars — empty (0): verified SFC AML/CFT circular listing; no 2026-09-08 publication\n  • sfc-consultations — empty (0): verified SFC consultation listing; no 2026-09-08 publication\n  • sfc-web — empty (0): verified configured SFC listings; the joint-survey publication was already collected through hkma-press and no other 2026-09-08 publication qualified\n  • pcpd — empty (0): verified relevant listings; no 2026-09-08 publication\n  • hk-enforcement-actions — partial (0): HKMA listing was verified, but the SFC enforcement listing exposed no verifiable content, so an in-window action could not be excluded\n  • global-material-incidents-enforcement — partial (0): FCA and OCC listings were verified, but MAS endpoints returned maintenance content and the SGPC response was not MAS-filtered\n  • mas-parliamentary-replies — partial (0): configured endpoint returned maintenance content and no canonical in-window reply could be verified\n  • fstb — empty (0): verified press, consultation, bills and Legislative Council brief listings; no 2026-09-08 publication\n  • legco — partial (0): TLS verification failed for both configured listings; browser fallback could not establish complete coverage\n  • hk-banks-news — empty (0): verified configured bank listings; no 2026-09-08 publication\n  • lexology — partial (0): listing supplied no exact publication dates and the only potentially relevant lead lacked recoverable canonical primary evidence",
+  "rendered_sha256": "577912ce09ff8b9d2246cecb013f5b62e599798b9a1e884911cdea49b1bad0c8",
+  "schema_version": 2,
+  "title": "Regulatory Bulletin — 9 September 2026 (Daily)"
+}

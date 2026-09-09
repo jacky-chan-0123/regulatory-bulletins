@@ -1,5 +1,52 @@
 [
   {
+    "authority": "Hong Kong Monetary Authority and Securities and Futures Commission",
+    "authority_label": "commercial/risk recommendation",
+    "bulletin_date": "2026-09-09",
+    "bulletin_path": "bulletins/2026/09/09/daily/",
+    "deadline": "No source deadline stated",
+    "document_type": "HKMA-SFC joint survey press release",
+    "event_family": "SFC-HKMA joint survey of non-exchange-traded investment-product sales 2025",
+    "id": "item-20260908-hkma-press-d9180d4899",
+    "impact_areas": [
+      "investment product distribution",
+      "product governance",
+      "digital channels",
+      "market intelligence"
+    ],
+    "jurisdiction": "HK",
+    "official_published": "2026-09-08",
+    "primary_url": "https://www.hkma.gov.hk/eng/news-and-media/press-releases/2026/09/20260908-3/",
+    "products": [
+      "investment",
+      "FX",
+      "digital"
+    ],
+    "publisher": "Hong Kong Monetary Authority",
+    "publisher_id": "hkma",
+    "publishers": [
+      {
+        "id": "hkma",
+        "name": "Hong Kong Monetary Authority"
+      },
+      {
+        "id": "sfc",
+        "name": "Securities and Futures Commission"
+      }
+    ],
+    "source_role": "primary_authority",
+    "source_url": "https://www.hkma.gov.hk/eng/news-and-media/press-releases/2026/09/20260908-3/",
+    "status": "current",
+    "summary": "The HKMA and SFC reported that 2025 non-exchange-traded investment-product sales reached HK$9.9 trillion, up 63% year on year; online sales were 21% of aggregate transaction value and currency-linked product sales were HK$698 billion. The release reports survey results and states no new deadline or requirement.",
+    "title": "Record year for investment product sales in Hong Kong with robust demand for FICC-related products: SFC-HKMA joint survey 2025",
+    "topics": [
+      "investment-products",
+      "product-distribution",
+      "digital-distribution",
+      "market-intelligence"
+    ]
+  },
+  {
     "authority": "Hong Kong Monetary Authority",
     "authority_label": "open interpretation",
     "bulletin_date": "2026-09-08",
