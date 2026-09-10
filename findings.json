@@ -1,5 +1,47 @@
 [
   {
+    "authority": "Hong Kong Monetary Authority",
+    "authority_label": "supervisory expectation",
+    "bulletin_date": "2026-09-10",
+    "bulletin_path": "bulletins/2026/09/10/daily/",
+    "deadline": "No source deadline stated",
+    "document_type": "HKMA circular",
+    "event_family": "private market investment distribution",
+    "id": "item-20260909-hkma-brdr-ebe8a08cb8",
+    "impact_areas": [
+      "Product governance",
+      "Conduct and suitability",
+      "Customer disclosure",
+      "Staff training"
+    ],
+    "jurisdiction": "Hong Kong",
+    "official_published": "2026-09-09",
+    "products": [
+      "Investment products",
+      "Private-market funds"
+    ],
+    "publisher": "Hong Kong Monetary Authority",
+    "publisher_id": "hong-kong-monetary-authority",
+    "publishers": [
+      {
+        "id": "hong-kong-monetary-authority",
+        "name": "Hong Kong Monetary Authority"
+      }
+    ],
+    "source_role": "primary_authority",
+    "source_url": "https://brdr.hkma.gov.hk/eng/doc-ldg/current/20260909-2-EN",
+    "status": "current",
+    "summary": "HKMA reminded registered institutions distributing publicly or privately offered products with private-credit or private-equity exposure to apply product due diligence, appropriate risk ratings, clear risk disclosure, suitability controls, monitoring and staff training. The circular states no source deadline and preserves existing institutional and qualified-corporate professional-investor exemptions.",
+    "title": "Circular on Private Market Investments",
+    "topics": [
+      "private-market-investments",
+      "product-due-diligence",
+      "product-risk-rating",
+      "suitability",
+      "customer-disclosure"
+    ]
+  },
+  {
     "authority": "Hong Kong Monetary Authority and Securities and Futures Commission",
     "authority_label": "commercial/risk recommendation",
     "bulletin_date": "2026-09-09",

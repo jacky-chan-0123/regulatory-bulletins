@@ -1,0 +1,56 @@
+{
+  "date": "2026-09-10",
+  "draft_sha256": "80b2ca95e8bda3bf403e0d9844546a360985b7399d0f5d5743c4b4a73040227d",
+  "findings": [
+    {
+      "authority": "Hong Kong Monetary Authority",
+      "authority_label": "supervisory expectation",
+      "bulletin_date": "2026-09-10",
+      "deadline": "No source deadline stated",
+      "document_type": "HKMA circular",
+      "event_family": "private market investment distribution",
+      "id": "item-20260909-hkma-brdr-ebe8a08cb8",
+      "impact_areas": [
+        "Product governance",
+        "Conduct and suitability",
+        "Customer disclosure",
+        "Staff training"
+      ],
+      "jurisdiction": "Hong Kong",
+      "official_published": "2026-09-09",
+      "products": [
+        "Investment products",
+        "Private-market funds"
+      ],
+      "publisher": "Hong Kong Monetary Authority",
+      "publisher_id": "hong-kong-monetary-authority",
+      "publishers": [
+        {
+          "id": "hong-kong-monetary-authority",
+          "name": "Hong Kong Monetary Authority"
+        }
+      ],
+      "source_role": "primary_authority",
+      "source_url": "https://brdr.hkma.gov.hk/eng/doc-ldg/current/20260909-2-EN",
+      "status": "current",
+      "summary": "HKMA reminded registered institutions distributing publicly or privately offered products with private-credit or private-equity exposure to apply product due diligence, appropriate risk ratings, clear risk disclosure, suitability controls, monitoring and staff training. The circular states no source deadline and preserves existing institutional and qualified-corporate professional-investor exemptions.",
+      "title": "Circular on Private Market Investments",
+      "topics": [
+        "private-market-investments",
+        "product-due-diligence",
+        "product-risk-rating",
+        "suitability",
+        "customer-disclosure"
+      ]
+    }
+  ],
+  "item_ids": [
+    "item-20260909-hkma-brdr-ebe8a08cb8"
+  ],
+  "mode": "daily",
+  "path": "bulletins/2026/09/10/daily/",
+  "rendered_html": "<b><u>📔 Regulatory Bulletin — 10 September 2026 (Daily)</u></b>\n\n<b><u>Executive Summary</u></b>\n\n  • 🟡 <b>HKMA private-market investment distribution reminder:</b> Registered institutions should test due diligence, product risk ratings, client disclosure and suitability evidence for products with private-credit or private-equity exposure; the circular states no implementation deadline.\n\n<b><u>Hong Kong</u></b>\n\n\n<b>🟡 Circular on Private Market Investments 🇭🇰</b>\n<b>Item ID:</b> item-20260909-hkma-brdr-ebe8a08cb8\n<b>⏰ Deadline:</b> No source deadline stated\n<b>Products:</b> Investment products, private-market funds\n<b>Authority / status:</b> Hong Kong Monetary Authority — Supervisory expectation\n\nThe Hong Kong Monetary Authority (HKMA) issued a 9 September circular to all registered institutions on the sale and distribution of publicly or privately offered products with direct or indirect private-credit or private-equity exposure. The circular reminds registered institutions to conduct proper product due diligence and appropriate product risk rating, and to give clients sufficient, fair, balanced and non-misleading information, including on limited liquidity, transparency and valuation uncertainty. It also reminds them to ensure recommendations or solicitations are suitable, to take particular care when assessing and explaining suitability, and to maintain policies, procedures, controls, monitoring and staff training. Existing exemptions for Institutional Professional Investors and Qualified Corporate Professional Investors continue to apply; complex-product and derivative treatment depends on the relevant SFC requirements.\n\nSource: <a href=\"https://brdr.hkma.gov.hk/eng/doc-ldg/current/20260909-2-EN\">Circular on Private Market Investments</a>\n\n<b><u>Mainland/GBA</u></b>\n\n  • No eligible current-run developments.\n\n<b><u>SG/UK/GLOBAL Benchmark</u></b>\n\n<i>Comparable overseas developments and commercial/control benchmarks. They do not establish Hong Kong requirements.</i>\n\n  • No eligible current-run benchmark developments.\n\n<b><u>Watch List</u></b>\n\n  • Monitor the inventory and client scope of affected private-market investments, including whether products are complex or derivatives and whether distributor information addresses the stated risks.\n\n<b><u>Coverage</u></b>\n\n  • customs-tdo — skipped (0): out-of-cadence for daily mode\n  • consumer-council — skipped (0): out-of-cadence for daily mode\n  • interpol-financial-cyber — skipped (0): out-of-cadence for daily mode\n  • hkcert — skipped (0): out-of-cadence for daily mode\n  • sme-schemes — skipped (0): out-of-cadence for daily mode\n  • gba-official — skipped (0): out-of-cadence for daily mode\n  • gba-mainland-sweep — skipped (0): out-of-cadence for daily mode\n  • industry-bodies — skipped (0): out-of-cadence for daily mode\n  • lawfirm-big4-pages — skipped (0): out-of-cadence for daily mode\n  • lawfirm-big4-sweep — skipped (0): out-of-cadence for daily mode\n  • mas-benchmark — skipped (0): out-of-cadence for daily mode\n  • fca-benchmark — skipped (0): out-of-cadence for daily mode\n  • boe-benchmark — skipped (0): out-of-cadence for daily mode\n  • scam-fraud-cluster — disabled (0): disabled because configured services remain access-blocked and fallback found no current items\n  • regulation-asia — disabled (0): disabled at user request because the subscription-gated listing is unreliable\n  • daily-exploratory-search — empty (0): Tavily plan completed; no admissible in-window canonical candidate\n  • hkma-circulars — empty (0): verified RSS feed; no 9 September publication\n  • hkma-guidelines — empty (0): verified RSS feed; no 9 September publication\n  • hkma-spm — empty (0): verified RSS feed; no 9 September publication\n  • hkma-consultations — empty (0): verified RSS feed; no 9 September publication\n  • hkma-press — ok (3): verified RSS feed; three publications already collected by the RSS floor\n  • hkma-brdr — ok (1): verified BRDR listing and canonical record/PDF; one circular collected\n  • sfc-circulars — empty (0): verified TLS listing/API; no 9 September circular publication\n  • sfc-aml-circulars — empty (0): verified TLS listing/API; no 9 September AML/CFT circular publication\n  • sfc-consultations — empty (0): verified configured SFC consultation API; no consultation or conclusion published\n  • sfc-web — empty (0): verified SFC listings and news API; no eligible bank/control development\n  • pcpd — empty (0): verified TLS listings; no 9 September publication\n  • hk-enforcement-actions — partial (0): HKMA listing verified; SFC enforcement listing remained unresolved in deterministic and local-browser fetches\n  • global-material-incidents-enforcement — partial (0): FCA and OCC listings were clear; unresolved MAS maintenance content keeps coverage partial\n  • mas-parliamentary-replies — partial (0): configured endpoint returned maintenance content; no canonical in-window reply verified\n  • fstb — empty (0): configured FSTB listings verified; no 9 September publication\n  • legco — partial (0): certificate verification failed for the bills listing; browser fallback found no dated bill progress\n  • hk-banks-news — ok (1): configured bank listings verified; one DBS litigation disclosure collected\n  • lexology — partial (0): source pages were access-blocked; dates and primary evidence could not be recovered",
+  "rendered_sha256": "08096e8d67321ea5409dda08bf7e651d755fbb312eda8c1017511bfd30a2e0f3",
+  "schema_version": 2,
+  "title": "Regulatory Bulletin — 10 September 2026 (Daily)"
+}
