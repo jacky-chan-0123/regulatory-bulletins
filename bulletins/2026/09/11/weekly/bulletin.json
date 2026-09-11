@@ -1,0 +1,132 @@
+{
+  "date": "2026-09-11",
+  "draft_sha256": "2c058d54e2e42259f45d446f650084518c2b403265129b7cfa09d6c9ef26f212",
+  "findings": [
+    {
+      "authority": "Hong Kong Monetary Authority",
+      "authority_label": "open interpretation",
+      "bulletin_date": "2026-09-11",
+      "deadline": "No source deadline stated",
+      "document_type": "HKMA circular",
+      "event_family": "private market investments",
+      "id": "item-20260909-hkma-circulars-ebe8a08cb8",
+      "impact_areas": [
+        "wealth management",
+        "securities/investment products"
+      ],
+      "jurisdiction": "HK",
+      "official_published": "2026-09-09",
+      "products": [
+        "investment"
+      ],
+      "publisher": "Hong Kong Monetary Authority",
+      "publisher_id": "hkma",
+      "publishers": [
+        {
+          "id": "hkma",
+          "name": "Hong Kong Monetary Authority"
+        }
+      ],
+      "source_role": "primary_authority",
+      "source_url": "https://brdr.hkma.gov.hk/eng/doc-ldg/current/20260909-2-EN",
+      "status": "current",
+      "summary": "HKMA published a current circular on private market investments for Registered Institutions, classified under securities/investment products; registered evidence does not expose its operative text.",
+      "title": "Circular on Private Market Investments",
+      "topics": [
+        "private-market-investments",
+        "wealth-management",
+        "securities-investment-products"
+      ]
+    },
+    {
+      "authority": "Hong Kong Monetary Authority",
+      "authority_label": "open interpretation",
+      "bulletin_date": "2026-09-11",
+      "deadline": "2026-10-07",
+      "document_type": "public consultation",
+      "event_family": "Hong Kong Taxonomy Phase 2B public consultation",
+      "id": "item-20260907-hkma-consultations-4ec8d8ecfe",
+      "impact_areas": [
+        "climate and sustainability",
+        "product governance",
+        "disclosures"
+      ],
+      "jurisdiction": "HK",
+      "official_published": "2026-09-07",
+      "products": [
+        "lending",
+        "investment"
+      ],
+      "publisher": "Hong Kong Monetary Authority",
+      "publisher_id": "hkma",
+      "publishers": [
+        {
+          "id": "hkma",
+          "name": "Hong Kong Monetary Authority"
+        }
+      ],
+      "source_role": "primary_authority",
+      "source_url": "https://brdr.hkma.gov.hk/eng/doc-ldg/current/20260819-7-EN",
+      "status": "current",
+      "summary": "HKMA opened a Phase 2B Hong Kong Taxonomy for Sustainable Finance consultation for all authorised institutions; comments close on 7 October 2026.",
+      "title": "Consultation on Phase 2B prototype of Hong Kong Taxonomy for Sustainable Finance",
+      "topics": [
+        "sustainable-finance",
+        "taxonomy",
+        "lending",
+        "investment"
+      ]
+    },
+    {
+      "authority": "Singapore Ministry of Home Affairs",
+      "authority_label": "open interpretation",
+      "bulletin_date": "2026-09-11",
+      "deadline": "October 2026 (exact date not stated)",
+      "document_type": "parliamentary speech",
+      "event_family": "Singapore scam countermeasures legislation",
+      "id": "item-20260909-daily-exploratory-search-9fdc3e64ee",
+      "impact_areas": [
+        "fraud and scams",
+        "customer access",
+        "customer protection"
+      ],
+      "jurisdiction": "SG",
+      "official_published": "2026-09-09",
+      "products": [
+        "deposit",
+        "payment"
+      ],
+      "publisher": "Singapore Ministry of Home Affairs",
+      "publisher_id": "singapore-ministry-of-home-affairs",
+      "publishers": [
+        {
+          "id": "singapore-ministry-of-home-affairs",
+          "name": "Singapore Ministry of Home Affairs"
+        }
+      ],
+      "source_role": "government_or_court",
+      "source_url": "https://www.mha.gov.sg/media-room/newsroom/second-reading-of-the-scams-countermeasures-and-other-matters-bill-wrap-up-speech",
+      "status": "current",
+      "summary": "Singapore's Ministry of Home Affairs described proposed scam-countermeasure orders and said local banks will offer an LPBA or alternative basic account from October 2026, with no exact date stated.",
+      "title": "Second Reading of the Scams (Countermeasures) and Other Matters Bill – Wrap-Up Speech",
+      "topics": [
+        "scams",
+        "fraud-controls",
+        "deposit",
+        "payments",
+        "customer-access"
+      ]
+    }
+  ],
+  "item_ids": [
+    "item-20260907-hkma-consultations-4ec8d8ecfe",
+    "item-20260909-daily-exploratory-search-9fdc3e64ee",
+    "item-20260909-hkma-circulars-ebe8a08cb8"
+  ],
+  "mode": "weekly",
+  "path": "bulletins/2026/09/11/weekly/",
+  "rendered_html": "<b><u>📔 Regulatory Bulletin — 11 September 2026 (Weekly)</u></b>\n\n<b><u>Executive Summary</u></b>\n\n  • HKMA has published a current circular on private market investments for registered institutions, classified under securities/investment products; the registered evidence does not expose its operative text or a deadline.\n  • HKMA’s Phase 2B Hong Kong Taxonomy consultation is open to all authorised institutions until 7 October 2026; management may wish to decide whether to respond and identify potentially affected sustainable-finance claims and data.\n  • Singapore’s legislative-stage scam-countermeasures development is a useful benchmark for account-restriction and customer-access trade-offs, but does not establish a Hong Kong requirement.\n\n<b><u>Hong Kong</u></b>\n\n\n<b>🟡 Circular on Private Market Investments 🇭🇰</b>\n\n<b>Item ID:</b> item-20260909-hkma-circulars-ebe8a08cb8\n<b>⏰ Deadline:</b> No source deadline stated\n<b>Products:</b> Investment products\n\nHKMA has published a current circular, “Circular on Private Market Investments”, issued on 9 September 2026 for Registered Institutions. The repository classifies it under Wealth Management &amp; MPF — Securities/investment products. The registered evidence does not expose the circular’s operative text, scope, deadline, transition, exemption or explicit expectation, so it does not establish an obligation or supervisory expectation. Relevant institutions may obtain the official circular text and document its scope, authority and dates before deciding whether any change work is needed.\n\nSource: <a href=\"https://brdr.hkma.gov.hk/eng/doc-ldg/current/20260909-2-EN\">Circular on Private Market Investments</a>\n\n\n<b>🟡 Consultation on Phase 2B prototype of Hong Kong Taxonomy for Sustainable Finance 🇭🇰</b>\n\n<b>Item ID:</b> item-20260907-hkma-consultations-4ec8d8ecfe\n<b>⏰ Deadline:</b> 7 October 2026\n<b>Products:</b> Sustainable lending, investment products\n\nHKMA has opened a consultation for all authorised institutions on a Phase 2B prototype of the Hong Kong Taxonomy for Sustainable Finance. Comments close on 7 October 2026, and the repository records the consultation as open. This is a consultation rather than a binding taxonomy or new compliance requirement; sustainable lending and investment products or related claims may have product-governance, data and disclosure dependencies if the prototype is finalised.\n\nSource: <a href=\"https://brdr.hkma.gov.hk/eng/doc-ldg/current/20260819-7-EN\">Consultation on Phase 2B prototype of Hong Kong Taxonomy for Sustainable Finance</a>\n\n<b><u>SG/UK/GLOBAL Benchmark</u></b>\n\n<i>Comparable overseas developments and commercial/control benchmarks. They do not establish Hong Kong requirements.</i>\n\n\n<b>🟡 Second Reading of the Scams (Countermeasures) and Other Matters Bill — Wrap-Up Speech 🇸🇬</b>\n\n<b>Item ID:</b> item-20260909-daily-exploratory-search-9fdc3e64ee\n<b>⏰ Deadline:</b> October 2026 (exact date not stated)\n<b>Products:</b> Deposit accounts, payments\n\nSingapore’s Ministry of Home Affairs described proposed Account Disabling, Disclosure and Service Limitation Orders in a Second Reading wrap-up speech, including information exchange with service providers and obligations imposed by those orders. It said local banks will offer an LPBA or alternative basic account from October 2026 to affected Singapore citizens or permanent residents except in limited cases, without stating an exact date. This is a legislative-stage government speech, not an enacted rule or MAS instrument, and may inform monitoring of the operational and customer-access trade-off in scam-related account restrictions without creating a Hong Kong obligation.\n\nSource: <a href=\"https://www.mha.gov.sg/media-room/newsroom/second-reading-of-the-scams-countermeasures-and-other-matters-bill-wrap-up-speech\">Second Reading of the Scams (Countermeasures) and Other Matters Bill — Wrap-Up Speech</a>\n\n<b><u>Watch List</u></b>\n\n  • Monitor the final Singapore Bill provisions, commencement date and exclusions; the available source does not establish them.\n  • Monitor the outcome of HKMA’s Phase 2B taxonomy consultation, including any final scope, criteria and implementation timing.\n\n<b><u>Weekly Trend</u></b>\n\nThis week’s validated developments include a current HKMA circular on private market investments, a sustainable-finance taxonomy consultation and a scam-intervention design benchmark. The circular’s operative content is not available in the registered evidence; the consultation is open, while the Singapore item remains a comparable legislative-stage benchmark rather than a Hong Kong requirement.\n\n<b><u>Coverage</u></b>\n\n  • boe-benchmark — skipped (0): out-of-cadence for weekly mode\n  • scam-fraud-cluster — disabled (0): disabled 2026-07-22 — CyberDefender and Scameter return HTTP 403 and remain blocked by Cloudflare in browser mode; search fallback found no current items. JFIU is reachable but its latest listed activity is from 2025.\n  • regulation-asia — disabled (0): Disabled at user request: the latest-news page is subscription-gated, making extraction unreliable, and recent results yielded no scoped HK/CN-GBA/SG/UK banking items.\n  • daily-exploratory-search — ok (1): seven Tavily query outcomes completed; reviewed 12 discovery leads and admitted one verified in-window Singapore government primary source\n  • hkma-circulars — ok (1): verified RSS; one in-window circular already collected by completed RSS floor with run-local evidence\n  • hkma-guidelines — empty (0): verified RSS; no publication dated 2026-09-05 through 2026-09-11\n  • hkma-spm — empty (0): verified RSS; no publication dated 2026-09-05 through 2026-09-11\n  • hkma-consultations — ok (1): verified RSS; one in-window consultation already collected by completed RSS floor with run-local evidence\n  • hkma-press — empty (0): verified RSS; 13 in-window publications were already seen; routine fraud alerts and the consultation press release were not separate event-family items\n  • hkma-brdr — ok (0): verified BRDR listing; its 7 Sep consultation and 9 Sep circular are already current-run RSS-floor items with run-local evidence, with no additional in-window document\n  • sfc-circulars — empty (0): verified browser-rendered official listing; newest circular is dated 4 Sep 2026, outside the 5–11 Sep window\n  • sfc-aml-circulars — empty (0): verified browser-rendered official listing; the sole in-window 7 Sep Early Alert on UN Sanctions is a routine sanctions update for SFC licensees/VASPs, not an eligible banking-control development\n  • sfc-consultations — empty (0): verified official POST API response; newest consultation issue date is 29 Jan 2026 and newest consultation conclusion is 5 Jun 2026\n  • sfc-web — empty (0): verified official listings; 8 Sep SFC-HKMA survey is already a current-run fixed-source item, while forum/speech and issuer-specific suspected IPO-rigging news did not meet the bulletin gate\n  • pcpd — empty (0): verified official browser-rendered guidance, media and findings listings; latest respective publications are August 2026, 1 Sep 2026 and 25 Aug 2026, all outside the window\n  • hk-enforcement-actions — empty (0): HKMA disciplinary-actions index was TLS-verified and last revised 22 Jul 2025; verified browser review of SFC enforcement news found only the 10 Sep issuer-specific suspected IPO-rigging suspension, which did not meet the significant bank/comparable-control gate\n  • global-material-incidents-enforcement — partial (0): MAS enforcement and media-release URLs returned TLS-verified HTTP 200 maintenance shells; configured SGPC endpoints did not yield a usable MAS-filtered listing, while FCA&#x27;s 10 Sep individual fraud/forgery case and OCC&#x27;s latest 27 Aug publications yielded no qualifying exceptional benchmark event\n  • mas-parliamentary-replies — partial (0): configured MAS parliamentary-replies URL returned a TLS-verified HTTP 200 maintenance shell; no official current reply could be checked\n  • fstb — empty (0): all four official listings were TLS-verified; the sole in-window press release (9 Sep FSTB/Uzbekistan central-bank gold-market co-operation) was not a material banking-control development, and no other listing carried an in-window dated publication\n  • legco — partial (0): deterministic TLS verification failed for both configured bills and committee indexes; verified browser fallback found no in-window financial-services bill progress, and the committee index is an undated directory rather than evidence of an eligible publication\n  • customs-tdo — empty (0): all three official Customs pages were TLS-verified; 5–9 Sep press releases were routine Customs enforcement, including a non-registered precious-metals dealer case without a material bank/control nexus, and the undertaking index had no listed record\n  • consumer-council — partial (0): TLS-verified press listing&#x27;s latest publications were 18 Aug 2026; configured CHOICE page provided only an undated magazine description, so current-issue coverage could not be established\n  • interpol-financial-cyber — empty (0): all three TLS-verified listings were checked; financial and cyber categories&#x27; latest items were 25 Aug and 3 Aug, while the 7 Sep general-news item concerned child sexual exploitation and failed the strict banking filter\n  • hkcert — empty (0): TLS-verified bulletin and security-news listings contained in-window vendor vulnerability notices and third-party cyber reporting only; no item had a source-supported material bank/control nexus\n  • sme-schemes — partial (0): TLS-verified HKMC/HKMC Annuity pages did not expose current dated scheme updates; TID required browser rendering and BUD presented hCaptcha, leaving current scheme-update coverage incomplete\n  • gba-official — partial (0): TLS-verified PBC/SAFE/CAC/GBA listings yielded only routine open-market operations, dated items outside the window, or unrelated GBA news; NFRA and SAMR configured listings returned undated content shells, leaving those material regulatory sub-sources unresolved\n  • gba-mainland-sweep — partial (0): configured search queries were not executed: no runner-owned exploration plan or provider outcome exists for this source, and the assignment prohibits an independent general web search\n  • industry-bodies — partial (0): HKAB’s latest dated press release was 4 Sep; FTAHK exposed only future 16/23 Sep events and ASIFMA’s latest dated research was June, but TMA’s configured market-info URL TLS-redirected to an undated benchmark market-data page rather than a current publication listing\n  • hk-banks-news — empty (0): all seven configured bank listings were TLS-verified, including Hang Seng’s resolved 2026 XML; in-window releases were HSBC climate-tech partnership (8 Sep), Hang Seng sustainability showcase (10 Sep), BOCHK green-finance research/forum (8–10 Sep) and DBS Singapore product/corporate news, none a material HK bank incident, control-loss disclosure, enforcement response or eligible product development\n  • lexology — partial (0): TLS-verified popular-articles listing was available but its 10 Sep last-updated timestamp and list ordering could not establish exact candidate publication dates; visible banking/payments material was August or undated, so no canonical secondary/primary evidence could be admitted\n  • lawfirm-big4-pages — partial (0): configured Deacons and King &amp; Wood pages returned TLS-verified HTTP 403 to deterministic fetches (Deacons browser fallback was Cloudflare verification; King &amp; Wood browser exposed no dated listing); other configured firm/Big Four pages yielded no verified in-window banking-control publication with an exact publisher date\n  • lawfirm-big4-sweep — partial (0): configured search queries were not executed because this source has no runner-owned exploration plan or provider outcome, and the assignment prohibits an independent general web search\n  • mas-benchmark — partial (0): both configured MAS regulation and consultations URLs returned TLS-verified HTTP 200 maintenance shells; no official current benchmark publication could be checked\n  • fca-benchmark — partial (0): FCA news was TLS-verified and its only in-window release was the 10 Sep individual fraud/forgery case, which did not meet the exceptional benchmark banking-control gate; the configured consultations listing returned HTTP 403 and browser fallback was Cloudflare verification, so current consultation coverage could not be established",
+  "rendered_sha256": "c5a770bdbbf51d262988c9fc5d6274fd5529d84a91655bc3e7425a79a525c6f2",
+  "schema_version": 2,
+  "title": "Regulatory Bulletin — 11 September 2026 (Weekly)"
+}

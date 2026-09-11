@@ -1,5 +1,123 @@
 [
   {
+    "authority": "Hong Kong Monetary Authority",
+    "authority_label": "open interpretation",
+    "bulletin_date": "2026-09-11",
+    "bulletin_path": "bulletins/2026/09/11/weekly/",
+    "deadline": "No source deadline stated",
+    "document_type": "HKMA circular",
+    "event_family": "private market investments",
+    "id": "item-20260909-hkma-circulars-ebe8a08cb8",
+    "impact_areas": [
+      "wealth management",
+      "securities/investment products"
+    ],
+    "jurisdiction": "HK",
+    "official_published": "2026-09-09",
+    "products": [
+      "investment"
+    ],
+    "publisher": "Hong Kong Monetary Authority",
+    "publisher_id": "hkma",
+    "publishers": [
+      {
+        "id": "hkma",
+        "name": "Hong Kong Monetary Authority"
+      }
+    ],
+    "source_role": "primary_authority",
+    "source_url": "https://brdr.hkma.gov.hk/eng/doc-ldg/current/20260909-2-EN",
+    "status": "current",
+    "summary": "HKMA published a current circular on private market investments for Registered Institutions, classified under securities/investment products; registered evidence does not expose its operative text.",
+    "title": "Circular on Private Market Investments",
+    "topics": [
+      "private-market-investments",
+      "wealth-management",
+      "securities-investment-products"
+    ]
+  },
+  {
+    "authority": "Hong Kong Monetary Authority",
+    "authority_label": "open interpretation",
+    "bulletin_date": "2026-09-11",
+    "bulletin_path": "bulletins/2026/09/11/weekly/",
+    "deadline": "2026-10-07",
+    "document_type": "public consultation",
+    "event_family": "Hong Kong Taxonomy Phase 2B public consultation",
+    "id": "item-20260907-hkma-consultations-4ec8d8ecfe",
+    "impact_areas": [
+      "climate and sustainability",
+      "product governance",
+      "disclosures"
+    ],
+    "jurisdiction": "HK",
+    "official_published": "2026-09-07",
+    "products": [
+      "lending",
+      "investment"
+    ],
+    "publisher": "Hong Kong Monetary Authority",
+    "publisher_id": "hkma",
+    "publishers": [
+      {
+        "id": "hkma",
+        "name": "Hong Kong Monetary Authority"
+      }
+    ],
+    "source_role": "primary_authority",
+    "source_url": "https://brdr.hkma.gov.hk/eng/doc-ldg/current/20260819-7-EN",
+    "status": "current",
+    "summary": "HKMA opened a Phase 2B Hong Kong Taxonomy for Sustainable Finance consultation for all authorised institutions; comments close on 7 October 2026.",
+    "title": "Consultation on Phase 2B prototype of Hong Kong Taxonomy for Sustainable Finance",
+    "topics": [
+      "sustainable-finance",
+      "taxonomy",
+      "lending",
+      "investment"
+    ]
+  },
+  {
+    "authority": "Singapore Ministry of Home Affairs",
+    "authority_label": "open interpretation",
+    "bulletin_date": "2026-09-11",
+    "bulletin_path": "bulletins/2026/09/11/weekly/",
+    "deadline": "October 2026 (exact date not stated)",
+    "document_type": "parliamentary speech",
+    "event_family": "Singapore scam countermeasures legislation",
+    "id": "item-20260909-daily-exploratory-search-9fdc3e64ee",
+    "impact_areas": [
+      "fraud and scams",
+      "customer access",
+      "customer protection"
+    ],
+    "jurisdiction": "SG",
+    "official_published": "2026-09-09",
+    "products": [
+      "deposit",
+      "payment"
+    ],
+    "publisher": "Singapore Ministry of Home Affairs",
+    "publisher_id": "singapore-ministry-of-home-affairs",
+    "publishers": [
+      {
+        "id": "singapore-ministry-of-home-affairs",
+        "name": "Singapore Ministry of Home Affairs"
+      }
+    ],
+    "source_role": "government_or_court",
+    "source_url": "https://www.mha.gov.sg/media-room/newsroom/second-reading-of-the-scams-countermeasures-and-other-matters-bill-wrap-up-speech",
+    "status": "current",
+    "summary": "Singapore's Ministry of Home Affairs described proposed scam-countermeasure orders and said local banks will offer an LPBA or alternative basic account from October 2026, with no exact date stated.",
+    "title": "Second Reading of the Scams (Countermeasures) and Other Matters Bill – Wrap-Up Speech",
+    "topics": [
+      "scams",
+      "fraud-controls",
+      "deposit",
+      "payments",
+      "customer-access"
+    ]
+  },
+  {
     "authority": "DBS, OCBC and UOB",
     "authority_label": "commercial/risk recommendation",
     "bulletin_date": "2026-09-11",

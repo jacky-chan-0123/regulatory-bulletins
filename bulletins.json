@@ -1,6 +1,20 @@
 [
   {
     "date": "2026-09-11",
+    "draft_sha256": "2c058d54e2e42259f45d446f650084518c2b403265129b7cfa09d6c9ef26f212",
+    "item_ids": [
+      "item-20260907-hkma-consultations-4ec8d8ecfe",
+      "item-20260909-daily-exploratory-search-9fdc3e64ee",
+      "item-20260909-hkma-circulars-ebe8a08cb8"
+    ],
+    "mode": "weekly",
+    "path": "bulletins/2026/09/11/weekly/",
+    "rendered_sha256": "c5a770bdbbf51d262988c9fc5d6274fd5529d84a91655bc3e7425a79a525c6f2",
+    "schema_version": 2,
+    "title": "Regulatory Bulletin — 11 September 2026 (Weekly)"
+  },
+  {
+    "date": "2026-09-11",
     "draft_sha256": "8f4c3d5dbdac78427c2fc90fcd4c8c9018f726616e42f5b29d86ee0095295489",
     "item_ids": [
       "item-20260910-hk-banks-news-dbs-swift-ledger"
