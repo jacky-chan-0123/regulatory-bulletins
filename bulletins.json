@@ -1,5 +1,17 @@
 [
   {
+    "date": "2026-09-11",
+    "draft_sha256": "8f4c3d5dbdac78427c2fc90fcd4c8c9018f726616e42f5b29d86ee0095295489",
+    "item_ids": [
+      "item-20260910-hk-banks-news-dbs-swift-ledger"
+    ],
+    "mode": "daily",
+    "path": "bulletins/2026/09/11/daily/",
+    "rendered_sha256": "9c78819741baa839bc7b57657e0774fcb256eb91fe21e2f2b83ffb826e288e36",
+    "schema_version": 2,
+    "title": "Regulatory Bulletin — 11 September 2026 (Daily)"
+  },
+  {
     "date": "2026-09-10",
     "draft_sha256": "80b2ca95e8bda3bf403e0d9844546a360985b7399d0f5d5743c4b4a73040227d",
     "item_ids": [

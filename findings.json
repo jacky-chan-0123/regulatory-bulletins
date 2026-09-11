@@ -1,5 +1,51 @@
 [
   {
+    "authority": "DBS, OCBC and UOB",
+    "authority_label": "commercial/risk recommendation",
+    "bulletin_date": "2026-09-11",
+    "bulletin_path": "bulletins/2026/09/11/daily/",
+    "deadline": "No source deadline stated",
+    "document_type": "joint bank market announcement",
+    "event_family": "Swift blockchain-ledger tokenised-deposit live transactions",
+    "id": "item-20260910-hk-banks-news-dbs-swift-ledger",
+    "impact_areas": [
+      "payments infrastructure",
+      "strategic monitoring"
+    ],
+    "jurisdiction": "SG",
+    "official_published": "2026-09-10",
+    "products": [
+      "payment",
+      "digital"
+    ],
+    "publisher": "DBS",
+    "publisher_id": "dbs",
+    "publishers": [
+      {
+        "id": "dbs",
+        "name": "DBS"
+      },
+      {
+        "id": "ocbc",
+        "name": "OCBC"
+      },
+      {
+        "id": "uob",
+        "name": "UOB"
+      }
+    ],
+    "source_role": "official_entity",
+    "source_url": "https://www.dbs.com/newsroom/DBS_OCBC_and_UOB_complete_first_live_blockchain_enabled_SGD_transactions_on_Swifts_ledger",
+    "status": "current",
+    "summary": "DBS, OCBC and UOB announced that they completed live domestic Singapore-dollar interbank transactions using tokenised deposits on Swift’s blockchain-based ledger. The banks say the work provides insights for round-the-clock interbank payments and may support future corporate treasury, trade and digital-commerce services; it is not a Hong Kong regulatory requirement or a confirmed customer rollout.",
+    "title": "DBS, OCBC and UOB complete first live tokenised-deposit transactions on Swift’s ledger",
+    "topics": [
+      "tokenised deposits",
+      "payment infrastructure",
+      "Swift ledger"
+    ]
+  },
+  {
     "authority": "Hong Kong Monetary Authority",
     "authority_label": "supervisory expectation",
     "bulletin_date": "2026-09-10",
