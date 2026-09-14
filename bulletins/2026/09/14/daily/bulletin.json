@@ -1,0 +1,56 @@
+{
+  "date": "2026-09-14",
+  "draft_sha256": "aa1d2053c1e176b94bc341ac3a431e279bdab0933a58bdc5c2b6fff87aa14d56",
+  "findings": [
+    {
+      "authority": "Securities and Futures Commission",
+      "authority_label": "required",
+      "bulletin_date": "2026-09-14",
+      "deadline": "Immediate effect from 2026-09-11",
+      "document_type": "AML/CFT sanctions circular",
+      "event_family": "United Nations sanctions Haiti and Yemen amendments 2026",
+      "id": "item-20260911-sfc-aml-circulars-26ec57",
+      "impact_areas": [
+        "AML-CFT",
+        "sanctions screening",
+        "virtual-asset controls"
+      ],
+      "jurisdiction": "HK",
+      "official_published": "2026-09-11",
+      "products": [
+        "investment",
+        "payment",
+        "digital"
+      ],
+      "publisher": "Securities and Futures Commission",
+      "publisher_id": "securities-and-futures-commission",
+      "publishers": [
+        {
+          "id": "securities-and-futures-commission",
+          "name": "Securities and Futures Commission"
+        }
+      ],
+      "source_role": "primary_authority",
+      "source_url": "https://apps.sfc.hk/edistributionWeb/gateway/EN/circular/aml/doc?refNo=26EC57",
+      "status": "current",
+      "summary": "The SFC reported that the Haiti and Yemen sanctions amendment regulations were gazetted on 11 September 2026 with immediate effect. The underlying regulations are required within their legal scope; the circular addresses licensed corporations, SFC-licensed virtual-asset service providers and associated entities and does not state a new obligation for authorised institutions generally.",
+      "title": "SFC circular on Haiti and Yemen sanctions amendments",
+      "topics": [
+        "aml-cft",
+        "sanctions",
+        "haiti",
+        "yemen",
+        "virtual-assets"
+      ]
+    }
+  ],
+  "item_ids": [
+    "item-20260911-sfc-aml-circulars-26ec57"
+  ],
+  "mode": "daily",
+  "path": "bulletins/2026/09/14/daily/",
+  "rendered_html": "<b><u>📔 Regulatory Bulletin — 14 September 2026 (Daily)</u></b>\n\n<b><u>Executive Summary</u></b>\n\n  • 🟡 SFC circular reports that Haiti and Yemen UN sanctions-amendment regulations were gazetted on 11 September with immediate effect. The underlying regulations apply within their legal scope; the circular targets the SFC’s licensed perimeter.\n\n<b><u>Hong Kong</u></b>\n\n\n\n<b>🟡 SFC circular on Haiti and Yemen sanctions amendments 🇭🇰</b>\n\n<b>Item ID:</b> item-20260911-sfc-aml-circulars-26ec57\n<b>⏰ Deadline:</b> Immediate effect from 2026-09-11\n<b>Products:</b> Investment, payments, digital\n\nOn 11 September, SFC circular SFO/IS/037/2026 stated that the Haiti and Yemen amendment regulations were gazetted with immediate effect. The Haiti amendment renews travel and financial sanctions and revises arms-embargo requirements, while the Yemen amendment renews financial sanctions and a travel ban. The SFC reminds licensed corporations, SFC-licensed virtual-asset service providers and associated entities to use Chapter 6 of its AML/CFT Guideline for appropriate compliance measures. The underlying regulations are required within their legal scope; the circular does not state a new obligation for authorised institutions generally.\n\nSource: <a href=\"https://apps.sfc.hk/edistributionWeb/gateway/EN/circular/aml/doc?refNo=26EC57\">SFC Circular SFO/IS/037/2026</a>\n\n<b><u>SG/UK/GLOBAL Benchmark</u></b>\n<i>Comparable overseas developments and commercial/control benchmarks. They do not establish Hong Kong requirements.</i>\n\n<b><u>Watch List</u></b>\n\n  • 🟢 Monitor the linked Gazette instruments for operational detail and entity-applicability. The circular states no transition, reporting date or prescribed system design.\n\n<b><u>Coverage</u></b>\n\n  • customs-tdo — skipped (0): out-of-cadence for daily mode\n  • consumer-council — skipped (0): out-of-cadence for daily mode\n  • interpol-financial-cyber — skipped (0): out-of-cadence for daily mode\n  • hkcert — skipped (0): out-of-cadence for daily mode\n  • sme-schemes — skipped (0): out-of-cadence for daily mode\n  • gba-official — skipped (0): out-of-cadence for daily mode\n  • gba-mainland-sweep — skipped (0): out-of-cadence for daily mode\n  • industry-bodies — skipped (0): out-of-cadence for daily mode\n  • lawfirm-big4-pages — skipped (0): out-of-cadence for daily mode\n  • lawfirm-big4-sweep — skipped (0): out-of-cadence for daily mode\n  • mas-benchmark — skipped (0): out-of-cadence for daily mode\n  • fca-benchmark — skipped (0): out-of-cadence for daily mode\n  • boe-benchmark — skipped (0): out-of-cadence for daily mode\n  • scam-fraud-cluster — disabled (0): disabled 2026-07-22; sources remain blocked or out of date\n  • regulation-asia — disabled (0): disabled at user request; subscription-gated listing\n  • daily-exploratory-search — partial (0): 20 leads reviewed; MAS canonical evidence unresolved\n  • hkma-circulars — empty (0): verified RSS; no in-window publication\n  • hkma-guidelines — empty (0): verified RSS; no in-window publication\n  • hkma-spm — empty (0): verified RSS; no in-window publication\n  • hkma-consultations — empty (0): verified RSS; no in-window publication\n  • hkma-press — ok (3): three official in-window publications collected\n  • hkma-brdr — empty (0): verified TLS and listing; no in-window publication\n  • sfc-circulars — empty (0): verified official listing; no in-window publication\n  • sfc-aml-circulars — ok (1): one SFC circular 26EC57 recovered\n  • sfc-consultations — empty (0): verified SBC API; no in-window publication\n  • sfc-web — empty (0): verified official listings; no qualifying item\n  • pcpd — empty (0): verified official listings; no in-window publication\n  • hk-enforcement-actions — empty (0): verified HKMA and SFC listings; no qualifying item\n  • global-material-incidents-enforcement — partial (0): MAS endpoints returned maintenance shells\n  • mas-parliamentary-replies — partial (0): MAS endpoint returned a maintenance shell\n  • fstb — empty (0): verified FSTB listings; no in-window publication\n  • legco — partial (0): TLS failure; browser fallback could not cure it\n  • hk-banks-news — empty (0): verified bank listings; no in-window publication\n  • lexology — partial (0): canonical publisher date/content unresolved",
+  "rendered_sha256": "c3d3f2a63c3b58d5f6d98641272b6cb15a11350206ed1b37962a696bd3a2c11a",
+  "schema_version": 2,
+  "title": "Regulatory Bulletin — 14 September 2026 (Daily)"
+}

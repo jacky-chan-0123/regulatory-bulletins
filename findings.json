@@ -1,5 +1,47 @@
 [
   {
+    "authority": "Securities and Futures Commission",
+    "authority_label": "required",
+    "bulletin_date": "2026-09-14",
+    "bulletin_path": "bulletins/2026/09/14/daily/",
+    "deadline": "Immediate effect from 2026-09-11",
+    "document_type": "AML/CFT sanctions circular",
+    "event_family": "United Nations sanctions Haiti and Yemen amendments 2026",
+    "id": "item-20260911-sfc-aml-circulars-26ec57",
+    "impact_areas": [
+      "AML-CFT",
+      "sanctions screening",
+      "virtual-asset controls"
+    ],
+    "jurisdiction": "HK",
+    "official_published": "2026-09-11",
+    "products": [
+      "investment",
+      "payment",
+      "digital"
+    ],
+    "publisher": "Securities and Futures Commission",
+    "publisher_id": "securities-and-futures-commission",
+    "publishers": [
+      {
+        "id": "securities-and-futures-commission",
+        "name": "Securities and Futures Commission"
+      }
+    ],
+    "source_role": "primary_authority",
+    "source_url": "https://apps.sfc.hk/edistributionWeb/gateway/EN/circular/aml/doc?refNo=26EC57",
+    "status": "current",
+    "summary": "The SFC reported that the Haiti and Yemen sanctions amendment regulations were gazetted on 11 September 2026 with immediate effect. The underlying regulations are required within their legal scope; the circular addresses licensed corporations, SFC-licensed virtual-asset service providers and associated entities and does not state a new obligation for authorised institutions generally.",
+    "title": "SFC circular on Haiti and Yemen sanctions amendments",
+    "topics": [
+      "aml-cft",
+      "sanctions",
+      "haiti",
+      "yemen",
+      "virtual-assets"
+    ]
+  },
+  {
     "authority": "Hong Kong Monetary Authority",
     "authority_label": "open interpretation",
     "bulletin_date": "2026-09-11",

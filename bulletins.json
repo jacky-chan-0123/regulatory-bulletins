@@ -1,5 +1,17 @@
 [
   {
+    "date": "2026-09-14",
+    "draft_sha256": "aa1d2053c1e176b94bc341ac3a431e279bdab0933a58bdc5c2b6fff87aa14d56",
+    "item_ids": [
+      "item-20260911-sfc-aml-circulars-26ec57"
+    ],
+    "mode": "daily",
+    "path": "bulletins/2026/09/14/daily/",
+    "rendered_sha256": "c3d3f2a63c3b58d5f6d98641272b6cb15a11350206ed1b37962a696bd3a2c11a",
+    "schema_version": 2,
+    "title": "Regulatory Bulletin — 14 September 2026 (Daily)"
+  },
+  {
     "date": "2026-09-11",
     "draft_sha256": "2c058d54e2e42259f45d446f650084518c2b403265129b7cfa09d6c9ef26f212",
     "item_ids": [
