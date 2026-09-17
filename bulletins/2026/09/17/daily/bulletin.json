@@ -1,0 +1,53 @@
+{
+  "date": "2026-09-17",
+  "draft_sha256": "24ef9a5c2182282d014243e0844c2dcb22cd8a4354c83d756a48f83591e4524a",
+  "findings": [
+    {
+      "authority": "Government of the Hong Kong Special Administrative Region",
+      "authority_label": "open interpretation",
+      "bulletin_date": "2026-09-17",
+      "deadline": "Later in 2026 (public consultation; exact date not stated)",
+      "document_type": "government policy announcement",
+      "event_family": "hk-2026-policy-address-financial-fraud-content-removal-consultation",
+      "id": "item-20260916-daily-exploratory-search-bebee74ebf",
+      "impact_areas": [
+        "Fraud and scam prevention",
+        "AI-enabled fraud risk",
+        "Regulatory horizon scanning"
+      ],
+      "jurisdiction": "HK",
+      "official_published": "2026-09-16",
+      "products": [
+        "Payments",
+        "Digital channels"
+      ],
+      "publisher": "Government of the Hong Kong Special Administrative Region",
+      "publisher_id": "hong-kong-government",
+      "publishers": [
+        {
+          "id": "hong-kong-government",
+          "name": "Government of the Hong Kong Special Administrative Region"
+        }
+      ],
+      "source_role": "government_or_court",
+      "source_url": "https://www.info.gov.hk/gia/general/202609/16/P2026091600264.htm",
+      "status": "current",
+      "summary": "The Hong Kong Government says the Financial Services and the Treasury Bureau will consult later in 2026 on expanding a legal framework to encourage technology and telecommunications sectors to improve detection and removal of potentially fraudulent online content, including AI-generated content. The announcement states no consultation date, final scope, implementation date or bank duty.",
+      "title": "Policy Address signals future consultation on AI-enabled fraudulent content",
+      "topics": [
+        "online-fraud",
+        "artificial-intelligence",
+        "public-consultation"
+      ]
+    }
+  ],
+  "item_ids": [
+    "item-20260916-daily-exploratory-search-bebee74ebf"
+  ],
+  "mode": "daily",
+  "path": "bulletins/2026/09/17/daily/",
+  "rendered_html": "<b><u>📔 Regulatory Bulletin — 17 September 2026 (Daily)</u></b>\n\n<b><u>Executive Summary</u></b>\n\n  • The Hong Kong Government signals a later-2026 public consultation on a framework intended to encourage technology and telecommunications sectors to detect and remove potentially fraudulent online content, including AI-generated content. It creates no current bank obligation or HKMA requirement, but merits monitoring for future payment-fraud, customer-communication and third-party-interface implications.\n\n<b><u>Hong Kong</u></b>\n\n\n<b>🟡 Policy Address signals future consultation on AI-enabled fraudulent content 🇭🇰</b>\n\n<b>Item ID:</b> item-20260916-daily-exploratory-search-bebee74ebf\n<b>⏰ Deadline:</b> Later in 2026 (public consultation; exact date not stated)\n<b>Products:</b> Payments, Digital channels\n\nThe Government&#x27;s 16 September Policy Address says the Financial Services and the Treasury Bureau will conduct a public consultation later in 2026 on expanding the legal framework to encourage technology and telecommunications sectors to improve detection and removal of potentially fraudulent online content, including content generated through AI misuse. The announcement gives no consultation paper, exact consultation date, final legal scope, implementation date or bank duty. It does not establish a current bank obligation or HKMA requirement; however, digital-payment customers may remain exposed to AI-enabled scam content while the policy develops. Fraud-risk and Legal/Compliance teams should log the consultation for horizon scanning and, once published, make an applicability decision covering affected payment journeys, customer harm, data/privacy and external-provider dependencies, retaining the decision and monitoring evidence.\n\nSource: <a href=\"https://www.info.gov.hk/gia/general/202609/16/P2026091600264.htm\">Full text of the Chief Executive&#x27;s 2026 Policy Address (4)</a>\n\n<b><u>SG/UK/GLOBAL Benchmark</u></b>\n<i>Comparable overseas developments and commercial/control benchmarks. They do not establish Hong Kong requirements.</i>\n\n<b><u>Watch List</u></b>\n\n  • Monitor publication of the Financial Services and the Treasury Bureau consultation and assess applicability only when its proposed scope, affected entities and any information-sharing provisions are available.\n\n<b><u>Coverage</u></b>\n\n  • customs-tdo — skipped (0): Out of cadence for daily mode.\n  • consumer-council — skipped (0): Out of cadence for daily mode.\n  • interpol-financial-cyber — skipped (0): Out of cadence for daily mode.\n  • hkcert — skipped (0): Out of cadence for daily mode.\n  • sme-schemes — skipped (0): Out of cadence for daily mode.\n  • gba-official — skipped (0): Out of cadence for daily mode.\n  • gba-mainland-sweep — skipped (0): Out of cadence for daily mode.\n  • industry-bodies — skipped (0): Out of cadence for daily mode.\n  • lawfirm-big4-pages — skipped (0): Out of cadence for daily mode.\n  • lawfirm-big4-sweep — skipped (0): Out of cadence for daily mode.\n  • mas-benchmark — skipped (0): Out of cadence for daily mode.\n  • fca-benchmark — skipped (0): Out of cadence for daily mode.\n  • boe-benchmark — skipped (0): Out of cadence for daily mode.\n  • scam-fraud-cluster — disabled (0): Disabled 22 July 2026; CyberDefender and Scameter remain Cloudflare-blocked, and JFIU activity is from 2025.\n  • regulation-asia — disabled (0): Disabled at user request because the latest-news page is subscription-gated and recent results yielded no scoped items.\n  • daily-exploratory-search — ok (1): Seven persisted Tavily queries completed; 20 leads were reviewed and one verified official in-window announcement admitted.\n  • hkma-circulars — empty (0): Verified RSS feed; no 16 September 2026 publication.\n  • hkma-guidelines — empty (0): Verified RSS feed; no 16 September 2026 publication.\n  • hkma-spm — empty (0): Verified RSS feed; no 16 September 2026 publication.\n  • hkma-consultations — empty (0): Verified RSS feed; no 16 September 2026 publication.\n  • hkma-press — ok (2): Verified RSS feed; two 16 September 2026 publications were already collected by the RSS floor.\n  • hkma-brdr — empty (0): Verified TLS main listing; no 16 September document identifier or publication date found.\n  • sfc-circulars — empty (0): Verified TLS listing and official circular-search API; no 16 September publication.\n  • sfc-aml-circulars — empty (0): Verified TLS AML listing and official circular-search API; no 16 September AML circular.\n  • sfc-consultations — empty (0): Verified TLS consultation-search API; no consultation or conclusion dated 16 September 2026.\n  • sfc-web — partial (0): Five TLS listings and news-search API verified; 26PR142 content could not be recovered from the JavaScript-shell route.\n  • pcpd — empty (0): Verified TLS listings; the 16 September policy-address statement had no new bank-specific rule, enforcement action or material control development.\n  • hk-enforcement-actions — partial (0): HKMA listing was verified, but the SFC enforcement route returned a JavaScript shell.\n  • global-material-incidents-enforcement — partial (0): MAS listings returned maintenance content; no exceptionally material in-window banking/control event was established.\n  • mas-parliamentary-replies — partial (0): Configured MAS parliamentary-replies page returned maintenance content.\n  • fstb — empty (0): Four FSTB listings verified with TLS; newest entries predate 16 September 2026.\n  • legco — partial (0): Both configured LegCo listings failed deterministic TLS certificate verification; no insecure fallback was used.\n  • hk-banks-news — partial (0): Bank listings verified, but the Hang Seng current-year XML target returned 404.\n  • lexology — partial (0): Popular listing had no exact publication dates and the potentially relevant detail route was Cloudflare-blocked.",
+  "rendered_sha256": "752a1a2f5d336327e6be5bb04e4470c064369b8108f7a444d97c0a8cbfc9e112",
+  "schema_version": 2,
+  "title": "Regulatory Bulletin — 17 September 2026 (Daily)"
+}

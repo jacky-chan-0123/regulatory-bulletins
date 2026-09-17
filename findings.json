@@ -1,5 +1,44 @@
 [
   {
+    "authority": "Government of the Hong Kong Special Administrative Region",
+    "authority_label": "open interpretation",
+    "bulletin_date": "2026-09-17",
+    "bulletin_path": "bulletins/2026/09/17/daily/",
+    "deadline": "Later in 2026 (public consultation; exact date not stated)",
+    "document_type": "government policy announcement",
+    "event_family": "hk-2026-policy-address-financial-fraud-content-removal-consultation",
+    "id": "item-20260916-daily-exploratory-search-bebee74ebf",
+    "impact_areas": [
+      "Fraud and scam prevention",
+      "AI-enabled fraud risk",
+      "Regulatory horizon scanning"
+    ],
+    "jurisdiction": "HK",
+    "official_published": "2026-09-16",
+    "products": [
+      "Payments",
+      "Digital channels"
+    ],
+    "publisher": "Government of the Hong Kong Special Administrative Region",
+    "publisher_id": "hong-kong-government",
+    "publishers": [
+      {
+        "id": "hong-kong-government",
+        "name": "Government of the Hong Kong Special Administrative Region"
+      }
+    ],
+    "source_role": "government_or_court",
+    "source_url": "https://www.info.gov.hk/gia/general/202609/16/P2026091600264.htm",
+    "status": "current",
+    "summary": "The Hong Kong Government says the Financial Services and the Treasury Bureau will consult later in 2026 on expanding a legal framework to encourage technology and telecommunications sectors to improve detection and removal of potentially fraudulent online content, including AI-generated content. The announcement states no consultation date, final scope, implementation date or bank duty.",
+    "title": "Policy Address signals future consultation on AI-enabled fraudulent content",
+    "topics": [
+      "online-fraud",
+      "artificial-intelligence",
+      "public-consultation"
+    ]
+  },
+  {
     "authority": "Securities and Futures Commission",
     "authority_label": "required",
     "bulletin_date": "2026-09-14",
