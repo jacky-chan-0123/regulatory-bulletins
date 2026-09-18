@@ -1,0 +1,97 @@
+{
+  "date": "2026-09-18",
+  "draft_sha256": "158d311576bbac33892e6eabdb048de3027f51f0c0cd92c1ddec288dbcf3ce5d",
+  "findings": [
+    {
+      "authority": "Government of the Hong Kong Special Administrative Region",
+      "authority_label": "open interpretation",
+      "bulletin_date": "2026-09-18",
+      "deadline": "No source deadline stated",
+      "document_type": "government policy address",
+      "event_family": "hk-2026-policy-address-offshore-rmb-market-development",
+      "id": "item-20260916-daily-exploratory-search-ca74866cbc",
+      "impact_areas": [
+        "RMB liquidity",
+        "payment-market infrastructure",
+        "cross-border settlement",
+        "strategic planning"
+      ],
+      "jurisdiction": "HK",
+      "official_published": "2026-09-16",
+      "products": [
+        "FX",
+        "investment",
+        "cross-border-GBA"
+      ],
+      "publisher": "Government of the Hong Kong Special Administrative Region",
+      "publisher_id": "hk-government",
+      "publishers": [
+        {
+          "id": "hk-government",
+          "name": "Government of the Hong Kong Special Administrative Region"
+        }
+      ],
+      "source_role": "government_or_court",
+      "source_url": "https://www.policyaddress.gov.hk/2026/en/chapter3.html",
+      "status": "current",
+      "summary": "The Policy Address says the HKMA will introduce a seven-day offshore RMB liquidity tender mechanism, explore offshore RMB short-term debt instruments, and encourage more foreign banks in Hong Kong to join CIPS directly. It is market-development direction, not a stated binding requirement or timetable for authorised institutions.",
+      "title": "The Chief Executive's 2026 Policy Address — International Financial Centre",
+      "topics": [
+        "offshore-rmb",
+        "liquidity-management",
+        "cips",
+        "cross-border-settlement"
+      ]
+    },
+    {
+      "authority": "Financial Conduct Authority",
+      "authority_label": "open interpretation",
+      "bulletin_date": "2026-09-18",
+      "deadline": "UK authorisation applications open 30 September 2026; UK regime enters force 25 October 2027; FCA consultation planned for October 2026",
+      "document_type": "FCA press release on cryptoasset perimeter guidance",
+      "event_family": "uk-future-cryptoasset-regime-perimeter-guidance-2026",
+      "id": "item-20260916-fca-benchmark-crypto-guidance",
+      "impact_areas": [
+        "cryptoasset perimeter",
+        "authorisation",
+        "product governance"
+      ],
+      "jurisdiction": "UK",
+      "official_published": "2026-09-16",
+      "primary_url": "https://www.fca.org.uk/news/press-releases/crypto-firms-get-guidance-how-new-regime-applies",
+      "products": [
+        "investment",
+        "digital"
+      ],
+      "publisher": "Financial Conduct Authority",
+      "publisher_id": "fca",
+      "publishers": [
+        {
+          "id": "fca",
+          "name": "Financial Conduct Authority"
+        }
+      ],
+      "source_role": "primary_authority",
+      "source_url": "https://www.fca.org.uk/news/press-releases/crypto-firms-get-guidance-how-new-regime-applies",
+      "status": "current",
+      "summary": "The FCA says its future UK cryptoasset-regime guidance explains which activities may require authorisation, including qualifying-stablecoin issuance, platform operation, dealing or arranging, safeguarding and arranging staking. Applications open on 30 September 2026 and the regime is due to enter force on 25 October 2027; this is a UK benchmark, not a Hong Kong requirement.",
+      "title": "Crypto firms get guidance on how the new regime applies",
+      "topics": [
+        "cryptoassets",
+        "authorisation",
+        "stablecoins",
+        "perimeter-guidance"
+      ]
+    }
+  ],
+  "item_ids": [
+    "item-20260916-daily-exploratory-search-ca74866cbc",
+    "item-20260916-fca-benchmark-crypto-guidance"
+  ],
+  "mode": "weekly",
+  "path": "bulletins/2026/09/18/weekly/",
+  "rendered_html": "<b><u>📔 Regulatory Bulletin — 18 September 2026 (Weekly)</u></b>\n\n<b><u>Executive Summary</u></b>\n\n  • 🟡 <b>Hong Kong RMB market development:</b> the 2026 Policy Address signals a seven-day offshore RMB liquidity tender mechanism, exploration of short-term RMB debt instruments, and encouragement for more foreign banks to join CIPS directly. Treasury and payments planning may need to assess funding, liquidity and connectivity dependencies once HKMA terms emerge; no new authorised-institution requirement or timetable is stated.\n  • 🟡 <b>UK cryptoasset perimeter benchmark:</b> the FCA says its future-regime guidance addresses activities that may require authorisation, with applications opening on 30 September 2026 and the regime due to enter force on 25 October 2027. This is relevant to UK-facing activity mapping, not a Hong Kong requirement.\n\n<b><u>Hong Kong</u></b>\n\n\n<b>🟡 The Chief Executive&#x27;s 2026 Policy Address — International Financial Centre 🇭🇰</b>\n<b>Item ID:</b> item-20260916-daily-exploratory-search-ca74866cbc\n<b>⏰ Deadline:</b> No source deadline stated\n<b>Products:</b> FX, investment, cross-border-GBA\n\nThe 16 September Policy Address says the HKMA will introduce a tendering mechanism for seven-day offshore RMB liquidity to broaden banks’ short-term-financing channels. It also says the HKMA will explore offshore RMB short-term debt instruments for investment and liquidity management, and encourage more foreign banks in Hong Kong to join CIPS directly. This is Government policy and market-development direction, not a binding rule or HKMA supervisory guideline; the source states no timetable, eligibility, terms, reporting duty or participation condition. Treasury and payments teams may need to identify relevant RMB funding, investment and CIPS-connectivity dependencies as implementation details emerge, while formal HKMA terms remain the decision point.\n\nSource: <a href=\"https://www.policyaddress.gov.hk/2026/en/chapter3.html\">The Chief Executive&#x27;s 2026 Policy Address</a>\n\n<b><u>Mainland/GBA</u></b>\n\nNo qualifying current-run items.\n\n<b><u>SG/UK/GLOBAL Benchmark</u></b>\n\n<i>Comparable overseas developments and commercial/control benchmarks. They do not establish Hong Kong requirements.</i>\n\n\n<b>🟡 Crypto firms get guidance on how the new regime applies 🇬🇧</b>\n<b>Item ID:</b> item-20260916-fca-benchmark-crypto-guidance\n<b>⏰ Deadline:</b> UK authorisation applications open 30 September 2026; UK regime enters force 25 October 2027; FCA consultation planned for October 2026\n<b>Products:</b> investment, digital\n\nThe FCA’s 16 September press release says new guidance explains how the law underpinning the future UK cryptoasset regime applies and which activities may require FCA authorisation. The stated activity categories include qualifying-stablecoin issuance, cryptoasset trading-platform operation, dealing or arranging, safeguarding, and arranging staking. The FCA says applications open on 30 September 2026, the regime enters force on 25 October 2027, and it plans an October consultation on targeted guidance updates following Government legal changes. This is a UK perimeter-development benchmark rather than a Hong Kong requirement; UK-facing cryptoasset activity may warrant entity, product, custody-provider and customer-journey mapping, while Hong Kong-only activity is not evidence of an HK control gap.\n\nSource: <a href=\"https://www.fca.org.uk/news/press-releases/crypto-firms-get-guidance-how-new-regime-applies\">Crypto firms get guidance on how the new regime applies</a>\nPrimary source: <a href=\"https://www.fca.org.uk/news/press-releases/crypto-firms-get-guidance-how-new-regime-applies\">official document</a>\n\n<b><u>Watch List</u></b>\n\n  • Monitor HKMA terms for the offshore RMB liquidity mechanism, short-term debt instruments and direct CIPS participation.\n  • Monitor the FCA’s planned October 2026 consultation and assess any effect only where UK-facing activity is identified.\n\n<b><u>Weekly Trend</u></b>\n\nThis week’s retained developments combine Hong Kong market-infrastructure direction with a UK cryptoasset-perimeter benchmark. The available sources point to preparation and monitoring decisions rather than a new binding Hong Kong requirement.\n\n<b><u>Coverage</u></b>\n\n  • daily-exploratory-search — partial (1): Tavily plan completed; admitted the verified 16 Sep HK Policy Address. A potentially material Federal Register proposal was CAPTCHA-blocked and the MAS speech returned maintenance, so canonical evidence was unresolved.\n  • hkma-circulars — empty (0): verified RSS; no official publication dated 12–18 Sep 2026.\n  • hkma-guidelines — empty (0): verified RSS; no official publication dated 12–18 Sep 2026.\n  • hkma-spm — empty (0): verified RSS; no official publication dated 12–18 Sep 2026.\n  • hkma-consultations — empty (0): verified RSS; no official publication dated 12–18 Sep 2026.\n  • hkma-press — empty (0): verified RSS; eight in-window releases were routine scam/fraud alerts, routine data/tender releases, or already deduplicated seen items.\n  • hkma-brdr — empty (0): verified TLS BRDR listing; newest entries are 9 Sep and 7 Sep, before the 12–18 Sep weekly window.\n  • sfc-circulars — empty (0): verified SFC circular listing and POST search API; latest circular is 4 Sep 2026, outside the weekly window.\n  • sfc-aml-circulars — empty (0): verified SFC AML listing and circular search API; no official circular dated 12–18 Sep 2026.\n  • sfc-consultations — empty (0): verified POST consultation API (217 records); no consultation paper or conclusions publication dated 12–18 Sep 2026.\n  • sfc-web — empty (0): verified fixed SFC pages and e-Distribution news API; 16–18 Sep results were a speech, individual market-manipulation pre-trial, and Policy Address response already covered with no material new fact.\n  • pcpd — empty (0): verified browser-rendered PCPD listings and canonical 16 Sep statement; no in-window guidance/findings, and the Policy Address response was context-only with no new binding action.\n  • hk-enforcement-actions — partial (0): HKMA disciplinary index verified and latest action is 22 Jul 2025; SFC enforcement listing returned only its JavaScript shell in verified fetch/browser, so no complete in-window enforcement check was possible (the already-reviewed 17 Sep SFC pre-trial concerned an individual and was not a qualifying bank-control action).\n  • global-material-incidents-enforcement — partial (0): MAS enforcement and media-release pages returned verified maintenance content; SGPC’s 18 Sep MAS transition-finance cooperation release was outside incident/enforcement scope; FCA in-window listings had no exceptionally material transferable bank-control event and OCC enforcement gateway was healthy, but MAS remains unresolved.\n  • mas-parliamentary-replies — partial (0): configured MAS parliamentary-replies page returned verified maintenance content; no canonical reply listing or in-window publication date could be established.\n  • fstb — empty (0): verified all four FSTB listings; latest press release was 16 Sep Global Financial Centres Index coverage and no in-window consultation, bills/resolutions or LegCo brief publication was listed.\n  • legco — partial (0): deterministic verified fetches for both configured LegCo URLs failed TLS issuer verification; verified browser showed financial-services bill progress no later than 10 Jul and an undated committee directory, but this does not cure the deterministic source-access failure.\n  • customs-tdo — empty (0): verified Customs press, undertaking and Trade Descriptions pages; 13–15 Sep releases were precious-metals/jewellery-regime publicity or routine statutory reminders, and no undertaking or qualifying in-window consumer-finance/control action was listed.\n  • consumer-council — empty (0): verified press-release and Choice listings; 14 Sep sanitary-product and retail-promotion releases had no credible banking/control nexus, and Choice is a monthly Chinese magazine page without a qualifying publication.\n  • interpol-financial-cyber — empty (0): verified financial-crime, cybercrime and all-news listings; financial/cyber listings&#x27; newest entries were before the window, while 16/18 Sep all-news entries concerned counter-terrorism and failed the configured banking filter.\n  • hkcert — ok (1): verified security-bulletin and security-news listings; routine vendor vulnerability notices were excluded, and the in-window RTHK report linked by HKCERT was admitted after verified canonical/date recovery.\n  • sme-schemes — partial (0): HKMC SME scheme page was verified but showed no dated in-window development; HKMCA press URL served an unrelated 2017 annuity page, TID served only a funding-schemes shell, and BUD returned an effectively empty response, so their in-window publication status could not be established.\n  • gba-official — partial (0): PBOC, SAFE, CAC and GBA listings were verified; in-window entries were open-market operations, statistics, meetings, digital-agriculture policy or non-financial GBA news and were excluded. NFRA and SAMR configured listings returned JavaScript/template shells without dated entries, leaving those official sub-sources unresolved.\n  • gba-mainland-sweep — partial (0): configured search source has no runner-owned exploration plan or search-results artefact; no separate general-web search was performed under the fixed-URL restriction.\n  • industry-bodies — partial (0): HKAB and ASIFMA listings were verified; HKAB&#x27;s 16 Sep Policy Address response added no material fact beyond the current-run government item and ASIFMA&#x27;s newest publication is June. FTAHK showed only post-window event dates, while the configured TMA URL redirected to an undated benchmark market-data page (proposed pin required), so the composite is incomplete.\n  • hk-banks-news — empty (0): verified all configured bank listings plus Hang Seng&#x27;s resolved current-year XML. In-window bank-rate confirmations, BEA fraud-site notices/awards and a DBS Hong Kong survey already present in inbox were routine, duplicate or non-material; the DBS/OCBC/UOB Swift-ledger release was canonically dated 10 Sep, outside the window.\n  • lexology — partial (0): verified popular-articles listing was JavaScript-dependent; its displayed 17 Sep last-updated timestamp did not establish an exact publisher-controlled date for a material candidate, and no eligible canonical primary evidence was recovered.\n  • lawfirm-big4-pages — partial (0): verified accessible configured listings, but A&amp;O Shearman, Clifford Chance, Linklaters and several Big Four pages exposed no usable dated in-window articles; Deacons was Cloudflare-blocked and King &amp; Wood returned HTTP 403 in deterministic fetch (browser content did not expose listings). PwC&#x27;s Policy Address commentary was secondary duplicate context only.\n  • lawfirm-big4-sweep — partial (0): configured search source has no runner-owned exploration plan or search-results artefact; no separate general-web search was performed under the fixed-URL restriction.\n  • mas-benchmark — partial (0): both configured MAS pages returned verified maintenance content rather than their requested regulation and consultation listings; no canonical in-window benchmark publication could be established.\n  • fca-benchmark — partial (2): verified FCA news listing yielded two in-window UK benchmark press releases on cryptoasset perimeter guidance and SME-finance access; the configured consultations listing returned HTTP 403, so consultation coverage is incomplete.",
+  "rendered_sha256": "8bb5f0b81e6c8f8aa55e7d8ad10cc25ed9881e3e941cecc789fea574cf939dc0",
+  "schema_version": 2,
+  "title": "Regulatory Bulletin — 18 September 2026 (Weekly)"
+}

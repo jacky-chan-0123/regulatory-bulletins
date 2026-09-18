@@ -2,6 +2,89 @@
   {
     "authority": "Government of the Hong Kong Special Administrative Region",
     "authority_label": "open interpretation",
+    "bulletin_date": "2026-09-18",
+    "bulletin_path": "bulletins/2026/09/18/weekly/",
+    "deadline": "No source deadline stated",
+    "document_type": "government policy address",
+    "event_family": "hk-2026-policy-address-offshore-rmb-market-development",
+    "id": "item-20260916-daily-exploratory-search-ca74866cbc",
+    "impact_areas": [
+      "RMB liquidity",
+      "payment-market infrastructure",
+      "cross-border settlement",
+      "strategic planning"
+    ],
+    "jurisdiction": "HK",
+    "official_published": "2026-09-16",
+    "products": [
+      "FX",
+      "investment",
+      "cross-border-GBA"
+    ],
+    "publisher": "Government of the Hong Kong Special Administrative Region",
+    "publisher_id": "hk-government",
+    "publishers": [
+      {
+        "id": "hk-government",
+        "name": "Government of the Hong Kong Special Administrative Region"
+      }
+    ],
+    "source_role": "government_or_court",
+    "source_url": "https://www.policyaddress.gov.hk/2026/en/chapter3.html",
+    "status": "current",
+    "summary": "The Policy Address says the HKMA will introduce a seven-day offshore RMB liquidity tender mechanism, explore offshore RMB short-term debt instruments, and encourage more foreign banks in Hong Kong to join CIPS directly. It is market-development direction, not a stated binding requirement or timetable for authorised institutions.",
+    "title": "The Chief Executive's 2026 Policy Address — International Financial Centre",
+    "topics": [
+      "offshore-rmb",
+      "liquidity-management",
+      "cips",
+      "cross-border-settlement"
+    ]
+  },
+  {
+    "authority": "Financial Conduct Authority",
+    "authority_label": "open interpretation",
+    "bulletin_date": "2026-09-18",
+    "bulletin_path": "bulletins/2026/09/18/weekly/",
+    "deadline": "UK authorisation applications open 30 September 2026; UK regime enters force 25 October 2027; FCA consultation planned for October 2026",
+    "document_type": "FCA press release on cryptoasset perimeter guidance",
+    "event_family": "uk-future-cryptoasset-regime-perimeter-guidance-2026",
+    "id": "item-20260916-fca-benchmark-crypto-guidance",
+    "impact_areas": [
+      "cryptoasset perimeter",
+      "authorisation",
+      "product governance"
+    ],
+    "jurisdiction": "UK",
+    "official_published": "2026-09-16",
+    "primary_url": "https://www.fca.org.uk/news/press-releases/crypto-firms-get-guidance-how-new-regime-applies",
+    "products": [
+      "investment",
+      "digital"
+    ],
+    "publisher": "Financial Conduct Authority",
+    "publisher_id": "fca",
+    "publishers": [
+      {
+        "id": "fca",
+        "name": "Financial Conduct Authority"
+      }
+    ],
+    "source_role": "primary_authority",
+    "source_url": "https://www.fca.org.uk/news/press-releases/crypto-firms-get-guidance-how-new-regime-applies",
+    "status": "current",
+    "summary": "The FCA says its future UK cryptoasset-regime guidance explains which activities may require authorisation, including qualifying-stablecoin issuance, platform operation, dealing or arranging, safeguarding and arranging staking. Applications open on 30 September 2026 and the regime is due to enter force on 25 October 2027; this is a UK benchmark, not a Hong Kong requirement.",
+    "title": "Crypto firms get guidance on how the new regime applies",
+    "topics": [
+      "cryptoassets",
+      "authorisation",
+      "stablecoins",
+      "perimeter-guidance"
+    ]
+  },
+  {
+    "authority": "Government of the Hong Kong Special Administrative Region",
+    "authority_label": "open interpretation",
     "bulletin_date": "2026-09-17",
     "bulletin_path": "bulletins/2026/09/17/daily/",
     "deadline": "Later in 2026 (public consultation; exact date not stated)",

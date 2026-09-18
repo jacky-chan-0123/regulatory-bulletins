@@ -1,5 +1,18 @@
 [
   {
+    "date": "2026-09-18",
+    "draft_sha256": "158d311576bbac33892e6eabdb048de3027f51f0c0cd92c1ddec288dbcf3ce5d",
+    "item_ids": [
+      "item-20260916-daily-exploratory-search-ca74866cbc",
+      "item-20260916-fca-benchmark-crypto-guidance"
+    ],
+    "mode": "weekly",
+    "path": "bulletins/2026/09/18/weekly/",
+    "rendered_sha256": "8bb5f0b81e6c8f8aa55e7d8ad10cc25ed9881e3e941cecc789fea574cf939dc0",
+    "schema_version": 2,
+    "title": "Regulatory Bulletin — 18 September 2026 (Weekly)"
+  },
+  {
     "date": "2026-09-17",
     "draft_sha256": "24ef9a5c2182282d014243e0844c2dcb22cd8a4354c83d756a48f83591e4524a",
     "item_ids": [
