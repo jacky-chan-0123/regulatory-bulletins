@@ -1,6 +1,49 @@
 [
   {
     "authority": "Hong Kong Monetary Authority",
+    "authority_label": "supervisory expectation",
+    "bulletin_date": "2026-09-23",
+    "bulletin_path": "bulletins/2026/09/23/daily/",
+    "correction_date": "2026-09-23",
+    "correction_of": "item-20260922-hkma-brdr-4bacee2a84",
+    "deadline": "Transition-planning documentation by 1 July 2030; progress demonstration after 22 September 2028",
+    "document_type": "SPM non-statutory guideline",
+    "event_family": "HKMA GS-2 Transition Planning",
+    "id": "item-20260922-hkma-brdr-4bacee2a84-correction-1",
+    "impact_areas": [
+      "climate-risk-management",
+      "governance",
+      "scenario-analysis",
+      "data"
+    ],
+    "jurisdiction": "Hong Kong",
+    "official_published": "2026-09-22",
+    "primary_url": "https://brdr.hkma.gov.hk/eng/doc-ldg/docId/getPdf/20260820-6-EN/GS-2.pdf",
+    "products": [
+      "lending",
+      "investment"
+    ],
+    "publisher": "Hong Kong Monetary Authority",
+    "publisher_id": "hkma",
+    "publishers": [
+      {
+        "id": "hkma",
+        "name": "Hong Kong Monetary Authority"
+      }
+    ],
+    "source_role": "primary_authority",
+    "source_url": "https://brdr.hkma.gov.hk/eng/doc-ldg/current/20260820-6-EN",
+    "status": "corrected",
+    "summary": "HKMA issued GS-2 V.1 on 22 September 2026 as a non-statutory SPM guidance note applicable to all authorized institutions. It sets supervisory expectations for governance, strategy, risk management, metrics and targets, stakeholder engagement, scenario analysis and communication. AIs should have transition-planning documentation in place by 1 July 2030, take active implementation steps beforehand, and be prepared to demonstrate progress 24 months after issuance.",
+    "title": "GS-2 Transition Planning — corrected finding",
+    "topics": [
+      "green-sustainable-banking",
+      "climate-risk-management",
+      "transition-planning"
+    ]
+  },
+  {
+    "authority": "Hong Kong Monetary Authority",
     "authority_label": "open interpretation",
     "bulletin_date": "2026-09-23",
     "bulletin_path": "bulletins/2026/09/23/daily/",
@@ -28,7 +71,7 @@
     ],
     "source_role": "primary_authority",
     "source_url": "https://brdr.hkma.gov.hk/eng/doc-ldg/current/20260820-5-EN",
-    "status": "current",
+    "status": "superseded",
     "summary": "HKMA’s Banking Regulatory Document Repository lists GS-2 Transition Planning as a current circular issued on 22 September 2026 under Green & Sustainable Banking — Climate risk management for all Authorized Institutions. The retained record does not establish its operative expectations, effective date or transition timetable.",
     "title": "GS-2 Transition Planning",
     "topics": [
