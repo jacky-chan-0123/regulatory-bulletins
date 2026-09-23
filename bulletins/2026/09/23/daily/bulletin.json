@@ -1,0 +1,52 @@
+{
+  "date": "2026-09-23",
+  "draft_sha256": "63c10090792767285ef02ccf646817efec137ddaa49a8afb816921858e754178",
+  "findings": [
+    {
+      "authority": "Hong Kong Monetary Authority",
+      "authority_label": "open interpretation",
+      "bulletin_date": "2026-09-23",
+      "deadline": "No source deadline stated",
+      "document_type": "HKMA circular",
+      "event_family": "HKMA GS-2 Transition Planning",
+      "id": "item-20260922-hkma-brdr-4bacee2a84",
+      "impact_areas": [
+        "climate-risk-management",
+        "governance"
+      ],
+      "jurisdiction": "Hong Kong",
+      "official_published": "2026-09-22",
+      "products": [
+        "lending",
+        "investment"
+      ],
+      "publisher": "Hong Kong Monetary Authority",
+      "publisher_id": "hkma",
+      "publishers": [
+        {
+          "id": "hkma",
+          "name": "Hong Kong Monetary Authority"
+        }
+      ],
+      "source_role": "primary_authority",
+      "source_url": "https://brdr.hkma.gov.hk/eng/doc-ldg/current/20260820-5-EN",
+      "status": "current",
+      "summary": "HKMA’s Banking Regulatory Document Repository lists GS-2 Transition Planning as a current circular issued on 22 September 2026 under Green & Sustainable Banking — Climate risk management for all Authorized Institutions. The retained record does not establish its operative expectations, effective date or transition timetable.",
+      "title": "GS-2 Transition Planning",
+      "topics": [
+        "green-sustainable-banking",
+        "climate-risk-management",
+        "transition-planning"
+      ]
+    }
+  ],
+  "item_ids": [
+    "item-20260922-hkma-brdr-4bacee2a84"
+  ],
+  "mode": "daily",
+  "path": "bulletins/2026/09/23/daily/",
+  "rendered_html": "<b><u>📔 Regulatory Bulletin — 23 September 2026 (Daily)</u></b>\n\n<b><u>Executive Summary</u></b>\n\n  • 🟡 <b>HKMA: GS-2 Transition Planning.</b> The HKMA repository lists a current circular issued to all Authorized Institutions on climate-risk management. The retained record does not establish operative expectations, an effective date or a transition timetable; obtain the authenticated documents before determining applicability or implementation work.\n\n<b><u>Hong Kong</u></b>\n\n\n<b>🟡 GS-2 Transition Planning 🇭🇰</b>\n<b>Item ID:</b> item-20260922-hkma-brdr-4bacee2a84\n<b>⏰ Deadline:</b> No source deadline stated\n<b>Products:</b> Lending, investment\n\nHKMA’s Banking Regulatory Document Repository lists “GS-2 Transition Planning” as a current circular issued on 22 September 2026 under Green &amp; Sustainable Banking — Climate risk management. The repository identifies all Authorized Institutions as the group and lists a directly related current SPM-NGL document of the same title and date. The retained record does not state the circular’s operative expectations, effective date, transition period, reporting date, threshold or exemption. Accordingly, any detailed applicability, control or implementation conclusion remains open pending the authenticated circular and related document.\n\nSource: <a href=\"https://brdr.hkma.gov.hk/eng/doc-ldg/current/20260820-5-EN\">GS-2 Transition Planning</a>\n\n<b><u>Mainland/GBA</u></b>\n\nNo qualifying current-run items.\n\n<b><u>SG/UK/GLOBAL Benchmark</u></b>\n<i>Comparable overseas developments and commercial/control benchmarks. They do not establish Hong Kong requirements.</i>\n\nNo qualifying current-run items.\n\n<b><u>Watch List</u></b>\n\n  • Monitor for the authenticated GS-2 circular and related SPM-NGL text, including any stated scope, effective date, transition arrangements and supervisory expectations.\n\n<b><u>Coverage</u></b>\n\n  • customs-tdo — skipped (0): out-of-cadence for daily mode\n  • consumer-council — skipped (0): out-of-cadence for daily mode\n  • interpol-financial-cyber — skipped (0): out-of-cadence for daily mode\n  • hkcert — skipped (0): out-of-cadence for daily mode\n  • sme-schemes — skipped (0): out-of-cadence for daily mode\n  • gba-official — skipped (0): out-of-cadence for daily mode\n  • gba-mainland-sweep — skipped (0): out-of-cadence for daily mode\n  • industry-bodies — skipped (0): out-of-cadence for daily mode\n  • lawfirm-big4-pages — skipped (0): out-of-cadence for daily mode\n  • lawfirm-big4-sweep — skipped (0): out-of-cadence for daily mode\n  • mas-benchmark — skipped (0): out-of-cadence for daily mode\n  • fca-benchmark — skipped (0): out-of-cadence for daily mode\n  • boe-benchmark — skipped (0): out-of-cadence for daily mode\n  • scam-fraud-cluster — disabled (0): disabled; configured sources remain blocked or yielded no current items\n  • regulation-asia — disabled (0): disabled; latest-news access is subscription-gated and recent scoped results yielded no items\n  • daily-exploratory-search — empty (0): all seven query outcomes succeeded; no admissible 22 September canonical publication\n  • hkma-circulars — empty (0): verified RSS feed; no 22 September publication\n  • hkma-guidelines — empty (0): verified RSS feed; no 22 September publication\n  • hkma-spm — empty (0): verified RSS feed; no 22 September publication\n  • hkma-consultations — empty (0): verified RSS feed; no 22 September publication\n  • hkma-press — ok (3): verified RSS feed; three 22 September primary publications collected\n  • hkma-brdr — ok (1): verified BRDR listing and primary document; one 22 September circular collected\n  • sfc-circulars — empty (0): verified SFC listing; no 22 September publication\n  • sfc-aml-circulars — empty (0): verified SFC AML/CFT listing; no 22 September publication\n  • sfc-consultations — empty (0): verified API response; no consultation or conclusion dated 22 September\n  • sfc-web — empty (0): verified regulatory and distribution listings; no 22 September publication\n  • pcpd — empty (0): verified configured listings; no 22 September publication\n  • hk-enforcement-actions — partial (0): HKMA listing verified; SFC enforcement listing could not be reliably extracted\n  • global-material-incidents-enforcement — partial (0): MAS configured endpoints were unavailable; no eligible exceptional FCA or OCC event found\n  • mas-parliamentary-replies — partial (0): configured MAS parliamentary-replies URL was unavailable\n  • fstb — empty (0): four configured FSTB listings verified; no 22 September publication\n  • legco — partial (0): TLS verification failed for both configured URLs; browser fallback was not determinative\n  • hk-banks-news — ok (0): seven configured bank listings verified; no eligible in-window disclosure identified\n  • lexology — partial (0): exact candidate dates and canonical primary links could not be established",
+  "rendered_sha256": "df07dea2fdb7523e8ff65b746a33b69a4eed4b886b061b2978d7ee8f631e8dfe",
+  "schema_version": 2,
+  "title": "Regulatory Bulletin — 23 September 2026 (Daily)"
+}

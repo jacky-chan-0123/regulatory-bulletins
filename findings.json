@@ -1,5 +1,43 @@
 [
   {
+    "authority": "Hong Kong Monetary Authority",
+    "authority_label": "open interpretation",
+    "bulletin_date": "2026-09-23",
+    "bulletin_path": "bulletins/2026/09/23/daily/",
+    "deadline": "No source deadline stated",
+    "document_type": "HKMA circular",
+    "event_family": "HKMA GS-2 Transition Planning",
+    "id": "item-20260922-hkma-brdr-4bacee2a84",
+    "impact_areas": [
+      "climate-risk-management",
+      "governance"
+    ],
+    "jurisdiction": "Hong Kong",
+    "official_published": "2026-09-22",
+    "products": [
+      "lending",
+      "investment"
+    ],
+    "publisher": "Hong Kong Monetary Authority",
+    "publisher_id": "hkma",
+    "publishers": [
+      {
+        "id": "hkma",
+        "name": "Hong Kong Monetary Authority"
+      }
+    ],
+    "source_role": "primary_authority",
+    "source_url": "https://brdr.hkma.gov.hk/eng/doc-ldg/current/20260820-5-EN",
+    "status": "current",
+    "summary": "HKMA’s Banking Regulatory Document Repository lists GS-2 Transition Planning as a current circular issued on 22 September 2026 under Green & Sustainable Banking — Climate risk management for all Authorized Institutions. The retained record does not establish its operative expectations, effective date or transition timetable.",
+    "title": "GS-2 Transition Planning",
+    "topics": [
+      "green-sustainable-banking",
+      "climate-risk-management",
+      "transition-planning"
+    ]
+  },
+  {
     "authority": "Government of the Hong Kong Special Administrative Region",
     "authority_label": "open interpretation",
     "bulletin_date": "2026-09-18",
