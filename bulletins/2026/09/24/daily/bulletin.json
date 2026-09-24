@@ -1,0 +1,142 @@
+{
+  "date": "2026-09-24",
+  "draft_sha256": "d899da2b5658235c9e5044e55eb861752ff2b9e8a08f2c095e5db92078baa4ed",
+  "findings": [
+    {
+      "authority": "Hong Kong Monetary Authority",
+      "authority_label": "supervisory expectation",
+      "bulletin_date": "2026-09-24",
+      "deadline": "Indicative only — new ECF guidance and transition arrangements by mid-2028; new courses envisaged in 2030",
+      "document_type": "HKMA circular",
+      "event_family": "hkma-enhanced-competency-framework-review-2026",
+      "id": "item-20260923-hkma-brdr-20260922-1-en",
+      "impact_areas": [
+        "workforce-competency",
+        "training-and-certification",
+        "compliance",
+        "operational-risk-management"
+      ],
+      "jurisdiction": "HK",
+      "official_published": "2026-09-23",
+      "products": [
+        "Lending",
+        "Investments"
+      ],
+      "publisher": "Hong Kong Monetary Authority",
+      "publisher_id": "hkma",
+      "publishers": [
+        {
+          "id": "hkma",
+          "name": "Hong Kong Monetary Authority"
+        }
+      ],
+      "source_role": "primary_authority",
+      "source_url": "https://brdr.hkma.gov.hk/eng/doc-ldg/current/20260922-1-EN",
+      "status": "current",
+      "summary": "HKMA proposes a revised Enhanced Competency Framework for all AIs, including a common Core Level, ten Professional-Level workstreams, revised experience requirements and integrated qualifications. It advises uninterrupted current ECF training while guidance and transition arrangements are developed; milestones are indicative rather than a fixed compliance date.",
+      "title": "Review of the Enhanced Competency Framework for Banking Practitioners",
+      "topics": [
+        "enhanced-competency-framework",
+        "workforce-competency",
+        "training",
+        "banking-practitioners"
+      ]
+    },
+    {
+      "authority": "Securities and Futures Commission",
+      "authority_label": "open interpretation",
+      "bulletin_date": "2026-09-24",
+      "deadline": "2027: planned Swap Connect reference rate; planned consultation on prospectus-disclosure streamlining",
+      "document_type": "SFC market-development announcement and strategic action plan",
+      "event_family": "sfc-strategic-action-plan-2026",
+      "id": "item-20260923-sfc-web-26pr148",
+      "impact_areas": [
+        "market-development",
+        "digital-assets",
+        "AML/CFT",
+        "AI-governance",
+        "market-infrastructure"
+      ],
+      "jurisdiction": "HK",
+      "official_published": "2026-09-23",
+      "products": [
+        "Investments",
+        "FX/RMB",
+        "Digital assets"
+      ],
+      "publisher": "Securities and Futures Commission",
+      "publisher_id": "sfc",
+      "publishers": [
+        {
+          "id": "sfc",
+          "name": "Securities and Futures Commission"
+        }
+      ],
+      "source_role": "primary_authority",
+      "source_url": "https://apps.sfc.hk/edistributionWeb/gateway/EN/news/doc?refNo=26PR148",
+      "status": "current",
+      "summary": "The SFC Strategic Action Plan sets out market-development initiatives across RMB internationalisation, mutual access, wealth management, market quality and financial security. The announcement signals initiatives and future consultation, including planned 2027 measures, rather than a binding rule or immediate all-AI obligation.",
+      "title": "SFC unveils Strategic Action Plan to support Hong Kong’s First Five-Year Plan and Policy Address in promoting capital market development",
+      "topics": [
+        "capital-markets",
+        "rmb-internationalisation",
+        "digital-assets",
+        "responsible-ai",
+        "market-infrastructure"
+      ]
+    },
+    {
+      "authority": "Financial Conduct Authority",
+      "authority_label": "commercial/risk recommendation",
+      "bulletin_date": "2026-09-24",
+      "deadline": "No source deadline stated",
+      "document_type": "FCA press release / multi-firm review",
+      "event_family": "fca-money-mule-multi-firm-review-2026",
+      "id": "item-20260923-global-material-incidents-enforcement-fca-money-mules",
+      "impact_areas": [
+        "AML/CFT",
+        "fraud-risk-management",
+        "transaction-monitoring",
+        "information-sharing"
+      ],
+      "jurisdiction": "UK",
+      "official_published": "2026-09-23",
+      "products": [
+        "Deposit accounts",
+        "Payments",
+        "Digital channels"
+      ],
+      "publisher": "Financial Conduct Authority",
+      "publisher_id": "fca",
+      "publishers": [
+        {
+          "id": "fca",
+          "name": "Financial Conduct Authority"
+        }
+      ],
+      "source_role": "primary_authority",
+      "source_url": "https://www.fca.org.uk/news/press-releases/firms-crack-down-money-mules-need-do-more",
+      "status": "current",
+      "summary": "The FCA reports a completed review of 35 UK retail banks, payment institutions and e-money institutions. It reports suspected mule-account closures and multi-account cash-out patterns, and says it is working with industry and law enforcement on intelligence sharing; this is a UK benchmark, not a Hong Kong requirement.",
+      "title": "Firms crack down on money mules but need to do more",
+      "topics": [
+        "money-mules",
+        "aml-cft",
+        "fraud",
+        "transaction-monitoring",
+        "information-sharing"
+      ]
+    }
+  ],
+  "item_ids": [
+    "item-20260923-global-material-incidents-enforcement-fca-money-mules",
+    "item-20260923-hkma-brdr-20260922-1-en",
+    "item-20260923-sfc-web-26pr148"
+  ],
+  "mode": "daily",
+  "path": "bulletins/2026/09/24/daily/",
+  "rendered_html": "<b><u>📔 Regulatory Bulletin — 24 September 2026 (Daily)</u></b>\n\n<b><u>Executive Summary</u></b>\n\n  • 🟡 HKMA proposes a revised Enhanced Competency Framework for all AIs; maintain current training while guidance and transition arrangements are developed, with indicative milestones from mid-2028.\n  • 🟡 The SFC’s Strategic Action Plan signals a pipeline of market-development initiatives that may affect securities, RMB/FX, digital-asset and cross-border activities, but does not create an immediate rule.\n  • 🟡 An FCA review of UK firms provides an analogous benchmark for identifying mule-account networks and intervening before multi-account cash-out; it creates no Hong Kong requirement.\n\n<b><u>Hong Kong</u></b>\n\n\n<b>🟡 Review of the Enhanced Competency Framework for Banking Practitioners 🇭🇰</b>\n<b>Item ID:</b> item-20260923-hkma-brdr-20260922-1-en\n<b>⏰ Deadline:</b> Indicative only — new ECF guidance and transition arrangements by mid-2028; new courses envisaged in 2030\n<b>Products:</b> Lending, Investments\n\nHKMA’s 23 September circular to all AIs proposes a common Core Level, ten Professional-Level workstreams, revised experience requirements, certification retention across role changes and integrated qualifications. It advises AIs to keep current ECF training uninterrupted while HKMA and HKIB develop guidance and transition arrangements by mid-2028; updated content and new courses are envisaged in 2030. The circular is a proposed change rather than a replacement framework or fixed compliance date, but workforce inventory, role mobility, qualification pathways and training capacity may need early transition planning. Detailed competency standards, exemptions and transition treatment remain to be set in later guidance.\n\nSource: <a href=\"https://brdr.hkma.gov.hk/eng/doc-ldg/current/20260922-1-EN\">Review of the Enhanced Competency Framework for Banking Practitioners</a>\n\n\n<b>🟡 SFC unveils Strategic Action Plan to support Hong Kong’s First Five-Year Plan and Policy Address in promoting capital market development 🇭🇰</b>\n<b>Item ID:</b> item-20260923-sfc-web-26pr148\n<b>⏰ Deadline:</b> 2027: planned Swap Connect reference rate; planned consultation on prospectus-disclosure streamlining\n<b>Products:</b> Investments, FX/RMB, Digital assets\n\nThe SFC announced its Strategic Action Plan on 23 September, setting out short-, medium- and long-term measures across RMB internationalisation, mutual access, wealth management, market quality and financial security. Listed initiatives include an RMB trading counter under southbound Stock Connect, product-suite expansion, T+1 settlement, a Swap Connect reference rate within 2027, responsible AI, and digital-asset licensing, custody and surveillance capabilities. The plan signals initiatives and future consultation rather than a binding rule or immediate all-AI obligation; applicability to banks depends on their SFC-regulated entities or activities. Securities, FX/RMB, digital-asset and cross-border teams may need coordinated horizon scanning of licences, products, systems and Mainland dependencies as subsequent instruments emerge.\n\nSource: <a href=\"https://apps.sfc.hk/edistributionWeb/gateway/EN/news/doc?refNo=26PR148\">SFC unveils Strategic Action Plan to support Hong Kong’s First Five-Year Plan and Policy Address in promoting capital market development</a>\n\n<b><u>SG/UK/GLOBAL Benchmark</u></b>\n<i>Comparable overseas developments and commercial/control benchmarks. They do not establish Hong Kong requirements.</i>\n\n\n<b>🟡 Firms crack down on money mules but need to do more 🇬🇧</b>\n<b>Item ID:</b> item-20260923-global-material-incidents-enforcement-fca-money-mules\n<b>⏰ Deadline:</b> No source deadline stated\n<b>Products:</b> Deposit accounts, Payments, Digital channels\n\nThe FCA’s 23 September release reports a completed review of 35 UK retail banks, building societies, challenger banks, payment institutions and e-money institutions, rather than a new rule or enforcement action. It reports that 238,396 suspected mule accounts were closed in 2025 and that fraudulent funds commonly cashed out through the second to fifth account; some accounts showed repeated suspected mule activity before closure. The FCA cautions that more closures may reflect customer growth and improved identification rather than a higher mule proportion, and says it is working with industry and law enforcement on intelligence sharing. This is an analogous UK benchmark only: comparable Hong Kong deposit-account and payment journeys may consider network detection, early intervention and lawful sharing controls, without inferring local prevalence or a Hong Kong legal basis for sharing.\n\nSource: <a href=\"https://www.fca.org.uk/news/press-releases/firms-crack-down-money-mules-need-do-more\">Firms crack down on money mules but need to do more</a>\n\n<b><u>Watch List</u></b>\n\n  • Monitor HKMA guidance, HKIB transition arrangements and detailed ECF competency standards.\n  • Monitor SFC consultations, rules and implementation notices that establish the scope or timing of individual Strategic Action Plan initiatives.\n  • Monitor FCA-industry and law-enforcement work on intelligence sharing for material developments relevant to the UK review.\n\n<b><u>Coverage</u></b>\n\n  • customs-tdo — skipped (0): out-of-cadence for daily mode\n  • consumer-council — skipped (0): out-of-cadence for daily mode\n  • interpol-financial-cyber — skipped (0): out-of-cadence for daily mode\n  • hkcert — skipped (0): out-of-cadence for daily mode\n  • sme-schemes — skipped (0): out-of-cadence for daily mode\n  • gba-official — skipped (0): out-of-cadence for daily mode\n  • gba-mainland-sweep — skipped (0): out-of-cadence for daily mode\n  • industry-bodies — skipped (0): out-of-cadence for daily mode\n  • lawfirm-big4-pages — skipped (0): out-of-cadence for daily mode\n  • lawfirm-big4-sweep — skipped (0): out-of-cadence for daily mode\n  • mas-benchmark — skipped (0): out-of-cadence for daily mode\n  • fca-benchmark — skipped (0): out-of-cadence for daily mode\n  • boe-benchmark — skipped (0): out-of-cadence for daily mode\n  • scam-fraud-cluster — disabled (0): disabled; CyberDefender and Scameter remain Cloudflare-blocked and search found no current items\n  • regulation-asia — disabled (0): disabled at user request; subscription-gated and no recent scoped items\n  • daily-exploratory-search — partial (0): all persisted queries completed; two leads lacked an exact publisher date or verified primary announcement\n  • hkma-circulars — empty (0): verified RSS feed; no item dated 2026-09-23\n  • hkma-guidelines — empty (0): verified RSS feed; no item dated 2026-09-23\n  • hkma-spm — empty (0): verified RSS feed; no item dated 2026-09-23\n  • hkma-consultations — empty (0): verified RSS feed; no item dated 2026-09-23\n  • hkma-press — ok (3): verified RSS and canonical pages; three items collected and source chains completed\n  • hkma-brdr — ok (1): verified BRDR listing and current record; one circular collected with a four-node source chain\n  • sfc-circulars — empty (0): verified API; no 2026-09-23 record\n  • sfc-aml-circulars — empty (0): verified API; no 2026-09-23 circular\n  • sfc-consultations — empty (0): verified API; no consultation paper or conclusion dated 2026-09-23\n  • sfc-web — ok (1): verified listing and news API; 26PR148 collected and related speech synopses consolidated\n  • pcpd — partial (0): client-rendered 2026 result lists were not reliably recoverable\n  • hk-enforcement-actions — partial (0): SFC listing was JavaScript-only and dated results were not recovered\n  • global-material-incidents-enforcement — partial (1): FCA, OCC and SGPC checks completed; MAS sources returned a maintenance shell\n  • mas-parliamentary-replies — partial (0): configured URL returned a verified maintenance shell\n  • fstb — empty (0): all four listings verified; no publication dated 2026-09-23\n  • legco — partial (0): both URLs failed normal TLS verification; no insecure fallback used\n  • hk-banks-news — empty (0): all seven listings verified; no qualifying scoped peer intelligence item\n  • lexology — partial (0): relevant article could not be retrieved past Cloudflare to verify publication date",
+  "rendered_sha256": "2cf55c0a6a18d208558ccb08ffb3b580f59e0e5b29391c49bff0ffb5573f5003",
+  "schema_version": 2,
+  "title": "Regulatory Bulletin — 24 September 2026 (Daily)"
+}
