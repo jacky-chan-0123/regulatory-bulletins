@@ -1,0 +1,56 @@
+{
+  "date": "2026-09-25",
+  "draft_sha256": "e91b8c1d17cd11773770ed441d53adc2c81490e2933de859e8553f25aba2d138",
+  "findings": [
+    {
+      "authority": "Hong Kong Monetary Authority",
+      "authority_label": "commercial/risk recommendation",
+      "bulletin_date": "2026-09-25",
+      "deadline": "No source deadline stated",
+      "document_type": "HKMA press release on a bilateral memorandum of understanding",
+      "event_family": "HKMA-Bank Indonesia QR-code cross-border-payment cooperation",
+      "id": "item-20260924-hkma-press-b4caea60d3",
+      "impact_areas": [
+        "Cross-border QR payments",
+        "Payment interoperability",
+        "Technical standards",
+        "Regulatory cooperation"
+      ],
+      "jurisdiction": "HK",
+      "official_published": "2026-09-24",
+      "primary_url": "https://www.hkma.gov.hk/eng/news-and-media/press-releases/2026/09/20260924-4/",
+      "products": [
+        "Cross-border payments",
+        "QR payments",
+        "Digital"
+      ],
+      "publisher": "Hong Kong Monetary Authority",
+      "publisher_id": "hong-kong-monetary-authority",
+      "publishers": [
+        {
+          "id": "hong-kong-monetary-authority",
+          "name": "Hong Kong Monetary Authority"
+        }
+      ],
+      "source_role": "primary_authority",
+      "source_url": "https://www.hkma.gov.hk/eng/news-and-media/press-releases/2026/09/20260924-4/",
+      "status": "current",
+      "summary": "HKMA and Bank Indonesia signed an MoU to explore QR-code cross-border payment interoperability and hold technical, operational and regulatory dialogues. The announcement states no implementation arrangement, participant requirement or deadline.",
+      "title": "Hong Kong Monetary Authority and Bank Indonesia Strengthen Cooperation in Cross-Border Payments",
+      "topics": [
+        "cross-border payments",
+        "QR payments",
+        "payment interoperability"
+      ]
+    }
+  ],
+  "item_ids": [
+    "item-20260924-hkma-press-b4caea60d3"
+  ],
+  "mode": "daily",
+  "path": "bulletins/2026/09/25/daily/",
+  "rendered_html": "<b><u>📔 Regulatory Bulletin — 25 September 2026 (Daily)</u></b>\n\n<b><u>Executive Summary</u></b>\n\n  • 🟡 HKMA and Bank Indonesia signed an MoU to explore interoperable QR-code cross-border payments between Hong Kong and Indonesia. It creates no stated participant requirement, implementation arrangement or deadline; monitor only for a later arrangement that defines scope or participation.\n\n<b><u>Hong Kong</u></b>\n\n\n<b>🟡 Hong Kong Monetary Authority and Bank Indonesia Strengthen Cooperation in Cross-Border Payments 🇭🇰</b>\n<b>Item ID:</b> item-20260924-hkma-press-b4caea60d3\n<b>⏰ Deadline:</b> No source deadline stated\n<b>Products:</b> Cross-border payments, QR payments, Digital\n\nThe Hong Kong Monetary Authority (HKMA) and Bank Indonesia signed a memorandum of understanding on 24 September 2026 to strengthen cooperation on QR-code-based cross-border payments. The authorities say they will hold technical, operational and regulatory dialogues and explore arrangements to facilitate interoperability between Hong Kong and Indonesia. The announcement is prospective and states no rollout, participant requirement, technical standard or compliance deadline. Payment providers and Hong Kong–Indonesia merchants may be affected only if a later arrangement establishes participation or interoperability; current scope remains unstated.\n\nSource: <a href=\"https://www.hkma.gov.hk/eng/news-and-media/press-releases/2026/09/20260924-4/\">Hong Kong Monetary Authority and Bank Indonesia Strengthen Cooperation in Cross-Border Payments</a>\n\n<b><u>Mainland/GBA</u></b>\n\nNo validated Mainland/GBA developments in this edition.\n\n<b><u>SG/UK/GLOBAL Benchmark</u></b>\n<i>Comparable overseas developments and commercial/control benchmarks. They do not establish Hong Kong requirements.</i>\n\nNo validated SG/UK/GLOBAL benchmark developments in this edition.\n\n<b><u>Watch List</u></b>\n\n  • Monitor for a subsequent HKMA or Bank Indonesia arrangement setting out participating entities, payment-scheme standards, customer protections, approvals or timetable for QR-payment interoperability.\n\n<b><u>Coverage</u></b>\n\n  • customs-tdo — skipped (0): Out of cadence for daily mode.\n  • consumer-council — skipped (0): Out of cadence for daily mode.\n  • interpol-financial-cyber — skipped (0): Out of cadence for daily mode.\n  • hkcert — skipped (0): Out of cadence for daily mode.\n  • sme-schemes — skipped (0): Out of cadence for daily mode.\n  • gba-official — skipped (0): Out of cadence for daily mode.\n  • gba-mainland-sweep — skipped (0): Out of cadence for daily mode.\n  • industry-bodies — skipped (0): Out of cadence for daily mode.\n  • lawfirm-big4-pages — skipped (0): Out of cadence for daily mode.\n  • lawfirm-big4-sweep — skipped (0): Out of cadence for daily mode.\n  • mas-benchmark — skipped (0): Out of cadence for daily mode.\n  • fca-benchmark — skipped (0): Out of cadence for daily mode.\n  • boe-benchmark — skipped (0): Out of cadence for daily mode.\n  • scam-fraud-cluster — disabled (0): Disabled because CyberDefender and Scameter were Cloudflare-blocked and JFIU activity was dated.\n  • regulation-asia — disabled (0): Disabled at user request because the page is subscription-gated and yielded no scoped items.\n  • daily-exploratory-search — empty (0): Tavily plan completed; 15 leads were excluded as irrelevant, archive/listing, or unsupported content.\n  • hkma-circulars — empty (0): Verified RSS feed had no 24 September 2026 publication.\n  • hkma-guidelines — empty (0): Verified RSS feed had no 24 September 2026 publication.\n  • hkma-spm — empty (0): Verified RSS feed had no 24 September 2026 publication.\n  • hkma-consultations — empty (0): Verified RSS feed had no 24 September 2026 publication.\n  • hkma-press — ok (5): RSS supplied five 24 September 2026 publications; canonical evidence and source chains were inspected.\n  • hkma-brdr — empty (0): Verified listing had no 24 September 2026 document.\n  • sfc-circulars — empty (0): Verified listings and search API had no 24 September 2026 circular.\n  • sfc-aml-circulars — empty (0): Verified listing had no 24 September 2026 circular.\n  • sfc-consultations — empty (0): Verified consultation API had no 24 September 2026 publication or conclusion.\n  • sfc-web — empty (0): Verified listings had no material banking or control development.\n  • pcpd — empty (0): Verified listings had no 24 September 2026 publication.\n  • hk-enforcement-actions — partial (0): HKMA index was verified; SFC enforcement listing returned a JS shell and browser fallback showed no records.\n  • global-material-incidents-enforcement — partial (0): MAS URLs returned maintenance shells; healthy FCA and OCC checks found no qualifying in-window event.\n  • mas-parliamentary-replies — partial (0): Configured MAS URL returned a maintenance shell; no in-window reply could be checked.\n  • fstb — empty (0): Verified listings showed no 24 September 2026 publication.\n  • legco — partial (0): Configured URLs failed TLS verification; browser fallback did not establish a dated financial-services document.\n  • hk-banks-news — partial (0): Verified bank listings found no qualifying publication; Hang Seng XML fallback returned 404.\n  • lexology — partial (0): Relevant detail page returned 403 and browser fallback hit Cloudflare, leaving date and contribution unverified.",
+  "rendered_sha256": "ec60bbf178622a630308778288d75ee3a86d4db1aeeff5d3669ae3b0c73888c1",
+  "schema_version": 2,
+  "title": "Regulatory Bulletin — 25 September 2026 (Daily)"
+}

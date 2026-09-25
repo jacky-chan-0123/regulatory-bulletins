@@ -44,6 +44,48 @@
   },
   {
     "authority": "Hong Kong Monetary Authority",
+    "authority_label": "commercial/risk recommendation",
+    "bulletin_date": "2026-09-25",
+    "bulletin_path": "bulletins/2026/09/25/daily/",
+    "deadline": "No source deadline stated",
+    "document_type": "HKMA press release on a bilateral memorandum of understanding",
+    "event_family": "HKMA-Bank Indonesia QR-code cross-border-payment cooperation",
+    "id": "item-20260924-hkma-press-b4caea60d3",
+    "impact_areas": [
+      "Cross-border QR payments",
+      "Payment interoperability",
+      "Technical standards",
+      "Regulatory cooperation"
+    ],
+    "jurisdiction": "HK",
+    "official_published": "2026-09-24",
+    "primary_url": "https://www.hkma.gov.hk/eng/news-and-media/press-releases/2026/09/20260924-4/",
+    "products": [
+      "Cross-border payments",
+      "QR payments",
+      "Digital"
+    ],
+    "publisher": "Hong Kong Monetary Authority",
+    "publisher_id": "hong-kong-monetary-authority",
+    "publishers": [
+      {
+        "id": "hong-kong-monetary-authority",
+        "name": "Hong Kong Monetary Authority"
+      }
+    ],
+    "source_role": "primary_authority",
+    "source_url": "https://www.hkma.gov.hk/eng/news-and-media/press-releases/2026/09/20260924-4/",
+    "status": "current",
+    "summary": "HKMA and Bank Indonesia signed an MoU to explore QR-code cross-border payment interoperability and hold technical, operational and regulatory dialogues. The announcement states no implementation arrangement, participant requirement or deadline.",
+    "title": "Hong Kong Monetary Authority and Bank Indonesia Strengthen Cooperation in Cross-Border Payments",
+    "topics": [
+      "cross-border payments",
+      "QR payments",
+      "payment interoperability"
+    ]
+  },
+  {
+    "authority": "Hong Kong Monetary Authority",
     "authority_label": "supervisory expectation",
     "bulletin_date": "2026-09-24",
     "bulletin_path": "bulletins/2026/09/24/daily/",
