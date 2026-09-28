@@ -43,6 +43,46 @@
     ]
   },
   {
+    "authority": "DBS Bank (Hong Kong) Limited",
+    "authority_label": "commercial/risk recommendation",
+    "bulletin_date": "2026-09-28",
+    "bulletin_path": "bulletins/2026/09/28/daily/",
+    "deadline": "Progressive Hong Kong introduction from 26 September 2026; later retail agentic phase planned for 2027",
+    "document_type": "official bank product announcement",
+    "id": "item-20260925-hk-banks-news-3ae09be694",
+    "impact_areas": [
+      "agentic-AI",
+      "corporate-and-SME-servicing",
+      "customer-authentication",
+      "transaction-authorisation",
+      "data-governance"
+    ],
+    "jurisdiction": "HK",
+    "official_published": "2026-09-25",
+    "products": [
+      "digital",
+      "payment"
+    ],
+    "publisher": "DBS Bank (Hong Kong) Limited",
+    "publisher_id": "dbs-bank-hong-kong",
+    "publishers": [
+      {
+        "id": "dbs-bank-hong-kong",
+        "name": "DBS Bank (Hong Kong) Limited"
+      }
+    ],
+    "source_role": "official_entity",
+    "source_url": "https://www.dbs.com/newsroom/DBS_Hong_Kong_Gen_AI_enabled_virtual_assistants_reach_over_1_million_customers_and_go_agentic_EN",
+    "status": "current",
+    "summary": "DBS Hong Kong says it will progressively introduce agentic capabilities for DBS IDEAL corporate and SME users from 26 September 2026. DBS says authenticated customers can complete supported banking tasks through conversation; the announcement does not state the underlying control design.",
+    "title": "DBS Hong Kong’s Gen AI-enabled virtual assistants reach over 1 million customers and go agentic",
+    "topics": [
+      "agentic-ai",
+      "digital-banking",
+      "sme-servicing"
+    ]
+  },
+  {
     "authority": "Hong Kong Monetary Authority",
     "authority_label": "commercial/risk recommendation",
     "bulletin_date": "2026-09-25",

@@ -1,0 +1,54 @@
+{
+  "date": "2026-09-28",
+  "draft_sha256": "d4e2c26dbc2b5d7798c6373d94b961ff04aa26986ed647b6eb81e4b5b1f995f7",
+  "findings": [
+    {
+      "authority": "DBS Bank (Hong Kong) Limited",
+      "authority_label": "commercial/risk recommendation",
+      "bulletin_date": "2026-09-28",
+      "deadline": "Progressive Hong Kong introduction from 26 September 2026; later retail agentic phase planned for 2027",
+      "document_type": "official bank product announcement",
+      "id": "item-20260925-hk-banks-news-3ae09be694",
+      "impact_areas": [
+        "agentic-AI",
+        "corporate-and-SME-servicing",
+        "customer-authentication",
+        "transaction-authorisation",
+        "data-governance"
+      ],
+      "jurisdiction": "HK",
+      "official_published": "2026-09-25",
+      "products": [
+        "digital",
+        "payment"
+      ],
+      "publisher": "DBS Bank (Hong Kong) Limited",
+      "publisher_id": "dbs-bank-hong-kong",
+      "publishers": [
+        {
+          "id": "dbs-bank-hong-kong",
+          "name": "DBS Bank (Hong Kong) Limited"
+        }
+      ],
+      "source_role": "official_entity",
+      "source_url": "https://www.dbs.com/newsroom/DBS_Hong_Kong_Gen_AI_enabled_virtual_assistants_reach_over_1_million_customers_and_go_agentic_EN",
+      "status": "current",
+      "summary": "DBS Hong Kong says it will progressively introduce agentic capabilities for DBS IDEAL corporate and SME users from 26 September 2026. DBS says authenticated customers can complete supported banking tasks through conversation; the announcement does not state the underlying control design.",
+      "title": "DBS Hong Kong’s Gen AI-enabled virtual assistants reach over 1 million customers and go agentic",
+      "topics": [
+        "agentic-ai",
+        "digital-banking",
+        "sme-servicing"
+      ]
+    }
+  ],
+  "item_ids": [
+    "item-20260925-hk-banks-news-3ae09be694"
+  ],
+  "mode": "daily",
+  "path": "bulletins/2026/09/28/daily/",
+  "rendered_html": "<b><u>📔 Regulatory Bulletin — 28 September 2026 (Daily)</u></b>\n\n<b><u>Executive Summary</u></b>\n\n  • 🟡 DBS Hong Kong says it will progressively introduce agentic capabilities for authenticated corporate and SME virtual-assistant users from 26 September; this is a market and control watch, not a new Hong Kong requirement.\n\n<b><u>Hong Kong</u></b>\n\n\n<b>🟡 DBS Hong Kong announces agentic virtual-assistant rollout for corporate and SME users 🇭🇰</b>\n<b>Item ID:</b> item-20260925-hk-banks-news-3ae09be694\n<b>⏰ Deadline:</b> Progressive Hong Kong introduction from 26 September 2026; later retail agentic phase planned for 2027\n<b>Products:</b> Corporate digital banking, SME servicing, Payments\n\nDBS Hong Kong says it will progressively introduce agentic capabilities to DBS Joy for DBS IDEAL corporate and SME users from 26 September 2026. DBS says authenticated customers can complete supported banking tasks through conversation and that the assistant retrieves, analyses and presents transaction and account information. The release is an official product announcement, not a regulatory requirement or a finding of a control failure. Comparable digital servicing may warrant a market watch on task permissions, customer authorisation, account-data use, human escalation and operational support, while the release does not establish the underlying control design.\n\nSource: <a href=\"https://www.dbs.com/newsroom/DBS_Hong_Kong_Gen_AI_enabled_virtual_assistants_reach_over_1_million_customers_and_go_agentic_EN\">DBS Hong Kong’s Gen AI-enabled virtual assistants reach over 1 million customers and go agentic</a>\n\n<b><u>Mainland/GBA</u></b>\n\nNo validated current-run items.\n\n<b><u>SG/UK/GLOBAL Benchmark</u></b>\n\n<i>Comparable overseas developments and commercial/control benchmarks. They do not establish Hong Kong requirements.</i>\n\nNo validated current-run benchmark items.\n\n<b><u>Watch List</u></b>\n\n  • Monitor the disclosed DBS rollout for supported task permissions and customer-authorisation arrangements; the announcement does not provide those details.\n\n<b><u>Coverage</u></b>\n\n  • customs-tdo — skipped (0): out-of-cadence for daily mode\n  • consumer-council — skipped (0): out-of-cadence for daily mode\n  • interpol-financial-cyber — skipped (0): out-of-cadence for daily mode\n  • hkcert — skipped (0): out-of-cadence for daily mode\n  • sme-schemes — skipped (0): out-of-cadence for daily mode\n  • gba-official — skipped (0): out-of-cadence for daily mode\n  • gba-mainland-sweep — skipped (0): out-of-cadence for daily mode\n  • industry-bodies — skipped (0): out-of-cadence for daily mode\n  • lawfirm-big4-pages — skipped (0): out-of-cadence for daily mode\n  • lawfirm-big4-sweep — skipped (0): out-of-cadence for daily mode\n  • mas-benchmark — skipped (0): out-of-cadence for daily mode\n  • fca-benchmark — skipped (0): out-of-cadence for daily mode\n  • boe-benchmark — skipped (0): out-of-cadence for daily mode\n  • scam-fraud-cluster — disabled (0): disabled 2026-07-22; CyberDefender and Scameter return HTTP 403 and remain blocked by Cloudflare in browser mode; search fallback found no current items. JFIU is reachable but its latest listed activity is from 2025.\n  • regulation-asia — disabled (0): Disabled at user request: the latest-news page is subscription-gated, making extraction unreliable, and recent results yielded no scoped HK/CN-GBA/SG/UK banking items.\n  • daily-exploratory-search — ok (1): all seven persisted Tavily query outcomes succeeded; one verified in-window HKEX market-infrastructure announcement admitted and remaining leads excluded or retained only as context\n  • hkma-circulars — empty (0): verified RSS feed checked; no publication dated 2026-09-25 through 2026-09-27\n  • hkma-guidelines — empty (0): verified RSS feed checked; no publication dated 2026-09-25 through 2026-09-27\n  • hkma-spm — empty (0): verified RSS feed checked; no publication dated 2026-09-25 through 2026-09-27\n  • hkma-consultations — empty (0): verified RSS feed checked; no publication dated 2026-09-25 through 2026-09-27\n  • hkma-press — ok (3): verified RSS feed and canonical pages checked; three 25 September publications collected and complete HKMA source-chain manifests recorded\n  • hkma-brdr — empty (0): verified-TLS BRDR main listing checked; newest listed document is 23 September 2026, with no publication dated 2026-09-25 through 2026-09-27\n  • sfc-circulars — empty (0): verified-TLS e-Distribution listing and POST /api/circular/search checked; newest general circular is 4 September 2026, with no publication dated 2026-09-25 through 2026-09-27\n  • sfc-aml-circulars — empty (0): verified-TLS AML listing and POST /api/circular/search checked; newest AML circular is 11 September 2026, with no publication dated 2026-09-25 through 2026-09-27\n  • sfc-consultations — empty (0): verified-TLS configured POST /api/consultation/search checked; newest listed consultation/conclusion dates are June 2026, with no publication dated 2026-09-25 through 2026-09-27\n  • sfc-web — empty (0): verified-TLS configured SFC pages and news API checked; two 25 September news items were reviewed and excluded because one is non-bank listed-issuer enforcement and the other is routine investor education\n  • pcpd — empty (0): verified-TLS configured PCPD listings and their official data feeds checked; guidance, media-statement and commissioner-report data contain no publication dated 2026-09-25 through 2026-09-27\n  • hk-enforcement-actions — empty (0): verified-TLS HKMA disciplinary index checked; verified browser rendering of the configured SFC enforcement listing showed one 25 September issuer-share suspension, excluded because it is not a bank or closely comparable control event\n  • global-material-incidents-enforcement — partial (0): MAS enforcement and media-release listings returned HTTP-200 maintenance content; FCA 25 September special-administration and CFD-authorisation items were reviewed and excluded as not exceptionally material transferable commercial-bank events, OCC latest enforcement publication is 17 September, and configured SGPC endpoints did not resolve a dated MAS item\n  • mas-parliamentary-replies — partial (0): configured MAS parliamentary-replies URL returned HTTP-200 maintenance content; no canonical reply publication could be verified for 2026-09-25 through 2026-09-27\n  • fstb — empty (0): verified-TLS press, consultation, bills/resolutions and Legislative Council brief listings checked; the only 25 September press items were appointments to retirement-schemes appeal and accounting-reporting bodies, with no qualifying banking development\n  • legco — partial (0): both configured LegCo listings failed normal TLS certificate verification; no browser or insecure fallback was used\n  • hk-banks-news — ok (1): verified-TLS listings and Hang Seng current-year XML fallback checked; DBS Hong Kong’s 25 September authenticated agentic-AI corporate/SME virtual-assistant announcement was collected, and no other verified in-window publication was found\n  • lexology — partial (0): verified-TLS popular listing was retrieved and browser-rendered; the potentially material financial-services round-up candidates returned HTTP 403 and a Cloudflare verification page, while the listing supplied no exact publication date or publisher canonical link, so no in-window item could be verified",
+  "rendered_sha256": "4d9613aaebb98c310e70a6dfc9c2c93a67086ed14e815122d83de821246133be",
+  "schema_version": 2,
+  "title": "Regulatory Bulletin — 28 September 2026 (Daily)"
+}
