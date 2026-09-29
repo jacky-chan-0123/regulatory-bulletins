@@ -43,6 +43,96 @@
     ]
   },
   {
+    "authority": "Hong Kong Monetary Authority and The Hong Kong Association of Banks",
+    "authority_label": "industry good practice",
+    "bulletin_date": "2026-09-29",
+    "bulletin_path": "bulletins/2026/09/29/daily/",
+    "deadline": "End of May 2027 for the further six-month repayment grace period",
+    "document_type": "HKMA/HKAB market announcement of industry-agreed credit support",
+    "event_family": "tai-po-fire-credit-support-measures",
+    "id": "item-20260928-hkma-press-2ab80f2940",
+    "impact_areas": [
+      "customer-support",
+      "loan-servicing",
+      "credit-risk",
+      "conduct"
+    ],
+    "jurisdiction": "HK",
+    "official_published": "2026-09-28",
+    "primary_url": "https://www.hkma.gov.hk/eng/news-and-media/press-releases/2026/09/20260928-5/",
+    "products": [
+      "lending",
+      "credit-card"
+    ],
+    "publisher": "Hong Kong Monetary Authority",
+    "publisher_id": "hong-kong-monetary-authority",
+    "publishers": [
+      {
+        "id": "hong-kong-monetary-authority",
+        "name": "Hong Kong Monetary Authority"
+      },
+      {
+        "id": "hong-kong-association-of-banks",
+        "name": "The Hong Kong Association of Banks"
+      }
+    ],
+    "source_role": "primary_authority",
+    "source_url": "https://www.hkma.gov.hk/eng/news-and-media/press-releases/2026/09/20260928-5/",
+    "status": "current",
+    "summary": "HKMA and HKAB announced that all 28 retail banks will extend by a further six months, to end-May 2027, the principal-and-interest repayment grace period for affected individuals’ existing mortgages, personal loans and credit-card loans. Wang Fuk Court mortgagee banks will continue flexible mortgage handling, including extending the original-mortgage grace period until a newly purchased unit is ready for intake.",
+    "title": "Banking industry further extends loan repayment grace period for affected individuals of Tai Po Fire",
+    "topics": [
+      "credit-support",
+      "loan-repayment",
+      "customer-support"
+    ]
+  },
+  {
+    "authority": "Securities and Futures Commission and Accounting and Financial Reporting Council",
+    "authority_label": "open interpretation",
+    "bulletin_date": "2026-09-29",
+    "bulletin_path": "bulletins/2026/09/29/daily/",
+    "deadline": "No source deadline stated",
+    "document_type": "regulatory-cooperation memorandum of understanding",
+    "event_family": "sfc-afrc-regulatory-cooperation-mou-2026",
+    "id": "item-20260928-sfc-web-26pr156",
+    "impact_areas": [
+      "financial-reporting",
+      "compliance-reporting",
+      "audit-and-assurance",
+      "regulatory-cooperation"
+    ],
+    "jurisdiction": "HK",
+    "official_published": "2026-09-28",
+    "primary_url": "https://www.sfc.hk/-/media/EN/files/ER/MOU/MoU-SFC-AFRC-20260928.pdf?rev=9db59c21bea7460c82ced24d356a4f9e&hash=664DDCF87D6472F16B98CDB29E34304E",
+    "products": [
+      "investment",
+      "digital"
+    ],
+    "publisher": "Securities and Futures Commission",
+    "publisher_id": "securities-and-futures-commission",
+    "publishers": [
+      {
+        "id": "securities-and-futures-commission",
+        "name": "Securities and Futures Commission"
+      },
+      {
+        "id": "accounting-and-financial-reporting-council",
+        "name": "Accounting and Financial Reporting Council"
+      }
+    ],
+    "source_role": "primary_authority",
+    "source_url": "https://apps.sfc.hk/edistributionWeb/gateway/EN/news-and-announcements/news/doc?refNo=26PR156",
+    "status": "current",
+    "summary": "The SFC and AFRC signed a new MoU on 28 September 2026, replacing their February 2021 MoU. It covers financial and, where applicable, compliance reporting by licensed corporations, SFC-licensed virtual asset service providers, SFC-authorised funds and registered open-ended fund companies, and related audit and assurance work. The MoU provides for information sharing, referrals, mutual assistance and coordinated inspections or investigations in matters of mutual regulatory interest, subject to law.",
+    "title": "SFC and AFRC extend regulatory cooperation to financial reporting of licensed firms and funds under new MoU",
+    "topics": [
+      "financial-reporting",
+      "regulatory-cooperation",
+      "audit-and-assurance"
+    ]
+  },
+  {
     "authority": "DBS Bank (Hong Kong) Limited",
     "authority_label": "commercial/risk recommendation",
     "bulletin_date": "2026-09-28",

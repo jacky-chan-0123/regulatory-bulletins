@@ -1,5 +1,18 @@
 [
   {
+    "date": "2026-09-29",
+    "draft_sha256": "8d245ffba56e1e89d2b726025aa7ad0e1dee2d68b7bc02e07e90b561ead1f5b9",
+    "item_ids": [
+      "item-20260928-hkma-press-2ab80f2940",
+      "item-20260928-sfc-web-26pr156"
+    ],
+    "mode": "daily",
+    "path": "bulletins/2026/09/29/daily/",
+    "rendered_sha256": "e4876ab322d2fe0d2886e3423088968689cbee7d62b458ed31b78b77155c86aa",
+    "schema_version": 2,
+    "title": "Regulatory Bulletin — 29 September 2026 (Daily)"
+  },
+  {
     "date": "2026-09-28",
     "draft_sha256": "d4e2c26dbc2b5d7798c6373d94b961ff04aa26986ed647b6eb81e4b5b1f995f7",
     "item_ids": [

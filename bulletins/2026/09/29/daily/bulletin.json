@@ -1,0 +1,104 @@
+{
+  "date": "2026-09-29",
+  "draft_sha256": "8d245ffba56e1e89d2b726025aa7ad0e1dee2d68b7bc02e07e90b561ead1f5b9",
+  "findings": [
+    {
+      "authority": "Hong Kong Monetary Authority and The Hong Kong Association of Banks",
+      "authority_label": "industry good practice",
+      "bulletin_date": "2026-09-29",
+      "deadline": "End of May 2027 for the further six-month repayment grace period",
+      "document_type": "HKMA/HKAB market announcement of industry-agreed credit support",
+      "event_family": "tai-po-fire-credit-support-measures",
+      "id": "item-20260928-hkma-press-2ab80f2940",
+      "impact_areas": [
+        "customer-support",
+        "loan-servicing",
+        "credit-risk",
+        "conduct"
+      ],
+      "jurisdiction": "HK",
+      "official_published": "2026-09-28",
+      "primary_url": "https://www.hkma.gov.hk/eng/news-and-media/press-releases/2026/09/20260928-5/",
+      "products": [
+        "lending",
+        "credit-card"
+      ],
+      "publisher": "Hong Kong Monetary Authority",
+      "publisher_id": "hong-kong-monetary-authority",
+      "publishers": [
+        {
+          "id": "hong-kong-monetary-authority",
+          "name": "Hong Kong Monetary Authority"
+        },
+        {
+          "id": "hong-kong-association-of-banks",
+          "name": "The Hong Kong Association of Banks"
+        }
+      ],
+      "source_role": "primary_authority",
+      "source_url": "https://www.hkma.gov.hk/eng/news-and-media/press-releases/2026/09/20260928-5/",
+      "status": "current",
+      "summary": "HKMA and HKAB announced that all 28 retail banks will extend by a further six months, to end-May 2027, the principal-and-interest repayment grace period for affected individuals’ existing mortgages, personal loans and credit-card loans. Wang Fuk Court mortgagee banks will continue flexible mortgage handling, including extending the original-mortgage grace period until a newly purchased unit is ready for intake.",
+      "title": "Banking industry further extends loan repayment grace period for affected individuals of Tai Po Fire",
+      "topics": [
+        "credit-support",
+        "loan-repayment",
+        "customer-support"
+      ]
+    },
+    {
+      "authority": "Securities and Futures Commission and Accounting and Financial Reporting Council",
+      "authority_label": "open interpretation",
+      "bulletin_date": "2026-09-29",
+      "deadline": "No source deadline stated",
+      "document_type": "regulatory-cooperation memorandum of understanding",
+      "event_family": "sfc-afrc-regulatory-cooperation-mou-2026",
+      "id": "item-20260928-sfc-web-26pr156",
+      "impact_areas": [
+        "financial-reporting",
+        "compliance-reporting",
+        "audit-and-assurance",
+        "regulatory-cooperation"
+      ],
+      "jurisdiction": "HK",
+      "official_published": "2026-09-28",
+      "primary_url": "https://www.sfc.hk/-/media/EN/files/ER/MOU/MoU-SFC-AFRC-20260928.pdf?rev=9db59c21bea7460c82ced24d356a4f9e&hash=664DDCF87D6472F16B98CDB29E34304E",
+      "products": [
+        "investment",
+        "digital"
+      ],
+      "publisher": "Securities and Futures Commission",
+      "publisher_id": "securities-and-futures-commission",
+      "publishers": [
+        {
+          "id": "securities-and-futures-commission",
+          "name": "Securities and Futures Commission"
+        },
+        {
+          "id": "accounting-and-financial-reporting-council",
+          "name": "Accounting and Financial Reporting Council"
+        }
+      ],
+      "source_role": "primary_authority",
+      "source_url": "https://apps.sfc.hk/edistributionWeb/gateway/EN/news-and-announcements/news/doc?refNo=26PR156",
+      "status": "current",
+      "summary": "The SFC and AFRC signed a new MoU on 28 September 2026, replacing their February 2021 MoU. It covers financial and, where applicable, compliance reporting by licensed corporations, SFC-licensed virtual asset service providers, SFC-authorised funds and registered open-ended fund companies, and related audit and assurance work. The MoU provides for information sharing, referrals, mutual assistance and coordinated inspections or investigations in matters of mutual regulatory interest, subject to law.",
+      "title": "SFC and AFRC extend regulatory cooperation to financial reporting of licensed firms and funds under new MoU",
+      "topics": [
+        "financial-reporting",
+        "regulatory-cooperation",
+        "audit-and-assurance"
+      ]
+    }
+  ],
+  "item_ids": [
+    "item-20260928-hkma-press-2ab80f2940",
+    "item-20260928-sfc-web-26pr156"
+  ],
+  "mode": "daily",
+  "path": "bulletins/2026/09/29/daily/",
+  "rendered_html": "<b><u>📔 Regulatory Bulletin — 29 September 2026 (Daily)</u></b>\n\n<b><u>Executive Summary</u></b>\n\n  • 🟡 The banking industry has extended principal-and-interest repayment relief for individuals affected by the Tai Po fire to end-May 2027. Participating retail banks should sustain eligible-customer servicing, collections handling and mortgage-transition arrangements through that period.\n  • 🟡 The SFC and AFRC have signed a replacement cooperation MoU covering reporting and related audit or assurance work for specified licensed firms and funds. It does not create a new reporting requirement or deadline, but may increase coordination around existing evidence for in-scope entities.\n\n<b><u>Hong Kong</u></b>\n\n\n<b>🟡 Banking industry further extends loan repayment grace period for affected individuals of Tai Po Fire 🇭🇰</b>\n<b>Item ID:</b> item-20260928-hkma-press-2ab80f2940\n<b>⏰ Deadline:</b> End of May 2027 for the further six-month repayment grace period\n<b>Products:</b> Mortgages, personal loans, credit cards\n\nThe HKMA and HKAB announced that all 28 retail banks will extend by a further six months, to end-May 2027, the principal-and-interest repayment grace period for affected individuals’ existing mortgages, personal loans and credit-card loans. Wang Fuk Court mortgagee banks will continue to handle mortgages flexibly, including extending the original-mortgage grace period until a newly purchased unit is ready for intake. The announcement is an industry-agreed credit-support measure rather than a new binding HKMA rule. It does not state eligibility evidence, accounting or credit-reporting treatment, fees, or arrangements for SME borrowers.\n\nSource: <a href=\"https://www.hkma.gov.hk/eng/news-and-media/press-releases/2026/09/20260928-5/\">Banking industry further extends loan repayment grace period for affected individuals of Tai Po Fire</a>\nPrimary source: <a href=\"https://www.hkma.gov.hk/eng/news-and-media/press-releases/2026/09/20260928-5/\">official document</a>\n\n\n<b>🟡 SFC and AFRC extend regulatory cooperation to financial reporting of licensed firms and funds under new MoU 🇭🇰</b>\n<b>Item ID:</b> item-20260928-sfc-web-26pr156\n<b>⏰ Deadline:</b> No source deadline stated\n<b>Products:</b> Investment services, virtual-asset services\n\nThe SFC and AFRC signed a new MoU on 28 September 2026, replacing their February 2021 MoU. It covers financial and, where applicable, compliance reporting by licensed corporations, SFC-licensed virtual asset service providers, SFC-authorised funds and registered open-ended fund companies, as well as related audit and assurance work. The MoU provides for information sharing, referrals, mutual assistance and coordinated inspections or investigations in matters of mutual regulatory interest, subject to law, and took effect when signed. It is a non-binding statement of intent that does not modify law or create enforceable third-party obligations; its relevance is to existing reporting and audit evidence for entities within the stated scope.\n\nSource: <a href=\"https://apps.sfc.hk/edistributionWeb/gateway/EN/news-and-announcements/news/doc?refNo=26PR156\">SFC and AFRC extend regulatory cooperation to financial reporting of licensed firms and funds under new MoU</a>\nPrimary source: <a href=\"https://www.sfc.hk/-/media/EN/files/ER/MOU/MoU-SFC-AFRC-20260928.pdf?rev=9db59c21bea7460c82ced24d356a4f9e&amp;hash=664DDCF87D6472F16B98CDB29E34304E\">official document</a>\n\n<b><u>SG/UK/GLOBAL Benchmark</u></b>\n<i>Comparable overseas developments and commercial/control benchmarks. They do not establish Hong Kong requirements.</i>\n\n<b><u>Watch List</u></b>\n\n  • Monitor whether the HKMA, HKAB or participating banks publish eligibility, credit-reporting, accounting or individual-case arrangements for the extended Tai Po fire support.\n  • Monitor any SFC or AFRC communications identifying reporting concerns or clarifying which group entities fall within the MoU’s scope.\n\n<b><u>Coverage</u></b>\n\n  • daily-exploratory-search — partial (0): Tavily plan completed; 21 leads reviewed, no admissible item. MAS speech candidate canonical fetch returned maintenance content, so official date/content were not verified.\n  • hkma-circulars — empty (0): verified RSS retrieved with no 2026-09-28 publication\n  • hkma-guidelines — empty (0): verified RSS retrieved with no 2026-09-28 publication\n  • hkma-spm — empty (0): verified RSS retrieved with no 2026-09-28 publication\n  • hkma-consultations — empty (0): verified RSS retrieved with no 2026-09-28 publication\n  • hkma-press — ok (3): verified RSS contained three 2026-09-28 publications; verified canonical evidence and complete bounded source chains recorded\n  • hkma-brdr — empty (0): verified BRDR listing retrieved; newest listed document is 23 Sep 2026, with no 2026-09-28 publication\n  • sfc-circulars — empty (0): verified SFC circular search API and rendered listing retrieved; newest record is 4 Sep 2026\n  • sfc-aml-circulars — empty (0): verified rendered SFC AML circular listing retrieved; newest record is 11 Sep 2026\n  • sfc-consultations — empty (0): verified SFC consultation API retrieved; newest consultation record is 29 Jan 2026\n  • sfc-web — ok (2): verified five configured SFC web listings; two in-window primary publications retained, with the same-event speech excluded\n  • pcpd — empty (0): verified PCPD dynamic guidance, media-statement and findings listings; only 28 Sep media item was a non-banking seminar and no other in-window publication was listed\n  • hk-enforcement-actions — partial (0): HKMA disciplinary index verified (last revision/action 22 Jul 2025); SFC enforcement listing returned only a JavaScript shell and verified-browser fallback exposed no entries, so its 28 Sep status could not be independently established.\n  • global-material-incidents-enforcement — partial (0): FCA verified three 28 Sep publications (individual bankruptcy, crypto-fraud restitution and two advisory firms entering administration), none exceptionally material or strongly transferable; OCC latest action notice was 17 Sep. MAS enforcement and media-release pages returned maintenance content; SGPC endpoint requests succeeded but did not provide a usable MAS listing.\n  • mas-parliamentary-replies — partial (0): official MAS parliamentary-replies page returned maintenance content, so no verified run-window determination was possible.\n  • fstb — empty (0): verified all four configured FSTB listings: press releases latest 25 Sep; consultation/policy index showed 2026 consultations but no 28 Sep item; bills/resolutions latest 8 Jul and LegCo briefs latest 21 Jan.\n  • legco — partial (0): deterministic fetches for both configured URLs failed TLS certificate verification; verified-browser fallback showed no 28 Sep bill progress and confirmed the committee page is an undated directory, but cannot cure the deterministic TLS failure.\n  • hk-banks-news — empty (0): verified all seven configured bank listings plus Hang Seng&#x27;s current-year XML fallback; latest dated publications were HSBC 17 Sep, Hang Seng 23 Sep, BOCHK 23 Sep, Standard Chartered 17 Sep, BEA 23 Sep and DBS 25 Sep, with no 28 Sep publication.\n  • lexology — partial (0): verified popular listing retrieved; potentially banking-relevant FinTech Global FS Regulatory Round-up candidate returned HTTP 403, and verified-browser fallback hit Cloudflare verification, so its canonical publisher evidence and exact publication date could not be established.",
+  "rendered_sha256": "e4876ab322d2fe0d2886e3423088968689cbee7d62b458ed31b78b77155c86aa",
+  "schema_version": 2,
+  "title": "Regulatory Bulletin — 29 September 2026 (Daily)"
+}
