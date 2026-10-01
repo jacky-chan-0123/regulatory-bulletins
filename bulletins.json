@@ -1,5 +1,20 @@
 [
   {
+    "date": "2026-10-01",
+    "draft_sha256": "f53126548a616423e9d1bccfaf847f7212ed43af4b56347e5f16eac1b6d961c5",
+    "item_ids": [
+      "item-20260930-hk-banks-news-6523e8b396",
+      "item-20260930-hkma-press-a41ebf3faf",
+      "item-20260930-sfc-circulars-26ec60",
+      "item-20260930-sfc-circulars-26ec61"
+    ],
+    "mode": "daily",
+    "path": "bulletins/2026/10/01/daily/",
+    "rendered_sha256": "aa78449c0531cca2b39b2b98890eb1cce2e7ef0e5c54870d65a63223861f7f20",
+    "schema_version": 2,
+    "title": "Regulatory Bulletin — 1 October 2026 (Daily)"
+  },
+  {
     "date": "2026-09-29",
     "draft_sha256": "8d245ffba56e1e89d2b726025aa7ad0e1dee2d68b7bc02e07e90b561ead1f5b9",
     "item_ids": [

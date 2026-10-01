@@ -1,0 +1,183 @@
+{
+  "date": "2026-10-01",
+  "draft_sha256": "f53126548a616423e9d1bccfaf847f7212ed43af4b56347e5f16eac1b6d961c5",
+  "findings": [
+    {
+      "authority": "Securities and Futures Commission",
+      "authority_label": "supervisory expectation",
+      "bulletin_date": "2026-10-01",
+      "deadline": "Preparation from Q3 2026; Q2 2028 scheduled launch subject to readiness",
+      "document_type": "SFC circular and implementation roadmap",
+      "event_family": "Hong Kong Investor Identification Regime for the exchange-traded derivatives market",
+      "id": "item-20260930-sfc-circulars-26ec61",
+      "impact_areas": [
+        "Client data",
+        "Order management",
+        "Regulatory reporting",
+        "Data privacy",
+        "Implementation planning"
+      ],
+      "jurisdiction": "HK",
+      "official_published": "2026-09-30",
+      "products": [
+        "Listed derivatives",
+        "Securities operations",
+        "Client onboarding"
+      ],
+      "publisher": "Securities and Futures Commission",
+      "publisher_id": "sfc",
+      "publishers": [
+        {
+          "id": "sfc",
+          "name": "Securities and Futures Commission"
+        }
+      ],
+      "source_role": "primary_authority",
+      "source_url": "https://apps.sfc.hk/edistributionWeb/gateway/EN/circular/doc?refNo=26EC61",
+      "status": "current",
+      "summary": "The SFC roadmap schedules HKIDR-DM implementation for Q2 2028, subject to market readiness, testing and rehearsals, and sets preparation milestones for relevant licensed corporations and registered institutions. The proposed Code provision remains to be gazetted and will take effect on a future SFC-determined date.",
+      "title": "Roadmap for Implementing the Hong Kong Investor Identification Regime for the Exchange-traded Derivatives Market",
+      "topics": [
+        "investor-identification",
+        "listed-derivatives",
+        "client-data",
+        "order-management"
+      ]
+    },
+    {
+      "authority": "Securities and Futures Commission",
+      "authority_label": "supervisory expectation",
+      "bulletin_date": "2026-10-01",
+      "deadline": "Q2 2028 scheduled launch; Code effective date to be determined",
+      "document_type": "SFC circular",
+      "event_family": "Hong Kong Investor Identification Regime for the exchange-traded derivatives market",
+      "id": "item-20260930-sfc-circulars-26ec60",
+      "impact_areas": [
+        "Client consent",
+        "Data privacy",
+        "Trade controls",
+        "Record keeping",
+        "Regulatory reporting"
+      ],
+      "jurisdiction": "HK",
+      "official_published": "2026-09-30",
+      "products": [
+        "Listed derivatives",
+        "Client onboarding",
+        "Securities operations"
+      ],
+      "publisher": "Securities and Futures Commission",
+      "publisher_id": "sfc",
+      "publishers": [
+        {
+          "id": "sfc",
+          "name": "Securities and Futures Commission"
+        }
+      ],
+      "source_role": "primary_authority",
+      "source_url": "https://apps.sfc.hk/edistributionWeb/gateway/EN/circular/doc?refNo=26EC60",
+      "status": "current",
+      "summary": "The SFC says relevant intermediaries will need express consent from individual clients for specified CID and BCAN collection and transfer under HKIDR-DM. It sets out identity-authentication, record and log expectations, while the proposed Code provision remains to be gazetted and its effective date is to be determined by the SFC.",
+      "title": "Obtaining client consent under the Hong Kong Investor Identification Regime for the exchange-traded derivatives market (HKIDR-DM)",
+      "topics": [
+        "investor-identification",
+        "client-consent",
+        "listed-derivatives",
+        "client-data"
+      ]
+    },
+    {
+      "authority": "Hong Kong Monetary Authority",
+      "authority_label": "implementation option",
+      "bulletin_date": "2026-10-01",
+      "deadline": "No source deadline stated",
+      "document_type": "HKMA press release / market-development announcement",
+      "event_family": "IP Financing Sandbox",
+      "id": "item-20260930-hkma-press-a41ebf3faf",
+      "impact_areas": [
+        "SME finance",
+        "Credit risk",
+        "Collateral valuation",
+        "Product development"
+      ],
+      "jurisdiction": "HK",
+      "official_published": "2026-09-30",
+      "products": [
+        "SME lending",
+        "IP-backed finance"
+      ],
+      "publisher": "Hong Kong Monetary Authority",
+      "publisher_id": "hkma",
+      "publishers": [
+        {
+          "id": "hkma",
+          "name": "Hong Kong Monetary Authority"
+        }
+      ],
+      "source_role": "primary_authority",
+      "source_url": "https://www.hkma.gov.hk/eng/news-and-media/press-releases/2026/09/20260930-4/",
+      "status": "current",
+      "summary": "HKMA reports that three participating banks completed credit approvals for seven IP Financing Sandbox pilot cases, using independent IP valuation reports in credit assessment. HKMA describes the Sandbox as a risk-controlled pilot and does not state a broader participation requirement or a new supervisory deadline.",
+      "title": "Participating banks in IP Financing Sandbox complete credit approval for first batch of pilot cases",
+      "topics": [
+        "ip-financing",
+        "sme-lending",
+        "credit-risk",
+        "collateral-valuation"
+      ]
+    },
+    {
+      "authority": "The Hongkong and Shanghai Banking Corporation Limited",
+      "authority_label": "commercial/risk recommendation",
+      "bulletin_date": "2026-10-01",
+      "deadline": "H2 2026 planned launch (bank statement; no confirmed date)",
+      "document_type": "Official bank market announcement",
+      "event_family": "HSBC RedCoin planned stablecoin launch",
+      "id": "item-20260930-hk-banks-news-6523e8b396",
+      "impact_areas": [
+        "Stablecoins",
+        "Digital assets",
+        "Customer protection",
+        "Product governance"
+      ],
+      "jurisdiction": "HK",
+      "official_published": "2026-09-30",
+      "products": [
+        "Payments",
+        "Digital assets",
+        "Mobile app"
+      ],
+      "publisher": "HSBC",
+      "publisher_id": "hsbc",
+      "publishers": [
+        {
+          "id": "hsbc",
+          "name": "HSBC"
+        }
+      ],
+      "source_role": "official_entity",
+      "source_url": "https://www.about.hsbc.com.hk/news-and-media/hsbc-names-stablecoin-hsbc-redcoin",
+      "status": "current",
+      "summary": "HSBC announced the name of its planned Hong Kong-dollar stablecoin and says it plans a phased H2 2026 launch, initially through PayMe and the HSBC HK Mobile App for P2P and P2M payments. The bank statement does not confirm a launch date, licence terms, corporate availability, redemption design or cross-border scope.",
+      "title": "HSBC names stablecoin ‘HSBC Redcoin’",
+      "topics": [
+        "stablecoins",
+        "digital-assets",
+        "payments",
+        "customer-protection"
+      ]
+    }
+  ],
+  "item_ids": [
+    "item-20260930-hk-banks-news-6523e8b396",
+    "item-20260930-hkma-press-a41ebf3faf",
+    "item-20260930-sfc-circulars-26ec60",
+    "item-20260930-sfc-circulars-26ec61"
+  ],
+  "mode": "daily",
+  "path": "bulletins/2026/10/01/daily/",
+  "rendered_html": "<b><u>📔 Regulatory Bulletin — 1 October 2026 (Daily)</u></b>\n\n<b><u>Executive Summary</u></b>\n\n  • The SFC has set a conditional Q2 2028 implementation programme for HKIDR-DM; in-scope securities businesses should sequence client-data, consent and order-management changes against the published preparation milestones.\n  • Individual clients without express HKIDR-DM consent will be unable to open exchange-traded derivatives positions once the regime is implemented, creating a material customer-journey and revenue dependency for relevant intermediaries.\n  • HKMA reports that three participating banks have approved seven IP-financing Sandbox pilots, providing a voluntary SME-lending market-development reference rather than a new underwriting requirement.\n  • HSBC has named its planned Hong Kong-dollar stablecoin and describes a phased payments launch in H2 2026; the announcement does not verify licence terms, launch date or corporate availability.\n\n<b><u>Hong Kong</u></b>\n\n\n<b>🟡 Roadmap for Implementing the Hong Kong Investor Identification Regime for the Exchange-traded Derivatives Market 🇭🇰</b>\n<b>Item ID:</b> item-20260930-sfc-circulars-26ec61\n<b>⏰ Deadline:</b> Preparation from Q3 2026; Q2 2028 scheduled launch subject to readiness\n<b>Products:</b> Listed derivatives, securities operations, client onboarding\n\nThe Securities and Futures Commission (SFC) signals a future HKIDR-DM implementation programme for relevant licensed corporations and registered institutions, with a Q2 2028 launch scheduled subject to market readiness, testing and rehearsals. Its roadmap sets preparation periods for consent and CID updates through Q4 2027, OMS enhancement to Q3 2027, and BCAN/mapping-file preparation, testing and submission through Q1 2028. The proposed Code provision will be gazetted and take effect on a future SFC-determined date, so the roadmap does not fix commencement or replace future HKEX technical requirements. In-scope businesses may need coordinated client-data, OMS, broker-chain, data-lineage and testing work; corporate CID is in scope, while the individual-consent requirement does not apply to corporate clients.\n\nSource: <a href=\"https://apps.sfc.hk/edistributionWeb/gateway/EN/circular/doc?refNo=26EC61\">Roadmap for Implementing the Hong Kong Investor Identification Regime for the Exchange-traded Derivatives Market</a>\n\n\n<b>🟡 Obtaining client consent under the Hong Kong Investor Identification Regime for the exchange-traded derivatives market (HKIDR-DM) 🇭🇰</b>\n<b>Item ID:</b> item-20260930-sfc-circulars-26ec60\n<b>⏰ Deadline:</b> Q2 2028 scheduled launch; Code effective date to be determined\n<b>Products:</b> Listed derivatives, client onboarding, securities operations\n\nThe SFC sets out forthcoming supervisory expectations for relevant intermediaries to obtain express consent from individual clients for specified CID and BCAN collection and transfer under HKIDR-DM. Consent cannot be inferred; without it, an intermediary may not enter an order or trade that opens a position, although it may enter an order or trade that closes an existing listed-derivatives position. The circular calls for identity authentication, retained consent and withdrawal records, and a written log retained during the client relationship and for at least two years afterwards. Paragraph 5.6A is still to be gazetted and will take effect on an SFC-determined date, so the stated Q2 2028 schedule is not a current legal effective date and the individual-consent requirement does not extend to corporate clients.\n\nSource: <a href=\"https://apps.sfc.hk/edistributionWeb/gateway/EN/circular/doc?refNo=26EC60\">Obtaining client consent under the Hong Kong Investor Identification Regime for the exchange-traded derivatives market (HKIDR-DM)</a>\n\n\n<b>🟡 Participating banks in IP Financing Sandbox complete credit approval for first batch of pilot cases 🇭🇰</b>\n<b>Item ID:</b> item-20260930-hkma-press-a41ebf3faf\n<b>⏰ Deadline:</b> No source deadline stated\n<b>Products:</b> SME lending, IP-backed finance\n\nThe Hong Kong Monetary Authority (HKMA) reports that three participating banks completed credit approvals for seven IP Financing Sandbox pilots, with loans from HK$1 million to HK$39 million for working capital, expansion and market promotion. The Sandbox, launched in December 2025 with government bodies and supported by HKAB, uses independent IP valuation reports in credit assessment and is described as a risk-controlled pilot. This is an implementation option and voluntary product-development reference, not a new supervisory obligation, mandated valuation standard or participation requirement. Banks considering comparable IP-backed SME lending may need to assess credit policy, valuation independence, collateral enforceability, fraud and conflict risk, customer disclosure, and third-party valuation capability; pilot outcomes and operating effectiveness are not stated.\n\nSource: <a href=\"https://www.hkma.gov.hk/eng/news-and-media/press-releases/2026/09/20260930-4/\">Participating banks in IP Financing Sandbox complete credit approval for first batch of pilot cases</a>\n\n\n<b>🟡 HSBC names stablecoin ‘HSBC Redcoin’ 🇭🇰</b>\n<b>Item ID:</b> item-20260930-hk-banks-news-6523e8b396\n<b>⏰ Deadline:</b> H2 2026 planned launch (bank statement; no confirmed date)\n<b>Products:</b> Payments, digital assets, mobile app\n\nHSBC says its forthcoming Hong Kong-dollar stablecoin will be called HSBC RedCoin and that it plans a second-half 2026 launch under a licence it says was granted in April. At launch, it says availability will be limited to PayMe and the HSBC HK Mobile App, initially for P2P and P2M payments before prospective wholesale corporate and institutional use cases. It also says it will publish scam-prevention and redemption education. This is a bank market announcement and commercial development, not an HKMA or SFC instrument: it does not verify licence terms, a launch date, corporate availability, redemption design, reserve arrangements or cross-border scope.\n\nSource: <a href=\"https://www.about.hsbc.com.hk/news-and-media/hsbc-names-stablecoin-hsbc-redcoin\">HSBC names stablecoin ‘HSBC Redcoin’</a>\n\n<b><u>Mainland/GBA</u></b>\n\nNo validated current-run Mainland/GBA items.\n\n<b><u>SG/UK/GLOBAL Benchmark</u></b>\n\n<i>Comparable overseas developments and commercial/control benchmarks. They do not establish Hong Kong requirements.</i>\n\nNo validated current-run benchmark items.\n\n<b><u>Watch List</u></b>\n\n  • Monitor final SFC commencement, HKEX technical specifications and market-rehearsal arrangements for HKIDR-DM.\n  • Monitor source-confirmed stablecoin launch, licence and customer-scope information before drawing implementation conclusions.\n\n<b><u>Coverage</u></b>\n\n  • customs-tdo — skipped (0): out-of-cadence for daily mode\n  • consumer-council — skipped (0): out-of-cadence for daily mode\n  • interpol-financial-cyber — skipped (0): out-of-cadence for daily mode\n  • hkcert — skipped (0): out-of-cadence for daily mode\n  • sme-schemes — skipped (0): out-of-cadence for daily mode\n  • gba-official — skipped (0): out-of-cadence for daily mode\n  • gba-mainland-sweep — skipped (0): out-of-cadence for daily mode\n  • industry-bodies — skipped (0): out-of-cadence for daily mode\n  • lawfirm-big4-pages — skipped (0): out-of-cadence for daily mode\n  • lawfirm-big4-sweep — skipped (0): out-of-cadence for daily mode\n  • mas-benchmark — skipped (0): out-of-cadence for daily mode\n  • fca-benchmark — skipped (0): out-of-cadence for daily mode\n  • boe-benchmark — skipped (0): out-of-cadence for daily mode\n  • scam-fraud-cluster — disabled (0): disabled 2026-07-22 — CyberDefender and Scameter return HTTP 403; JFIU&#x27;s latest listed activity is from 2025\n  • regulation-asia — disabled (0): disabled at user request; the latest-news page is subscription-gated and recent results yielded no scoped items\n  • daily-exploratory-search — partial (0): Tavily plan completed; one Federal Register benchmark lead could not be canonically verified because the fetch returned an access/CAPTCHA shell\n  • hkma-circulars — empty (0): verified TLS RSS feed checked; no official 2026-09-30 publication\n  • hkma-guidelines — empty (0): verified TLS RSS feed checked; no official 2026-09-30 publication\n  • hkma-spm — empty (0): verified TLS RSS feed checked; no official 2026-09-30 publication\n  • hkma-consultations — empty (0): verified TLS RSS feed checked; no official 2026-09-30 publication\n  • hkma-press — ok (5): verified TLS RSS feed checked; five official 2026-09-30 publications collected and bounded source chains completed\n  • hkma-brdr — empty (0): verified TLS listing and dynamic BRDR record checked; no official 2026-09-30 publication\n  • sfc-circulars — ok (2): verified TLS SFC circular API/listing checked; two official 2026-09-30 HKIDR-DM circulars collected\n  • sfc-aml-circulars — empty (0): verified TLS SFC circular API/listing checked; no official 2026-09-30 AML circular\n  • sfc-consultations — empty (0): verified TLS configured SFC consultation API checked; no official 2026-09-30 publication\n  • sfc-web — empty (0): verified TLS SFC regulatory-update and e-Distribution news API checked; no in-scope official 2026-09-30 publication\n  • pcpd — empty (0): verified TLS PCPD listings checked; no official 2026-09-30 publication\n  • hk-enforcement-actions — empty (0): verified TLS HKMA and SFC enforcement listings checked; no qualifying 2026-09-30 action\n  • global-material-incidents-enforcement — partial (0): FCA and OCC listings had no qualifying in-window event; MAS endpoints returned an HTTP 200 maintenance shell\n  • mas-parliamentary-replies — partial (0): configured MAS page returned an HTTP 200 maintenance shell; no canonical in-window reply could be verified\n  • fstb — ok (1): verified TLS FSTB listings checked; one 30 September 2026 government market-development announcement collected\n  • legco — partial (0): deterministic verified-TLS fetches failed certificate verification; browser fallback found no dated 30 September item\n  • hk-banks-news — ok (1): verified TLS bank news listings checked; one official HSBC stablecoin announcement collected\n  • lexology — empty (0): verified TLS Lexology listing checked; no in-scope candidate with a verified 2026-09-30 publisher-controlled date",
+  "rendered_sha256": "aa78449c0531cca2b39b2b98890eb1cce2e7ef0e5c54870d65a63223861f7f20",
+  "schema_version": 2,
+  "title": "Regulatory Bulletin — 1 October 2026 (Daily)"
+}

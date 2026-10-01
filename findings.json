@@ -43,6 +43,175 @@
     ]
   },
   {
+    "authority": "Securities and Futures Commission",
+    "authority_label": "supervisory expectation",
+    "bulletin_date": "2026-10-01",
+    "bulletin_path": "bulletins/2026/10/01/daily/",
+    "deadline": "Preparation from Q3 2026; Q2 2028 scheduled launch subject to readiness",
+    "document_type": "SFC circular and implementation roadmap",
+    "event_family": "Hong Kong Investor Identification Regime for the exchange-traded derivatives market",
+    "id": "item-20260930-sfc-circulars-26ec61",
+    "impact_areas": [
+      "Client data",
+      "Order management",
+      "Regulatory reporting",
+      "Data privacy",
+      "Implementation planning"
+    ],
+    "jurisdiction": "HK",
+    "official_published": "2026-09-30",
+    "products": [
+      "Listed derivatives",
+      "Securities operations",
+      "Client onboarding"
+    ],
+    "publisher": "Securities and Futures Commission",
+    "publisher_id": "sfc",
+    "publishers": [
+      {
+        "id": "sfc",
+        "name": "Securities and Futures Commission"
+      }
+    ],
+    "source_role": "primary_authority",
+    "source_url": "https://apps.sfc.hk/edistributionWeb/gateway/EN/circular/doc?refNo=26EC61",
+    "status": "current",
+    "summary": "The SFC roadmap schedules HKIDR-DM implementation for Q2 2028, subject to market readiness, testing and rehearsals, and sets preparation milestones for relevant licensed corporations and registered institutions. The proposed Code provision remains to be gazetted and will take effect on a future SFC-determined date.",
+    "title": "Roadmap for Implementing the Hong Kong Investor Identification Regime for the Exchange-traded Derivatives Market",
+    "topics": [
+      "investor-identification",
+      "listed-derivatives",
+      "client-data",
+      "order-management"
+    ]
+  },
+  {
+    "authority": "Securities and Futures Commission",
+    "authority_label": "supervisory expectation",
+    "bulletin_date": "2026-10-01",
+    "bulletin_path": "bulletins/2026/10/01/daily/",
+    "deadline": "Q2 2028 scheduled launch; Code effective date to be determined",
+    "document_type": "SFC circular",
+    "event_family": "Hong Kong Investor Identification Regime for the exchange-traded derivatives market",
+    "id": "item-20260930-sfc-circulars-26ec60",
+    "impact_areas": [
+      "Client consent",
+      "Data privacy",
+      "Trade controls",
+      "Record keeping",
+      "Regulatory reporting"
+    ],
+    "jurisdiction": "HK",
+    "official_published": "2026-09-30",
+    "products": [
+      "Listed derivatives",
+      "Client onboarding",
+      "Securities operations"
+    ],
+    "publisher": "Securities and Futures Commission",
+    "publisher_id": "sfc",
+    "publishers": [
+      {
+        "id": "sfc",
+        "name": "Securities and Futures Commission"
+      }
+    ],
+    "source_role": "primary_authority",
+    "source_url": "https://apps.sfc.hk/edistributionWeb/gateway/EN/circular/doc?refNo=26EC60",
+    "status": "current",
+    "summary": "The SFC says relevant intermediaries will need express consent from individual clients for specified CID and BCAN collection and transfer under HKIDR-DM. It sets out identity-authentication, record and log expectations, while the proposed Code provision remains to be gazetted and its effective date is to be determined by the SFC.",
+    "title": "Obtaining client consent under the Hong Kong Investor Identification Regime for the exchange-traded derivatives market (HKIDR-DM)",
+    "topics": [
+      "investor-identification",
+      "client-consent",
+      "listed-derivatives",
+      "client-data"
+    ]
+  },
+  {
+    "authority": "Hong Kong Monetary Authority",
+    "authority_label": "implementation option",
+    "bulletin_date": "2026-10-01",
+    "bulletin_path": "bulletins/2026/10/01/daily/",
+    "deadline": "No source deadline stated",
+    "document_type": "HKMA press release / market-development announcement",
+    "event_family": "IP Financing Sandbox",
+    "id": "item-20260930-hkma-press-a41ebf3faf",
+    "impact_areas": [
+      "SME finance",
+      "Credit risk",
+      "Collateral valuation",
+      "Product development"
+    ],
+    "jurisdiction": "HK",
+    "official_published": "2026-09-30",
+    "products": [
+      "SME lending",
+      "IP-backed finance"
+    ],
+    "publisher": "Hong Kong Monetary Authority",
+    "publisher_id": "hkma",
+    "publishers": [
+      {
+        "id": "hkma",
+        "name": "Hong Kong Monetary Authority"
+      }
+    ],
+    "source_role": "primary_authority",
+    "source_url": "https://www.hkma.gov.hk/eng/news-and-media/press-releases/2026/09/20260930-4/",
+    "status": "current",
+    "summary": "HKMA reports that three participating banks completed credit approvals for seven IP Financing Sandbox pilot cases, using independent IP valuation reports in credit assessment. HKMA describes the Sandbox as a risk-controlled pilot and does not state a broader participation requirement or a new supervisory deadline.",
+    "title": "Participating banks in IP Financing Sandbox complete credit approval for first batch of pilot cases",
+    "topics": [
+      "ip-financing",
+      "sme-lending",
+      "credit-risk",
+      "collateral-valuation"
+    ]
+  },
+  {
+    "authority": "The Hongkong and Shanghai Banking Corporation Limited",
+    "authority_label": "commercial/risk recommendation",
+    "bulletin_date": "2026-10-01",
+    "bulletin_path": "bulletins/2026/10/01/daily/",
+    "deadline": "H2 2026 planned launch (bank statement; no confirmed date)",
+    "document_type": "Official bank market announcement",
+    "event_family": "HSBC RedCoin planned stablecoin launch",
+    "id": "item-20260930-hk-banks-news-6523e8b396",
+    "impact_areas": [
+      "Stablecoins",
+      "Digital assets",
+      "Customer protection",
+      "Product governance"
+    ],
+    "jurisdiction": "HK",
+    "official_published": "2026-09-30",
+    "products": [
+      "Payments",
+      "Digital assets",
+      "Mobile app"
+    ],
+    "publisher": "HSBC",
+    "publisher_id": "hsbc",
+    "publishers": [
+      {
+        "id": "hsbc",
+        "name": "HSBC"
+      }
+    ],
+    "source_role": "official_entity",
+    "source_url": "https://www.about.hsbc.com.hk/news-and-media/hsbc-names-stablecoin-hsbc-redcoin",
+    "status": "current",
+    "summary": "HSBC announced the name of its planned Hong Kong-dollar stablecoin and says it plans a phased H2 2026 launch, initially through PayMe and the HSBC HK Mobile App for P2P and P2M payments. The bank statement does not confirm a launch date, licence terms, corporate availability, redemption design or cross-border scope.",
+    "title": "HSBC names stablecoin ‘HSBC Redcoin’",
+    "topics": [
+      "stablecoins",
+      "digital-assets",
+      "payments",
+      "customer-protection"
+    ]
+  },
+  {
     "authority": "Hong Kong Monetary Authority and The Hong Kong Association of Banks",
     "authority_label": "industry good practice",
     "bulletin_date": "2026-09-29",
