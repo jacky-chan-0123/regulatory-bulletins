@@ -1,5 +1,20 @@
 [
   {
+    "date": "2026-10-02",
+    "draft_sha256": "2047b73f9ef123c68e3e3cff63d445f2d27a8ce07d21d442e8712892c9ea07ef",
+    "item_ids": [
+      "item-20260929-hk-enforcement-actions-ae6c90119d",
+      "item-20260930-fca-benchmark-de8a3eb453",
+      "item-20260930-hk-banks-news-hsbc-redcoin",
+      "item-20260930-hkma-press-a41ebf3faf"
+    ],
+    "mode": "weekly",
+    "path": "bulletins/2026/10/02/weekly/",
+    "rendered_sha256": "c97540debe8f503b3e76b64b7c379ecdec9d746d9cb70fa09528c8688af70220",
+    "schema_version": 2,
+    "title": "Regulatory Bulletin — 2 October 2026 (Weekly)"
+  },
+  {
     "date": "2026-10-01",
     "draft_sha256": "f53126548a616423e9d1bccfaf847f7212ed43af4b56347e5f16eac1b6d961c5",
     "item_ids": [

@@ -1,0 +1,180 @@
+{
+  "date": "2026-10-02",
+  "draft_sha256": "2047b73f9ef123c68e3e3cff63d445f2d27a8ce07d21d442e8712892c9ea07ef",
+  "findings": [
+    {
+      "authority": "Securities and Futures Commission",
+      "authority_label": "supervisory expectation",
+      "bulletin_date": "2026-10-02",
+      "deadline": "Responsible-officer suspension ends 27 April 2027; no broader source deadline stated",
+      "document_type": "enforcement announcement and disciplinary action",
+      "event_family": "sfc-zheng-da-aml-futures-ordering-systems-enforcement-2026",
+      "id": "item-20260929-hk-enforcement-actions-ae6c90119d",
+      "impact_areas": [
+        "AML-CFT",
+        "trading-surveillance",
+        "third-party-system-controls",
+        "senior-management-accountability"
+      ],
+      "jurisdiction": "HK",
+      "official_published": "2026-09-29",
+      "products": [
+        "investment"
+      ],
+      "publisher": "Securities and Futures Commission",
+      "publisher_id": "sfc",
+      "publishers": [
+        {
+          "id": "sfc",
+          "name": "Securities and Futures Commission"
+        }
+      ],
+      "source_role": "primary_authority",
+      "source_url": "https://apps.sfc.hk/edistributionWeb/gateway/EN/news-and-announcements/news/enforcement-news/doc?refNo=26PR158",
+      "status": "current",
+      "summary": "SFC reprimanded and fined Zheng Da HK$7 million for AML/CFT and other failures, and suspended a responsible officer from 28 September 2026 to 27 April 2027. The final disciplinary action concerns customer-supplied futures-order systems, deposit enquiries and suspicious-trading monitoring.",
+      "title": "SFC reprimands and fines Zheng Da International Financial Holding Limited $7 million and suspends its responsible officer for regulatory breaches",
+      "topics": [
+        "aml-cft",
+        "enforcement",
+        "trading-surveillance",
+        "third-party-controls"
+      ]
+    },
+    {
+      "authority": "Financial Conduct Authority",
+      "authority_label": "open interpretation",
+      "bulletin_date": "2026-10-02",
+      "deadline": "UK continuation applications: 28 February 2027; UK regime commencement: 25 October 2027",
+      "document_type": "FCA press release",
+      "event_family": "UK cryptoasset authorisation regime 2026-2027",
+      "id": "item-20260930-fca-benchmark-de8a3eb453",
+      "impact_areas": [
+        "cryptoasset-authorisation",
+        "consumer-protection",
+        "safeguarding",
+        "financial-resilience"
+      ],
+      "jurisdiction": "UK",
+      "official_published": "2026-09-30",
+      "primary_url": "https://www.fca.org.uk/news/press-releases/fca-opens-gateway-regulated-crypto",
+      "products": [
+        "payment",
+        "digital",
+        "investment"
+      ],
+      "publisher": "Financial Conduct Authority",
+      "publisher_id": "fca",
+      "publishers": [
+        {
+          "id": "fca",
+          "name": "Financial Conduct Authority"
+        }
+      ],
+      "source_role": "primary_authority",
+      "source_url": "https://www.fca.org.uk/news/press-releases/fca-opens-gateway-regulated-crypto",
+      "status": "current",
+      "summary": "FCA opened applications for UK crypto-firm authorisation. Firms intending to continue operating in the UK should apply by 28 February 2027, ahead of the new regime taking effect on 25 October 2027.",
+      "title": "FCA opens the gateway to regulated crypto",
+      "topics": [
+        "cryptoassets",
+        "authorisation",
+        "consumer-protection",
+        "safeguarding"
+      ]
+    },
+    {
+      "authority": "The Hongkong and Shanghai Banking Corporation Limited",
+      "authority_label": "commercial/risk recommendation",
+      "bulletin_date": "2026-10-02",
+      "deadline": "Planned launch in the second half of 2026; no specific source date stated",
+      "document_type": "official bank market announcement",
+      "event_family": "HSBC RedCoin planned stablecoin launch",
+      "id": "item-20260930-hk-banks-news-hsbc-redcoin",
+      "impact_areas": [
+        "stablecoin-market-development",
+        "merchant-payments",
+        "customer-education",
+        "fraud-prevention"
+      ],
+      "jurisdiction": "HK",
+      "official_published": "2026-09-30",
+      "products": [
+        "payment",
+        "digital",
+        "cross-border-GBA"
+      ],
+      "publisher": "The Hongkong and Shanghai Banking Corporation Limited",
+      "publisher_id": "hsbc-hong-kong",
+      "publishers": [
+        {
+          "id": "hsbc-hong-kong",
+          "name": "The Hongkong and Shanghai Banking Corporation Limited"
+        }
+      ],
+      "source_role": "official_entity",
+      "source_url": "https://www.about.hsbc.com.hk/news-and-media/hsbc-names-stablecoin-hsbc-redcoin",
+      "status": "current",
+      "summary": "HSBC says its forthcoming Hong Kong-dollar stablecoin will be called HSBC RedCoin and is planned for a second-half 2026 launch. It says launch availability will initially be through PayMe and the HSBC HK Mobile App for P2P and P2M payments.",
+      "title": "HSBC names stablecoin ‘HSBC Redcoin’",
+      "topics": [
+        "stablecoin",
+        "payments",
+        "merchant-payments",
+        "fraud-prevention"
+      ]
+    },
+    {
+      "authority": "Hong Kong Monetary Authority",
+      "authority_label": "implementation option",
+      "bulletin_date": "2026-10-02",
+      "deadline": "No source deadline stated",
+      "document_type": "HKMA press release / market-development announcement",
+      "event_family": "IP Financing Sandbox",
+      "id": "item-20260930-hkma-press-a41ebf3faf",
+      "impact_areas": [
+        "SME-finance",
+        "credit-risk",
+        "collateral-valuation",
+        "product-development"
+      ],
+      "jurisdiction": "HK",
+      "official_published": "2026-09-30",
+      "products": [
+        "lending",
+        "SME-onboarding"
+      ],
+      "publisher": "Hong Kong Monetary Authority",
+      "publisher_id": "hkma",
+      "publishers": [
+        {
+          "id": "hkma",
+          "name": "Hong Kong Monetary Authority"
+        }
+      ],
+      "source_role": "primary_authority",
+      "source_url": "https://www.hkma.gov.hk/eng/news-and-media/press-releases/2026/09/20260930-4/",
+      "status": "current",
+      "summary": "HKMA says three participating banks completed credit approvals for seven IP Financing Sandbox pilot cases. The voluntary, risk-controlled pilot uses independent IP valuation reports in credit assessment and does not prescribe broader participation or an underwriting methodology.",
+      "title": "Participating banks in IP Financing Sandbox complete credit approval for first batch of pilot cases",
+      "topics": [
+        "sme-finance",
+        "ip-financing",
+        "credit-risk",
+        "collateral-valuation"
+      ]
+    }
+  ],
+  "item_ids": [
+    "item-20260929-hk-enforcement-actions-ae6c90119d",
+    "item-20260930-fca-benchmark-de8a3eb453",
+    "item-20260930-hk-banks-news-hsbc-redcoin",
+    "item-20260930-hkma-press-a41ebf3faf"
+  ],
+  "mode": "weekly",
+  "path": "bulletins/2026/10/02/weekly/",
+  "rendered_html": "<b><u>📔 Regulatory Bulletin — 2 October 2026 (Weekly)</u></b>\n\n<b><u>Executive Summary</u></b>\n\n  • 🟡 <b>SFC enforcement:</b> A HK$7 million fine and responsible-officer suspension at Zheng Da put client-supplied futures-order systems, deposit enquiries and suspicious-trading monitoring into focus for comparable securities businesses.\n  • 🟡 <b>IP-finance pilots:</b> Three banks have completed seven Sandbox credit approvals, providing a voluntary market-development signal for SME IP-backed lending rather than a new underwriting requirement.\n  • 🟡 <b>HKD stablecoin proposition:</b> HSBC says its planned RedCoin will begin in PayMe and its Hong Kong mobile app; the statement does not verify licence terms, launch timing or corporate availability.\n  • 🟡 <b>UK crypto gateway:</b> FCA has opened authorisation applications, with a 28 February 2027 continuation-application date; this is a UK requirement and only an analogous readiness benchmark for Hong Kong.\n\n<b><u>Hong Kong</u></b>\n\n\n<b>🟡 Participating banks complete first IP Financing Sandbox pilot credit approvals 🇭🇰</b>\n<b>Item ID:</b> item-20260930-hkma-press-a41ebf3faf\n<b>⏰ Deadline:</b> No source deadline stated\n<b>Products:</b> SME lending; IP-backed finance\n\nHKMA says three participating banks completed credit approvals for seven IP Financing Sandbox pilot cases, with loans of HK$1 million to HK$39 million for working capital, expansion and market promotion. The December 2025 Sandbox uses independent IP valuation reports in credit assessment and is described as a risk-controlled pilot supported by government bodies and HKAB. This is a voluntary product-development initiative, not a prescribed IP-collateral methodology, underwriting threshold or broader participation requirement; banks considering such lending may assess valuation, collateral enforceability and related credit-risk capabilities.\n\nSource: <a href=\"https://www.hkma.gov.hk/eng/news-and-media/press-releases/2026/09/20260930-4/\">Participating banks in IP Financing Sandbox complete credit approval for first batch of pilot cases</a>\n\n\n<b>🟡 HSBC names planned Hong Kong-dollar stablecoin “HSBC RedCoin” 🇭🇰</b>\n<b>Item ID:</b> item-20260930-hk-banks-news-hsbc-redcoin\n<b>⏰ Deadline:</b> Planned launch in the second half of 2026; no specific source date stated\n<b>Products:</b> P2P payments; merchant payments; mobile app\n\nHSBC says its forthcoming Hong Kong-dollar stablecoin will be called HSBC RedCoin and that it has not issued stablecoins in Hong Kong. It plans a second-half 2026 launch through PayMe and the HSBC HK Mobile App, initially for P2P and P2M payments, with potential later wholesale corporate and institutional use cases. This is an official bank statement rather than an HKMA or SFC instrument, so it does not verify licence terms, a confirmed launch date, corporate availability or cross-border scope; comparable propositions may warrant preparation on redemption communications and fraud operations.\n\nSource: <a href=\"https://www.about.hsbc.com.hk/news-and-media/hsbc-names-stablecoin-hsbc-redcoin\">HSBC names stablecoin ‘HSBC Redcoin’</a>\n\n<b><u>Material Losses, Fines &amp; Enforcement</u></b>\n\n\n<b>🟡 SFC fines Zheng Da HK$7 million over AML/CFT and control failures 🇭🇰</b>\n<b>Item ID:</b> item-20260929-hk-enforcement-actions-ae6c90119d\n<b>⏰ Deadline:</b> Responsible-officer suspension ends 27 April 2027; no broader source deadline stated\n<b>Products:</b> Futures trading; securities onboarding; order systems\n\nSFC reprimanded and fined Zheng Da International Financial Holding Limited HK$7 million for AML/CFT and other failures during 1 December 2021 to 30 September 2023, and suspended responsible officer Zhong Hao from 28 September 2026 to 27 April 2027. SFC found inadequate due diligence and testing of customer-supplied futures-order systems, unsupported deposit enquiries in eight client accounts, and ineffective monitoring of suspicious trading; Zheng Da disabled the systems from August 2025. This final, case-specific disciplinary action concerns an SFC Type 2/5 intermediary and existing AML/CFT, AML Guideline and Code obligations, not a new HKMA requirement; comparable securities businesses may test system approval, surveillance and escalation evidence.\n\nSource: <a href=\"https://apps.sfc.hk/edistributionWeb/gateway/EN/news-and-announcements/news/enforcement-news/doc?refNo=26PR158\">SFC reprimands and fines Zheng Da International Financial Holding Limited $7 million and suspends its responsible officer for regulatory breaches</a>\n\n<b><u>SG/UK/GLOBAL Benchmark</u></b>\n<i>Comparable overseas developments and commercial/control benchmarks. They do not establish Hong Kong requirements.</i>\n\n\n<b>🟡 FCA opens applications for regulated crypto-firm authorisation 🇬🇧</b>\n<b>Item ID:</b> item-20260930-fca-benchmark-de8a3eb453\n<b>⏰ Deadline:</b> UK continuation applications: 28 February 2027; UK regime commencement: 25 October 2027\n<b>Products:</b> Cryptoassets; digital payments; investments\n\nFCA opened applications on 30 September 2026 for UK crypto-firm authorisation and says firms intending to continue operating in the UK should apply by 28 February 2027, ahead of the new regime taking effect on 25 October 2027. FCA says applicants must demonstrate standards on consumer protection, safeguarding customer assets, market integrity and financial resilience, while existing firms applying during the period may continue services as an undecided application is assessed. These are UK requirements rather than Hong Kong obligations; for a group entity operating in the UK, the announcement is an authorisation-readiness trigger, while for Hong Kong it is only an analogous benchmark.\n\nSource: <a href=\"https://www.fca.org.uk/news/press-releases/fca-opens-gateway-regulated-crypto\">FCA opens the gateway to regulated crypto</a>\nPrimary source: <a href=\"https://www.fca.org.uk/news/press-releases/fca-opens-gateway-regulated-crypto\">official document</a>\n\n<b><u>Watch List</u></b>\n\n  • UK crypto firms seeking to continue operating under the new regime should monitor the 28 February 2027 application date and the underlying FCA rules and guidance referenced in the FCA release.\n  • HSBC’s stated second-half 2026 plan is prospective; the source does not state the licence conditions, reserve and redemption design, fees, customer eligibility or wholesale and cross-border scope.\n  • HKMA does not state pilot repayment performance, collateral structure, valuation standards, recourse or plans for wider Sandbox standards or expansion.\n\n<b><u>Weekly Trend</u></b>\n\nThis week’s items combine a final SFC control-enforcement outcome with two Hong Kong product-development signals and a UK crypto-authorisation milestone. The common management question is whether a proposition or comparable arrangement exists, while keeping voluntary pilots, bank statements and overseas requirements distinct from Hong Kong obligations.\n\n<b><u>Coverage</u></b>\n\n  • boe-benchmark — skipped (0): out-of-cadence for weekly mode\n  • scam-fraud-cluster — disabled (0): disabled; configured sites remain blocked or have no current eligible item\n  • regulation-asia — disabled (0): disabled at user request because the latest-news page is subscription-gated\n  • daily-exploratory-search — empty (0): seven persisted query outcomes succeeded; 28 leads logged and none admitted\n  • hkma-circulars — empty (0): verified RSS feed; no publication in the weekly window\n  • hkma-guidelines — empty (0): verified RSS feed; no publication in the weekly window\n  • hkma-spm — empty (0): verified RSS feed; no publication in the weekly window\n  • hkma-consultations — empty (0): verified RSS feed; no publication in the weekly window\n  • hkma-press — ok (1): verified RSS feed; one eligible SME IP-financing Sandbox update collected\n  • hkma-brdr — empty (0): verified listing; no relevant record in the weekly window\n  • sfc-circulars — empty (0): verified search; no new eligible item\n  • sfc-aml-circulars — ok (1): verified search and canonical page; UN sanctions early alert collected\n  • sfc-consultations — empty (0): verified API response; no in-window consultation or conclusion\n  • sfc-web — ok (1): verified listings; scam-prevention and cybersecurity update collected\n  • pcpd — empty (0): verified listings; no eligible in-window publication\n  • hk-enforcement-actions — ok (1): verified listings; SFC disciplinary action collected\n  • global-material-incidents-enforcement — partial (0): MAS endpoints returned maintenance shells; FCA and OCC listings had no qualifying event\n  • mas-parliamentary-replies — partial (0): configured MAS URL returned a maintenance shell\n  • fstb — empty (0): verified listings; no material banking-control development\n  • legco — partial (0): deterministic retrieval failed TLS verification; operative brief was unavailable\n  • customs-tdo — empty (0): verified listings; no item with a bank/control nexus\n  • consumer-council — empty (0): verified listings; no in-window publication\n  • interpol-financial-cyber — empty (0): verified listings; no qualifying financial-fraud or cyber item\n  • hkcert — empty (0): verified listings; only routine vendor vulnerability notices or secondary reports\n  • sme-schemes — partial (0): BUD returned an Incapsula shell; other scheme pages had no in-window publication\n  • gba-official — partial (1): PBOC item collected; NFRA and SAMR listings were JavaScript shells\n  • gba-mainland-sweep — partial (0): no runner-produced discovery artifact; separate general search is prohibited\n  • industry-bodies — empty (0): verified listings; no publication meeting the materiality gate\n  • hk-banks-news — ok (1): verified bank listings; HSBC stablecoin product announcement collected\n  • lexology — partial (0): listing timestamp was not publication-date evidence; no qualifying candidate verified\n  • lawfirm-big4-pages — partial (0): some configured pages were blocked or JavaScript shells; no verified material publication\n  • lawfirm-big4-sweep — partial (0): no runner-produced discovery artifact; separate general search is prohibited\n  • mas-benchmark — partial (0): both configured MAS URLs returned maintenance shells\n  • fca-benchmark — partial (1): FCA release collected; consultations listing was blocked or challenged",
+  "rendered_sha256": "c97540debe8f503b3e76b64b7c379ecdec9d746d9cb70fa09528c8688af70220",
+  "schema_version": 2,
+  "title": "Regulatory Bulletin — 2 October 2026 (Weekly)"
+}
