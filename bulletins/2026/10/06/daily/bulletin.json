@@ -1,0 +1,56 @@
+{
+  "date": "2026-10-06",
+  "draft_sha256": "2f53fc912432023e7d4ca47b6f3f6f80c2ced04e582196b32f305f46b170fc56",
+  "findings": [
+    {
+      "authority": "Hong Kong Monetary Authority",
+      "authority_label": "commercial/risk recommendation",
+      "bulletin_date": "2026-10-06",
+      "deadline": "No source deadline stated",
+      "document_type": "Press release",
+      "event_family": "CargoX Pilot Programme",
+      "id": "item-20261005-hkma-press-94ed66925e",
+      "impact_areas": [
+        "trade-finance",
+        "market-infrastructure",
+        "cross-border-data"
+      ],
+      "jurisdiction": "HK",
+      "official_published": "2026-10-05",
+      "products": [
+        "SME trade lending",
+        "digital trade data",
+        "cross-border trade finance"
+      ],
+      "publisher": "Hong Kong Monetary Authority",
+      "publisher_id": "hong-kong-monetary-authority",
+      "publishers": [
+        {
+          "id": "hong-kong-monetary-authority",
+          "name": "Hong Kong Monetary Authority"
+        }
+      ],
+      "source_role": "primary_authority",
+      "source_url": "https://www.hkma.gov.hk/eng/news-and-media/press-releases/2026/10/20261005-3/",
+      "status": "current",
+      "summary": "HKMA reported that CargoX Connect links the Commercial Data Interchange with a Shanghai Data Bureau digital-trade platform, enabling five pilot banks to use Yangtze River Delta trade-declaration data for trade verification and counterparty due diligence. The programme update reports ten approved trade-finance loans totalling HK$180 million and an intended extension to other Mainland locations; the release does not state a participation mandate or new control standard.",
+      "title": "HKMA hosts CargoX Solution Day to promote regional trade data connectivity",
+      "topics": [
+        "trade-finance",
+        "trade-data",
+        "commercial-data-interchange",
+        "cross-border-connectivity",
+        "sme-finance"
+      ]
+    }
+  ],
+  "item_ids": [
+    "item-20261005-hkma-press-94ed66925e"
+  ],
+  "mode": "daily",
+  "path": "bulletins/2026/10/06/daily/",
+  "rendered_html": "<b><u>📔 Regulatory Bulletin — 6 October 2026 (Daily)</u></b>\n\n<b><u>Executive Summary</u></b>\n\n  • 🟡 <b>HKMA signals a regional trade-data connectivity expansion:</b> CargoX Connect has enabled five pilot banks to use Yangtze River Delta trade-declaration data for trade verification and counterparty due diligence, supporting SME trade-finance loan drawdowns. The update is a market-infrastructure programme development, not a new participation or compliance requirement.\n\n<b><u>Hong Kong</u></b>\n\n\n<b>🟡 HKMA hosts CargoX Solution Day to promote regional trade data connectivity 🇭🇰</b>\n<b>Item ID:</b> item-20261005-hkma-press-94ed66925e\n<b>⏰ Deadline:</b> No source deadline stated\n<b>Products:</b> SME trade lending, digital trade data, cross-border trade finance\n\nThe Hong Kong Monetary Authority (HKMA) reported that it held a CargoX Solution Day and signed a memorandum of understanding with the PAA Digital Trade Alliance to promote trade-finance digitalisation. HKMA said CargoX Connect links the Commercial Data Interchange with a Shanghai Data Bureau digital-trade platform, enabling five pilot banks to use Yangtze River Delta trade-declaration data for trade verification and counterparty due diligence. HKMA says the pilot has enabled approval of ten trade-finance loans totalling HK$180 million, and intends to extend the model to other Mainland provinces and cities. This is a market-infrastructure programme update rather than a new requirement or supervisory expectation; the release does not state a participation mandate, data-access terms, customer-consent conditions, underwriting criteria or control standards.\n\nSource: <a href=\"https://www.hkma.gov.hk/eng/news-and-media/press-releases/2026/10/20261005-3/\">HKMA hosts CargoX Solution Day to promote regional trade data connectivity</a>\n\n<b><u>SG/UK/GLOBAL Benchmark</u></b>\n\n<i>Comparable overseas developments and commercial/control benchmarks. They do not establish Hong Kong requirements.</i>\n\nNo qualifying benchmark developments were included in this edition.\n\n<b><u>Watch List</u></b>\n\n  • Monitor HKMA announcements for the next-phase CargoX participation model, including any stated eligibility, data-access, consent or cross-border data arrangements.\n\n<b><u>Coverage</u></b>\n\n  • customs-tdo — skipped (0): out-of-cadence for daily mode\n  • consumer-council — skipped (0): out-of-cadence for daily mode\n  • interpol-financial-cyber — skipped (0): out-of-cadence for daily mode\n  • hkcert — skipped (0): out-of-cadence for daily mode\n  • sme-schemes — skipped (0): out-of-cadence for daily mode\n  • gba-official — skipped (0): out-of-cadence for daily mode\n  • gba-mainland-sweep — skipped (0): out-of-cadence for daily mode\n  • industry-bodies — skipped (0): out-of-cadence for daily mode\n  • lawfirm-big4-pages — skipped (0): out-of-cadence for daily mode\n  • lawfirm-big4-sweep — skipped (0): out-of-cadence for daily mode\n  • mas-benchmark — skipped (0): out-of-cadence for daily mode\n  • fca-benchmark — skipped (0): out-of-cadence for daily mode\n  • boe-benchmark — skipped (0): out-of-cadence for daily mode\n  • scam-fraud-cluster — disabled (0): disabled 2026-07-22; CyberDefender and Scameter remain blocked by Cloudflare, and search fallback found no current items\n  • regulation-asia — disabled (0): disabled at user request because the latest-news page is subscription-gated and recent results yielded no scoped items\n  • daily-exploratory-search — empty (0): all 7 persisted Tavily queries completed; 19 leads were reviewed and none was an admissible in-window material candidate\n  • hkma-circulars — empty (0): verified-TLS RSS retrieved; no entries dated 2026-10-05\n  • hkma-guidelines — empty (0): verified-TLS RSS retrieved; no entries dated 2026-10-05\n  • hkma-spm — empty (0): verified-TLS RSS retrieved; no entries dated 2026-10-05\n  • hkma-consultations — empty (0): verified-TLS RSS retrieved; no entries dated 2026-10-05\n  • hkma-press — ok (2): verified-TLS RSS yielded two 2026-10-05 releases; both canonical source chains complete with no linked documents discovered\n  • hkma-brdr — empty (0): verified-TLS BRDR listing checked; no 2026-10-05 document was listed\n  • sfc-circulars — empty (0): verified-TLS e-Distribution search returned no record dated 2026-10-05\n  • sfc-aml-circulars — empty (0): verified-TLS AML circular search returned no 2026-10-05 circular\n  • sfc-consultations — empty (0): verified-TLS consultation API returned no 2026-10-05 record\n  • sfc-web — partial (0): news API and circular listings had no 2026-10-05 result, but undated static pages cannot independently verify an empty window\n  • pcpd — empty (0): verified-TLS listings had no bank or financial-services control-nexus entry dated 2026-10-05\n  • hk-enforcement-actions — partial (0): HKMA index had no post-22-Jul-2025 action; SFC enforcement listing returned a JavaScript shell and browser rendering was empty\n  • global-material-incidents-enforcement — partial (0): MAS pages returned maintenance shells; other checked listings had no admissible exceptionally material event\n  • mas-parliamentary-replies — partial (0): the canonical MAS page returned a maintenance shell, so no dated reply could be established\n  • fstb — empty (0): four configured FSTB listings had no 2026-10-05 publication\n  • legco — partial (0): configured URLs failed deterministic TLS verification; browser fallback showed no bill progress, but the undated committee index cannot establish empty coverage\n  • hk-banks-news — empty (0): verified-TLS bank listings had no material item; BEA&#x27;s routine fraudulent-website notice was excluded\n  • lexology — partial (0): no candidate had an exact publisher-controlled 2026-10-05 date; a banking-relevant candidate could not be resolved from canonical evidence",
+  "rendered_sha256": "630f4d252d19332aff20959b2d7cae5463f2933b99c350fe39c95fd304a237db",
+  "schema_version": 2,
+  "title": "Regulatory Bulletin — 6 October 2026 (Daily)"
+}
