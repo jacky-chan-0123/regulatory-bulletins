@@ -45,6 +45,49 @@
   {
     "authority": "Hong Kong Monetary Authority",
     "authority_label": "commercial/risk recommendation",
+    "bulletin_date": "2026-10-07",
+    "bulletin_path": "bulletins/2026/10/07/daily/",
+    "deadline": "No source deadline stated",
+    "document_type": "Press release",
+    "event_family": "HKMA–Bank Negara Malaysia bilateral cooperation",
+    "id": "item-20261006-hkma-press-ee036fdaa0",
+    "impact_areas": [
+      "cross-border-payments",
+      "trade-finance",
+      "digital-assets",
+      "cyber-resilience"
+    ],
+    "jurisdiction": "HK",
+    "official_published": "2026-10-06",
+    "products": [
+      "Cross-border payments",
+      "SME trade finance",
+      "Digital assets"
+    ],
+    "publisher": "Hong Kong Monetary Authority",
+    "publisher_id": "hong-kong-monetary-authority",
+    "publishers": [
+      {
+        "id": "hong-kong-monetary-authority",
+        "name": "Hong Kong Monetary Authority"
+      }
+    ],
+    "source_role": "primary_authority",
+    "source_url": "https://www.hkma.gov.hk/eng/news-and-media/press-releases/2026/10/20261006-4/",
+    "status": "current",
+    "summary": "HKMA and Bank Negara Malaysia announced bilateral workstreams on compliant cross-border stablecoin use cases, tokenisation and digital money, SME trade-finance data, cyber resilience, RTGS connectivity and possible central securities depository linkage. The announcement states collaboration and exploration, not a participation mandate, technical specification or implementation timetable for authorised institutions.",
+    "title": "Hong Kong Monetary Authority and Bank Negara Malaysia Strengthen Bilateral Cooperation",
+    "topics": [
+      "cross-border-payments",
+      "stablecoins",
+      "tokenisation",
+      "trade-finance",
+      "cyber-resilience"
+    ]
+  },
+  {
+    "authority": "Hong Kong Monetary Authority",
+    "authority_label": "commercial/risk recommendation",
     "bulletin_date": "2026-10-06",
     "bulletin_path": "bulletins/2026/10/06/daily/",
     "deadline": "No source deadline stated",

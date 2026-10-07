@@ -1,0 +1,57 @@
+{
+  "date": "2026-10-07",
+  "draft_sha256": "242a4a333460d55237cfeba83dca1938c623bafb3cab9b1859cde4a3c2fec98f",
+  "findings": [
+    {
+      "authority": "Hong Kong Monetary Authority",
+      "authority_label": "commercial/risk recommendation",
+      "bulletin_date": "2026-10-07",
+      "deadline": "No source deadline stated",
+      "document_type": "Press release",
+      "event_family": "HKMA–Bank Negara Malaysia bilateral cooperation",
+      "id": "item-20261006-hkma-press-ee036fdaa0",
+      "impact_areas": [
+        "cross-border-payments",
+        "trade-finance",
+        "digital-assets",
+        "cyber-resilience"
+      ],
+      "jurisdiction": "HK",
+      "official_published": "2026-10-06",
+      "products": [
+        "Cross-border payments",
+        "SME trade finance",
+        "Digital assets"
+      ],
+      "publisher": "Hong Kong Monetary Authority",
+      "publisher_id": "hong-kong-monetary-authority",
+      "publishers": [
+        {
+          "id": "hong-kong-monetary-authority",
+          "name": "Hong Kong Monetary Authority"
+        }
+      ],
+      "source_role": "primary_authority",
+      "source_url": "https://www.hkma.gov.hk/eng/news-and-media/press-releases/2026/10/20261006-4/",
+      "status": "current",
+      "summary": "HKMA and Bank Negara Malaysia announced bilateral workstreams on compliant cross-border stablecoin use cases, tokenisation and digital money, SME trade-finance data, cyber resilience, RTGS connectivity and possible central securities depository linkage. The announcement states collaboration and exploration, not a participation mandate, technical specification or implementation timetable for authorised institutions.",
+      "title": "Hong Kong Monetary Authority and Bank Negara Malaysia Strengthen Bilateral Cooperation",
+      "topics": [
+        "cross-border-payments",
+        "stablecoins",
+        "tokenisation",
+        "trade-finance",
+        "cyber-resilience"
+      ]
+    }
+  ],
+  "item_ids": [
+    "item-20261006-hkma-press-ee036fdaa0"
+  ],
+  "mode": "daily",
+  "path": "bulletins/2026/10/07/daily/",
+  "rendered_html": "<b><u>📔 Regulatory Bulletin — 7 October 2026 (Daily)</u></b>\n\n<b><u>Executive Summary</u></b>\n\n  • 🟡 <b>HKMA and Bank Negara Malaysia have announced bilateral workstreams spanning cross-border stablecoin use cases, trade-finance data, cyber resilience and payment infrastructure.</b> The announcement creates no authorised-institution requirement or timetable, but banks active in Hong Kong–Malaysia payments, SME trade finance or digital-asset initiatives may need to assess future interoperability, partner and control implications if pilots or specifications follow.\n\n<b><u>Hong Kong</u></b>\n\n\n<b>🟡 Hong Kong Monetary Authority and Bank Negara Malaysia Strengthen Bilateral Cooperation 🇭🇰</b>\n<b>Item ID:</b> item-20261006-hkma-press-ee036fdaa0\n<b>⏰ Deadline:</b> No source deadline stated\n<b>Products:</b> Cross-border payments, SME trade finance, digital assets\n\nThe Hong Kong Monetary Authority (HKMA) and Bank Negara Malaysia announced bilateral collaboration after their 2 October meeting, including a policy-focused workstream on compliant cross-border stablecoin use cases. The announced areas also cover policy and regulatory exchange on tokenisation and digital money, knowledge sharing on CDI and CargoX to expand SME trade-finance access, cyber-resilience and anti-scam cooperation, RTGS connectivity, and exploration of a CMU–RENTAS central securities depository linkage. This is a bilateral cooperation announcement rather than a rule or supervisory expectation for authorised institutions, and the release states no participation mandate, technical specification, customer or data requirement, or implementation date. Banks active in the stated Hong Kong–Malaysia activities may need to monitor whether the workstreams produce pilots, standards or participation conditions that affect interoperability, customer/data flows, fraud and cyber controls, or partner arrangements.\n\nSource: <a href=\"https://www.hkma.gov.hk/eng/news-and-media/press-releases/2026/10/20261006-4/\">Hong Kong Monetary Authority and Bank Negara Malaysia Strengthen Bilateral Cooperation</a>\n\n<b><u>Mainland/GBA</u></b>\n\nNo qualifying Mainland/GBA developments were included in this edition.\n\n<b><u>SG/UK/GLOBAL Benchmark</u></b>\n\n<i>Comparable overseas developments and commercial/control benchmarks. They do not establish Hong Kong requirements.</i>\n\nNo qualifying benchmark developments were included in this edition.\n\n<b><u>Watch List</u></b>\n\n  • Monitor HKMA and Bank Negara Malaysia publications for any pilot, specification, participation condition, implementation timetable or data-governance arrangement arising from the announced workstreams.\n\n<b><u>Coverage</u></b>\n\n  • customs-tdo — skipped (0): out-of-cadence for daily mode\n  • consumer-council — skipped (0): out-of-cadence for daily mode\n  • interpol-financial-cyber — skipped (0): out-of-cadence for daily mode\n  • hkcert — skipped (0): out-of-cadence for daily mode\n  • sme-schemes — skipped (0): out-of-cadence for daily mode\n  • gba-official — skipped (0): out-of-cadence for daily mode\n  • gba-mainland-sweep — skipped (0): out-of-cadence for daily mode\n  • industry-bodies — skipped (0): out-of-cadence for daily mode\n  • lawfirm-big4-pages — skipped (0): out-of-cadence for daily mode\n  • lawfirm-big4-sweep — skipped (0): out-of-cadence for daily mode\n  • mas-benchmark — skipped (0): out-of-cadence for daily mode\n  • fca-benchmark — skipped (0): out-of-cadence for daily mode\n  • boe-benchmark — skipped (0): out-of-cadence for daily mode\n  • scam-fraud-cluster — disabled (0): disabled 2026-07-22; CyberDefender and Scameter return HTTP 403 and remain blocked by Cloudflare in browser mode; search fallback found no current items\n  • regulation-asia — disabled (0): Disabled at user request: the latest-news page is subscription-gated, making extraction unreliable, and recent results yielded no scoped HK/CN-GBA/SG/UK banking items\n  • daily-exploratory-search — partial (0): Tavily plan completed; no admissible in-window candidate; Asian Banking &amp; Finance commentary lacked an exact publisher-controlled publication date\n  • hkma-circulars — empty (0): Verified HKMA RSS feed; no 2026-10-06 publication\n  • hkma-guidelines — empty (0): Verified HKMA RSS feed; no 2026-10-06 publication\n  • hkma-spm — empty (0): Verified HKMA RSS feed; no 2026-10-06 publication\n  • hkma-consultations — empty (0): Verified HKMA RSS feed; no 2026-10-06 publication\n  • hkma-press — ok (2): Verified HKMA RSS feed; two 2026-10-06 publications collected and source chains complete\n  • hkma-brdr — empty (0): Verified BRDR main listing; newest displayed document is dated 23 Sep 2026 and no 2026-10-06 document was listed\n  • sfc-circulars — empty (0): Verified SFC circular search API (all categories); its newest returned publication is 30 Sep 2026 and none is dated 2026-10-06\n  • sfc-aml-circulars — empty (0): Verified SFC circular search API (all categories, including AML); no returned circular is dated 2026-10-06\n  • sfc-consultations — empty (0): Verified configured SFC consultation API POST; newest consultation publication is 29 Jan 2026 and none is dated 2026-10-06\n  • sfc-web — empty (0): Verified configured SFC web listings and news API; the sole 2026-10-06 news record concerns securities-broker earnings and fails the banking/control materiality gate\n  • pcpd — empty (0): Verified PCPD guidance, media-statement and Commissioner’s-findings listings in browser; their latest displayed dates are Aug 2026, 5 Oct 2026 and 25 Aug 2026 respectively, with no 2026-10-06 publication\n  • hk-enforcement-actions — empty (0): Verified HKMA disciplinary-actions listing (newest 22 Jul 2025) and SFC news API; no enforcement action was published on 2026-10-06\n  • global-material-incidents-enforcement — partial (0): MAS enforcement and media-release URLs returned maintenance shells; SGPC, FCA and OCC were checked, with FCA&#x27;s 2026-10-06 routine warnings/blog and OCC&#x27;s latest listed action (17 Sep) not qualifying; MAS enforcement remains unresolved\n  • mas-parliamentary-replies — partial (0): The configured MAS parliamentary-replies URL returned a maintenance shell, so no reliable publication-window result is available\n  • fstb — empty (0): Verified all configured FSTB listings; press releases were current through 4 Oct 2026 and the consultation, bills/resolutions and LegCo-brief listings contained no 2026-10-06 publication\n  • legco — partial (0): Deterministic fetches failed TLS verification; verified browser fallback showed no bill progress dated 2026-10-06, while the committee index is an undated directory and yielded no exact dated financial-services document\n  • hk-banks-news — ok (1): Verified configured bank listings and Hang Seng&#x27;s current-year XML; collected the 6 Oct Hang Seng corporate energy-saving programme announcement\n  • lexology — partial (0): Verified configured popular-articles listing with normal TLS and browser rendering; it supplies no exact publisher-controlled publication dates, and the listed financial-services leads are explicitly dated before 2026-10-06 or otherwise lack exact-date evidence; no item admitted",
+  "rendered_sha256": "fd0f990bb197641eedb66505e08a3c47b6d27be105342c8e977d8a403306a2a2",
+  "schema_version": 2,
+  "title": "Regulatory Bulletin — 7 October 2026 (Daily)"
+}
