@@ -1,5 +1,19 @@
 [
   {
+    "date": "2026-10-08",
+    "draft_sha256": "1ecd4b864b6a5403fe489d697b9d48d8932c0f16be7d1314850034fdbd7f59a8",
+    "item_ids": [
+      "item-20261007-daily-exploratory-search-db1220fb15",
+      "item-20261007-fstb-gold-master-plan",
+      "item-20261007-sfc-consultations-25cc10"
+    ],
+    "mode": "daily",
+    "path": "bulletins/2026/10/08/daily/",
+    "rendered_sha256": "eae1027963689273f011acab84b5d2f29fc37535280378970e0400cab31a761a",
+    "schema_version": 2,
+    "title": "Regulatory Bulletin — 8 October 2026 (Daily)"
+  },
+  {
     "date": "2026-10-07",
     "draft_sha256": "242a4a333460d55237cfeba83dca1938c623bafb3cab9b1859cde4a3c2fec98f",
     "item_ids": [

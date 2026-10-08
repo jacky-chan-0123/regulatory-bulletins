@@ -1,0 +1,135 @@
+{
+  "date": "2026-10-08",
+  "draft_sha256": "1ecd4b864b6a5403fe489d697b9d48d8932c0f16be7d1314850034fdbd7f59a8",
+  "findings": [
+    {
+      "authority": "Securities and Futures Commission",
+      "authority_label": "supervisory expectation",
+      "bulletin_date": "2026-10-08",
+      "deadline": "Tentative effective date: 1 November 2026 following gazettal; existing schemes generally have 12 months from the effective date for liquidity, MMF and offering-document changes",
+      "document_type": "SFC consultation conclusions and final-form proposed code amendments",
+      "event_family": "SFC Unit Trusts and Mutual Funds Code amendments 2026",
+      "id": "item-20261007-sfc-consultations-25cc10",
+      "impact_areas": [
+        "product-governance",
+        "liquidity-risk-management",
+        "disclosures",
+        "suitability"
+      ],
+      "jurisdiction": "HK",
+      "official_published": "2026-10-07",
+      "products": [
+        "investment"
+      ],
+      "publisher": "Securities and Futures Commission",
+      "publisher_id": "securities-and-futures-commission",
+      "publishers": [
+        {
+          "id": "securities-and-futures-commission",
+          "name": "Securities and Futures Commission"
+        }
+      ],
+      "source_role": "primary_authority",
+      "source_url": "https://apps.sfc.hk/edistributionWeb/gateway/EN/consultation/conclusion?refNo=25CP10",
+      "status": "current",
+      "summary": "The SFC’s final-form proposed Unit Trusts and Mutual Funds Code amendments are tentatively effective on 1 November 2026 following gazettal; new schemes would comply at effectiveness and existing schemes generally have 12 months for specified liquidity, MMF and offering-document changes.",
+      "title": "Consultation Conclusions on Proposed Amendments to the Code on Unit Trusts and Mutual Funds",
+      "topics": [
+        "fund-governance",
+        "liquidity-risk",
+        "money-market-funds",
+        "disclosures"
+      ]
+    },
+    {
+      "authority": "Government of the Hong Kong Special Administrative Region",
+      "authority_label": "open interpretation",
+      "bulletin_date": "2026-10-08",
+      "deadline": "HKEX targets consultation conclusions and implementation arrangements within 2026; no final implementation date stated",
+      "document_type": "government written reply to Legislative Council question",
+      "event_family": "Hong Kong cash equities T+1 settlement cycle",
+      "id": "item-20261007-daily-exploratory-search-db1220fb15",
+      "impact_areas": [
+        "securities-settlement",
+        "operations",
+        "client-servicing"
+      ],
+      "jurisdiction": "HK",
+      "official_published": "2026-10-07",
+      "products": [
+        "investment"
+      ],
+      "publisher": "Government of the Hong Kong Special Administrative Region",
+      "publisher_id": "government-of-hong-kong-special-administrative-region",
+      "publishers": [
+        {
+          "id": "government-of-hong-kong-special-administrative-region",
+          "name": "Government of the Hong Kong Special Administrative Region"
+        }
+      ],
+      "source_role": "government_or_court",
+      "source_url": "https://www.info.gov.hk/gia/general/202610/07/P2026100600477.htm",
+      "status": "current",
+      "summary": "The Hong Kong Government says HKEX is preparing a proposed T+1 cash-market settlement cycle and targets consultation conclusions and implementation arrangements within 2026; no final implementation date or participant requirements are stated.",
+      "title": "LCQ17: Accelerated settlement for cash market",
+      "topics": [
+        "securities-settlement",
+        "market-infrastructure",
+        "t-plus-one"
+      ]
+    },
+    {
+      "authority": "Financial Services and the Treasury Bureau",
+      "authority_label": "open interpretation",
+      "bulletin_date": "2026-10-08",
+      "deadline": "Formal launch of the Gold Central Clearing and Settlement System is scheduled for Q1 2027",
+      "document_type": "government press release",
+      "id": "item-20261007-fstb-gold-master-plan",
+      "impact_areas": [
+        "market-infrastructure",
+        "settlement-risk",
+        "operations"
+      ],
+      "jurisdiction": "HK",
+      "official_published": "2026-10-07",
+      "products": [
+        "payment",
+        "investment",
+        "cross-border-GBA"
+      ],
+      "publisher": "Government of the Hong Kong Special Administrative Region",
+      "publisher_id": "government-of-hong-kong-special-administrative-region",
+      "publishers": [
+        {
+          "id": "government-of-hong-kong-special-administrative-region",
+          "name": "Government of the Hong Kong Special Administrative Region"
+        },
+        {
+          "id": "financial-services-and-the-treasury-bureau",
+          "name": "Financial Services and the Treasury Bureau"
+        }
+      ],
+      "source_role": "government_or_court",
+      "source_url": "https://www.info.gov.hk/gia/general/202610/07/P2026100600281.htm",
+      "status": "current",
+      "summary": "FSTB reports that the trial Hong Kong Gold Central Clearing and Settlement System has 11 banks as provisional direct participants and is scheduled for formal launch in Q1 2027, without mandating bank participation or setting a final rulebook.",
+      "title": "SFST articulates Hong Kong's gold master plan at Global Precious Metals Conference",
+      "topics": [
+        "gold-market",
+        "market-infrastructure",
+        "settlement"
+      ]
+    }
+  ],
+  "item_ids": [
+    "item-20261007-daily-exploratory-search-db1220fb15",
+    "item-20261007-fstb-gold-master-plan",
+    "item-20261007-sfc-consultations-25cc10"
+  ],
+  "mode": "daily",
+  "path": "bulletins/2026/10/08/daily/",
+  "rendered_html": "<b><u>📔 Regulatory Bulletin — 8 October 2026 (Daily)</u></b>\n\n<b><u>Executive Summary</u></b>\n\n  • 🔴 The SFC’s final-form proposed Unit Trusts and Mutual Funds Code amendments are tentatively effective from 1 November 2026 after gazettal. In-scope new schemes would need to comply at effectiveness, while existing schemes generally have 12 months for specified liquidity, money-market-fund and disclosure changes.\n  • 🟡 HKEX is preparing a proposed T+1 cash-market settlement cycle and targets consultation conclusions and implementation arrangements within 2026. Banks with brokerage, custody or settlement roles may need to map cut-off, funding, client-confirmation and vendor dependencies before final specifications issue.\n  • 🟡 The Gold Central Clearing and Settlement System is scheduled for formal launch in Q1 2027, with 11 banks reported as provisional direct participants. This is a market-infrastructure update rather than a participation requirement; prospective participants may need to assess RTGS, custody and settlement readiness.\n\n<b><u>Hong Kong Regulatory Developments</u></b>\n\n\n<b>🔴 Consultation Conclusions on Proposed Amendments to the Code on Unit Trusts and Mutual Funds 🇭🇰</b>\n<b>Item ID:</b> item-20261007-sfc-consultations-25cc10\n<b>⏰ Deadline:</b> Tentative effective date: 1 November 2026 following gazettal; existing schemes generally have 12 months from the effective date for liquidity, MMF and offering-document changes\n<b>Products:</b> Authorised funds, MMFs, investment distribution\n\nThe SFC says it will adopt amended Unit Trusts and Mutual Funds Code proposals, tentatively effective on 1 November 2026 following gazettal. New schemes must comply from the effective date, while existing schemes generally receive 12 months for liquidity, MMF and offering-document changes. The changes cover an alternative VaR approach, anti-dilution tools for certain daily-dealing funds investing mainly in less-liquid assets, MMF liquidity and credit provisions, CNAV safeguards, and KFS classification disclosure. The direct scope is SFC-authorised schemes and their management companies; bank distributors, trustees and custodians need role-specific analysis, and supplementary guidance, FAQs and templates remain to be issued.\n\n<b>Actions:</b> Establish an entity-and-fund applicability inventory, accountable owner and transition plan now; map ADT, liquidity, MMF/CNAV, VaR and KFS controls to the final text. Retain configuration, validation, disclosure, testing and customer-communication evidence, and escalate any gazettal or vendor dependency that could affect transition timing.\n\nSource: <a href=\"https://apps.sfc.hk/edistributionWeb/gateway/EN/consultation/conclusion?refNo=25CP10\">Consultation Conclusions on Proposed Amendments to the Code on Unit Trusts and Mutual Funds</a>\n\n\n<b>🟡 LCQ17: Accelerated settlement for cash market 🇭🇰</b>\n<b>Item ID:</b> item-20261007-daily-exploratory-search-db1220fb15\n<b>⏰ Deadline:</b> HKEX targets consultation conclusions and implementation arrangements within 2026; no final implementation date stated\n<b>Products:</b> Securities settlement, custody, investment services\n\nThe Government’s Legislative Council reply says HKEX is preparing with the market for a proposed T+1 cash-market settlement cycle, subject to co-ordination with relevant Mainland units. HKEX targets consultation conclusions and implementation arrangements within 2026 and is considering revised clearing and settlement timetables, longer settlement-instruction hours, allocation and confirmation tools, and a stakeholder workflow platform. It says specifications and guidance will follow, with preparation and testing time; the reply does not confirm an implementation date or participant requirements. Banks acting as brokers, custodians, fund managers or settlement participants may be affected through post-trade cut-offs, funding, client confirmation, systems and vendor dependencies.\n\nSource: <a href=\"https://www.info.gov.hk/gia/general/202610/07/P2026100600477.htm\">LCQ17: Accelerated settlement for cash market</a>\n\n\n<b>🟡 SFST articulates Hong Kong&#x27;s gold master plan at Global Precious Metals Conference 🇭🇰</b>\n<b>Item ID:</b> item-20261007-fstb-gold-master-plan\n<b>⏰ Deadline:</b> Formal launch of the Gold Central Clearing and Settlement System is scheduled for Q1 2027\n<b>Products:</b> Bullion settlement, RTGS, cross-border markets\n\nFSTB reports that the trial Hong Kong Gold Central Clearing and Settlement System has 11 banks as provisional direct participants, with formal launch scheduled for Q1 2027. Connection to Hong Kong RTGS for delivery-versus-payment settlement is in its final stages. The Government and the London Bullion Market Association are exploring delivery-standards co-operation, contingent on materialisation, and tax concessions are being explored. This is a policy and market-infrastructure update, not a mandatory participation requirement or final rulebook; provisional or prospective participants may need to consider clearing, RTGS, custody and settlement-risk dependencies.\n\nSource: <a href=\"https://www.info.gov.hk/gia/general/202610/07/P2026100600281.htm\">SFST articulates Hong Kong&#x27;s gold master plan at Global Precious Metals Conference</a>\n\n<b><u>Mainland/GBA</u></b>\n\nNo validated current-run items.\n\n<b><u>SG/UK/GLOBAL Benchmark</u></b>\n\n<i>Comparable overseas developments and commercial/control benchmarks. They do not establish Hong Kong requirements.</i>\n\nNo validated current-run items.\n\n<b><u>Watch List</u></b>\n\n  • Monitor SFC gazettal, supplementary guidance, FAQs and templates for the Unit Trusts and Mutual Funds Code amendments.\n  • Monitor HKEX consultation conclusions, participant scope and technical specifications for the proposed T+1 cash-market settlement cycle.\n  • Monitor final participant terms, rulebook and RTGS connectivity details for the Gold Central Clearing and Settlement System.\n\n<b><u>Coverage</u></b>\n\n  • customs-tdo — skipped (0): out-of-cadence for daily mode\n  • consumer-council — skipped (0): out-of-cadence for daily mode\n  • interpol-financial-cyber — skipped (0): out-of-cadence for daily mode\n  • hkcert — skipped (0): out-of-cadence for daily mode\n  • sme-schemes — skipped (0): out-of-cadence for daily mode\n  • gba-official — skipped (0): out-of-cadence for daily mode\n  • gba-mainland-sweep — skipped (0): out-of-cadence for daily mode\n  • industry-bodies — skipped (0): out-of-cadence for daily mode\n  • lawfirm-big4-pages — skipped (0): out-of-cadence for daily mode\n  • lawfirm-big4-sweep — skipped (0): out-of-cadence for daily mode\n  • mas-benchmark — skipped (0): out-of-cadence for daily mode\n  • fca-benchmark — skipped (0): out-of-cadence for daily mode\n  • boe-benchmark — skipped (0): out-of-cadence for daily mode\n  • scam-fraud-cluster — disabled (0): CyberDefender and Scameter remain Cloudflare-blocked; JFIU activity is not current\n  • regulation-asia — disabled (0): subscription-gated latest-news page; no scoped items in recent results\n  • daily-exploratory-search — partial (1): Tavily completed; one primary item admitted; MAS AI leads had unresolved maintenance content\n  • hkma-circulars — empty (0): verified RSS had no 2026-10-07 publication\n  • hkma-guidelines — empty (0): verified RSS had no 2026-10-07 publication\n  • hkma-spm — empty (0): verified RSS had no 2026-10-07 publication\n  • hkma-consultations — empty (0): verified RSS had no 2026-10-07 publication\n  • hkma-press — ok (1): verified RSS yielded one 2026-10-07 release; source chain complete\n  • hkma-brdr — empty (0): verified listing had no 2026-10-07 publication\n  • sfc-circulars — empty (0): verified official search API had no 2026-10-07 publication\n  • sfc-aml-circulars — empty (0): verified official AML search API had no 2026-10-07 publication\n  • sfc-consultations — ok (1): verified consultation API and conclusions PDF yielded 25CC10\n  • sfc-web — ok (0): verified news API result was deduplicated to the consultations item\n  • pcpd — empty (0): verified listings had no 2026-10-07 item with a bank/control nexus\n  • hk-enforcement-actions — partial (0): HKMA index checked; SFC listing remained unavailable in verified fetch and browser\n  • global-material-incidents-enforcement — partial (0): MAS pages returned maintenance content; FCA and OCC had no qualifying action\n  • mas-parliamentary-replies — partial (0): configured page returned maintenance content\n  • fstb — ok (2): verified listings yielded two 2026-10-07 FSTB publications\n  • legco — partial (0): configured listings failed normal TLS verification; no insecure fallback used\n  • hk-banks-news — empty (0): verified listed bank newsrooms had no 2026-10-07 publication\n  • lexology — empty (0): verified listing had no dated candidate with a credible banking/control nexus",
+  "rendered_sha256": "eae1027963689273f011acab84b5d2f29fc37535280378970e0400cab31a761a",
+  "schema_version": 2,
+  "title": "Regulatory Bulletin — 8 October 2026 (Daily)"
+}

@@ -43,6 +43,127 @@
     ]
   },
   {
+    "authority": "Securities and Futures Commission",
+    "authority_label": "supervisory expectation",
+    "bulletin_date": "2026-10-08",
+    "bulletin_path": "bulletins/2026/10/08/daily/",
+    "deadline": "Tentative effective date: 1 November 2026 following gazettal; existing schemes generally have 12 months from the effective date for liquidity, MMF and offering-document changes",
+    "document_type": "SFC consultation conclusions and final-form proposed code amendments",
+    "event_family": "SFC Unit Trusts and Mutual Funds Code amendments 2026",
+    "id": "item-20261007-sfc-consultations-25cc10",
+    "impact_areas": [
+      "product-governance",
+      "liquidity-risk-management",
+      "disclosures",
+      "suitability"
+    ],
+    "jurisdiction": "HK",
+    "official_published": "2026-10-07",
+    "products": [
+      "investment"
+    ],
+    "publisher": "Securities and Futures Commission",
+    "publisher_id": "securities-and-futures-commission",
+    "publishers": [
+      {
+        "id": "securities-and-futures-commission",
+        "name": "Securities and Futures Commission"
+      }
+    ],
+    "source_role": "primary_authority",
+    "source_url": "https://apps.sfc.hk/edistributionWeb/gateway/EN/consultation/conclusion?refNo=25CP10",
+    "status": "current",
+    "summary": "The SFC’s final-form proposed Unit Trusts and Mutual Funds Code amendments are tentatively effective on 1 November 2026 following gazettal; new schemes would comply at effectiveness and existing schemes generally have 12 months for specified liquidity, MMF and offering-document changes.",
+    "title": "Consultation Conclusions on Proposed Amendments to the Code on Unit Trusts and Mutual Funds",
+    "topics": [
+      "fund-governance",
+      "liquidity-risk",
+      "money-market-funds",
+      "disclosures"
+    ]
+  },
+  {
+    "authority": "Government of the Hong Kong Special Administrative Region",
+    "authority_label": "open interpretation",
+    "bulletin_date": "2026-10-08",
+    "bulletin_path": "bulletins/2026/10/08/daily/",
+    "deadline": "HKEX targets consultation conclusions and implementation arrangements within 2026; no final implementation date stated",
+    "document_type": "government written reply to Legislative Council question",
+    "event_family": "Hong Kong cash equities T+1 settlement cycle",
+    "id": "item-20261007-daily-exploratory-search-db1220fb15",
+    "impact_areas": [
+      "securities-settlement",
+      "operations",
+      "client-servicing"
+    ],
+    "jurisdiction": "HK",
+    "official_published": "2026-10-07",
+    "products": [
+      "investment"
+    ],
+    "publisher": "Government of the Hong Kong Special Administrative Region",
+    "publisher_id": "government-of-hong-kong-special-administrative-region",
+    "publishers": [
+      {
+        "id": "government-of-hong-kong-special-administrative-region",
+        "name": "Government of the Hong Kong Special Administrative Region"
+      }
+    ],
+    "source_role": "government_or_court",
+    "source_url": "https://www.info.gov.hk/gia/general/202610/07/P2026100600477.htm",
+    "status": "current",
+    "summary": "The Hong Kong Government says HKEX is preparing a proposed T+1 cash-market settlement cycle and targets consultation conclusions and implementation arrangements within 2026; no final implementation date or participant requirements are stated.",
+    "title": "LCQ17: Accelerated settlement for cash market",
+    "topics": [
+      "securities-settlement",
+      "market-infrastructure",
+      "t-plus-one"
+    ]
+  },
+  {
+    "authority": "Financial Services and the Treasury Bureau",
+    "authority_label": "open interpretation",
+    "bulletin_date": "2026-10-08",
+    "bulletin_path": "bulletins/2026/10/08/daily/",
+    "deadline": "Formal launch of the Gold Central Clearing and Settlement System is scheduled for Q1 2027",
+    "document_type": "government press release",
+    "id": "item-20261007-fstb-gold-master-plan",
+    "impact_areas": [
+      "market-infrastructure",
+      "settlement-risk",
+      "operations"
+    ],
+    "jurisdiction": "HK",
+    "official_published": "2026-10-07",
+    "products": [
+      "payment",
+      "investment",
+      "cross-border-GBA"
+    ],
+    "publisher": "Government of the Hong Kong Special Administrative Region",
+    "publisher_id": "government-of-hong-kong-special-administrative-region",
+    "publishers": [
+      {
+        "id": "government-of-hong-kong-special-administrative-region",
+        "name": "Government of the Hong Kong Special Administrative Region"
+      },
+      {
+        "id": "financial-services-and-the-treasury-bureau",
+        "name": "Financial Services and the Treasury Bureau"
+      }
+    ],
+    "source_role": "government_or_court",
+    "source_url": "https://www.info.gov.hk/gia/general/202610/07/P2026100600281.htm",
+    "status": "current",
+    "summary": "FSTB reports that the trial Hong Kong Gold Central Clearing and Settlement System has 11 banks as provisional direct participants and is scheduled for formal launch in Q1 2027, without mandating bank participation or setting a final rulebook.",
+    "title": "SFST articulates Hong Kong's gold master plan at Global Precious Metals Conference",
+    "topics": [
+      "gold-market",
+      "market-infrastructure",
+      "settlement"
+    ]
+  },
+  {
     "authority": "Hong Kong Monetary Authority",
     "authority_label": "commercial/risk recommendation",
     "bulletin_date": "2026-10-07",
