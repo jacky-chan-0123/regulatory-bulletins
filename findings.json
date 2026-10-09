@@ -43,6 +43,55 @@
     ]
   },
   {
+    "authority": "Securities and Futures Commission, Accounting and Financial Reporting Council and The Stock Exchange of Hong Kong Limited",
+    "authority_label": "supervisory expectation",
+    "bulletin_date": "2026-10-09",
+    "bulletin_path": "bulletins/2026/10/09/daily/",
+    "deadline": "No source deadline stated",
+    "document_type": "joint regulatory statement",
+    "event_family": "listed-issuer-going-concern-disclaimer-oversight",
+    "id": "item-20261008-sfc-web-050ffd939c",
+    "impact_areas": [
+      "financial-reporting",
+      "investor-protection",
+      "governance"
+    ],
+    "jurisdiction": "HK",
+    "official_published": "2026-10-08",
+    "primary_url": "https://www.sfc.hk/-/media/EN/files/ER/Policy-statements-and-announcements/Joint-Statement-on-Financial-Statements-with-Disclaimer-of-Opinion-solely-relating-to-Going-Concern.pdf?rev=3ca2139082334932a198131df168ebed&hash=7BD82BA16FF8F3FB9340ECC88667F0F3",
+    "products": [
+      "investment"
+    ],
+    "publisher": "Securities and Futures Commission",
+    "publisher_id": "sfc",
+    "publishers": [
+      {
+        "id": "sfc",
+        "name": "Securities and Futures Commission"
+      },
+      {
+        "id": "afrc",
+        "name": "Accounting and Financial Reporting Council"
+      },
+      {
+        "id": "hkex",
+        "name": "The Stock Exchange of Hong Kong Limited"
+      }
+    ],
+    "source_role": "primary_authority",
+    "source_url": "https://apps.sfc.hk/edistributionWeb/gateway/EN/news-and-announcements/news/doc?refNo=26PR162",
+    "status": "current",
+    "summary": "The SFC, AFRC and the Exchange issued a joint statement setting supervisory expectations for listed issuers with audit disclaimers solely relating to going concern. It expects robust assessments supported by reasonable assumptions, reliable data and feasible action plans, alongside detailed annual and quarterly progress disclosures and critical audit-committee and auditor review. The statement does not amend Listing Rules or set a new deadline; the Exchange may consider rule changes if improvement is not significant.",
+    "title": "SFC, AFRC and the Exchange join forces to address disclaimers of opinion solely relating to going concern",
+    "topics": [
+      "going-concern",
+      "financial-reporting",
+      "issuer-disclosure",
+      "audit-oversight",
+      "investor-protection"
+    ]
+  },
+  {
     "authority": "Securities and Futures Commission",
     "authority_label": "supervisory expectation",
     "bulletin_date": "2026-10-08",

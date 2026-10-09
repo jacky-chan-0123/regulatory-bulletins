@@ -1,0 +1,63 @@
+{
+  "date": "2026-10-09",
+  "draft_sha256": "19ea726bbf6b27280ee14b4a6834e7f2510d649500a259a97153063447232147",
+  "findings": [
+    {
+      "authority": "Securities and Futures Commission, Accounting and Financial Reporting Council and The Stock Exchange of Hong Kong Limited",
+      "authority_label": "supervisory expectation",
+      "bulletin_date": "2026-10-09",
+      "deadline": "No source deadline stated",
+      "document_type": "joint regulatory statement",
+      "event_family": "listed-issuer-going-concern-disclaimer-oversight",
+      "id": "item-20261008-sfc-web-050ffd939c",
+      "impact_areas": [
+        "financial-reporting",
+        "investor-protection",
+        "governance"
+      ],
+      "jurisdiction": "HK",
+      "official_published": "2026-10-08",
+      "primary_url": "https://www.sfc.hk/-/media/EN/files/ER/Policy-statements-and-announcements/Joint-Statement-on-Financial-Statements-with-Disclaimer-of-Opinion-solely-relating-to-Going-Concern.pdf?rev=3ca2139082334932a198131df168ebed&hash=7BD82BA16FF8F3FB9340ECC88667F0F3",
+      "products": [
+        "investment"
+      ],
+      "publisher": "Securities and Futures Commission",
+      "publisher_id": "sfc",
+      "publishers": [
+        {
+          "id": "sfc",
+          "name": "Securities and Futures Commission"
+        },
+        {
+          "id": "afrc",
+          "name": "Accounting and Financial Reporting Council"
+        },
+        {
+          "id": "hkex",
+          "name": "The Stock Exchange of Hong Kong Limited"
+        }
+      ],
+      "source_role": "primary_authority",
+      "source_url": "https://apps.sfc.hk/edistributionWeb/gateway/EN/news-and-announcements/news/doc?refNo=26PR162",
+      "status": "current",
+      "summary": "The SFC, AFRC and the Exchange issued a joint statement setting supervisory expectations for listed issuers with audit disclaimers solely relating to going concern. It expects robust assessments supported by reasonable assumptions, reliable data and feasible action plans, alongside detailed annual and quarterly progress disclosures and critical audit-committee and auditor review. The statement does not amend Listing Rules or set a new deadline; the Exchange may consider rule changes if improvement is not significant.",
+      "title": "SFC, AFRC and the Exchange join forces to address disclaimers of opinion solely relating to going concern",
+      "topics": [
+        "going-concern",
+        "financial-reporting",
+        "issuer-disclosure",
+        "audit-oversight",
+        "investor-protection"
+      ]
+    }
+  ],
+  "item_ids": [
+    "item-20261008-sfc-web-050ffd939c"
+  ],
+  "mode": "daily",
+  "path": "bulletins/2026/10/09/daily/",
+  "rendered_html": "<b><u>📔 Regulatory Bulletin — 9 October 2026 (Daily)</u></b>\n\n<b><u>Executive Summary</u></b>\n\n  • 🟡 <b>The SFC, AFRC and the Exchange have set out supervisory expectations for listed issuers with audit disclaimers solely relating to going concern.</b> The statement does not amend Listing Rules or set a new deadline, but may affect listed banking-group issuers and investment or credit teams assessing affected counterparties through disclosure quality, valuation and investor-protection considerations.\n\n<b><u>Hong Kong</u></b>\n\n\n<b>🟡 SFC, AFRC and the Exchange join forces to address disclaimers of opinion solely relating to going concern 🇭🇰</b>\n<b>Item ID:</b> item-20261008-sfc-web-050ffd939c\n<b>⏰ Deadline:</b> No source deadline stated\n<b>Products:</b> Investments, listed-issuer exposure\n\nThe SFC, AFRC and the Exchange have issued a joint statement on listed issuers whose audit disclaimer relates solely to going concern. It expects issuer management to use reasonable assumptions, reliable data and feasible action plans in going-concern assessments, with detailed annual and quarterly disclosure of implementation, progress, deviations and revisions. It also expects audit committees and auditors to critically challenge or evaluate the assessment and the sufficiency of disclosures. This is a supervisory expectation for listed issuers, management, audit committees and auditors—not a new general banking obligation; it does not amend Listing Rules or set a new deadline, although the Exchange may consider rule changes if improvement is not significant. Listed banking-group issuers and investment or credit teams with exposure to affected issuers may be affected through disclosure-quality, valuation, counterparty and investor-protection considerations.\n\nSource: <a href=\"https://apps.sfc.hk/edistributionWeb/gateway/EN/news-and-announcements/news/doc?refNo=26PR162\">SFC, AFRC and the Exchange join forces to address disclaimers of opinion solely relating to going concern</a>\nPrimary source: <a href=\"https://www.sfc.hk/-/media/EN/files/ER/Policy-statements-and-announcements/Joint-Statement-on-Financial-Statements-with-Disclaimer-of-Opinion-solely-relating-to-Going-Concern.pdf?rev=3ca2139082334932a198131df168ebed&amp;hash=7BD82BA16FF8F3FB9340ECC88667F0F3\">official document</a>\n\n<b><u>Mainland/GBA</u></b>\n\nNo qualifying Mainland/GBA developments were included in this edition.\n\n<b><u>SG/UK/GLOBAL Benchmark</u></b>\n\n<i>Comparable overseas developments and commercial/control benchmarks. They do not establish Hong Kong requirements.</i>\n\nNo qualifying benchmark developments were included in this edition.\n\n<b><u>Watch List</u></b>\n\n  • Monitor Exchange communications for any proposed Listing Rule change concerning persistent going-concern-only audit disclaimers; no rule amendment is announced in the joint statement.\n\n<b><u>Coverage</u></b>\n\n  • customs-tdo — skipped (0): out-of-cadence for daily mode\n  • consumer-council — skipped (0): out-of-cadence for daily mode\n  • interpol-financial-cyber — skipped (0): out-of-cadence for daily mode\n  • hkcert — skipped (0): out-of-cadence for daily mode\n  • sme-schemes — skipped (0): out-of-cadence for daily mode\n  • gba-official — skipped (0): out-of-cadence for daily mode\n  • gba-mainland-sweep — skipped (0): out-of-cadence for daily mode\n  • industry-bodies — skipped (0): out-of-cadence for daily mode\n  • lawfirm-big4-pages — skipped (0): out-of-cadence for daily mode\n  • lawfirm-big4-sweep — skipped (0): out-of-cadence for daily mode\n  • mas-benchmark — skipped (0): out-of-cadence for daily mode\n  • fca-benchmark — skipped (0): out-of-cadence for daily mode\n  • boe-benchmark — skipped (0): out-of-cadence for daily mode\n  • scam-fraud-cluster — disabled (0): CyberDefender and Scameter remain Cloudflare-blocked; search fallback found no current items\n  • regulation-asia — disabled (0): user-disabled because the subscription-gated latest-news page is unreliable and recent results yielded no scoped items\n  • daily-exploratory-search — partial (0): seven Tavily queries completed with 29 results; three in-window secondary candidates lacked resolved primary authority evidence\n  • hkma-circulars — empty (0): verified TLS RSS feed parsed; no 2026-10-08 publication\n  • hkma-guidelines — empty (0): verified TLS RSS feed parsed; no 2026-10-08 publication\n  • hkma-spm — empty (0): verified TLS RSS feed parsed; no 2026-10-08 publication\n  • hkma-consultations — empty (0): verified TLS RSS feed parsed; no 2026-10-08 publication\n  • hkma-press — ok (1): verified TLS RSS feed parsed; one 2026-10-08 publication collected and source chain complete\n  • hkma-brdr — ok (1): verified TLS BRDR listing; one 2026-10-08 circular collected and official PDF retrieved through the source chain\n  • sfc-circulars — empty (0): verified TLS SFC circular search API and configured listing; no 2026-10-08 circular returned\n  • sfc-aml-circulars — empty (0): verified TLS SFC circular search API and AML listing; no 2026-10-08 circular returned\n  • sfc-consultations — empty (0): verified TLS configured SFC consultation API; no consultation or conclusions record had an official 2026-10-08 issue date\n  • sfc-web — ok (1): verified TLS across configured SFC pages and news API; collected 26PR162 dated 2026-10-08\n  • pcpd — partial (0): deterministic fetches returned an anti-bot shell; media-statement listing had no 2026-10-08 entry, but guidance and findings sub-sources could not be deterministically verified\n  • hk-enforcement-actions — partial (0): HKMA disciplinary-action listing had no 2026-10-08 action; SFC enforcement listing was JavaScript-only and the in-window check is incomplete\n  • global-material-incidents-enforcement — partial (0): MAS listings returned maintenance shells; verified FCA and OCC checks yielded no exceptionally material transferable bank-control event and SGPC did not provide a reliable MAS-filtered listing\n  • mas-parliamentary-replies — partial (0): configured listing returned a verified TLS maintenance shell, not usable publication content\n  • fstb — empty (0): all configured FSTB listings verified; the sole 2026-10-08 press release did not contain an eligible banking regulatory, product or control development\n  • legco — partial (0): configured URLs failed deterministic TLS verification; browser fallback showed no 2026-10-08 bill entry and the committee index is undated\n  • hk-banks-news — empty (0): all configured bank listings verified, including the Hang Seng current-year XML fallback; none contained a 2026-10-08 publication\n  • lexology — partial (0): verified listing lacked candidate publication dates; potentially material benchmark leads could not establish publisher-controlled dates or canonical primary evidence",
+  "rendered_sha256": "4a8409cdc02c4e4e9ef0daca0d3b366c2c5f412ae7edc94c3f1b6e573e134123",
+  "schema_version": 2,
+  "title": "Regulatory Bulletin — 9 October 2026 (Daily)"
+}
