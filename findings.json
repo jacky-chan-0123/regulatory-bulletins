@@ -1,5 +1,46 @@
 [
   {
+    "authority": "Securities and Futures Commission",
+    "authority_label": "open interpretation",
+    "bulletin_date": "2026-10-12",
+    "bulletin_path": "bulletins/2026/10/12/daily/",
+    "deadline": "November 2026 for prospective Mainland-bond collateral extension; March 2027 client-margin phase 2 target, subject to regulatory approval",
+    "document_type": "SFC speech",
+    "id": "item-20261009-sfc-web-eeeca6cdb3",
+    "impact_areas": [
+      "securities-operations",
+      "collateral-management",
+      "liquidity-risk-management",
+      "market-infrastructure"
+    ],
+    "jurisdiction": "HK",
+    "official_published": "2026-10-09",
+    "products": [
+      "Derivatives clearing",
+      "Securities collateral",
+      "Custody"
+    ],
+    "publisher": "Securities and Futures Commission",
+    "publisher_id": "securities-and-futures-commission",
+    "publishers": [
+      {
+        "id": "securities-and-futures-commission",
+        "name": "Securities and Futures Commission"
+      }
+    ],
+    "source_role": "primary_authority",
+    "source_url": "https://apps.sfc.hk/edistributionWeb/gateway/EN/news-and-announcements/news/doc?refNo=26PR164",
+    "status": "current",
+    "summary": "The SFC published a speech describing implemented and prospective HKEX clearing, collateral and settlement initiatives, including a March 2027 client-margin phase-2 target subject to regulatory approval. It is an official market-development signal, not a binding direction; final HKEX approvals, scope and terms remain to be published.",
+    "title": "Project Liquidity: Engineering the Market Plumbing that Unlocks Capital Flows for Hong Kong",
+    "topics": [
+      "market-infrastructure",
+      "clearing",
+      "collateral",
+      "settlement"
+    ]
+  },
+  {
     "authority": "Securities and Futures Commission, Accounting and Financial Reporting Council and The Stock Exchange of Hong Kong Limited",
     "authority_label": "supervisory expectation",
     "bulletin_date": "2026-10-09",

@@ -1,0 +1,55 @@
+{
+  "date": "2026-10-12",
+  "draft_sha256": "59de65c7cea34637b73e3a9e35c5f5cd3e143c33a3c13a7bb363e77dbfe6322a",
+  "findings": [
+    {
+      "authority": "Securities and Futures Commission",
+      "authority_label": "open interpretation",
+      "bulletin_date": "2026-10-12",
+      "deadline": "November 2026 for prospective Mainland-bond collateral extension; March 2027 client-margin phase 2 target, subject to regulatory approval",
+      "document_type": "SFC speech",
+      "id": "item-20261009-sfc-web-eeeca6cdb3",
+      "impact_areas": [
+        "securities-operations",
+        "collateral-management",
+        "liquidity-risk-management",
+        "market-infrastructure"
+      ],
+      "jurisdiction": "HK",
+      "official_published": "2026-10-09",
+      "products": [
+        "Derivatives clearing",
+        "Securities collateral",
+        "Custody"
+      ],
+      "publisher": "Securities and Futures Commission",
+      "publisher_id": "securities-and-futures-commission",
+      "publishers": [
+        {
+          "id": "securities-and-futures-commission",
+          "name": "Securities and Futures Commission"
+        }
+      ],
+      "source_role": "primary_authority",
+      "source_url": "https://apps.sfc.hk/edistributionWeb/gateway/EN/news-and-announcements/news/doc?refNo=26PR164",
+      "status": "current",
+      "summary": "The SFC published a speech describing implemented and prospective HKEX clearing, collateral and settlement initiatives, including a March 2027 client-margin phase-2 target subject to regulatory approval. It is an official market-development signal, not a binding direction; final HKEX approvals, scope and terms remain to be published.",
+      "title": "Project Liquidity: Engineering the Market Plumbing that Unlocks Capital Flows for Hong Kong",
+      "topics": [
+        "market-infrastructure",
+        "clearing",
+        "collateral",
+        "settlement"
+      ]
+    }
+  ],
+  "item_ids": [
+    "item-20261009-sfc-web-eeeca6cdb3"
+  ],
+  "mode": "daily",
+  "path": "bulletins/2026/10/12/daily/",
+  "rendered_html": "<b><u>📔 Regulatory Bulletin — 12 October 2026 (Daily)</u></b>\n\n<b><u>Executive Summary</u></b>\n\n  • 🟡 The SFC signals prospective clearing, collateral and settlement changes that may affect derivatives clearing participants, brokers, custodians and securities-service providers; final HKEX materials, approvals and scope remain outstanding.\n\n<b><u>Hong Kong</u></b>\n\n\n<b>🟡 Project Liquidity: Engineering the Market Plumbing that Unlocks Capital Flows for Hong Kong 🇭🇰</b>\n<b>Item ID:</b> item-20261009-sfc-web-eeeca6cdb3\n<b>⏰ Deadline:</b> November 2026 for prospective Mainland-bond collateral extension; March 2027 client-margin phase 2 target, subject to regulatory approval\n<b>Products:</b> Derivatives clearing; Securities collateral; Custody\n\nThe Securities and Futures Commission (SFC) published a 9 October speech describing market-infrastructure work rather than a rule, circular or binding direction. It reports that the first phase reducing the HKEX derivatives-clearing-house client-margin multiplier from 1.33 to 1.2 was implemented in September 2026, while a reduction to 1.1 is targeted for March 2027 subject to regulatory approval. The speech also signals work towards November 2026 use of specified Mainland bonds as margin collateral at HKEX’s largest futures and options clearing houses, and OTC Clear’s aim to enable same-day settlement for non-cash collateral during 2026. Clearing participants, brokers, custodians and banks providing derivatives, treasury or securities-collateral services may need to assess margin, collateral eligibility, custody, settlement and client-communication dependencies once final HKEX materials define scope and terms.\n\n<b>Actions:</b> Securities Operations and Treasury should determine whether the institution is in scope and track the cited HKEX publications. Where applicable, map collateral, margin, custody and settlement changes and retain decision, configuration, reconciliation and testing evidence; Risk and Compliance should challenge the assessment.\n\nSource: <a href=\"https://apps.sfc.hk/edistributionWeb/gateway/EN/news-and-announcements/news/doc?refNo=26PR164\">New speech by Julia Leung: Keynote address at ASIFMA’s Future of Liquidity in Asia Pacific Capital Markets Conference</a>\n\n<b><u>Mainland/GBA</u></b>\n\nNo qualifying current-run developments.\n\n<b><u>SG/UK/GLOBAL Benchmark</u></b>\n\n<i>Comparable overseas developments and commercial/control benchmarks. They do not establish Hong Kong requirements.</i>\n\nNo qualifying current-run benchmarks.\n\n<b><u>Watch List</u></b>\n\n  • Monitor HKEX publications for final approvals, eligibility and haircut conditions, participant scope, OTC Clear launch terms, and the T+1 consultation conclusions and target date referenced in the SFC speech.\n\n<b><u>Coverage</u></b>\n\n  • customs-tdo — skipped (0): out-of-cadence for daily mode\n  • consumer-council — skipped (0): out-of-cadence for daily mode\n  • interpol-financial-cyber — skipped (0): out-of-cadence for daily mode\n  • hkcert — skipped (0): out-of-cadence for daily mode\n  • sme-schemes — skipped (0): out-of-cadence for daily mode\n  • gba-official — skipped (0): out-of-cadence for daily mode\n  • gba-mainland-sweep — skipped (0): out-of-cadence for daily mode\n  • industry-bodies — skipped (0): out-of-cadence for daily mode\n  • lawfirm-big4-pages — skipped (0): out-of-cadence for daily mode\n  • lawfirm-big4-sweep — skipped (0): out-of-cadence for daily mode\n  • mas-benchmark — skipped (0): out-of-cadence for daily mode\n  • fca-benchmark — skipped (0): out-of-cadence for daily mode\n  • boe-benchmark — skipped (0): out-of-cadence for daily mode\n  • scam-fraud-cluster — disabled (0): disabled 2026-07-22; configured sites remain blocked and fallback found no current items\n  • regulation-asia — disabled (0): disabled at user request; subscription-gated extraction was unreliable\n  • daily-exploratory-search — partial (0): MAS speech lead could not be verified because deterministic fetch and browser returned maintenance content\n  • hkma-circulars — empty (0): verified RSS; latest entry was outside the 9-11 Oct publication window\n  • hkma-guidelines — empty (0): verified RSS; no publication in the 9-11 Oct publication window\n  • hkma-spm — empty (0): verified RSS; no publication in the 9-11 Oct publication window\n  • hkma-consultations — empty (0): verified RSS; no publication in the 9-11 Oct publication window\n  • hkma-press — ok (1): verified RSS; one 9 Oct institutional Government Bonds schedule collected\n  • hkma-brdr — empty (0): verified-TLS listing; latest document was outside the 9-11 Oct publication window\n  • sfc-circulars — empty (0): verified-TLS listings; no 9-11 Oct circular publication\n  • sfc-aml-circulars — empty (0): verified-TLS route and API; no in-window circular publication\n  • sfc-consultations — empty (0): verified-TLS API; no in-window consultation publication\n  • sfc-web — ok (1): verified-TLS SFC listings and API; 9 Oct speech notice 26PR164 and linked official PDF collected\n  • pcpd — empty (0): verified browser reviewed configured listings; no 9-11 Oct publication\n  • hk-enforcement-actions — partial (0): SFC enforcement listing could not establish the in-window position\n  • global-material-incidents-enforcement — partial (0): MAS sources returned maintenance content; no qualifying FCA or OCC item\n  • mas-parliamentary-replies — partial (0): MAS URL returned maintenance content, preventing an in-window check\n  • fstb — empty (0): verified configured listings; no 9-11 Oct publication\n  • legco — partial (0): configured URLs failed TLS certificate verification; no insecure fallback used\n  • hk-banks-news — empty (0): verified bank listings; no dated qualifying release in the publication window\n  • lexology — partial (0): potential lead could not be verified for canonical date, evidence or material new fact",
+  "rendered_sha256": "0e3f3dd0e015bd38b15b49e7b44d33ee828931405a7860d2defecd806a044dc1",
+  "schema_version": 2,
+  "title": "Regulatory Bulletin — 12 October 2026 (Daily)"
+}
