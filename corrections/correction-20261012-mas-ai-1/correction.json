@@ -1,0 +1,51 @@
+{
+  "approved_by": "administrator",
+  "correction_date": "2026-10-12",
+  "correction_id": "correction-20261012-mas-ai-1",
+  "correction_type": "omitted_finding",
+  "finding": {
+    "authority": "Monetary Authority of Singapore",
+    "authority_label": "supervisory expectation",
+    "bulletin_date": "2026-10-08",
+    "deadline": "Sections 3–4 take effect on 7 October 2027; Sections 5–6 are expected by 7 October 2028; MAS intends further consultation on agentic-AI guidance in 2027",
+    "document_type": "MAS media release announcing final supervisory guidelines",
+    "event_family": "MAS AI Risk Management Guidelines 2026",
+    "id": "item-20261007-mas-ai-risk-guidelines-correction-1",
+    "impact_areas": [
+      "technology-and-data-risk",
+      "operational-risk",
+      "third-party-risk",
+      "customer-impact",
+      "governance"
+    ],
+    "jurisdiction": "Singapore",
+    "official_published": "2026-10-07",
+    "primary_url": "https://www.sgpc.gov.sg/api/file/getfile/MAS%20Media%20Release%20-%20MAS%20Sets%20Out%20Supervisory%20Expectations%20on%20Responsible%20AI%20Adoption%20by%20Financial%20Institutions%20-%20For%20media.pdf?path=%2Fsgpcmedia%2Fmedia_releases%2Fmas%2Fpress_release%2FP-20261007-1%2Fattachment%2FMAS+Media+Release+-+MAS+Sets+Out+Supervisory+Expectations+on+Responsible+AI+Adoption+by+Financial+Institutions+-+For+media.pdf",
+    "products": [
+      "all financial services"
+    ],
+    "publisher": "Monetary Authority of Singapore",
+    "publisher_id": "monetary-authority-of-singapore",
+    "publishers": [
+      {
+        "id": "monetary-authority-of-singapore",
+        "name": "Monetary Authority of Singapore"
+      }
+    ],
+    "source_role": "primary_authority",
+    "source_url": "https://www.mas.gov.sg/regulation/guidelines/guidelines-on-artificial-intelligence-risk-management-for-financial-institutions",
+    "status": "current",
+    "summary": "MAS's official 7 October 2026 PDF announces final AI Risk Management Guidelines for all financial institutions and all forms of AI. It describes supervisory expectations for board and senior-management accountability; AI-use inventories and materiality assessment; proportionate controls across data governance, testing, human oversight, cybersecurity, monitoring and change management; and accountability and assurance for third-party AI. Existing governance may be used where adequate, and a dedicated AI committee is not inherently required. If third-party AI risks cannot be brought within risk appetite, an FI should consider limiting, suspending or replacing the service. Basic governance may be proportionate where AI failure or unavailability is unlikely to have material impact on the FI, customers or other stakeholders. Sections 3–4 take effect on 7 October 2027 and Sections 5–6 by 7 October 2028; MAS intends to consult in 2027 on possible additional agentic-AI guidance. The operative Guidelines and response-to-feedback paper remained unavailable behind MAS maintenance content, so this correction makes no unsupported subsection-level claim.",
+    "title": "MAS AI Risk Management Guidelines — omitted finding correction",
+    "topics": [
+      "artificial-intelligence",
+      "model-risk-management",
+      "third-party-risk",
+      "technology-risk",
+      "governance"
+    ]
+  },
+  "reason": "The 8 October run discovered the MAS guideline and related announcement but excluded them because mas.gov.sg returned maintenance content. The official MAS-filtered Singapore Government Press Centre record and its complete three-page MAS PDF are now retrieved, hash-preserved and analysed. The correction is limited to facts supported by that PDF; the unavailable operative Guidelines and response-to-feedback paper are not represented as reviewed.",
+  "schema_version": 2,
+  "target_bulletin_path": "bulletins/2026/10/08/daily/"
+}
