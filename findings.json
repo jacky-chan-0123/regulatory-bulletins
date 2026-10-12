@@ -24,7 +24,7 @@
     "publisher_id": "securities-and-futures-commission",
     "publishers": [
       {
-        "id": "securities-and-futures-commission",
+        "id": "sfc",
         "name": "Securities and Futures Commission"
       }
     ],
@@ -113,7 +113,7 @@
     "publisher_id": "securities-and-futures-commission",
     "publishers": [
       {
-        "id": "securities-and-futures-commission",
+        "id": "sfc",
         "name": "Securities and Futures Commission"
       }
     ],
@@ -152,7 +152,7 @@
     "publisher_id": "government-of-hong-kong-special-administrative-region",
     "publishers": [
       {
-        "id": "government-of-hong-kong-special-administrative-region",
+        "id": "hong-kong-government",
         "name": "Government of the Hong Kong Special Administrative Region"
       }
     ],
@@ -191,11 +191,11 @@
     "publisher_id": "government-of-hong-kong-special-administrative-region",
     "publishers": [
       {
-        "id": "government-of-hong-kong-special-administrative-region",
+        "id": "hong-kong-government",
         "name": "Government of the Hong Kong Special Administrative Region"
       },
       {
-        "id": "financial-services-and-the-treasury-bureau",
+        "id": "fstb",
         "name": "Financial Services and the Treasury Bureau"
       }
     ],
@@ -236,7 +236,7 @@
     "publisher_id": "hong-kong-monetary-authority",
     "publishers": [
       {
-        "id": "hong-kong-monetary-authority",
+        "id": "hkma",
         "name": "Hong Kong Monetary Authority"
       }
     ],
@@ -278,7 +278,7 @@
     "publisher_id": "hong-kong-monetary-authority",
     "publishers": [
       {
-        "id": "hong-kong-monetary-authority",
+        "id": "hkma",
         "name": "Hong Kong Monetary Authority"
       }
     ],
@@ -656,12 +656,12 @@
     "publisher_id": "hong-kong-monetary-authority",
     "publishers": [
       {
-        "id": "hong-kong-monetary-authority",
+        "id": "hkma",
         "name": "Hong Kong Monetary Authority"
       },
       {
-        "id": "hong-kong-association-of-banks",
-        "name": "The Hong Kong Association of Banks"
+        "id": "hkab",
+        "name": "Hong Kong Association of Banks"
       }
     ],
     "source_role": "primary_authority",
@@ -701,11 +701,11 @@
     "publisher_id": "securities-and-futures-commission",
     "publishers": [
       {
-        "id": "securities-and-futures-commission",
+        "id": "sfc",
         "name": "Securities and Futures Commission"
       },
       {
-        "id": "accounting-and-financial-reporting-council",
+        "id": "afrc",
         "name": "Accounting and Financial Reporting Council"
       }
     ],
@@ -787,7 +787,7 @@
     "publisher_id": "hong-kong-monetary-authority",
     "publishers": [
       {
-        "id": "hong-kong-monetary-authority",
+        "id": "hkma",
         "name": "Hong Kong Monetary Authority"
       }
     ],
@@ -1037,7 +1037,7 @@
     "publisher_id": "hk-government",
     "publishers": [
       {
-        "id": "hk-government",
+        "id": "hong-kong-government",
         "name": "Government of the Hong Kong Special Administrative Region"
       }
     ],
@@ -1158,7 +1158,7 @@
     "publisher_id": "securities-and-futures-commission",
     "publishers": [
       {
-        "id": "securities-and-futures-commission",
+        "id": "sfc",
         "name": "Securities and Futures Commission"
       }
     ],
@@ -1364,7 +1364,7 @@
     "publisher_id": "hong-kong-monetary-authority",
     "publishers": [
       {
-        "id": "hong-kong-monetary-authority",
+        "id": "hkma",
         "name": "Hong Kong Monetary Authority"
       }
     ],
@@ -1453,7 +1453,7 @@
     "publisher_id": "hong-kong-monetary-authority",
     "publishers": [
       {
-        "id": "hong-kong-monetary-authority",
+        "id": "hkma",
         "name": "Hong Kong Monetary Authority"
       }
     ],
@@ -1493,7 +1493,7 @@
     "publisher_id": "securities-and-futures-commission",
     "publishers": [
       {
-        "id": "securities-and-futures-commission",
+        "id": "sfc",
         "name": "Securities and Futures Commission"
       }
     ],
@@ -1533,7 +1533,7 @@
     "publisher_id": "securities-and-futures-commission",
     "publishers": [
       {
-        "id": "securities-and-futures-commission",
+        "id": "sfc",
         "name": "Securities and Futures Commission"
       }
     ],
@@ -1879,10 +1879,6 @@
     "publisher": "HSBC and Standard Chartered",
     "publisher_id": "hsbc-and-standard-chartered",
     "publishers": [
-      {
-        "id": "hsbc",
-        "name": "HSBC"
-      },
       {
         "id": "standard-chartered",
         "name": "Standard Chartered"
