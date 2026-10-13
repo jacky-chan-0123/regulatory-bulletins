@@ -1,5 +1,46 @@
 [
   {
+    "authority": "Hong Kong Monetary Authority",
+    "authority_label": "supervisory expectation",
+    "bulletin_date": "2026-10-13",
+    "bulletin_path": "bulletins/2026/10/13/daily/",
+    "correction_date": "2026-10-13",
+    "correction_type": "omitted_finding",
+    "deadline": "No source deadline stated",
+    "document_type": "HKMA circular and practice guide",
+    "event_family": "hkma-data-excellence-practice-guide-2026",
+    "id": "item-20261012-hkma-brdr-20261012-1-en",
+    "impact_areas": [
+      "data-governance",
+      "data-quality",
+      "regulatory-reporting",
+      "technology-risk"
+    ],
+    "jurisdiction": "HK",
+    "official_published": "2026-10-12",
+    "products": [
+      "digital"
+    ],
+    "publisher": "Hong Kong Monetary Authority",
+    "publisher_id": "hong-kong-monetary-authority",
+    "publishers": [
+      {
+        "id": "hkma",
+        "name": "Hong Kong Monetary Authority"
+      }
+    ],
+    "source_role": "primary_authority",
+    "source_url": "https://brdr.hkma.gov.hk/eng/doc-ldg/current/20261012-1-EN",
+    "status": "current",
+    "summary": "HKMA issued a Practice Guide on Data Excellence to all Authorized Institutions. It expects AIs to take its industry good practices into account when strengthening risk-data management across governance and accountability, data-quality management and control, and data infrastructure; the Guide creates no separate prescriptive requirement or mandated model.",
+    "title": "Practice Guide on Data Excellence",
+    "topics": [
+      "data-excellence",
+      "risk-data-management",
+      "data-governance"
+    ]
+  },
+  {
     "authority": "Securities and Futures Commission",
     "authority_label": "required",
     "bulletin_date": "2026-10-13",
