@@ -1,5 +1,81 @@
 [
   {
+    "authority": "Securities and Futures Commission",
+    "authority_label": "required",
+    "bulletin_date": "2026-10-13",
+    "bulletin_path": "bulletins/2026/10/13/daily/",
+    "deadline": "16 November 2026; existing issuers must participate within five years",
+    "document_type": "SFC press release",
+    "id": "item-20261012-sfc-web-26pr166",
+    "impact_areas": [
+      "securities-operations",
+      "custody",
+      "third-party-dependency"
+    ],
+    "jurisdiction": "HK",
+    "official_published": "2026-10-12",
+    "products": [
+      "investment",
+      "custody"
+    ],
+    "publisher": "Securities and Futures Commission",
+    "publisher_id": "securities-and-futures-commission",
+    "publishers": [
+      {
+        "id": "sfc",
+        "name": "Securities and Futures Commission"
+      }
+    ],
+    "source_role": "primary_authority",
+    "source_url": "https://apps.sfc.hk/edistributionWeb/gateway/EN/news-and-announcements/news/doc?refNo=26PR166",
+    "status": "current",
+    "summary": "The SFC approved six securities registrars effective 16 November 2026, when the USM regime takes effect. Listed issuers of prescribed securities must maintain an approved registrar; the stated requirements apply to issuers and registrars, not every bank.",
+    "title": "SFC approves six securities registrars for upcoming uncertificated securities market regime",
+    "topics": [
+      "uncertificated-securities",
+      "securities-registrars",
+      "market-infrastructure"
+    ]
+  },
+  {
+    "authority": "Securities and Futures Commission",
+    "authority_label": "open interpretation",
+    "bulletin_date": "2026-10-13",
+    "bulletin_path": "bulletins/2026/10/13/daily/",
+    "deadline": "Q1 2027 expected commencement, subject to legislative process",
+    "document_type": "SFC press release and consultation conclusions",
+    "event_family": "sfc-smlr-targeted-tools-amendments-2026",
+    "id": "item-20261012-sfc-web-26pr165",
+    "impact_areas": [
+      "securities-regulation",
+      "corporate-finance",
+      "market-conduct"
+    ],
+    "jurisdiction": "HK",
+    "official_published": "2026-10-12",
+    "products": [
+      "investment"
+    ],
+    "publisher": "Securities and Futures Commission",
+    "publisher_id": "securities-and-futures-commission",
+    "publishers": [
+      {
+        "id": "sfc",
+        "name": "Securities and Futures Commission"
+      }
+    ],
+    "source_role": "primary_authority",
+    "source_url": "https://apps.sfc.hk/edistributionWeb/gateway/EN/news-and-announcements/news/doc?refNo=26PR165",
+    "status": "current",
+    "summary": "The SFC will proceed with proposed Stock Market Listing Rules and related Securities and Futures Ordinance amendments, with expected commencement in the first quarter of 2027 subject to the legislative process. This is an announced rule-change process, not a current final obligation.",
+    "title": "SFC proceeds to strengthen targeted tools to tackle IPO-related and other corporate misconduct",
+    "topics": [
+      "stock-market-listing-rules",
+      "ipo",
+      "corporate-misconduct"
+    ]
+  },
+  {
     "authority": "Monetary Authority of Singapore",
     "authority_label": "supervisory expectation",
     "bulletin_date": "2026-10-08",

@@ -1,0 +1,90 @@
+{
+  "date": "2026-10-13",
+  "draft_sha256": "6a5e57192c4084238dc80fd9aaaae32040449ab6547a41f111d9429823dfb1d3",
+  "findings": [
+    {
+      "authority": "Securities and Futures Commission",
+      "authority_label": "required",
+      "bulletin_date": "2026-10-13",
+      "deadline": "16 November 2026; existing issuers must participate within five years",
+      "document_type": "SFC press release",
+      "id": "item-20261012-sfc-web-26pr166",
+      "impact_areas": [
+        "securities-operations",
+        "custody",
+        "third-party-dependency"
+      ],
+      "jurisdiction": "HK",
+      "official_published": "2026-10-12",
+      "products": [
+        "investment",
+        "custody"
+      ],
+      "publisher": "Securities and Futures Commission",
+      "publisher_id": "securities-and-futures-commission",
+      "publishers": [
+        {
+          "id": "securities-and-futures-commission",
+          "name": "Securities and Futures Commission"
+        }
+      ],
+      "source_role": "primary_authority",
+      "source_url": "https://apps.sfc.hk/edistributionWeb/gateway/EN/news-and-announcements/news/doc?refNo=26PR166",
+      "status": "current",
+      "summary": "The SFC approved six securities registrars effective 16 November 2026, when the USM regime takes effect. Listed issuers of prescribed securities must maintain an approved registrar; the stated requirements apply to issuers and registrars, not every bank.",
+      "title": "SFC approves six securities registrars for upcoming uncertificated securities market regime",
+      "topics": [
+        "uncertificated-securities",
+        "securities-registrars",
+        "market-infrastructure"
+      ]
+    },
+    {
+      "authority": "Securities and Futures Commission",
+      "authority_label": "open interpretation",
+      "bulletin_date": "2026-10-13",
+      "deadline": "Q1 2027 expected commencement, subject to legislative process",
+      "document_type": "SFC press release and consultation conclusions",
+      "event_family": "sfc-smlr-targeted-tools-amendments-2026",
+      "id": "item-20261012-sfc-web-26pr165",
+      "impact_areas": [
+        "securities-regulation",
+        "corporate-finance",
+        "market-conduct"
+      ],
+      "jurisdiction": "HK",
+      "official_published": "2026-10-12",
+      "products": [
+        "investment"
+      ],
+      "publisher": "Securities and Futures Commission",
+      "publisher_id": "securities-and-futures-commission",
+      "publishers": [
+        {
+          "id": "securities-and-futures-commission",
+          "name": "Securities and Futures Commission"
+        }
+      ],
+      "source_role": "primary_authority",
+      "source_url": "https://apps.sfc.hk/edistributionWeb/gateway/EN/news-and-announcements/news/doc?refNo=26PR165",
+      "status": "current",
+      "summary": "The SFC will proceed with proposed Stock Market Listing Rules and related Securities and Futures Ordinance amendments, with expected commencement in the first quarter of 2027 subject to the legislative process. This is an announced rule-change process, not a current final obligation.",
+      "title": "SFC proceeds to strengthen targeted tools to tackle IPO-related and other corporate misconduct",
+      "topics": [
+        "stock-market-listing-rules",
+        "ipo",
+        "corporate-misconduct"
+      ]
+    }
+  ],
+  "item_ids": [
+    "item-20261012-sfc-web-26pr165",
+    "item-20261012-sfc-web-26pr166"
+  ],
+  "mode": "daily",
+  "path": "bulletins/2026/10/13/daily/",
+  "rendered_html": "<b><u>📔 Regulatory Bulletin — 13 October 2026 (Daily)</u></b>\n\n<b><u>Executive Summary</u></b>\n\n  • 🟡 Hong Kong’s uncertificated securities market (USM) regime takes effect on 16 November 2026. Listed group entities and securities-service businesses should confirm their issuer, registrar and operational dependencies ahead of implementation.\n  • 🟡 The SFC is proceeding with proposed targeted amendments to the Stock Market Listing Rules and related Securities and Futures Ordinance provisions, with expected commencement in the first quarter of 2027 subject to the legislative process. Corporate-finance and IPO-facing businesses should monitor the final gazetted text before changing controls or client advice.\n\n<b><u>Hong Kong</u></b>\n\n\n<b>🟡 SFC approves six securities registrars for upcoming uncertificated securities market regime 🇭🇰</b>\n<b>Item ID:</b> item-20261012-sfc-web-26pr166\n<b>⏰ Deadline:</b> 16 November 2026; existing issuers must participate within five years\n<b>Products:</b> Investment, Custody\n\nThe SFC approved six companies as approved securities registrars with effect from 16 November 2026, when the USM regime takes effect. It identifies Computershare Hong Kong Investor Services Limited and Tricor Investor Services Limited as the first approved for USM-related services. Listed issuers of prescribed securities must maintain an approved registrar, while post-16 November listing applicants with uncertificated securities must appoint one approved for USM-related services. A listed group entity, custodian or investment-services business may need to assess registrar appointments, register and settlement dependencies, and client-servicing implications; the announcement does not create a direct duty for every bank.\n\nSource: <a href=\"https://apps.sfc.hk/edistributionWeb/gateway/EN/news-and-announcements/news/doc?refNo=26PR166\">SFC approves six securities registrars for upcoming uncertificated securities market regime</a>\n\n\n<b>🟡 SFC proceeds to strengthen targeted tools to tackle IPO-related and other corporate misconduct 🇭🇰</b>\n<b>Item ID:</b> item-20261012-sfc-web-26pr165\n<b>⏰ Deadline:</b> Q1 2027 expected commencement, subject to legislative process\n<b>Products:</b> Investment, IPO advisory\n\nFollowing consultation, the SFC will proceed with clarified and refined amendments to the Stock Market Listing Rules and related Securities and Futures Ordinance provisions. The proposed changes include continuing conditions on listing applicants and post-listing conditions as alternatives to immediate suspension, streamlined resumption procedures, and a merits-review mechanism through the Securities and Futures Appeals Tribunal. The SFC expects commencement in the first quarter of 2027, subject to gazetting, negative vetting and the legislative process. This is an announced rule-change process rather than a current final obligation; SFC-registered corporate-finance businesses and group entities supporting listings may need to monitor final provisions and assess case-governance, client-advice and escalation implications.\n\nSource: <a href=\"https://apps.sfc.hk/edistributionWeb/gateway/EN/news-and-announcements/news/doc?refNo=26PR165\">SFC proceeds to strengthen targeted tools to tackle IPO-related and other corporate misconduct</a>\n\n<b><u>SG/UK/GLOBAL Benchmark</u></b>\n\n<i>Comparable overseas developments and commercial/control benchmarks. They do not establish Hong Kong requirements.</i>\n\nNo qualifying benchmark developments were included in this run.\n\n<b><u>Watch List</u></b>\n\n  • Monitor gazetting, Legislative Council scrutiny and final commencement details for the proposed Stock Market Listing Rules amendments.\n\n<b><u>Coverage</u></b>\n\n  • customs-tdo — skipped (0): Out of cadence for daily mode.\n  • consumer-council — skipped (0): Out of cadence for daily mode.\n  • interpol-financial-cyber — skipped (0): Out of cadence for daily mode.\n  • hkcert — skipped (0): Out of cadence for daily mode.\n  • sme-schemes — skipped (0): Out of cadence for daily mode.\n  • gba-official — skipped (0): Out of cadence for daily mode.\n  • gba-mainland-sweep — skipped (0): Out of cadence for daily mode.\n  • industry-bodies — skipped (0): Out of cadence for daily mode.\n  • lawfirm-big4-pages — skipped (0): Out of cadence for daily mode.\n  • lawfirm-big4-sweep — skipped (0): Out of cadence for daily mode.\n  • fca-benchmark — skipped (0): Out of cadence for daily mode.\n  • boe-benchmark — skipped (0): Out of cadence for daily mode.\n  • scam-fraud-cluster — disabled (0): Disabled after persistent Cloudflare blocking; no current search fallback item.\n  • regulation-asia — disabled (0): Disabled at user request because the listing is subscription-gated and extraction is unreliable.\n  • daily-exploratory-search — partial (0): Seven Tavily queries completed; a potential MAS-AI lead lacked recoverable primary URL and date.\n  • hkma-circulars — empty (0): Verified TLS RSS had no official publication dated 12 October 2026.\n  • hkma-guidelines — empty (0): Verified TLS RSS had no official publication dated 12 October 2026.\n  • hkma-spm — empty (0): Verified TLS RSS had no official publication dated 12 October 2026.\n  • hkma-consultations — empty (0): Verified TLS RSS had no official publication dated 12 October 2026.\n  • hkma-press — empty (0): Verified TLS RSS had no official publication dated 12 October 2026.\n  • hkma-brdr — ok (1): Verified TLS listing found the 12 October Practice Guide on Data Excellence; canonical record and source chain reviewed.\n  • sfc-circulars — empty (0): Verified TLS circular inventory had no official publication dated 12 October 2026.\n  • sfc-aml-circulars — empty (0): Verified TLS AML circular inventory had no official publication dated 12 October 2026.\n  • sfc-consultations — ok (0): The 12 October conclusions are the same SMLR event captured under sfc-web.\n  • sfc-web — ok (2): Verified TLS sources identified two qualifying 12 October SFC announcements.\n  • pcpd — empty (0): Verified listings had no official publication dated 12 October 2026.\n  • hk-enforcement-actions — partial (0): SFC enforcement endpoint rendered empty in local browser; no in-window conclusion for that sub-source.\n  • global-material-incidents-enforcement — empty (0): Verified FCA and OCC listings had no exceptionally material in-window bank-control event.\n  • mas-regulatory-announcements — partial (0): MAS listings returned maintenance shells; the identified SGPC lead lacked an accessible operative MAS source.\n  • fstb — empty (0): Verified TLS listings found no official publication dated 12 October 2026.\n  • legco — partial (0): Configured listings failed normal TLS certificate verification; no insecure fallback was used.\n  • hk-banks-news — ok (1): Verified TLS listings found one in-window issuer release; other reviewed disclosures were not qualifying.\n  • lexology — partial (0): Potential commentary lead lacked recoverable exact publisher date and canonical evidence after Cloudflare verification.",
+  "rendered_sha256": "009369b9be5228e6626fe8dacb9df125107afde27ec5d129291ad0a7a9e669b0",
+  "schema_version": 2,
+  "title": "Regulatory Bulletin — 13 October 2026 (Daily)"
+}
