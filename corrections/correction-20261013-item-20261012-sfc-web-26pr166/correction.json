@@ -1,0 +1,47 @@
+{
+  "approved_by": "administrator",
+  "correction_date": "2026-10-13",
+  "correction_id": "correction-20261013-item-20261012-sfc-web-26pr166",
+  "finding": {
+    "authority": "Securities and Futures Commission",
+    "authority_label": "required",
+    "bulletin_date": "2026-10-13",
+    "correction_of": "item-20261012-sfc-web-26pr166",
+    "deadline": "16 November 2026; five-year participation period for applicable securities",
+    "document_type": "SFC press release",
+    "event_family": "sfc-usm-regime-registrar-approvals-2026",
+    "id": "item-20261012-sfc-web-26pr166-correction-1",
+    "impact_areas": [
+      "securities-operations",
+      "custody",
+      "third-party-dependency"
+    ],
+    "jurisdiction": "HK",
+    "official_published": "2026-10-12",
+    "products": [
+      "investment",
+      "custody"
+    ],
+    "publisher": "Securities and Futures Commission",
+    "publisher_id": "securities-and-futures-commission",
+    "publishers": [
+      {
+        "id": "securities-and-futures-commission",
+        "name": "Securities and Futures Commission"
+      }
+    ],
+    "source_role": "primary_authority",
+    "source_url": "https://apps.sfc.hk/edistributionWeb/gateway/EN/news-and-announcements/news/doc?refNo=26PR166",
+    "status": "corrected",
+    "summary": "The uncertificated securities market regime takes effect on 16 November 2026. The SFC approved six securities registrars effective that date; listed issuers of prescribed securities must maintain an approved registrar, and existing prescribed securities constituted under Bermuda, Cayman Islands, Mainland China or Hong Kong law have five years to participate.",
+    "title": "SFC approves six securities registrars for upcoming uncertificated securities market regime",
+    "topics": [
+      "uncertificated-securities-market",
+      "securities-registrars",
+      "custody"
+    ]
+  },
+  "reason": "A held finding was remanded after administrator review and completed bounded analyst, writer and dispatcher contracts. Original Telegram and email delivery is preserved; the governed correction is published on Pages only.",
+  "schema_version": 1,
+  "target_finding_id": "item-20261012-sfc-web-26pr166"
+}
