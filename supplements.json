@@ -1,1 +1,32 @@
-[]
+[
+  {
+    "added_date": "2026-10-14",
+    "authority_effect": "none",
+    "changes_primary_date": false,
+    "content_contribution": "contextual_analysis",
+    "establishes_obligation": false,
+    "event_family": "MAS AI Risk Management Guidelines 2026",
+    "id": "supplementary-20261008-st-mas-ai-third-party",
+    "jurisdiction": "Singapore",
+    "publisher": "The Straits Times",
+    "publisher_date": "2026-10-08",
+    "publisher_id": "the-straits-times",
+    "publishers": [
+      {
+        "id": "the-straits-times",
+        "name": "The Straits Times"
+      },
+      {
+        "id": "singapore-law-watch",
+        "name": "Singapore Law Watch"
+      }
+    ],
+    "record_kind": "supplementary_development",
+    "relationship_type": "coverage_of",
+    "source_role": "reputable_media",
+    "source_url": "https://www.singaporelawwatch.sg/Headlines/financial-institutions-must-remain-accountable-for-use-of-third-party-ai-tools-mas",
+    "summary": "Sarah Koh's Straits Times report, republished by Singapore Law Watch, explains MAS's third-party AI expectations, including financial institutions' retained accountability, risk-appropriate transparency and testing, contingency arrangements and proportionate treatment of lower-materiality uses. It is secondary reporting and adds communication context; the official MAS Guidelines remain the evidential authority for the supervisory expectations.",
+    "target_finding_id": "item-20261007-mas-ai-risk-guidelines-correction-2",
+    "title": "Financial institutions must remain accountable for use of third-party AI tools: MAS"
+  }
+]
