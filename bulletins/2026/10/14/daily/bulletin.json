@@ -1,0 +1,140 @@
+{
+  "date": "2026-10-14",
+  "draft_sha256": "88acbacef761388be71ced3d34a24d8eb1899c221ffde55a58498c8af138b55b",
+  "findings": [
+    {
+      "authority": "Securities and Futures Commission",
+      "authority_label": "supervisory expectation",
+      "bulletin_date": "2026-10-14",
+      "deadline": "No source deadline stated",
+      "document_type": "SFC supervisory circular",
+      "event_family": "sfc-ipo-sponsor-bookbuilding-supervision-2026",
+      "id": "item-20261013-sfc-circulars-f2ff8e07f1",
+      "impact_areas": [
+        "securities conduct and market integrity",
+        "IPO due diligence and disclosure",
+        "bookbuilding and placing controls",
+        "governance and resource capacity"
+      ],
+      "jurisdiction": "HK",
+      "official_published": "2026-10-13",
+      "products": [
+        "IPO advisory",
+        "Bookbuilding",
+        "Placing"
+      ],
+      "publisher": "Securities and Futures Commission",
+      "publisher_id": "sfc",
+      "publishers": [
+        {
+          "id": "sfc",
+          "name": "Securities and Futures Commission"
+        }
+      ],
+      "source_role": "primary_authority",
+      "source_url": "https://apps.sfc.hk/edistributionWeb/gateway/EN/circular/intermediaries/supervision/doc?refNo=26EC62",
+      "status": "current",
+      "summary": "The SFC issued a supervisory circular for scoped sponsor, overall-coordinator and capital-market-intermediary roles, highlighting diligence, escalation, reporting and rejection of unresolved suspicious orders in IPO activity.",
+      "title": "Circular to licensed corporations carrying out sponsor work and engaging in bookbuilding and placing activities",
+      "topics": [
+        "IPO",
+        "sponsor",
+        "bookbuilding",
+        "placing"
+      ]
+    },
+    {
+      "authority": "Securities and Futures Commission",
+      "authority_label": "required",
+      "bulletin_date": "2026-10-14",
+      "deadline": "Immediate notification upon instructions concerning restricted assets",
+      "document_type": "SFC enforcement and market-intervention announcement",
+      "event_family": "sfc-suspected-ipo-rigging-baicha-restriction-notices-2026",
+      "id": "item-20261013-sfc-web-fdd006ef5d",
+      "impact_areas": [
+        "securities conduct and market integrity",
+        "client-asset restrictions",
+        "suspicious-order escalation",
+        "regulatory response operations"
+      ],
+      "jurisdiction": "HK",
+      "official_published": "2026-10-13",
+      "products": [
+        "Brokerage and custody",
+        "IPO distribution",
+        "Investments"
+      ],
+      "publisher": "Securities and Futures Commission",
+      "publisher_id": "sfc",
+      "publishers": [
+        {
+          "id": "sfc",
+          "name": "Securities and Futures Commission"
+        }
+      ],
+      "source_role": "primary_authority",
+      "source_url": "https://apps.sfc.hk/edistributionWeb/gateway/EN/news/doc?refNo=26PR168",
+      "status": "current",
+      "summary": "The SFC directed a trading suspension and issued notice-specific asset restrictions to named brokers during an ongoing investigation into suspected IPO rigging; recipient brokers face immediate restriction and notification requirements.",
+      "title": "SFC takes action against suspected IPO-rigging syndicates and suspends dealings in Baicha shares",
+      "topics": [
+        "IPO",
+        "market integrity",
+        "asset restrictions",
+        "brokerage"
+      ]
+    },
+    {
+      "authority": "Office of the Comptroller of the Currency",
+      "authority_label": "commercial/risk recommendation",
+      "bulletin_date": "2026-10-14",
+      "deadline": "US$750 million penalty payable upon execution of the OCC order",
+      "document_type": "OCC final consent order and news release",
+      "event_family": "occ-bank-of-america-bsa-aml-enforcement-2026",
+      "id": "item-20261013-global-material-incidents-enforcement-cd2747adee",
+      "impact_areas": [
+        "AML/CFT",
+        "transaction monitoring and suspicious-activity reporting",
+        "correspondent banking",
+        "governance and independent testing"
+      ],
+      "jurisdiction": "GLOBAL",
+      "official_published": "2026-10-13",
+      "products": [
+        "Payments",
+        "Credit cards",
+        "Correspondent banking"
+      ],
+      "publisher": "Office of the Comptroller of the Currency",
+      "publisher_id": "occ",
+      "publishers": [
+        {
+          "id": "occ",
+          "name": "Office of the Comptroller of the Currency"
+        }
+      ],
+      "source_role": "primary_authority",
+      "source_url": "https://www.occ.gov/news-issuances/news-releases/2026/nr-occ-2026-89.html",
+      "status": "current",
+      "summary": "The OCC issued a final consent order imposing a US$750 million civil money penalty on Bank of America for continuing BSA/AML-program deficiencies, providing an analogous non-binding control benchmark for Hong Kong firms.",
+      "title": "OCC Imposes $750 Million Assessment Against Bank of America for Deficient BSA/AML Compliance",
+      "topics": [
+        "BSA/AML",
+        "transaction monitoring",
+        "correspondent banking",
+        "enforcement"
+      ]
+    }
+  ],
+  "item_ids": [
+    "item-20261013-global-material-incidents-enforcement-cd2747adee",
+    "item-20261013-sfc-circulars-f2ff8e07f1",
+    "item-20261013-sfc-web-fdd006ef5d"
+  ],
+  "mode": "daily",
+  "path": "bulletins/2026/10/14/daily/",
+  "rendered_html": "<b><u>📔 Regulatory Bulletin — 14 October 2026 (Daily)</u></b>\n\n<b><u>Executive Summary</u></b>\n\n  • <b>SFC IPO controls:</b> Scoped sponsor, overall-coordinator and capital-market-intermediary businesses face renewed supervisory attention to diligence, escalation, reporting and rejection of unresolved suspicious orders.\n  • <b>Immediate SFC restrictions:</b> Recipient brokers must block dealings in specified Baicha-related assets, obtain prior written SFC consent where required and notify the SFC immediately of relevant instructions.\n  • <b>Global AML benchmark:</b> The OCC’s US$750 million Bank of America penalty provides an analogous control signal for transaction monitoring, SAR escalation, correspondent due diligence and independent testing; it is not a Hong Kong requirement.\n\n<b><u>Hong Kong Regulatory Developments</u></b>\n\n\n<b>🟡 Circular to licensed corporations carrying out sponsor work and engaging in bookbuilding and placing activities 🇭🇰</b>\n<b>Item ID:</b> item-20261013-sfc-circulars-f2ff8e07f1\n<b>⏰ Deadline:</b> No source deadline stated\n<b>Products:</b> IPO advisory, Bookbuilding, Placing\n\nOn 13 October, the Securities and Futures Commission (SFC) issued a circular following its January communication on sponsor, bookbuilding and placing activity. It reported fewer strained sponsors and Principals, but identified uneven Principal submissions and dubious IPO arrangements. The SFC expects sponsors, overall coordinators and capital-market intermediaries to investigate, document, escalate and report concerns, and states that overall coordinators and capital-market intermediaries shall reject unresolved suspicious orders. This is a supervisory communication for the specified SFC-regulated roles, supported by underlying Code of Conduct and listing-rule duties rather than a universal banking duty. Scoped businesses may need to evidence Principal capacity, investor and funding enquiries, order-book records, escalation, reporting and rejection decisions.\n\nSource: <a href=\"https://apps.sfc.hk/edistributionWeb/gateway/EN/circular/intermediaries/supervision/doc?refNo=26EC62\">Circular to licensed corporations carrying out sponsor work and engaging in bookbuilding and placing activities</a>\n\n<b><u>Material Losses, Fines &amp; Enforcement</u></b>\n\n\n<b>🟡 SFC takes action against suspected IPO-rigging syndicates and suspends dealings in Baicha shares 🇭🇰</b>\n<b>Item ID:</b> item-20261013-sfc-web-fdd006ef5d\n<b>⏰ Deadline:</b> Immediate notification upon instructions concerning restricted assets\n<b>Products:</b> Brokerage and custody, IPO distribution, Investments\n\nOn 13 October, the SFC directed the Stock Exchange of Hong Kong to suspend dealings in Baicha shares from 9:00am while it investigates suspected false or artificial IPO demand. The SFC issued restriction notices to six brokers over up to HK$4,379,463,215 and to 29 brokers over up to HK$285,030,265 in specified accounts. Recipient brokers must not deal with specified assets or execute relevant instructions without prior written SFC consent, and must notify the SFC immediately of relevant instructions. The SFC says the brokers are not subjects of its investigation, other clients are unaffected, and the investigation continues; any restitution is only a possible future process. Any recipient or operationally connected service provider may need rapid account identification, restriction configuration, instruction blocking, notification, client communication and evidence preservation.\n\nSource: <a href=\"https://apps.sfc.hk/edistributionWeb/gateway/EN/news/doc?refNo=26PR168\">SFC takes action against suspected IPO-rigging syndicates and suspends dealings in Baicha shares</a>\n\n<b><u>SG/UK/GLOBAL Benchmark</u></b>\n<i>Comparable overseas developments and commercial/control benchmarks. They do not establish Hong Kong requirements.</i>\n\n<b>Material Losses, Fines &amp; Enforcement</b>\n\n\n<b>🟡 OCC Imposes $750 Million Assessment Against Bank of America for Deficient BSA/AML Compliance 🌐</b>\n<b>Item ID:</b> item-20261013-global-material-incidents-enforcement-cd2747adee\n<b>⏰ Deadline:</b> US$750 million penalty payable upon execution of the OCC order\n<b>Products:</b> Payments, Credit cards, Correspondent banking\n\nOn 13 October, the Office of the Comptroller of the Currency (OCC) imposed a US$750 million civil money penalty on Bank of America, N.A. in a final consent order. The Comptroller found continuing BSA/AML-program deficiencies after a 2024 cease-and-desist order, including transaction monitoring, SAR escalation and quality, investigator capacity, audit testing, correspondent-account due diligence and wire transmittor information. Bank of America neither admitted nor denied the findings and had begun corrective action; the OCC says FinCEN is separately assessing a US$1.2 billion fine that credits the OCC penalty. This is final US enforcement and an analogous control benchmark, not a Hong Kong requirement. Comparable payments, card monitoring and correspondent-banking businesses may use it to challenge backlog, escalation, monitoring, data-lineage and independent-testing evidence without implying a Hong Kong deficiency.\n\nSource: <a href=\"https://www.occ.gov/news-issuances/news-releases/2026/nr-occ-2026-89.html\">OCC Imposes $750 Million Assessment Against Bank of America for Deficient BSA/AML Compliance</a>\n\n<b><u>Watch List</u></b>\n\n  • Monitor any further SFC notices or investigation updates on the Baicha restrictions, and the outcome of FinCEN’s separately stated assessment concerning Bank of America.\n\n<b><u>Coverage</u></b>\n\n  • customs-tdo — skipped (0): out-of-cadence for daily mode\n  • consumer-council — skipped (0): out-of-cadence for daily mode\n  • interpol-financial-cyber — skipped (0): out-of-cadence for daily mode\n  • hkcert — skipped (0): out-of-cadence for daily mode\n  • sme-schemes — skipped (0): out-of-cadence for daily mode\n  • gba-official — skipped (0): out-of-cadence for daily mode\n  • gba-mainland-sweep — skipped (0): out-of-cadence for daily mode\n  • industry-bodies — skipped (0): out-of-cadence for daily mode\n  • lawfirm-big4-pages — skipped (0): out-of-cadence for daily mode\n  • lawfirm-big4-sweep — skipped (0): out-of-cadence for daily mode\n  • fca-benchmark — skipped (0): out-of-cadence for daily mode\n  • boe-benchmark — skipped (0): out-of-cadence for daily mode\n  • scam-fraud-cluster — disabled (0): configured source remains blocked; fallback found no current items\n  • regulation-asia — disabled (0): disabled at user request; subscription-gated extraction was unreliable\n  • daily-exploratory-search — partial (0): MAS AIRG leads lacked recoverable official date and text\n  • hkma-circulars — empty (0): no official publication dated 2026-10-13\n  • hkma-guidelines — empty (0): no official publication dated 2026-10-13\n  • hkma-spm — empty (0): no official publication dated 2026-10-13\n  • hkma-consultations — empty (0): no official publication dated 2026-10-13\n  • hkma-press — ok (1): one 2026-10-13 press release identified and source chain collected\n  • hkma-brdr — empty (0): no official document dated 2026-10-13 listed\n  • sfc-circulars — ok (1): one 2026-10-13 supervisory circular identified\n  • sfc-aml-circulars — empty (0): webinar invitation was not a qualifying development\n  • sfc-consultations — empty (0): no consultation or conclusion dated 2026-10-13\n  • sfc-web — ok (1): 2026-10-13 enforcement action identified; related news was deduplicated\n  • pcpd — empty (0): no qualifying banking, control or regulatory development found\n  • hk-enforcement-actions — partial (0): SFC listing JS shell prevented exact in-window action verification\n  • global-material-incidents-enforcement — ok (1): OCC action and linked consent order dated 2026-10-13 collected\n  • mas-regulatory-announcements — partial (0): configured MAS pages returned maintenance content\n  • fstb — empty (0): no official financial-services publication dated 2026-10-13\n  • legco — partial (0): listings failed TLS verification; browser fallback found no exact dated document\n  • hk-banks-news — empty (0): only routine phishing or fraud-site notices found\n  • lexology — partial (0): canonical leads lacked recoverable publisher date or primary evidence",
+  "rendered_sha256": "e0246da5ad8a67f71214f208d3910e2be164eac183a725022fe14eefa8fb2ba8",
+  "schema_version": 2,
+  "title": "Regulatory Bulletin — 14 October 2026 (Daily)"
+}

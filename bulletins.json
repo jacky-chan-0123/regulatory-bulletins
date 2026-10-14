@@ -1,5 +1,19 @@
 [
   {
+    "date": "2026-10-14",
+    "draft_sha256": "88acbacef761388be71ced3d34a24d8eb1899c221ffde55a58498c8af138b55b",
+    "item_ids": [
+      "item-20261013-global-material-incidents-enforcement-cd2747adee",
+      "item-20261013-sfc-circulars-f2ff8e07f1",
+      "item-20261013-sfc-web-fdd006ef5d"
+    ],
+    "mode": "daily",
+    "path": "bulletins/2026/10/14/daily/",
+    "rendered_sha256": "e0246da5ad8a67f71214f208d3910e2be164eac183a725022fe14eefa8fb2ba8",
+    "schema_version": 2,
+    "title": "Regulatory Bulletin — 14 October 2026 (Daily)"
+  },
+  {
     "date": "2026-10-13",
     "draft_sha256": "6a5e57192c4084238dc80fd9aaaae32040449ab6547a41f111d9429823dfb1d3",
     "item_ids": [
