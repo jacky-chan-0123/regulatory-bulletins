@@ -1,0 +1,55 @@
+{
+  "date": "2026-10-15",
+  "draft_sha256": "86cfea35ee94ab1d1fdc1c577c765f649d28bc32dd606894ec3600aaa3007b4c",
+  "findings": [
+    {
+      "authority": "Hong Kong Monetary Authority",
+      "authority_label": "commercial/risk recommendation",
+      "bulletin_date": "2026-10-15",
+      "deadline": "No source deadline stated",
+      "document_type": "HKMA press release",
+      "event_family": "Chongqing-Hong Kong Cross-boundary Data Validation Platform",
+      "id": "item-20261014-hkma-press-ad903718c6",
+      "impact_areas": [
+        "Cross-border data",
+        "Customer onboarding",
+        "Credit underwriting",
+        "Third-party dependency"
+      ],
+      "jurisdiction": "Hong Kong",
+      "official_published": "2026-10-14",
+      "products": [
+        "SME onboarding",
+        "Lending",
+        "Cross-border data validation"
+      ],
+      "publisher": "Hong Kong Monetary Authority",
+      "publisher_id": "hong-kong-monetary-authority",
+      "publishers": [
+        {
+          "id": "hong-kong-monetary-authority",
+          "name": "Hong Kong Monetary Authority"
+        }
+      ],
+      "source_role": "primary_authority",
+      "source_url": "https://www.hkma.gov.hk/eng/news-and-media/press-releases/2026/10/20261014-4/",
+      "status": "current",
+      "summary": "HKMA announced the platform's launch for initial cross-boundary financial use cases, including account opening and loan applications. It verifies customer-presented data using blockchain technology and hash values without cross-boundary transfer or storage of original documents; the announcement states no participation requirement or timetable.",
+      "title": "Chongqing–Hong Kong Cross-boundary Data Validation Platform",
+      "topics": [
+        "cross-boundary-data",
+        "sme-onboarding",
+        "lending"
+      ]
+    }
+  ],
+  "item_ids": [
+    "item-20261014-hkma-press-ad903718c6"
+  ],
+  "mode": "daily",
+  "path": "bulletins/2026/10/15/daily/",
+  "rendered_html": "<b><u>📔 Regulatory Bulletin — 15 October 2026 (Daily)</u></b>\n\n<b><u>Executive Summary</u></b>\n\n  • 🟡 HKMA announced the Chongqing–Hong Kong Cross-boundary Data Validation Platform for initial account-opening and loan-application use cases. It creates a potential commercial and operational option for cross-boundary SME onboarding and lending, but does not state a bank participation requirement or timetable.\n\n<b><u>Hong Kong</u></b>\n\n\n<b>🟡 Chongqing–Hong Kong Cross-boundary Data Validation Platform 🇭🇰</b>\n<b>Item ID:</b> item-20261014-hkma-press-ad903718c6\n<b>⏰ Deadline:</b> No source deadline stated\n<b>Products:</b> SME onboarding, Lending, Cross-border data validation\n\nThe Hong Kong Monetary Authority (HKMA) announced the launch of the Chongqing–Hong Kong Cross-boundary Data Validation Platform on 14 October 2026. The platform verifies customer-presented data using blockchain technology and hash values without transferring or storing the original documents across the boundary. It will initially support cross-boundary financial use cases, while banks in Chongqing and Hong Kong are advancing Northbound and Southbound account-opening and loan-application use cases. The announcement states no participation requirement, implementation timetable, or prescribed standards for reliance, consent, underwriting or data protection; institutions considering participation may assess data flows, validation reliance and operator arrangements before making a commercial decision.\n\nSource: <a href=\"https://www.hkma.gov.hk/eng/news-and-media/press-releases/2026/10/20261014-4/\">HKMA welcomes launch of Chongqing-Hong Kong Cross-boundary Data Validation Platform</a>\n\n<b><u>Mainland/GBA</u></b>\n\n  • No separate Mainland/GBA regulatory items in this edition.\n\n<b><u>SG/UK/GLOBAL Benchmark</u></b>\n\n<i>Comparable overseas developments and commercial/control benchmarks. They do not establish Hong Kong requirements.</i>\n\n  • No benchmark items in this edition.\n\n<b><u>Watch List</u></b>\n\n  • Monitor any published participation, access, consent, liability, security, retention and cross-boundary-data terms for the platform.\n\n<b><u>Coverage</u></b>\n\n  • customs-tdo — skipped (0): out-of-cadence for daily mode\n  • consumer-council — skipped (0): out-of-cadence for daily mode\n  • interpol-financial-cyber — skipped (0): out-of-cadence for daily mode\n  • hkcert — skipped (0): out-of-cadence for daily mode\n  • sme-schemes — skipped (0): out-of-cadence for daily mode\n  • gba-official — skipped (0): out-of-cadence for daily mode\n  • gba-mainland-sweep — skipped (0): out-of-cadence for daily mode\n  • industry-bodies — skipped (0): out-of-cadence for daily mode\n  • lawfirm-big4-pages — skipped (0): out-of-cadence for daily mode\n  • lawfirm-big4-sweep — skipped (0): out-of-cadence for daily mode\n  • fca-benchmark — skipped (0): out-of-cadence for daily mode\n  • boe-benchmark — skipped (0): out-of-cadence for daily mode\n  • scam-fraud-cluster — disabled (0): disabled 2026-07-22; configured sources remain blocked or had no current items\n  • regulation-asia — disabled (0): disabled at user request; subscription-gated coverage was unreliable\n  • daily-exploratory-search — partial (0): seven queries completed; a Reuters BofA lead could not be canonically verified after HTTP 401\n  • hkma-circulars — empty (0): verified RSS feed contained no 14 Oct 2026 publication\n  • hkma-guidelines — empty (0): verified RSS feed contained no 14 Oct 2026 publication\n  • hkma-spm — empty (0): verified RSS feed contained no 14 Oct 2026 publication\n  • hkma-consultations — empty (0): verified RSS feed contained no 14 Oct 2026 publication\n  • hkma-press — ok (5): verified RSS feed yielded five 14 Oct 2026 publications; evidence and source chains collected\n  • hkma-brdr — empty (0): verified BRDR and browser listings showed no 14 Oct 2026 publication\n  • sfc-circulars — empty (0): verified listings and API showed no 14 Oct 2026 circular\n  • sfc-aml-circulars — empty (0): verified AML listing and API showed no 14 Oct 2026 publication\n  • sfc-consultations — empty (0): verified consultation API showed no 14 Oct 2026 consultation or conclusion\n  • sfc-web — partial (0): three configured e-Distribution sub-listings remained unresolved JavaScript shells\n  • pcpd — empty (0): configured guidance, media and findings listings had no 14 Oct 2026 publication\n  • hk-enforcement-actions — partial (0): SFC enforcement listing remained unresolved as a JavaScript shell\n  • global-material-incidents-enforcement — empty (0): FCA and OCC indexes had no qualifying 14 Oct 2026 event\n  • mas-regulatory-announcements — partial (0): configured MAS paths returned maintenance content; retained sources could not substitute\n  • fstb — ok (1): verified FSTB listings yielded one in-window Legislative Council reply\n  • legco — partial (0): configured URLs failed deterministic TLS verification; browser evidence was incomplete\n  • hk-banks-news — empty (0): verified bank listings yielded no candidate meeting the materiality gate\n  • lexology — partial (0): relevant article date and primary evidence could not be resolved after Cloudflare blocking",
+  "rendered_sha256": "caa2834d09b0e13c1096983aeb230c29fb74f172f761843d4557bb8fb0e2494d",
+  "schema_version": 2,
+  "title": "Regulatory Bulletin — 15 October 2026 (Daily)"
+}

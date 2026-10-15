@@ -1,5 +1,46 @@
 [
   {
+    "authority": "Hong Kong Monetary Authority",
+    "authority_label": "commercial/risk recommendation",
+    "bulletin_date": "2026-10-15",
+    "bulletin_path": "bulletins/2026/10/15/daily/",
+    "deadline": "No source deadline stated",
+    "document_type": "HKMA press release",
+    "event_family": "Chongqing-Hong Kong Cross-boundary Data Validation Platform",
+    "id": "item-20261014-hkma-press-ad903718c6",
+    "impact_areas": [
+      "Cross-border data",
+      "Customer onboarding",
+      "Credit underwriting",
+      "Third-party dependency"
+    ],
+    "jurisdiction": "Hong Kong",
+    "official_published": "2026-10-14",
+    "products": [
+      "SME onboarding",
+      "Lending",
+      "Cross-border data validation"
+    ],
+    "publisher": "Hong Kong Monetary Authority",
+    "publisher_id": "hong-kong-monetary-authority",
+    "publishers": [
+      {
+        "id": "hkma",
+        "name": "Hong Kong Monetary Authority"
+      }
+    ],
+    "source_role": "primary_authority",
+    "source_url": "https://www.hkma.gov.hk/eng/news-and-media/press-releases/2026/10/20261014-4/",
+    "status": "current",
+    "summary": "HKMA announced the platform's launch for initial cross-boundary financial use cases, including account opening and loan applications. It verifies customer-presented data using blockchain technology and hash values without cross-boundary transfer or storage of original documents; the announcement states no participation requirement or timetable.",
+    "title": "Chongqing–Hong Kong Cross-boundary Data Validation Platform",
+    "topics": [
+      "cross-boundary-data",
+      "sme-onboarding",
+      "lending"
+    ]
+  },
+  {
     "authority": "Monetary Authority of Singapore",
     "authority_label": "supervisory expectation",
     "bulletin_date": "2026-10-08",
