@@ -1,0 +1,99 @@
+{
+  "date": "2026-10-16",
+  "draft_sha256": "e0f0ef79afbcc951a7857943a05738cf1ca0ff42d4a9bd9d8f0b6d1a51574d30",
+  "findings": [
+    {
+      "authority": "Monetary Authority of Singapore",
+      "authority_label": "required",
+      "bulletin_date": "2026-10-16",
+      "deadline": "Licence revocation effective 15 September 2026; no additional source deadline stated",
+      "document_type": "MAS enforcement action",
+      "event_family": "mas-sir-money-changer-licence-revocation-2026",
+      "id": "item-20261014-mas-regulatory-announcements-c9fb3222f6",
+      "impact_areas": [
+        "Third-party oversight",
+        "Licence governance",
+        "Payment operations",
+        "Regulatory engagement"
+      ],
+      "jurisdiction": "SG",
+      "official_published": "2026-10-14",
+      "products": [
+        "Payments",
+        "FX",
+        "Cross-border transfers"
+      ],
+      "publisher": "Monetary Authority of Singapore",
+      "publisher_id": "monetary-authority-of-singapore",
+      "publishers": [
+        {
+          "id": "monetary-authority-of-singapore",
+          "name": "Monetary Authority of Singapore"
+        }
+      ],
+      "source_role": "primary_authority",
+      "source_url": "https://www.mas.gov.sg/regulation/enforcement/enforcement-actions/2026/mas-revokes-major-payment-institution-license-of-sir-money-changer-pte-ltd-smc",
+      "status": "current",
+      "summary": "MAS revoked Sir Money Changer Pte. Ltd.'s Major Payment Institution Licence effective 15 September 2026 after finding that a third party independently operated a cross-border transfer business under its name and that the firm provided false or misleading information. MAS states that licensees must not allow third parties to use their licences and payment providers must maintain effective oversight and control.",
+      "title": "MAS Revokes the Major Payment Institution License of Sir Money Changer Pte Ltd",
+      "topics": [
+        "payments",
+        "cross-border-transfers",
+        "licence-revocation",
+        "third-party-oversight"
+      ]
+    },
+    {
+      "authority": "Financial Conduct Authority",
+      "authority_label": "supervisory expectation",
+      "bulletin_date": "2026-10-16",
+      "deadline": "UK Upper Tribunal hearing: 16–26 February 2027; judgment expected in the following months",
+      "document_type": "FCA statement",
+      "event_family": "uk-fca-motor-finance-compensation-scheme-challenge-2026",
+      "id": "item-20261013-fca-benchmark-a35220ff44",
+      "impact_areas": [
+        "Customer remediation",
+        "Complaints handling",
+        "Financial provisioning",
+        "Operational readiness"
+      ],
+      "jurisdiction": "UK",
+      "official_published": "2026-10-13",
+      "primary_url": "https://www.fca.org.uk/news/statements/motor-finance-legal-challenge-be-heard-february-2027",
+      "products": [
+        "Lending",
+        "Complaints handling",
+        "Customer remediation"
+      ],
+      "publisher": "Financial Conduct Authority",
+      "publisher_id": "financial-conduct-authority",
+      "publishers": [
+        {
+          "id": "financial-conduct-authority",
+          "name": "Financial Conduct Authority"
+        }
+      ],
+      "source_role": "primary_authority",
+      "source_url": "https://www.fca.org.uk/news/statements/motor-finance-legal-challenge-be-heard-february-2027",
+      "status": "current",
+      "summary": "The FCA says challenges to its motor-finance compensation scheme will be heard from 16 to 26 February 2027. While the scheme is partly suspended, lenders must continue specified preparation and complaint activity; the FCA expects rigorous contingency planning, financial provisions and auditor engagement if the scheme or parts of it are quashed.",
+      "title": "Motor finance legal challenge to be heard in February 2027",
+      "topics": [
+        "motor-finance",
+        "customer-remediation",
+        "complaints",
+        "compensation-scheme"
+      ]
+    }
+  ],
+  "item_ids": [
+    "item-20261013-fca-benchmark-a35220ff44",
+    "item-20261014-mas-regulatory-announcements-c9fb3222f6"
+  ],
+  "mode": "weekly",
+  "path": "bulletins/2026/10/16/weekly/",
+  "rendered_html": "<b><u>📔 Regulatory Bulletin — 16 October 2026 (Weekly)</u></b>\n\n<b><u>Executive Summary</u></b>\n\n  • <b>Singapore payment-services enforcement benchmark:</b> MAS revoked Sir Money Changer’s licence after finding that a third party operated cross-border transfers under its name and that false or misleading information was provided. The case is an analogous third-party and licence-perimeter control benchmark, not a Hong Kong requirement.\n  • <b>UK remediation benchmark:</b> The FCA’s motor-finance compensation scheme remains partly suspended pending a February 2027 legal challenge. Lenders must continue the specified preparation and complaints activity; this is a UK comparison, not a Hong Kong obligation.\n\n<b><u>Hong Kong</u></b>\n\nNo qualifying Hong Kong developments were included in this restricted rework.\n\n<b><u>Mainland/GBA</u></b>\n\nNo qualifying Mainland/GBA developments were included in this restricted rework.\n\n<b><u>SG/UK/GLOBAL Benchmark</u></b>\n\n<i>Comparable overseas developments and commercial/control benchmarks. They do not establish Hong Kong requirements.</i>\n\n\n<b>🟡 MAS revokes Sir Money Changer’s Major Payment Institution Licence 🇸🇬</b>\n<b>Item ID:</b> item-20261014-mas-regulatory-announcements-c9fb3222f6\n<b>⏰ Deadline:</b> Licence revocation effective 15 September 2026; no additional source deadline stated\n<b>Products:</b> Payments, FX, Cross-border transfers\n\nMAS revoked Sir Money Changer Pte. Ltd.’s Major Payment Institution Licence under the Payment Services Act 2019, effective 15 September 2026. MAS says the firm can no longer provide cross-border money-transfer or money-changing services and that its investigation found a third party independently operated a cross-border transfer business under the firm’s name at one of its places of business. MAS also found that the firm provided false or misleading information, and states that licensees must not let third parties use their licences and payment providers must maintain effective oversight and control. The final Singapore case is an analogous benchmark for third-party oversight and licence-perimeter governance, not a Hong Kong obligation.\n\nSource: <a href=\"https://www.mas.gov.sg/regulation/enforcement/enforcement-actions/2026/mas-revokes-major-payment-institution-license-of-sir-money-changer-pte-ltd-smc\">MAS Revokes the Major Payment Institution License of Sir Money Changer Pte Ltd</a>\n\n\n<b>🟡 FCA motor-finance legal challenge set for February 2027 🇬🇧</b>\n<b>Item ID:</b> item-20261013-fca-benchmark-a35220ff44\n<b>⏰ Deadline:</b> UK Upper Tribunal hearing: 16–26 February 2027; judgment expected in the following months\n<b>Products:</b> Lending, Complaints handling, Customer remediation\n\nThe FCA says legal challenges to its motor-finance compensation scheme will be heard by the Upper Tribunal from 16 to 26 February 2027, with judgment expected in the following months. The scheme is partly suspended, but the FCA says lenders must continue preparing for provisions that remain in force and progress complaints as far as possible, including specified consumer letters. The FCA expects lenders to plan rigorously for a possible quashing, make necessary financial provisions and engage auditors; normal complaints statutory timescales could resume in that scenario. This remains an active UK legal process and a customer-remediation and operational-readiness benchmark only, not a Hong Kong requirement.\n\nSource: <a href=\"https://www.fca.org.uk/news/statements/motor-finance-legal-challenge-be-heard-february-2027\">Motor finance legal challenge to be heard in February 2027</a>\nPrimary source: <a href=\"https://www.fca.org.uk/news/statements/motor-finance-legal-challenge-be-heard-february-2027\">official document</a>\n\n<b><u>Watch List</u></b>\n\n  • Monitor the Upper Tribunal judgment and any FCA statement on the motor-finance compensation scheme after the February 2027 hearing.\n  • Monitor whether MAS publishes further action concerning Sir Money Changer or the third-party operation identified in its enforcement notice.\n\n<b><u>Weekly Trend</u></b>\n\nThis restricted rework retains two overseas control benchmarks: MAS’s final licence action highlights third-party licence-perimeter oversight, while the FCA’s live litigation highlights remediation, complaint-handling and provisioning contingency planning. Neither establishes a Hong Kong requirement.\n\n<b><u>Coverage</u></b>\n\n  • boe-benchmark — skipped (0): Out of cadence for weekly mode\n  • scam-fraud-cluster — disabled (0): Disabled; configured sources remain blocked or had no current scoped items\n  • regulation-asia — disabled (0): Disabled at user request; subscription-gated listing\n  • daily-exploratory-search — empty (0): Completed plan found no admissible in-window candidate\n  • hkma-circulars — ok (0): Verified RSS; in-window records already in seen ledger\n  • hkma-guidelines — empty (0): Verified RSS; no in-window entries\n  • hkma-spm — empty (0): Verified RSS; no in-window entries\n  • hkma-consultations — empty (0): Verified RSS; no in-window entries\n  • hkma-press — ok (0): Verified RSS; material leads were seen or duplicates\n  • hkma-brdr — ok (0): Verified listing; in-window circular already seen\n  • sfc-circulars — ok (1): Verified listing and API; collected 26EC62\n  • sfc-aml-circulars — ok (0): Verified API; webinar invitation had no new scoped action\n  • sfc-consultations — ok (0): Verified API; conclusion already represented or outside window\n  • sfc-web — ok (1): Verified page and API; collected 26PR168\n  • pcpd — partial (0): Listings returned semantic shells; browser fallback unavailable\n  • hk-enforcement-actions — partial (0): SFC listing was a JavaScript shell; no verified zero-result conclusion\n  • global-material-incidents-enforcement — ok (0): Verified FCA and OCC listings; qualifying OCC item already seen\n  • mas-regulatory-announcements — partial (1): Fallback recovered Sir Money Changer action; one lead returned 404\n  • fstb — empty (0): Verified listings; no qualifying banking action\n  • legco — empty (0): Verified fallback recovered listings; no eligible financial-services document\n  • customs-tdo — empty (0): Verified pages; no qualifying bank/control development\n  • consumer-council — empty (0): Verified listings; no in-window financial-services development\n  • imf-wbg-international-policy — partial (0): IMF returned 403 and World Bank page was non-substantive\n  • imf-wbg-international-policy-search — partial (0): No runner-owned provider result or recoverable canonical item\n  • interpol-financial-cyber — empty (0): Verified listings; no qualifying financial/cyber item\n  • hkcert — empty (0): Verified listings; no material bank/control development\n  • sme-schemes — partial (0): Standing or non-substantive pages prevented a verified in-window conclusion\n  • gba-official — partial (0): Some configured NFRA and SAMR pages were non-substantive shells\n  • gba-mainland-sweep — partial (0): No runner-owned provider-result artefact\n  • industry-bodies — partial (0): HKAB shell and TMA standing page prevented verified zero-result conclusion\n  • hk-banks-news — ok (2): Verified bank listings; collected two items\n  • lexology — partial (0): Listing exposed no article results or recoverable canonical page\n  • lawfirm-big4-pages — partial (0): No qualifying exactly dated publication; one source returned 403\n  • lawfirm-big4-sweep — partial (0): No runner-owned provider-result artefact\n  • fca-benchmark — ok (1): Verified FCA listing and pages; collected motor-finance statement",
+  "rendered_sha256": "849618ce4aab42f77f0b44095476643d107a4b8c6c5ecdf3583c359cabbf069b",
+  "schema_version": 2,
+  "title": "Regulatory Bulletin — 16 October 2026 (Weekly)"
+}

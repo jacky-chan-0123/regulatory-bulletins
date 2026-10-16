@@ -1,6 +1,19 @@
 [
   {
     "date": "2026-10-16",
+    "draft_sha256": "e0f0ef79afbcc951a7857943a05738cf1ca0ff42d4a9bd9d8f0b6d1a51574d30",
+    "item_ids": [
+      "item-20261013-fca-benchmark-a35220ff44",
+      "item-20261014-mas-regulatory-announcements-c9fb3222f6"
+    ],
+    "mode": "weekly",
+    "path": "bulletins/2026/10/16/weekly/",
+    "rendered_sha256": "849618ce4aab42f77f0b44095476643d107a4b8c6c5ecdf3583c359cabbf069b",
+    "schema_version": 2,
+    "title": "Regulatory Bulletin — 16 October 2026 (Weekly)"
+  },
+  {
+    "date": "2026-10-16",
     "draft_sha256": "37984f1ee53bd7318e567f4a3451f60dbc21b0a8cd810ef42dedad6648b5b32a",
     "item_ids": [
       "item-20261015-hkma-brdr-d0822635c9"

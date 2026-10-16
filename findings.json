@@ -1,5 +1,90 @@
 [
   {
+    "authority": "Monetary Authority of Singapore",
+    "authority_label": "required",
+    "bulletin_date": "2026-10-16",
+    "bulletin_path": "bulletins/2026/10/16/weekly/",
+    "deadline": "Licence revocation effective 15 September 2026; no additional source deadline stated",
+    "document_type": "MAS enforcement action",
+    "event_family": "mas-sir-money-changer-licence-revocation-2026",
+    "id": "item-20261014-mas-regulatory-announcements-c9fb3222f6",
+    "impact_areas": [
+      "Third-party oversight",
+      "Licence governance",
+      "Payment operations",
+      "Regulatory engagement"
+    ],
+    "jurisdiction": "SG",
+    "official_published": "2026-10-14",
+    "products": [
+      "Payments",
+      "FX",
+      "Cross-border transfers"
+    ],
+    "publisher": "Monetary Authority of Singapore",
+    "publisher_id": "monetary-authority-of-singapore",
+    "publishers": [
+      {
+        "id": "monetary-authority-of-singapore",
+        "name": "Monetary Authority of Singapore"
+      }
+    ],
+    "source_role": "primary_authority",
+    "source_url": "https://www.mas.gov.sg/regulation/enforcement/enforcement-actions/2026/mas-revokes-major-payment-institution-license-of-sir-money-changer-pte-ltd-smc",
+    "status": "current",
+    "summary": "MAS revoked Sir Money Changer Pte. Ltd.'s Major Payment Institution Licence effective 15 September 2026 after finding that a third party independently operated a cross-border transfer business under its name and that the firm provided false or misleading information. MAS states that licensees must not allow third parties to use their licences and payment providers must maintain effective oversight and control.",
+    "title": "MAS Revokes the Major Payment Institution License of Sir Money Changer Pte Ltd",
+    "topics": [
+      "payments",
+      "cross-border-transfers",
+      "licence-revocation",
+      "third-party-oversight"
+    ]
+  },
+  {
+    "authority": "Financial Conduct Authority",
+    "authority_label": "supervisory expectation",
+    "bulletin_date": "2026-10-16",
+    "bulletin_path": "bulletins/2026/10/16/weekly/",
+    "deadline": "UK Upper Tribunal hearing: 16–26 February 2027; judgment expected in the following months",
+    "document_type": "FCA statement",
+    "event_family": "uk-fca-motor-finance-compensation-scheme-challenge-2026",
+    "id": "item-20261013-fca-benchmark-a35220ff44",
+    "impact_areas": [
+      "Customer remediation",
+      "Complaints handling",
+      "Financial provisioning",
+      "Operational readiness"
+    ],
+    "jurisdiction": "UK",
+    "official_published": "2026-10-13",
+    "primary_url": "https://www.fca.org.uk/news/statements/motor-finance-legal-challenge-be-heard-february-2027",
+    "products": [
+      "Lending",
+      "Complaints handling",
+      "Customer remediation"
+    ],
+    "publisher": "Financial Conduct Authority",
+    "publisher_id": "financial-conduct-authority",
+    "publishers": [
+      {
+        "id": "fca",
+        "name": "Financial Conduct Authority"
+      }
+    ],
+    "source_role": "primary_authority",
+    "source_url": "https://www.fca.org.uk/news/statements/motor-finance-legal-challenge-be-heard-february-2027",
+    "status": "current",
+    "summary": "The FCA says challenges to its motor-finance compensation scheme will be heard from 16 to 26 February 2027. While the scheme is partly suspended, lenders must continue specified preparation and complaint activity; the FCA expects rigorous contingency planning, financial provisions and auditor engagement if the scheme or parts of it are quashed.",
+    "title": "Motor finance legal challenge to be heard in February 2027",
+    "topics": [
+      "motor-finance",
+      "customer-remediation",
+      "complaints",
+      "compensation-scheme"
+    ]
+  },
+  {
     "authority": "Hong Kong Monetary Authority",
     "authority_label": "supervisory expectation",
     "bulletin_date": "2026-10-16",
