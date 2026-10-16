@@ -1,6 +1,49 @@
 [
   {
     "authority": "Hong Kong Monetary Authority",
+    "authority_label": "supervisory expectation",
+    "bulletin_date": "2026-10-16",
+    "bulletin_path": "bulletins/2026/10/16/daily/",
+    "deadline": "No source deadline stated",
+    "document_type": "supervisory circular",
+    "event_family": "HKMA responsible AI ART framework",
+    "id": "item-20261015-hkma-brdr-d0822635c9",
+    "impact_areas": [
+      "AI-governance",
+      "technology-risk",
+      "data-governance",
+      "third-party-risk",
+      "customer-protection",
+      "model-risk"
+    ],
+    "jurisdiction": "HK",
+    "official_published": "2026-10-15",
+    "products": [
+      "digital",
+      "SME-onboarding"
+    ],
+    "publisher": "Hong Kong Monetary Authority",
+    "publisher_id": "hkma",
+    "publishers": [
+      {
+        "id": "hkma",
+        "name": "Hong Kong Monetary Authority"
+      }
+    ],
+    "source_role": "primary_authority",
+    "source_url": "https://brdr.hkma.gov.hk/eng/doc-ldg/current/20261015-4-EN",
+    "status": "current",
+    "summary": "HKMA issued updated ART supervisory guidance for all Authorized Institutions. Annex A supersedes the 2019 AI principles and expects proportionate governance across the AI lifecycle, including ownership, inventory, risk-based testing and monitoring, recovery, records, data and third-party safeguards, and fair and transparent customer use. HKMA states that policies, procedures and controls should be uplifted in a timely manner; no fixed deadline is stated. Annex B provides non-exhaustive Sandbox insights, while Annex C is preliminary and does not establish current agentic-AI requirements.",
+    "title": "Responsible Adoption of Artificial Intelligence",
+    "topics": [
+      "art-framework",
+      "artificial-intelligence",
+      "ai-governance",
+      "technology-risk"
+    ]
+  },
+  {
+    "authority": "Hong Kong Monetary Authority",
     "authority_label": "commercial/risk recommendation",
     "bulletin_date": "2026-10-15",
     "bulletin_path": "bulletins/2026/10/15/daily/",

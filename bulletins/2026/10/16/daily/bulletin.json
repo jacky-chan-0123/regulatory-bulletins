@@ -1,0 +1,57 @@
+{
+  "date": "2026-10-16",
+  "draft_sha256": "37984f1ee53bd7318e567f4a3451f60dbc21b0a8cd810ef42dedad6648b5b32a",
+  "findings": [
+    {
+      "authority": "Hong Kong Monetary Authority",
+      "authority_label": "supervisory expectation",
+      "bulletin_date": "2026-10-16",
+      "deadline": "No source deadline stated",
+      "document_type": "supervisory circular",
+      "event_family": "HKMA responsible AI ART framework",
+      "id": "item-20261015-hkma-brdr-d0822635c9",
+      "impact_areas": [
+        "AI-governance",
+        "technology-risk",
+        "data-governance",
+        "third-party-risk",
+        "customer-protection",
+        "model-risk"
+      ],
+      "jurisdiction": "HK",
+      "official_published": "2026-10-15",
+      "products": [
+        "digital",
+        "SME-onboarding"
+      ],
+      "publisher": "Hong Kong Monetary Authority",
+      "publisher_id": "hkma",
+      "publishers": [
+        {
+          "id": "hkma",
+          "name": "Hong Kong Monetary Authority"
+        }
+      ],
+      "source_role": "primary_authority",
+      "source_url": "https://brdr.hkma.gov.hk/eng/doc-ldg/current/20261015-4-EN",
+      "status": "current",
+      "summary": "HKMA issued updated ART supervisory guidance for all Authorized Institutions. Annex A supersedes the 2019 AI principles and expects proportionate governance across the AI lifecycle, including ownership, inventory, risk-based testing and monitoring, recovery, records, data and third-party safeguards, and fair and transparent customer use. HKMA states that policies, procedures and controls should be uplifted in a timely manner; no fixed deadline is stated. Annex B provides non-exhaustive Sandbox insights, while Annex C is preliminary and does not establish current agentic-AI requirements.",
+      "title": "Responsible Adoption of Artificial Intelligence",
+      "topics": [
+        "art-framework",
+        "artificial-intelligence",
+        "ai-governance",
+        "technology-risk"
+      ]
+    }
+  ],
+  "item_ids": [
+    "item-20261015-hkma-brdr-d0822635c9"
+  ],
+  "mode": "daily",
+  "path": "bulletins/2026/10/16/daily/",
+  "rendered_html": "<b><u>📔 Regulatory Bulletin — 16 October 2026 (Daily)</u></b>\n\n<b><u>Executive Summary</u></b>\n\n  • 🔴 HKMA has issued updated ART supervisory guidance for all Authorized Institutions, replacing its 2019 AI principles and expecting proportionate lifecycle controls to be uplifted in a timely manner.\n  • Priority decision: establish accountable ownership and a risk/materiality inventory for deployed and planned AI use cases, focusing first on customer-impacting, autonomous and third-party-enabled use.\n  • No fixed implementation deadline is stated. The accompanying Sandbox report offers non-exhaustive practical insights, while the agentic-AI concept note is preliminary and does not create current requirements.\n\n<b><u>Hong Kong</u></b>\n\n\n<b>🔴 Responsible Adoption of Artificial Intelligence 🇭🇰</b>\n<b>Item ID:</b> item-20261015-hkma-brdr-d0822635c9\n<b>⏰ Deadline:</b> No source deadline stated\n<b>Products:</b> Digital banking, SME onboarding\n\nHKMA’s 15 October circular to all Authorized Institutions introduces its Accountability, Resilience and Trust (ART) framework, and Annex A supersedes the 2019 high-level AI principles. HKMA expects institutions to apply the guidance proportionately, with board and senior-management accountability, a strategy, named use-case owners, an up-to-date inventory, and risk-based lifecycle governance. For material or higher-risk use cases, the guidance describes more stringent review, including senior-management sign-off and oversight, independent validation where appropriate, and controls for monitoring, recovery, records, data, cyber and third-party risks. The customer-facing implications include output quality, transparency, fair treatment and review or reassessment where outputs have actual consequences; HKMA says policies, procedures and controls should be uplifted in a timely manner but states no fixed date.\n\n<b>Actions:</b>\n  • Immediately assign accountable owners to deployed AI use cases and complete an applicability and materiality triage, prioritising customer-facing, autonomous and vendor-enabled uses.\n  • In the near term, map higher-risk uses to ART expectations for approvals, testing, monitoring, data and supplier safeguards, fallback/recovery arrangements, and auditable evidence; obtain proportionate independent challenge.\n  • Treat Annex B as implementation insight rather than a new requirement, and monitor the forthcoming discussion paper because Annex C is preliminary and does not create current agentic-AI requirements.\n\nSource: <a href=\"https://brdr.hkma.gov.hk/eng/doc-ldg/current/20261015-4-EN\">Responsible Adoption of Artificial Intelligence</a>\n\n<b><u>Mainland/GBA</u></b>\n\nNo validated Mainland/GBA items in this run.\n\n<b><u>SG/UK/GLOBAL Benchmark</u></b>\n\n<i>Comparable overseas developments and commercial/control benchmarks. They do not establish Hong Kong requirements.</i>\n\nNo validated benchmark items in this run.\n\n<b><u>Watch List</u></b>\n\n  • Monitor HKMA’s indicated discussion paper on possible agentic-AI supervisory requirements; the current concept note is preliminary.\n\n<b><u>Coverage</u></b>\n\n  • customs-tdo — skipped (0): Out of cadence for daily mode.\n  • consumer-council — skipped (0): Out of cadence for daily mode.\n  • interpol-financial-cyber — skipped (0): Out of cadence for daily mode.\n  • hkcert — skipped (0): Out of cadence for daily mode.\n  • sme-schemes — skipped (0): Out of cadence for daily mode.\n  • gba-official — skipped (0): Out of cadence for daily mode.\n  • gba-mainland-sweep — skipped (0): Out of cadence for daily mode.\n  • industry-bodies — skipped (0): Out of cadence for daily mode.\n  • lawfirm-big4-pages — skipped (0): Out of cadence for daily mode.\n  • lawfirm-big4-sweep — skipped (0): Out of cadence for daily mode.\n  • fca-benchmark — skipped (0): Out of cadence for daily mode.\n  • boe-benchmark — skipped (0): Out of cadence for daily mode.\n  • scam-fraud-cluster — disabled (0): Disabled after persistent access blocks; fallback found no current items.\n  • regulation-asia — disabled (0): Disabled at user request; subscription-gated extraction was unreliable.\n  • daily-exploratory-search — partial (0): All seven queries completed; a Reuters enforcement lead could not be canonically retrieved.\n  • hkma-circulars — empty (0): Verified RSS; no official 15 October publication.\n  • hkma-guidelines — empty (0): Verified RSS; no official 15 October publication.\n  • hkma-spm — empty (0): Verified RSS; no official 15 October publication.\n  • hkma-consultations — empty (0): Verified RSS; no official 15 October publication.\n  • hkma-press — ok (2): Verified RSS; two 15 October releases collected.\n  • hkma-brdr — partial (1): Current AI circular and related records retrieved; Annex B exceeded the configured document bound.\n  • sfc-circulars — empty (0): Verified listing; no 15 October circular.\n  • sfc-aml-circulars — empty (0): Verified listing; no 15 October AML/CFT circular.\n  • sfc-consultations — empty (0): Verified listings; no 15 October consultation publication.\n  • sfc-web — empty (0): Verified endpoints; no 15 October publication.\n  • pcpd — empty (0): Rendered-browser fallback verified listings; no 15 October item.\n  • hk-enforcement-actions — partial (0): HKMA index verified; SFC enforcement listing remained a JavaScript shell.\n  • global-material-incidents-enforcement — empty (0): FCA and OCC sources verified; no qualifying 15 October item.\n  • mas-regulatory-announcements — partial (0): Listings exposed no dated records across the full configured inventory.\n  • fstb — empty (0): Four listings verified; no 15 October publication.\n  • legco — partial (0): TLS verification failed and rendered-browser fallback was unavailable.\n  • hk-banks-news — ok (1): Bank listings verified; one 15 October announcement collected.\n  • lexology — partial (0): Exact publisher date and canonical primary evidence could not be established.",
+  "rendered_sha256": "9628f84fd5b74363c7b7ba58d14b01bda3365f45dec77f3d7854680885b8b58e",
+  "schema_version": 2,
+  "title": "Regulatory Bulletin — 16 October 2026 (Daily)"
+}
