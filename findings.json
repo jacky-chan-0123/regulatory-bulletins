@@ -1,5 +1,45 @@
 [
   {
+    "authority": "Hong Kong Securities Clearing Company Limited",
+    "authority_label": "open interpretation",
+    "bulletin_date": "2026-10-19",
+    "bulletin_path": "bulletins/2026/10/19/daily/",
+    "deadline": "Second half of 2028 (target implementation; subject to market readiness and regulatory approval)",
+    "document_type": "HKSCC participant circular",
+    "event_family": "Hong Kong cash equities T+1 settlement cycle",
+    "id": "item-20261016-daily-exploratory-search-499152c0a0",
+    "impact_areas": [
+      "settlement operations",
+      "liquidity and funding",
+      "customer communications",
+      "operational controls"
+    ],
+    "jurisdiction": "HK",
+    "official_published": "2026-10-16",
+    "products": [
+      "investment"
+    ],
+    "publisher": "Hong Kong Securities Clearing Company Limited",
+    "publisher_id": "hkscc",
+    "publishers": [
+      {
+        "id": "hong-kong-securities-clearing-company-limited",
+        "name": "Hong Kong Securities Clearing Company Limited"
+      }
+    ],
+    "source_role": "official_entity",
+    "source_url": "https://www.hkex.com.hk/-/media/HKEX-Market/Services/Circulars-and-Notices/Participant-and-Members-Circulars/HKSCC/2026/ce_HKSCC_035_Eng_2026.pdf",
+    "status": "current",
+    "summary": "HKSCC states that, subject to market readiness and regulatory approval, Hong Kong cash-market settlement will move from T+2 to T+1 in the second half of 2028. The circular asks Clearing Participants to assess T-day post-trade operations, liquidity and funding, client cut-offs and communications, customer documents, and exception controls.",
+    "title": "Implementation of T+1 Settlement Cycle for Hong Kong Cash Market",
+    "topics": [
+      "t-plus-one-settlement",
+      "cash-market",
+      "post-trade",
+      "clearing"
+    ]
+  },
+  {
     "authority": "Monetary Authority of Singapore",
     "authority_label": "required",
     "bulletin_date": "2026-10-16",

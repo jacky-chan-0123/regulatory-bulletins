@@ -1,5 +1,17 @@
 [
   {
+    "date": "2026-10-19",
+    "draft_sha256": "22d921a870f0f1e2eca3925d02572698182e6625eb53fcc229f9c960f71f9b82",
+    "item_ids": [
+      "item-20261016-daily-exploratory-search-499152c0a0"
+    ],
+    "mode": "daily",
+    "path": "bulletins/2026/10/19/daily/",
+    "rendered_sha256": "eea19e1b87a1c6e89617d626630005ad2e677774ce3956904f466fece193a4e3",
+    "schema_version": 2,
+    "title": "Regulatory Bulletin — 19 October 2026 (Daily)"
+  },
+  {
     "date": "2026-10-16",
     "draft_sha256": "e0f0ef79afbcc951a7857943a05738cf1ca0ff42d4a9bd9d8f0b6d1a51574d30",
     "item_ids": [

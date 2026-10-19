@@ -1,0 +1,54 @@
+{
+  "date": "2026-10-19",
+  "draft_sha256": "22d921a870f0f1e2eca3925d02572698182e6625eb53fcc229f9c960f71f9b82",
+  "findings": [
+    {
+      "authority": "Hong Kong Securities Clearing Company Limited",
+      "authority_label": "open interpretation",
+      "bulletin_date": "2026-10-19",
+      "deadline": "Second half of 2028 (target implementation; subject to market readiness and regulatory approval)",
+      "document_type": "HKSCC participant circular",
+      "event_family": "Hong Kong cash equities T+1 settlement cycle",
+      "id": "item-20261016-daily-exploratory-search-499152c0a0",
+      "impact_areas": [
+        "settlement operations",
+        "liquidity and funding",
+        "customer communications",
+        "operational controls"
+      ],
+      "jurisdiction": "HK",
+      "official_published": "2026-10-16",
+      "products": [
+        "investment"
+      ],
+      "publisher": "Hong Kong Securities Clearing Company Limited",
+      "publisher_id": "hkscc",
+      "publishers": [
+        {
+          "id": "hkscc",
+          "name": "Hong Kong Securities Clearing Company Limited"
+        }
+      ],
+      "source_role": "official_entity",
+      "source_url": "https://www.hkex.com.hk/-/media/HKEX-Market/Services/Circulars-and-Notices/Participant-and-Members-Circulars/HKSCC/2026/ce_HKSCC_035_Eng_2026.pdf",
+      "status": "current",
+      "summary": "HKSCC states that, subject to market readiness and regulatory approval, Hong Kong cash-market settlement will move from T+2 to T+1 in the second half of 2028. The circular asks Clearing Participants to assess T-day post-trade operations, liquidity and funding, client cut-offs and communications, customer documents, and exception controls.",
+      "title": "Implementation of T+1 Settlement Cycle for Hong Kong Cash Market",
+      "topics": [
+        "t-plus-one-settlement",
+        "cash-market",
+        "post-trade",
+        "clearing"
+      ]
+    }
+  ],
+  "item_ids": [
+    "item-20261016-daily-exploratory-search-499152c0a0"
+  ],
+  "mode": "daily",
+  "path": "bulletins/2026/10/19/daily/",
+  "rendered_html": "<b><u>📔 Regulatory Bulletin — 19 October 2026 (Daily)</u></b>\n\n<b><u>Executive Summary</u></b>\n\n  • 🟡 HKSCC has set a conditional target to move Hong Kong cash-market settlement from T+2 to T+1 in the second half of 2028; the target remains subject to market readiness and regulatory approval.\n  • Clearing Participants should start assessing post-trade operations, funding and stock availability, client cut-offs, customer documents, and exception controls; banks supporting affected securities activity may face indirect dependencies.\n\n<b><u>Hong Kong</u></b>\n\n\n<b>🟡 Implementation of T+1 Settlement Cycle for Hong Kong Cash Market 🇭🇰</b>\n<b>Item ID:</b> item-20261016-daily-exploratory-search-499152c0a0\n<b>⏰ Deadline:</b> Second half of 2028 (target implementation; subject to market readiness and regulatory approval)\n<b>Products:</b> Securities investment, custody, settlement\n\nHKSCC states that, subject to market readiness and regulatory approval, Hong Kong cash-market settlement will move from T+2 to T+1 in the second half of 2028. The circular is addressed to HKSCC Clearing Participants and says the shorter cycle means many post-trade activities must be completed on T-day. HKSCC expects Clearing Participants to assess systems and operations, liquidity, cash funding and stock availability, client cut-offs and communications, customer documents, and exception-management controls. Banks acting as brokers, custodians or settlement agents may be affected through post-trade, liquidity, customer-service, data and vendor dependencies; the circular does not establish an HKMA requirement or a fixed commencement date.\n\nSource: <a href=\"https://www.hkex.com.hk/-/media/HKEX-Market/Services/Circulars-and-Notices/Participant-and-Members-Circulars/HKSCC/2026/ce_HKSCC_035_Eng_2026.pdf\">Implementation of T+1 Settlement Cycle for Hong Kong Cash Market</a>\n\n<b><u>Mainland/GBA</u></b>\n\n_No validated current-run items._\n\n<b><u>SG/UK/GLOBAL Benchmark</u></b>\n\n<i>Comparable overseas developments and commercial/control benchmarks. They do not establish Hong Kong requirements.</i>\n\n_No validated current-run items._\n\n<b><u>Watch List</u></b>\n\n  • Monitor HKSCC’s T+1 Web Corner for updated processing timetables, technical information and participant-webinar details.\n\n<b><u>Coverage</u></b>\n\n  • customs-tdo — skipped (0): Out of cadence for daily mode.\n  • consumer-council — skipped (0): Out of cadence for daily mode.\n  • imf-wbg-international-policy — skipped (0): Out of cadence for daily mode.\n  • imf-wbg-international-policy-search — skipped (0): Out of cadence for daily mode.\n  • interpol-financial-cyber — skipped (0): Out of cadence for daily mode.\n  • hkcert — skipped (0): Out of cadence for daily mode.\n  • sme-schemes — skipped (0): Out of cadence for daily mode.\n  • gba-official — skipped (0): Out of cadence for daily mode.\n  • gba-mainland-sweep — skipped (0): Out of cadence for daily mode.\n  • industry-bodies — skipped (0): Out of cadence for daily mode.\n  • lawfirm-big4-pages — skipped (0): Out of cadence for daily mode.\n  • lawfirm-big4-sweep — skipped (0): Out of cadence for daily mode.\n  • fca-benchmark — skipped (0): Out of cadence for daily mode.\n  • boe-benchmark — skipped (0): Out of cadence for daily mode.\n  • scam-fraud-cluster — disabled (0): Disabled after access limitations and no current search fallback item.\n  • regulation-asia — disabled (0): Disabled at user request because access is subscription-gated.\n  • daily-exploratory-search — partial (1): Seven queries completed; one HKSCC circular admitted; material official leads lacked recoverable evidence.\n  • hkma-circulars — empty (0): Verified RSS feed had no item in 16–18 October window.\n  • hkma-guidelines — empty (0): Verified RSS feed had no item in 16–18 October window.\n  • hkma-spm — empty (0): Verified RSS feed had no item in 16–18 October window.\n  • hkma-consultations — empty (0): Verified RSS feed had no item in 16–18 October window.\n  • hkma-press — empty (0): Verified RSS feed had no item in 16–18 October window.\n  • hkma-brdr — empty (0): Verified BRDR listing had no item in 16–18 October window.\n  • sfc-circulars — empty (0): Verified fallback circular API had no item in 16–18 October window.\n  • sfc-aml-circulars — empty (0): Verified fallback circular API had no item in 16–18 October window.\n  • sfc-consultations — empty (0): Verified consultation API had no item in 16–18 October window.\n  • sfc-web — partial (0): Official news API leads had unrecoverable e-Distribution document content.\n  • pcpd — partial (0): Listing access and guidance evidence remained unavailable for the window.\n  • hk-enforcement-actions — partial (0): SFC enforcement listing was an unrecoverable JavaScript shell.\n  • global-material-incidents-enforcement — empty (0): FCA and OCC listings had no qualifying 16–18 October item.\n  • mas-regulatory-announcements — partial (0): Fallback pages lacked substantive notice listings; identified appointment was not qualifying.\n  • fstb — empty (0): Verified listings had no qualifying item in the window.\n  • legco — partial (0): Listings failed TLS verification and rendered-browser fallback was unavailable.\n  • hk-banks-news — ok (1): Verified bank listings checked; one non-qualifying research item was excluded.\n  • lexology — partial (0): Candidate dates or canonical publisher evidence could not be recovered.",
+  "rendered_sha256": "eea19e1b87a1c6e89617d626630005ad2e677774ce3956904f466fece193a4e3",
+  "schema_version": 2,
+  "title": "Regulatory Bulletin — 19 October 2026 (Daily)"
+}
