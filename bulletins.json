@@ -1,5 +1,17 @@
 [
   {
+    "date": "2026-10-20",
+    "draft_sha256": "64928fcc69b5324ebe5cea7b702a772d814f37ec61f06eed0c2484bb883a1976",
+    "item_ids": [
+      "item-20261019-global-material-incidents-enforcement-326b1a180b"
+    ],
+    "mode": "daily",
+    "path": "bulletins/2026/10/20/daily/",
+    "rendered_sha256": "ad001969927df9f5bc976f0c3f24edead719e927e89f4f3751219daf8f6c6c6f",
+    "schema_version": 2,
+    "title": "Regulatory Bulletin — 20 October 2026 (Daily)"
+  },
+  {
     "date": "2026-10-19",
     "draft_sha256": "22d921a870f0f1e2eca3925d02572698182e6625eb53fcc229f9c960f71f9b82",
     "item_ids": [

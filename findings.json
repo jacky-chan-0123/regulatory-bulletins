@@ -1,5 +1,47 @@
 [
   {
+    "authority": "Financial Conduct Authority",
+    "authority_label": "industry good practice",
+    "bulletin_date": "2026-10-20",
+    "bulletin_path": "bulletins/2026/10/20/daily/",
+    "deadline": "No source deadline stated",
+    "document_type": "FCA drafted speech",
+    "event_family": "fca-ai-good-poor-practice-and-agentic-finance-2026",
+    "id": "item-20261019-global-material-incidents-enforcement-326b1a180b",
+    "impact_areas": [
+      "AI governance and accountability",
+      "Customer protection and human oversight",
+      "Operational resilience and incident management",
+      "Third-party model concentration"
+    ],
+    "jurisdiction": "UK",
+    "official_published": "2026-10-19",
+    "products": [
+      "Digital banking",
+      "Payments",
+      "Investments"
+    ],
+    "publisher": "Financial Conduct Authority",
+    "publisher_id": "financial-conduct-authority",
+    "publishers": [
+      {
+        "id": "fca",
+        "name": "Financial Conduct Authority"
+      }
+    ],
+    "source_role": "primary_authority",
+    "source_url": "https://www.fca.org.uk/news/speeches/building-future-finance-age-ai",
+    "status": "current",
+    "summary": "In a drafted speech, the Financial Conduct Authority shared AI good and poor practice drawn from firm testing, covering customer escalation, governance, testing, monitoring, resilience and supplier dependencies. The FCA said significant AI failures and near misses should be covered by UK major-incident reporting and said it will develop an agentic-finance framework. This is a UK speech and an analogous control benchmark, not a Hong Kong obligation.",
+    "title": "Building the future of finance in the age of AI",
+    "topics": [
+      "Artificial intelligence",
+      "Customer protection",
+      "Operational resilience",
+      "Third-party risk"
+    ]
+  },
+  {
     "authority": "Hong Kong Securities Clearing Company Limited",
     "authority_label": "open interpretation",
     "bulletin_date": "2026-10-19",
