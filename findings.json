@@ -1,5 +1,46 @@
 [
   {
+    "authority": "Financial Services and the Treasury Bureau",
+    "authority_label": "supervisory expectation",
+    "bulletin_date": "2026-10-22",
+    "bulletin_path": "bulletins/2026/10/22/daily/",
+    "deadline": "No source deadline stated",
+    "document_type": "Legislative Council question-and-reply / government statement",
+    "event_family": "HKMA remote account-opening controls and iAM Smart testing",
+    "id": "item-20261021-fstb-c441e1accb",
+    "impact_areas": [
+      "AML/CFT",
+      "fraud prevention",
+      "customer identity verification",
+      "customer authentication"
+    ],
+    "jurisdiction": "HK",
+    "official_published": "2026-10-21",
+    "products": [
+      "digital",
+      "SME-onboarding"
+    ],
+    "publisher": "Government of the Hong Kong Special Administrative Region",
+    "publisher_id": "hong-kong-government",
+    "publishers": [
+      {
+        "id": "hong-kong-government",
+        "name": "Government of the Hong Kong Special Administrative Region"
+      }
+    ],
+    "source_role": "government_or_court",
+    "source_url": "https://www.info.gov.hk/gia/general/202610/21/P2026102100453.htm",
+    "status": "current",
+    "summary": "A Legislative Council reply reports existing HKMA expectations for remote account-opening identity verification, control enhancement, ongoing due diligence, transaction monitoring and suspicious-transaction reporting. It also reports first-phase iAM Smart step-up-authentication testing; any expansion remains subject to HKMA’s assessment of security, stability and customer experience on a risk-based approach.",
+    "title": "LCQ1: Improving online bank account opening",
+    "topics": [
+      "remote-account-opening",
+      "identity-verification",
+      "fraud-prevention",
+      "aml-cft"
+    ]
+  },
+  {
     "authority": "Financial Conduct Authority",
     "authority_label": "industry good practice",
     "bulletin_date": "2026-10-20",

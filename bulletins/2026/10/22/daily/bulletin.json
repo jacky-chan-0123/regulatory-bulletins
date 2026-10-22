@@ -1,0 +1,55 @@
+{
+  "date": "2026-10-22",
+  "draft_sha256": "edd385a84c4cb517bf7de7b73b7e89654544e4aaf1b8a6a3cff5588bedb3021c",
+  "findings": [
+    {
+      "authority": "Financial Services and the Treasury Bureau",
+      "authority_label": "supervisory expectation",
+      "bulletin_date": "2026-10-22",
+      "deadline": "No source deadline stated",
+      "document_type": "Legislative Council question-and-reply / government statement",
+      "event_family": "HKMA remote account-opening controls and iAM Smart testing",
+      "id": "item-20261021-fstb-c441e1accb",
+      "impact_areas": [
+        "AML/CFT",
+        "fraud prevention",
+        "customer identity verification",
+        "customer authentication"
+      ],
+      "jurisdiction": "HK",
+      "official_published": "2026-10-21",
+      "products": [
+        "digital",
+        "SME-onboarding"
+      ],
+      "publisher": "Government of the Hong Kong Special Administrative Region",
+      "publisher_id": "hong-kong-government",
+      "publishers": [
+        {
+          "id": "hong-kong-government",
+          "name": "Government of the Hong Kong Special Administrative Region"
+        }
+      ],
+      "source_role": "government_or_court",
+      "source_url": "https://www.info.gov.hk/gia/general/202610/21/P2026102100453.htm",
+      "status": "current",
+      "summary": "A Legislative Council reply reports existing HKMA expectations for remote account-opening identity verification, control enhancement, ongoing due diligence, transaction monitoring and suspicious-transaction reporting. It also reports first-phase iAM Smart step-up-authentication testing; any expansion remains subject to HKMA’s assessment of security, stability and customer experience on a risk-based approach.",
+      "title": "LCQ1: Improving online bank account opening",
+      "topics": [
+        "remote-account-opening",
+        "identity-verification",
+        "fraud-prevention",
+        "aml-cft"
+      ]
+    }
+  ],
+  "item_ids": [
+    "item-20261021-fstb-c441e1accb"
+  ],
+  "mode": "daily",
+  "path": "bulletins/2026/10/22/daily/",
+  "rendered_html": "<b><u>📔 Regulatory Bulletin — 22 October 2026 (Daily)</u></b>\n\n<b><u>Executive Summary</u></b>\n\n  • 🟡 <b>Remote account opening:</b> The Government reports existing HKMA supervisory expectations for identity verification, control enhancement and post-opening monitoring, while first-phase iAM Smart step-up-authentication testing begins. No new rule or rollout date is announced; Digital Onboarding and Fraud Operations should prepare evidence of applicable controls and monitor any risk-based expansion.\n\n<b><u>Hong Kong</u></b>\n\n\n<b>🟡 Improving online bank account opening 🇭🇰</b>\n<b>Item ID:</b> item-20261021-fstb-c441e1accb\n<b>⏰ Deadline:</b> No source deadline stated\n<b>Products:</b> Digital onboarding, SME onboarding\n\nThe Financial Services and the Treasury Bureau’s Legislative Council reply reports that HKMA already expects appropriate identity-verification and risk-management measures for remote account opening, with systems and controls continuously enhanced. It says banks must effectively identify and verify customers and, after account opening, conduct ongoing due diligence and transaction monitoring, reporting suspicious transactions to law-enforcement agencies. The reply cites 2023 guidance to use clear on-screen messages explaining that selfies or liveness tests are for account opening, and describes in-app authentication and facial recognition for mobile-device binding as existing HKMA-required measures. First-phase testing of iAM Smart step-up authentication for remote account opening has commenced; HKMA will assess security, stability and customer experience before any risk-based expansion, so the timing and scope remain open.\n\nSource: <a href=\"https://www.info.gov.hk/gia/general/202610/21/P2026102100453.htm\">LCQ1: Improving online bank account opening</a>\n\n<b><u>Mainland/GBA</u></b>\n\nNo validated developments in this run.\n\n<b><u>SG/UK/GLOBAL Benchmark</u></b>\n\n<i>Comparable overseas developments and commercial/control benchmarks. They do not establish Hong Kong requirements.</i>\n\nNo validated benchmark developments in this run.\n\n<b><u>Watch List</u></b>\n\n  • Monitor the outcome and scope of HKMA’s assessment of iAM Smart step-up-authentication testing, including whether it expands to other business areas on a risk-based approach.\n\n<b><u>Coverage</u></b>\n  • customs-tdo — skipped (0): out-of-cadence for daily mode\n  • consumer-council — skipped (0): out-of-cadence for daily mode\n  • imf-wbg-international-policy — skipped (0): out-of-cadence for daily mode\n  • imf-wbg-international-policy-search — skipped (0): out-of-cadence for daily mode\n  • interpol-financial-cyber — skipped (0): out-of-cadence for daily mode\n  • hkcert — skipped (0): out-of-cadence for daily mode\n  • sme-schemes — skipped (0): out-of-cadence for daily mode\n  • gba-official — skipped (0): out-of-cadence for daily mode\n  • gba-mainland-sweep — skipped (0): out-of-cadence for daily mode\n  • industry-bodies — skipped (0): out-of-cadence for daily mode\n  • lawfirm-big4-pages — skipped (0): out-of-cadence for daily mode\n  • lawfirm-big4-sweep — skipped (0): out-of-cadence for daily mode\n  • fca-benchmark — skipped (0): out-of-cadence for daily mode\n  • boe-benchmark — skipped (0): out-of-cadence for daily mode\n  • scam-fraud-cluster — disabled (0): disabled 2026-07-22 — CyberDefender and Scameter return HTTP 403 and remain blocked by Cloudflare in browser mode; search fallback found no current items. JFIU is reachable but its latest listed activity is from 2025.\n  • regulation-asia — disabled (0): Disabled at user request: the latest-news page is subscription-gated, making extraction unreliable, and recent results yielded no scoped HK/CN-GBA/SG/UK banking items.\n  • daily-exploratory-search — partial (0): Tavily plan/results completed; no admissible in-window candidate. Verified HKEX T+1 page has only an October 2026 month reference, so its exact official date remains ambiguous.\n  • hkma-circulars — empty (0): Verified TLS RSS feed checked; no 2026-10-21 publication.\n  • hkma-guidelines — empty (0): Verified TLS RSS feed checked; no 2026-10-21 publication.\n  • hkma-spm — empty (0): Verified TLS RSS feed checked; no 2026-10-21 publication.\n  • hkma-consultations — empty (0): Verified TLS RSS feed checked; no 2026-10-21 publication.\n  • hkma-press — ok (2): RSS floor had already collected two 2026-10-21 tender-result publications; canonical pages and complete HKMA source chains verified.\n  • hkma-brdr — empty (0): Verified TLS BRDR main listing was substantive; its newest listed document is 2026-10-15 and no 2026-10-21 document link was present.\n  • sfc-circulars — empty (0): Verified TLS e-Distribution shell plus official POST circular API (2026 sort) checked; latest circular release is 2026-10-13, with none on 2026-10-21.\n  • sfc-aml-circulars — empty (0): Verified TLS e-Distribution shell plus official filtered AML circular API checked; latest AML circular release is 2026-10-16, with none on 2026-10-21.\n  • sfc-consultations — empty (0): Verified TLS configured official POST consultation API checked; 217 records include no consultation or conclusion publication on 2026-10-21.\n  • sfc-web — empty (0): Verified TLS Regulatory Update and virtual-asset overview plus e-Distribution news, product-authorisation and suitability API listings checked; no configured sub-source has a 2026-10-21 publication.\n  • pcpd — empty (0): Standard retrieval returned EO_Bot_Ssid semantic shells; verified browser fallback recovered substantive guidance, 2026 media-statement and findings listings, none showing a 2026-10-21 publication.\n  • hk-enforcement-actions — partial (0): HKMA disciplinary-actions index was substantive and last revised 2025-07-22; SFC Enforcement News returned only a JavaScript semantic shell and has no allowlisted fallback, so its 2026-10-21 coverage is unresolved.\n  • global-material-incidents-enforcement — empty (0): Verified TLS FCA and OCC official indexes checked; FCA&#x27;s two 2026-10-21 items were a speech and a case-specific non-bank investment-firm action without the exceptional transferable commercial-bank nexus, and the OCC index showed no dated qualifying action.\n  • mas-regulatory-announcements — partial (0): MAS listings required the configured TLS-verified MAS header fallback but yielded no substantive dated listing results; SGPC identified one 2026-10-21 MAS speech, but the configured Detail API path returned 404 and the in-window record could not be fully resolved. No operative MAS item was collected.\n  • fstb — ok (1): Verified TLS FSTB listings and official press-release pages checked; collected the 2026-10-21 government reply on online bank-account opening, while the other in-window reply concerned pre-announced money-lender measures and was not a bank item.\n  • legco — partial (0): Both configured LegCo pages failed normal TLS certificate verification; the allowlisted rendered-browser fallback was unavailable because Playwright is not installed. No verified bill-progress check was possible.\n  • hk-banks-news — empty (0): Verified TLS listings checked. Hang Seng&#x27;s current-year XML had no 2026-10-21 release; HSBC and BEA showed routine phishing/fraud notices only, and no other listing contained a material in-window incident, control-loss, enforcement response, or qualifying product development.\n  • lexology — partial (0): Verified TLS popular listing was substantive, but candidate detail pages returned HTTP 403 and the verified browser fallback reached a Cloudflare security-verification shell; exact publisher-controlled dates and canonical evidence for potentially relevant financial-services candidates could not be established.",
+  "rendered_sha256": "476fc47161f5b80b3a52cb4ace9105dd91144dcc561f0ed2ad006cb47caad225",
+  "schema_version": 2,
+  "title": "Regulatory Bulletin — 22 October 2026 (Daily)"
+}

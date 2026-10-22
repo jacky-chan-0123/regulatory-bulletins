@@ -1,5 +1,17 @@
 [
   {
+    "date": "2026-10-22",
+    "draft_sha256": "edd385a84c4cb517bf7de7b73b7e89654544e4aaf1b8a6a3cff5588bedb3021c",
+    "item_ids": [
+      "item-20261021-fstb-c441e1accb"
+    ],
+    "mode": "daily",
+    "path": "bulletins/2026/10/22/daily/",
+    "rendered_sha256": "476fc47161f5b80b3a52cb4ace9105dd91144dcc561f0ed2ad006cb47caad225",
+    "schema_version": 2,
+    "title": "Regulatory Bulletin — 22 October 2026 (Daily)"
+  },
+  {
     "date": "2026-10-20",
     "draft_sha256": "64928fcc69b5324ebe5cea7b702a772d814f37ec61f06eed0c2484bb883a1976",
     "item_ids": [
