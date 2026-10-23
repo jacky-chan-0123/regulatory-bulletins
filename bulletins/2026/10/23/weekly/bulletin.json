@@ -1,0 +1,141 @@
+{
+  "date": "2026-10-23",
+  "draft_sha256": "198aa8ae1637f3224b823dda0b398c97c6fd1a37570ddde6f917681912c59c9f",
+  "findings": [
+    {
+      "authority": "Hong Kong Monetary Authority",
+      "authority_label": "supervisory expectation",
+      "bulletin_date": "2026-10-23",
+      "deadline": "Effective 23 October 2026; 12 months from formal notification for a newly or increased HLA requirement",
+      "document_type": "statutory guideline and supervisory circular",
+      "event_family": "HKMA CA-B-2 D-SIB assessment methodology",
+      "id": "item-20261022-hkma-brdr-2a39d0304c",
+      "impact_areas": [
+        "capital adequacy",
+        "prudential reporting",
+        "systemic risk",
+        "recovery and resolution"
+      ],
+      "jurisdiction": "HK",
+      "official_published": "2026-10-23",
+      "products": [
+        "Deposits",
+        "Payments",
+        "Lending"
+      ],
+      "publisher": "Hong Kong Monetary Authority",
+      "publisher_id": "hong-kong-monetary-authority",
+      "publishers": [
+        {
+          "id": "hong-kong-monetary-authority",
+          "name": "Hong Kong Monetary Authority"
+        }
+      ],
+      "source_role": "primary_authority",
+      "source_url": "https://brdr.hkma.gov.hk/eng/doc-ldg/current/20261022-2-EN",
+      "status": "current",
+      "summary": "HKMA gazetted CA-B-2 V.3 effective 23 October 2026, replacing V.2. The revised D-SIB assessment adds RTGS/FPS turnover to deposits and customer lending as substitutability indicators; all licensed banks are in the regular assessment scope and other authorised institutions may be included case by case.",
+      "title": "Gazettal of revised SPM module CA-B-2 “Systemically Important Banks”",
+      "topics": [
+        "systemically important banks",
+        "capital adequacy",
+        "prudential reporting",
+        "payments"
+      ]
+    },
+    {
+      "authority": "Hong Kong Monetary Authority",
+      "authority_label": "supervisory expectation",
+      "bulletin_date": "2026-10-23",
+      "deadline": "No source deadline stated",
+      "document_type": "supervisory circular",
+      "event_family": "HKMA account-opening anti-bribery and corruption controls",
+      "id": "item-20261022-hkma-circulars-0c7e79396a",
+      "impact_areas": [
+        "AML/CFT",
+        "financial crime",
+        "account opening controls",
+        "staff conduct",
+        "governance"
+      ],
+      "jurisdiction": "HK",
+      "official_published": "2026-10-22",
+      "products": [
+        "Deposit accounts",
+        "Digital onboarding"
+      ],
+      "publisher": "Hong Kong Monetary Authority",
+      "publisher_id": "hong-kong-monetary-authority",
+      "publishers": [
+        {
+          "id": "hong-kong-monetary-authority",
+          "name": "Hong Kong Monetary Authority"
+        }
+      ],
+      "source_role": "primary_authority",
+      "source_url": "https://brdr.hkma.gov.hk/eng/doc-ldg/current/20261022-1-EN",
+      "status": "current",
+      "summary": "HKMA issued a circular to all authorised institutions on account-opening bribery risks. It expects layered, risk-based onboarding and proportionate customer due diligence, with segregation of duties and enhanced controls for third-party introducer cases; no source deadline is stated.",
+      "title": "Anti-bribery & corruption controls for account opening",
+      "topics": [
+        "account opening",
+        "AML/CFT",
+        "anti-bribery",
+        "third-party introducers"
+      ]
+    },
+    {
+      "authority": "HSBC Hong Kong",
+      "authority_label": "commercial/risk recommendation",
+      "bulletin_date": "2026-10-23",
+      "deadline": "No source deadline stated",
+      "document_type": "official bank product announcement",
+      "event_family": "HSBC RedCoin launch",
+      "id": "item-20261023-hk-banks-news-aefdef81f0",
+      "impact_areas": [
+        "stablecoins",
+        "payment operations",
+        "financial crime",
+        "product governance",
+        "merchant payments"
+      ],
+      "jurisdiction": "HK",
+      "official_published": "2026-10-23",
+      "products": [
+        "PayMe payments",
+        "Merchant payments",
+        "Stablecoin wallet"
+      ],
+      "publisher": "HSBC Hong Kong",
+      "publisher_id": "hsbc-hong-kong",
+      "publishers": [
+        {
+          "id": "hsbc-hong-kong",
+          "name": "HSBC Hong Kong"
+        }
+      ],
+      "source_role": "official_entity",
+      "source_url": "https://www.about.hsbc.com.hk/news-and-media/hsbc-redcoin-launches-today",
+      "status": "current",
+      "summary": "HSBC says its HKD stablecoin, RedCoin (RCHKD), will be available from launch on PayMe. In the coming days, the bank says more than 3.3 million PayMe users will be able to activate an in-app wallet and use it for peer-to-peer and peer-to-merchant payments, including at more than 100,000 merchants; it also describes later planned mobile-app, tokenised-investment and wholesale use cases.",
+      "title": "HSBC RedCoin launches today",
+      "topics": [
+        "stablecoins",
+        "digital payments",
+        "merchant payments",
+        "tokenised investments"
+      ]
+    }
+  ],
+  "item_ids": [
+    "item-20261022-hkma-brdr-2a39d0304c",
+    "item-20261022-hkma-circulars-0c7e79396a",
+    "item-20261023-hk-banks-news-aefdef81f0"
+  ],
+  "mode": "weekly",
+  "path": "bulletins/2026/10/23/weekly/",
+  "rendered_html": "<b><u>📔 Regulatory Bulletin — 23 October 2026 (Weekly)</u></b>\n\n<b><u>Executive Summary</u></b>\n\n  • 🟡 HKMA’s revised D-SIB methodology is effective immediately and adds RTGS/FPS turnover to the substitutability assessment, making payment-data lineage and prudential reporting readiness material for banks in scope.\n  • 🟡 HKMA expects strengthened anti-bribery and corruption safeguards in account opening, including segregation of duties and enhanced controls for third-party introducers; no fixed implementation date is stated.\n  • 🟡 HSBC has announced that its HKD stablecoin will be available from launch on PayMe; in the coming days, the bank says users will be able to activate an in-app wallet for peer-to-peer and merchant payments, a market development to monitor rather than a requirement for other institutions.\n\n<b><u>Hong Kong</u></b>\n\n\n<b>🟡 Gazettal of revised SPM module CA-B-2 “Systemically Important Banks” 🇭🇰</b>\n<b>Item ID:</b> item-20261022-hkma-brdr-2a39d0304c\n<b>⏰ Deadline:</b> Effective 23 October 2026; 12 months from HKMA notification for a newly or increased HLA requirement\n<b>Products:</b> Deposits, payments, lending\n\nHKMA gazetted CA-B-2 V.3 on 23 October 2026, effective that day, replacing V.2. The statutory guideline adds RTGS/FPS turnover to deposits and customer lending as substitutability indicators in the domestic systemically important bank assessment. All licensed banks are within the regular assessment scope, while other authorised institutions may be included case by case; institutions in scope submit MA(BS)24 data. A designated D-SIB, or one with a higher HLA requirement, has 12 months from formal HKMA notification to meet that requirement. The change may affect payment-data lineage, prudential reporting, capital planning and recovery or resolution management information; the source does not announce a designation, HLA amount or reporting date for any institution.\n\nSource: <a href=\"https://brdr.hkma.gov.hk/eng/doc-ldg/current/20261022-2-EN\">Gazettal of revised SPM module CA-B-2 “Systemically Important Banks”</a>\n\n\n<b>🟡 Anti-bribery &amp; corruption controls for account opening 🇭🇰</b>\n<b>Item ID:</b> item-20261022-hkma-circulars-0c7e79396a\n<b>⏰ Deadline:</b> No source deadline stated\n<b>Products:</b> Deposit accounts, digital onboarding\n\nHKMA’s 22 October circular follows cases in which syndicates offered staff bribes to bypass AML/CFT account-opening controls. It expects layered, risk-based onboarding and proportionate customer due diligence, with segregation of duties and enhanced controls for third-party introducer cases, including due diligence, approval scrutiny and management oversight. HKMA also calls for vulnerability gap analysis, risk-based look-backs, management information and clear senior-management responsibility. The expectation may affect branch, staff-led, digital and introducer-supported onboarding; the circular states no commencement, transition, reporting or compliance date.\n\nSource: <a href=\"https://brdr.hkma.gov.hk/eng/doc-ldg/current/20261022-1-EN\">Anti-bribery &amp; corruption controls for account opening</a>\n\n\n<b>🟡 HSBC RedCoin launches today 🇭🇰</b>\n<b>Item ID:</b> item-20261023-hk-banks-news-aefdef81f0\n<b>⏰ Deadline:</b> No source deadline stated\n<b>Products:</b> PayMe payments, merchant payments, stablecoin wallet\n\nHSBC says its HKD stablecoin, RedCoin (RCHKD), will be available from launch on PayMe; in the coming days, more than 3.3 million PayMe users will be able to activate an in-app stablecoin wallet and use it for peer-to-peer and peer-to-merchant payments, including at more than 100,000 merchants. The bank reports a staff pilot of nearly 100 users covering minting, activation and live transfers. It also plans later in 2026 to add mobile-app wallet functionality, tokenised-investment subscriptions and wholesale corporate and institutional use cases. This is an official bank product announcement, not an HKMA requirement or determination for other institutions; licence identifiers and control statements are HSBC-reported. The development may affect market expectations for customer disclosures, wallet and payment operations, financial-crime controls, merchant settlement and complaint handling, while the release does not provide adoption, resilience, eligibility or full control-design evidence.\n\nSource: <a href=\"https://www.about.hsbc.com.hk/news-and-media/hsbc-redcoin-launches-today\">HSBC RedCoin launches today</a>\n\n<b><u>Mainland/GBA</u></b>\n\nNo qualifying Mainland/GBA regulatory developments were included in this run.\n\n<b><u>SG/UK/GLOBAL Benchmark</u></b>\n<i>Comparable overseas developments and commercial/control benchmarks. They do not establish Hong Kong requirements.</i>\n\nNo qualifying benchmark developments were included in this run.\n\n<b><u>Watch List</u></b>\n\n  • Monitor which authorised institutions HKMA includes in the D-SIB assessment pool and whether revised MA(BS)24 data definitions or timing are clarified.\n  • Monitor the scope of onboarding journeys and third-party introducers most exposed to the account-opening control expectation.\n  • Monitor RedCoin adoption, customer issues, merchant and settlement dependencies, and the final eligibility and control terms for planned functionality.\n\n<b><u>Weekly Trend</u></b>\n\nThis week’s material reflects two HKMA supervisory developments: one brings a revised systemic-bank assessment methodology into effect, while the other sharpens account-opening financial-crime control expectations. The announced stablecoin launch is a separate commercial market development, not a change to Hong Kong requirements for other institutions.\n\n<b><u>Coverage</u></b>\n\n  • boe-benchmark — skipped (0): Out of cadence for weekly mode.\n  • scam-fraud-cluster — disabled (0): Disabled; CyberDefender and Scameter remained Cloudflare-blocked, while JFIU had no current activity.\n  • regulation-asia — disabled (0): Disabled at user request because subscription gating made extraction unreliable.\n  • daily-exploratory-search — partial (0): Tavily completed, but an SFC lead was a JavaScript shell and canonical evidence/date could not be resolved.\n  • hkma-circulars — ok (1): Verified RSS; one in-window circular collected and its HKMA source chain inspected.\n  • hkma-guidelines — empty (0): Verified RSS found no publication dated 17–23 October 2026.\n  • hkma-spm — empty (0): Verified RSS found no publication dated 17–23 October 2026.\n  • hkma-consultations — empty (0): Verified RSS found no publication dated 17–23 October 2026.\n  • hkma-press — ok (2): Verified RSS; two in-window publications collected and source chains inspected.\n  • hkma-brdr — ok (1): Verified BRDR listing; one 23 October gazettal collected and linked-source chain inspected.\n  • sfc-circulars — empty (0): Verified circular search returned no publication dated 17–23 October 2026.\n  • sfc-aml-circulars — empty (0): Verified AML circular search returned no publication dated 17–23 October 2026.\n  • sfc-consultations — empty (0): Configured consultation search returned no consultation or conclusion dated 17–23 October 2026.\n  • sfc-web — partial (0): Static pages were navigational and eDistribution listings were JavaScript shells.\n  • pcpd — empty (0): Rendered-browser fallback recovered substantive listings with no publication dated 17–23 October 2026.\n  • hk-enforcement-actions — partial (0): HKMA listing was substantive, but the SFC enforcement listing was a JavaScript application shell.\n  • global-material-incidents-enforcement — empty (0): Verified FCA and OCC listings found no qualifying exceptional bank-control event.\n  • mas-regulatory-announcements — partial (0): Relevant BLOOM child and SGPC detail requests could not be recovered from canonical MAS pages.\n  • fstb — ok (0): Verified configured FSTB listings; the in-window item was already in the seen ledger.\n  • legco — partial (0): Both configured pages failed normal TLS verification and browser fallback was unavailable.\n  • customs-tdo — partial (0): No qualifying bank/control item found; a referenced undertaking data resource returned 404.\n  • consumer-council — partial (0): No qualifying banking item found and the configured CHOICE page was an undated landing page.\n  • imf-wbg-international-policy — partial (0): IMF returned HTTP 403 and World Bank All News was a substantively empty shell.\n  • imf-wbg-international-policy-search — partial (0): No runner-owned discovery artefact exists; fixed IMF/WBG evidence remained incomplete.\n  • interpol-financial-cyber — empty (0): Verified listings had no event with evidenced Hong Kong bank-control transfer.\n  • hkcert — empty (0): Verified security listings had no bank-specific or systemic financial-services nexus.\n  • sme-schemes — partial (0): No dated in-window scheme development; two configured sub-sources remained incomplete.\n  • gba-official — partial (0): Verified listings had no qualifying development; all NFRA listings were non-substantive shells.\n  • gba-mainland-sweep — partial (0): Query-only source had no fixed request or runner-owned discovery-result artefact.\n  • industry-bodies — partial (0): No qualifying publication found; TMA redirected to a market-data page.\n  • hk-banks-news — ok (1): Verified all configured bank listings and Hang Seng XML; one HSBC launch collected.\n  • lexology — partial (0): Listing metadata could not establish publication dates and a payment-fraud candidate returned HTTP 403.\n  • lawfirm-big4-pages — partial (0): Seven pages had no qualifying dated development; King &amp; Wood Mallesons returned HTTP 403.\n  • lawfirm-big4-sweep — partial (0): Query-only source had no fixed request or runner-owned discovery-result artefact.\n  • fca-benchmark — ok (1): Verified FCA pages; one AI supervisory speech was collected as a UK benchmark.",
+  "rendered_sha256": "35b66d1318a6a0fd150f0bbbc99cdfcc8fe90cfe45ea9498f7c95a70e6845690",
+  "schema_version": 2,
+  "title": "Regulatory Bulletin — 23 October 2026 (Weekly)"
+}

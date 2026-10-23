@@ -3,6 +3,133 @@
     "authority": "Hong Kong Monetary Authority",
     "authority_label": "supervisory expectation",
     "bulletin_date": "2026-10-23",
+    "bulletin_path": "bulletins/2026/10/23/weekly/",
+    "deadline": "Effective 23 October 2026; 12 months from formal notification for a newly or increased HLA requirement",
+    "document_type": "statutory guideline and supervisory circular",
+    "event_family": "HKMA CA-B-2 D-SIB assessment methodology",
+    "id": "item-20261022-hkma-brdr-2a39d0304c",
+    "impact_areas": [
+      "capital adequacy",
+      "prudential reporting",
+      "systemic risk",
+      "recovery and resolution"
+    ],
+    "jurisdiction": "HK",
+    "official_published": "2026-10-23",
+    "products": [
+      "Deposits",
+      "Payments",
+      "Lending"
+    ],
+    "publisher": "Hong Kong Monetary Authority",
+    "publisher_id": "hong-kong-monetary-authority",
+    "publishers": [
+      {
+        "id": "hkma",
+        "name": "Hong Kong Monetary Authority"
+      }
+    ],
+    "source_role": "primary_authority",
+    "source_url": "https://brdr.hkma.gov.hk/eng/doc-ldg/current/20261022-2-EN",
+    "status": "current",
+    "summary": "HKMA gazetted CA-B-2 V.3 effective 23 October 2026, replacing V.2. The revised D-SIB assessment adds RTGS/FPS turnover to deposits and customer lending as substitutability indicators; all licensed banks are in the regular assessment scope and other authorised institutions may be included case by case.",
+    "title": "Gazettal of revised SPM module CA-B-2 “Systemically Important Banks”",
+    "topics": [
+      "systemically important banks",
+      "capital adequacy",
+      "prudential reporting",
+      "payments"
+    ]
+  },
+  {
+    "authority": "Hong Kong Monetary Authority",
+    "authority_label": "supervisory expectation",
+    "bulletin_date": "2026-10-23",
+    "bulletin_path": "bulletins/2026/10/23/weekly/",
+    "deadline": "No source deadline stated",
+    "document_type": "supervisory circular",
+    "event_family": "HKMA account-opening anti-bribery and corruption controls",
+    "id": "item-20261022-hkma-circulars-0c7e79396a",
+    "impact_areas": [
+      "AML/CFT",
+      "financial crime",
+      "account opening controls",
+      "staff conduct",
+      "governance"
+    ],
+    "jurisdiction": "HK",
+    "official_published": "2026-10-22",
+    "products": [
+      "Deposit accounts",
+      "Digital onboarding"
+    ],
+    "publisher": "Hong Kong Monetary Authority",
+    "publisher_id": "hong-kong-monetary-authority",
+    "publishers": [
+      {
+        "id": "hkma",
+        "name": "Hong Kong Monetary Authority"
+      }
+    ],
+    "source_role": "primary_authority",
+    "source_url": "https://brdr.hkma.gov.hk/eng/doc-ldg/current/20261022-1-EN",
+    "status": "current",
+    "summary": "HKMA issued a circular to all authorised institutions on account-opening bribery risks. It expects layered, risk-based onboarding and proportionate customer due diligence, with segregation of duties and enhanced controls for third-party introducer cases; no source deadline is stated.",
+    "title": "Anti-bribery & corruption controls for account opening",
+    "topics": [
+      "account opening",
+      "AML/CFT",
+      "anti-bribery",
+      "third-party introducers"
+    ]
+  },
+  {
+    "authority": "HSBC Hong Kong",
+    "authority_label": "commercial/risk recommendation",
+    "bulletin_date": "2026-10-23",
+    "bulletin_path": "bulletins/2026/10/23/weekly/",
+    "deadline": "No source deadline stated",
+    "document_type": "official bank product announcement",
+    "event_family": "HSBC RedCoin launch",
+    "id": "item-20261023-hk-banks-news-aefdef81f0",
+    "impact_areas": [
+      "stablecoins",
+      "payment operations",
+      "financial crime",
+      "product governance",
+      "merchant payments"
+    ],
+    "jurisdiction": "HK",
+    "official_published": "2026-10-23",
+    "products": [
+      "PayMe payments",
+      "Merchant payments",
+      "Stablecoin wallet"
+    ],
+    "publisher": "HSBC Hong Kong",
+    "publisher_id": "hsbc-hong-kong",
+    "publishers": [
+      {
+        "id": "hsbc-hong-kong",
+        "name": "The Hongkong and Shanghai Banking Corporation Limited"
+      }
+    ],
+    "source_role": "official_entity",
+    "source_url": "https://www.about.hsbc.com.hk/news-and-media/hsbc-redcoin-launches-today",
+    "status": "current",
+    "summary": "HSBC says its HKD stablecoin, RedCoin (RCHKD), will be available from launch on PayMe. In the coming days, the bank says more than 3.3 million PayMe users will be able to activate an in-app wallet and use it for peer-to-peer and peer-to-merchant payments, including at more than 100,000 merchants; it also describes later planned mobile-app, tokenised-investment and wholesale use cases.",
+    "title": "HSBC RedCoin launches today",
+    "topics": [
+      "stablecoins",
+      "digital payments",
+      "merchant payments",
+      "tokenised investments"
+    ]
+  },
+  {
+    "authority": "Hong Kong Monetary Authority",
+    "authority_label": "supervisory expectation",
+    "bulletin_date": "2026-10-23",
     "bulletin_path": "bulletins/2026/10/23/daily/",
     "deadline": "No source deadline stated",
     "document_type": "supervisory circular",
