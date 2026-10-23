@@ -1,5 +1,45 @@
 [
   {
+    "authority": "Hong Kong Monetary Authority",
+    "authority_label": "supervisory expectation",
+    "bulletin_date": "2026-10-23",
+    "bulletin_path": "bulletins/2026/10/23/daily/",
+    "deadline": "No source deadline stated",
+    "document_type": "supervisory circular",
+    "event_family": "HKMA account-opening anti-bribery and corruption controls",
+    "id": "item-20261022-hkma-brdr-0c7e79396a",
+    "impact_areas": [
+      "AML/CFT",
+      "financial-crime controls",
+      "account-opening controls",
+      "governance"
+    ],
+    "jurisdiction": "Hong Kong",
+    "official_published": "2026-10-22",
+    "products": [
+      "SME onboarding",
+      "Digital onboarding"
+    ],
+    "publisher": "Hong Kong Monetary Authority",
+    "publisher_id": "hkma",
+    "publishers": [
+      {
+        "id": "hkma",
+        "name": "Hong Kong Monetary Authority"
+      }
+    ],
+    "source_role": "primary_authority",
+    "source_url": "https://brdr.hkma.gov.hk/eng/doc-ldg/current/20261022-1-EN",
+    "status": "current",
+    "summary": "HKMA issued a current circular to all Authorized Institutions on bribery and corruption risks in account opening. It expects a layered, risk-based approach and proportionate customer due diligence; segregation of duties and enhanced controls for third-party agents are explicit requirements. No source deadline is stated.",
+    "title": "Anti-bribery & corruption controls for account opening",
+    "topics": [
+      "aml-cft",
+      "account-opening",
+      "anti-bribery-corruption"
+    ]
+  },
+  {
     "authority": "Financial Services and the Treasury Bureau",
     "authority_label": "supervisory expectation",
     "bulletin_date": "2026-10-22",

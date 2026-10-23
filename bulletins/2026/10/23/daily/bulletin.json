@@ -1,0 +1,54 @@
+{
+  "date": "2026-10-23",
+  "draft_sha256": "6cbd8cb8e69e3824efa1b92335396b47763acbd347e317dacec5bbe17b57b744",
+  "findings": [
+    {
+      "authority": "Hong Kong Monetary Authority",
+      "authority_label": "supervisory expectation",
+      "bulletin_date": "2026-10-23",
+      "deadline": "No source deadline stated",
+      "document_type": "supervisory circular",
+      "event_family": "HKMA account-opening anti-bribery and corruption controls",
+      "id": "item-20261022-hkma-brdr-0c7e79396a",
+      "impact_areas": [
+        "AML/CFT",
+        "financial-crime controls",
+        "account-opening controls",
+        "governance"
+      ],
+      "jurisdiction": "Hong Kong",
+      "official_published": "2026-10-22",
+      "products": [
+        "SME onboarding",
+        "Digital onboarding"
+      ],
+      "publisher": "Hong Kong Monetary Authority",
+      "publisher_id": "hkma",
+      "publishers": [
+        {
+          "id": "hkma",
+          "name": "Hong Kong Monetary Authority"
+        }
+      ],
+      "source_role": "primary_authority",
+      "source_url": "https://brdr.hkma.gov.hk/eng/doc-ldg/current/20261022-1-EN",
+      "status": "current",
+      "summary": "HKMA issued a current circular to all Authorized Institutions on bribery and corruption risks in account opening. It expects a layered, risk-based approach and proportionate customer due diligence; segregation of duties and enhanced controls for third-party agents are explicit requirements. No source deadline is stated.",
+      "title": "Anti-bribery & corruption controls for account opening",
+      "topics": [
+        "aml-cft",
+        "account-opening",
+        "anti-bribery-corruption"
+      ]
+    }
+  ],
+  "item_ids": [
+    "item-20261022-hkma-brdr-0c7e79396a"
+  ],
+  "mode": "daily",
+  "path": "bulletins/2026/10/23/daily/",
+  "rendered_html": "<b><u>📔 Regulatory Bulletin — 23 October 2026 (Daily)</u></b>\n\n<b><u>Executive Summary</u></b>\n\n  • 🔴 <b>HKMA account-opening controls:</b> All Authorized Institutions should assess bribery and corruption vulnerabilities in account opening; segregation of duties and enhanced controls for third-party agents are explicit requirements, with no source-stated deadline.\n\n<b><u>Hong Kong</u></b>\n\n\n<b>🔴 Anti-bribery &amp; corruption controls for account opening 🇭🇰</b>\n<b>Item ID:</b> item-20261022-hkma-brdr-0c7e79396a\n<b>⏰ Deadline:</b> No source deadline stated\n<b>Products:</b> SME onboarding, Digital onboarding\n\nThe Hong Kong Monetary Authority (HKMA) issued a current circular to all Authorized Institutions following cases in which criminal syndicates offered bribes to bypass AML/CFT controls during account opening. HKMA expects a layered, risk-based approach, including proportionate customer due-diligence information, and says inconsistencies may trigger enhanced review or account rejection. Segregation of duties must be applied during account opening, and institutions using third-party agents to introduce or assist clients must implement enhanced effective controls including due diligence, approval scrutiny and management oversight. HKMA also says institutions should consider bribery risk in ML/TF assessments, develop management information and review controls through a gap analysis; it states no fixed implementation deadline.\n\n<b>Actions:</b>\n  • Immediately identify account-opening journeys involving branches, staff overrides and third-party agents, and confirm that segregation of duties is applied.\n  • In the near term, assess agent due diligence, approval scrutiny, management oversight and relevant monitoring information against the circular; escalate material gaps and retain the assessment evidence.\n\nSource: <a href=\"https://brdr.hkma.gov.hk/eng/doc-ldg/current/20261022-1-EN\">HKMA circular — Anti-bribery &amp; corruption controls for account opening</a>\n\n<b><u>SG/UK/GLOBAL Benchmark</u></b>\n<i>Comparable overseas developments and commercial/control benchmarks. They do not establish Hong Kong requirements.</i>\n\n<b><u>Watch List</u></b>\n\n  • HKMA says the Hong Kong Association of Banks, with HKMA and ICAC support, is developing detailed guidance on measures to prevent bribery and corruption involving staff; monitor for publication.\n\n<b><u>Coverage</u></b>\n\n  • customs-tdo — skipped (0): Out of cadence for daily mode.\n  • consumer-council — skipped (0): Out of cadence for daily mode.\n  • imf-wbg-international-policy — skipped (0): Out of cadence for daily mode.\n  • imf-wbg-international-policy-search — skipped (0): Out of cadence for daily mode.\n  • interpol-financial-cyber — skipped (0): Out of cadence for daily mode.\n  • hkcert — skipped (0): Out of cadence for daily mode.\n  • sme-schemes — skipped (0): Out of cadence for daily mode.\n  • gba-official — skipped (0): Out of cadence for daily mode.\n  • gba-mainland-sweep — skipped (0): Out of cadence for daily mode.\n  • industry-bodies — skipped (0): Out of cadence for daily mode.\n  • lawfirm-big4-pages — skipped (0): Out of cadence for daily mode.\n  • lawfirm-big4-sweep — skipped (0): Out of cadence for daily mode.\n  • fca-benchmark — skipped (0): Out of cadence for daily mode.\n  • boe-benchmark — skipped (0): Out of cadence for daily mode.\n  • scam-fraud-cluster — disabled (0): Disabled after persistent source-access issues; search fallback found no current items.\n  • regulation-asia — disabled (0): Disabled at user request because the latest-news page is subscription-gated and extraction is unreliable.\n  • daily-exploratory-search — partial (0): Tavily completed; HKEX T+1 Conclusions lacked an exact publisher publication date.\n  • hkma-circulars — empty (0): Verified RSS; latest item was outside the 22 October window.\n  • hkma-guidelines — empty (0): Verified RSS; latest item was outside the 22 October window.\n  • hkma-spm — empty (0): Verified RSS; latest item was outside the 22 October window.\n  • hkma-consultations — empty (0): Verified RSS; latest item was outside the 22 October window.\n  • hkma-press — ok (1): Verified RSS and canonical 22 October press item; source chain complete.\n  • hkma-brdr — ok (1): Verified BRDR record dated 22 October; circular and sole PDF attachment extracted.\n  • sfc-circulars — empty (0): Verified listings and TLS search; no 22 October publication.\n  • sfc-aml-circulars — empty (0): Verified AML listing and TLS search; no 22 October publication.\n  • sfc-consultations — empty (0): Verified TLS search; no 22 October consultation publication.\n  • sfc-web — empty (0): Verified pages and news search; the 22 October item had no banking-control nexus.\n  • pcpd — partial (0): Standard requests returned semantic shells and no run-local browser fallback evidence was recoverable.\n  • hk-enforcement-actions — partial (0): HKMA index was verified; SFC enforcement page was a JavaScript shell.\n  • global-material-incidents-enforcement — empty (0): Verified FCA and OCC entries contained no qualifying new material event.\n  • mas-regulatory-announcements — empty (0): Verified MAS pages found no 22 October publication.\n  • fstb — empty (0): Verified FSTB listings contained no 22 October publication.\n  • legco — partial (0): Both endpoints failed TLS verification and the rendered-browser fallback was unavailable.\n  • hk-banks-news — empty (0): Verified peer-bank listings; the only 22 October entry was an excluded routine fraudulent-website notification.\n  • lexology — partial (0): Exact article dates were unavailable and the plausible lead could not be recovered from Cloudflare.",
+  "rendered_sha256": "ceabf358a013ccfadf1104835d5bfd856b480b10521e45f539023da2d6f8f095",
+  "schema_version": 2,
+  "title": "Regulatory Bulletin — 23 October 2026 (Daily)"
+}
