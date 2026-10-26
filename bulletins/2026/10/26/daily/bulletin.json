@@ -1,0 +1,106 @@
+{
+  "date": "2026-10-26",
+  "draft_sha256": "2a065938c96808224152b25b83eeebcd04da2e4be0752cbd50090e095c7b254c",
+  "findings": [
+    {
+      "authority": "HSBC Hong Kong",
+      "authority_label": "commercial/risk recommendation",
+      "bulletin_date": "2026-10-26",
+      "deadline": "No source deadline stated",
+      "document_type": "official bank product announcement",
+      "event_family": "HSBC RedCoin launch",
+      "id": "item-20261023-hk-banks-news-aefdef81f0",
+      "impact_areas": [
+        "stablecoins",
+        "payment-operations",
+        "financial-crime",
+        "product-governance",
+        "merchant-payments"
+      ],
+      "jurisdiction": "HK",
+      "official_published": "2026-10-23",
+      "products": [
+        "Payments",
+        "Digital wallets",
+        "Tokenised investments"
+      ],
+      "publisher": "HSBC Hong Kong",
+      "publisher_id": "hsbc-hong-kong",
+      "publishers": [
+        {
+          "id": "hsbc-hong-kong",
+          "name": "HSBC Hong Kong"
+        }
+      ],
+      "source_role": "official_entity",
+      "source_url": "https://www.about.hsbc.com.hk/news-and-media/hsbc-redcoin-launches-today",
+      "status": "current",
+      "summary": "HSBC states that its HKD-denominated RedCoin became available on PayMe on 23 October 2026. It says users will be able to activate wallets for peer-to-peer and merchant payments, with later-2026 plans for mobile-app wallets, tokenised-investment subscriptions and wholesale use cases.",
+      "title": "HSBC RedCoin launches today",
+      "topics": [
+        "stablecoins",
+        "payme",
+        "retail-payments",
+        "merchant-payments",
+        "digital-assets"
+      ]
+    },
+    {
+      "authority": "Department of Finance Canada",
+      "authority_label": "open interpretation",
+      "bulletin_date": "2026-10-26",
+      "deadline": "2026-12-23 (consultation representations due within 60 days of publication)",
+      "document_type": "proposed regulations consultation",
+      "event_family": "Canada Stablecoin Regulations consultation",
+      "id": "item-20261024-daily-exploratory-search-ec49ce890c",
+      "impact_areas": [
+        "stablecoins",
+        "payment-operations",
+        "safeguarding",
+        "operational-resilience",
+        "cross-border-regulatory-monitoring"
+      ],
+      "jurisdiction": "GLOBAL",
+      "official_published": "2026-10-24",
+      "products": [
+        "Payments",
+        "Digital assets",
+        "Cross-border services"
+      ],
+      "publisher": "Canada Gazette",
+      "publisher_id": "canada-gazette",
+      "publishers": [
+        {
+          "id": "canada-gazette",
+          "name": "Canada Gazette"
+        },
+        {
+          "id": "department-of-finance-canada",
+          "name": "Department of Finance Canada"
+        }
+      ],
+      "source_role": "government_or_court",
+      "source_url": "https://gazette.gc.ca/rp-pr/p1/2026/2026-10-24/html/reg1-eng.html",
+      "status": "current",
+      "summary": "Canada’s Department of Finance prepublished proposed Stablecoin Regulations on 24 October 2026, with related Retail Payment Activities Regulations amendments. The consultation proposes requirements for issuer registration, reserves, redemption, governance, data security, recovery and resolution, reporting and notices; representations are invited within 60 days.",
+      "title": "Canada Gazette, Part I, Volume 160, Number 43: Stablecoin Regulations",
+      "topics": [
+        "stablecoins",
+        "consultation",
+        "payments",
+        "digital-assets",
+        "reserves"
+      ]
+    }
+  ],
+  "item_ids": [
+    "item-20261023-hk-banks-news-aefdef81f0",
+    "item-20261024-daily-exploratory-search-ec49ce890c"
+  ],
+  "mode": "daily",
+  "path": "bulletins/2026/10/26/daily/",
+  "rendered_html": "<b><u>📔 Regulatory Bulletin — 26 October 2026 (Daily)</u></b>\n\n<b><u>Executive Summary</u></b>\n\n  • 🟡 <b>Hong Kong retail payments:</b> HSBC says its HKD-denominated RedCoin is available on PayMe, creating a live benchmark for stablecoin wallet, merchant-payment and customer-journey design; the announcement does not evidence control effectiveness or impose obligations on other institutions.\n  • 🟡 <b>Canada stablecoin perimeter:</b> the Department of Finance Canada has prepublished proposed regulations, with representations due 23 December 2026; any Canada-facing stablecoin, wallet, custody, PSP or provider exposure warrants a scoped applicability decision.\n\n<b><u>Hong Kong</u></b>\n\n\n<b>🟡 HSBC RedCoin launches today 🇭🇰</b>\n<b>Item ID:</b> item-20261023-hk-banks-news-aefdef81f0\n<b>⏰ Deadline:</b> No source deadline stated\n<b>Products:</b> Payments, Digital wallets, Tokenised investments\n\nHSBC states that its HKD-denominated RedCoin (RCHKD) became available on PayMe on 23 October 2026. It says PayMe users will be able to activate an in-app stablecoin wallet for peer-to-peer transfers and peer-to-merchant payments at more than 100,000 merchants. HSBC also says it plans later-2026 mobile-app wallet functionality, tokenised-investment subscriptions and wholesale use cases. This product announcement is not an HKMA decision or an obligation for other institutions, but it is a Hong Kong payment and merchant-acceptance benchmark; the announcement does not evidence eligibility, redemption, resilience or operating-control outcomes.\n\nSource: <a href=\"https://www.about.hsbc.com.hk/news-and-media/hsbc-redcoin-launches-today\">HSBC RedCoin launches today</a>\n\n<b><u>SG/UK/GLOBAL Benchmark</u></b>\n<i>Comparable overseas developments and commercial/control benchmarks. They do not establish Hong Kong requirements.</i>\n\n\n<b>🟡 Canada Gazette: Stablecoin Regulations 🇨🇦</b>\n<b>Item ID:</b> item-20261024-daily-exploratory-search-ec49ce890c\n<b>⏰ Deadline:</b> 23 December 2026 (consultation representations due within 60 days of publication)\n<b>Products:</b> Payments, Digital assets, Cross-border services\n\nCanada’s Department of Finance prepublished proposed Stablecoin Regulations on 24 October 2026, alongside related amendments to the Retail Payment Activities Regulations. The consultation proposes details on issuer registration, one-to-one reserves, redemption, governance, data security, recovery and resolution, reporting and notices, and would bring specified stablecoin payment functions by PSPs into the Canadian framework. Representations are invited within 60 days of publication, and the stated intention is commencement with the Act in fall 2027. This is a Canadian consultation rather than final law or a Hong Kong requirement; it may affect any Canada-facing stablecoin, wallet, custody, PSP or provider operating model, subject to the final scope and exclusions.\n\nSource: <a href=\"https://gazette.gc.ca/rp-pr/p1/2026/2026-10-24/html/reg1-eng.html\">Canada Gazette, Part I, Volume 160, Number 43: Stablecoin Regulations</a>\n\n<b><u>Watch List</u></b>\n\n  • Monitor the published terms for RedCoin wallet eligibility, protections, redemption and planned investment or wholesale features before treating them as current service terms.\n  • Determine whether any Canadian entity, customer-facing activity or provider could be in scope of the proposed Stablecoin Regulations and whether consultation input is warranted by 23 December 2026.\n\n<b><u>Coverage</u></b>\n  • customs-tdo — skipped (0): out-of-cadence for daily mode\n  • consumer-council — skipped (0): out-of-cadence for daily mode\n  • imf-wbg-international-policy — skipped (0): out-of-cadence for daily mode\n  • imf-wbg-international-policy-search — skipped (0): out-of-cadence for daily mode\n  • interpol-financial-cyber — skipped (0): out-of-cadence for daily mode\n  • hkcert — skipped (0): out-of-cadence for daily mode\n  • sme-schemes — skipped (0): out-of-cadence for daily mode\n  • gba-official — skipped (0): out-of-cadence for daily mode\n  • gba-mainland-sweep — skipped (0): out-of-cadence for daily mode\n  • industry-bodies — skipped (0): out-of-cadence for daily mode\n  • lawfirm-big4-pages — skipped (0): out-of-cadence for daily mode\n  • lawfirm-big4-sweep — skipped (0): out-of-cadence for daily mode\n  • fca-benchmark — skipped (0): out-of-cadence for daily mode\n  • boe-benchmark — skipped (0): out-of-cadence for daily mode\n  • scam-fraud-cluster — disabled (0): disabled 2026-07-22; CyberDefender and Scameter remain Cloudflare-blocked and JFIU’s latest listed activity is from 2025\n  • regulation-asia — disabled (0): disabled at user request because the latest-news page is subscription-gated and recent results yielded no scoped items\n  • daily-exploratory-search — partial (1): all Tavily plan outcomes succeeded; one Canada Gazette benchmark was admitted, while a MAS/BNM secondary lead lacked recovered canonical primary evidence\n  • hkma-circulars — empty (0): verified TLS RSS feed had no publication from 2026-10-23 through 2026-10-25\n  • hkma-guidelines — empty (0): verified TLS RSS feed had no publication from 2026-10-23 through 2026-10-25\n  • hkma-spm — empty (0): verified TLS RSS feed had no publication from 2026-10-23 through 2026-10-25\n  • hkma-consultations — empty (0): verified TLS RSS feed had no publication from 2026-10-23 through 2026-10-25\n  • hkma-press — ok (0): verified TLS RSS feed had two 2026-10-23 entries, both already in the seen ledger\n  • hkma-brdr — ok (0): verified TLS BRDR listing had the 23 October revised CA-B-2 circular, already in the seen ledger\n  • sfc-circulars — empty (0): verified TLS e-Distribution circular listing and sibling API had no publication from 2026-10-23 through 2026-10-25\n  • sfc-aml-circulars — empty (0): verified TLS AML circular listing and sibling API had no publication from 2026-10-23 through 2026-10-25\n  • sfc-consultations — empty (0): verified TLS configured consultation API had no consultation or conclusion publication from 2026-10-23 through 2026-10-25\n  • sfc-web — empty (0): verified regulatory-update, virtual-asset and e-Distribution listings/API had no publication from 2026-10-23 through 2026-10-25\n  • pcpd — empty (0): rendered-browser fallback recovered configured listings after standard requests returned semantic shells; no in-window publication\n  • hk-enforcement-actions — partial (0): HKMA disciplinary listing had no in-window qualifying action, while SFC enforcement coverage remained unresolved because its listing returned an e-Distribution shell\n  • global-material-incidents-enforcement — partial (0): FCA releases were verified but none met the exceptional-materiality gate; the OCC landing did not expose dated current actions\n  • mas-regulatory-announcements — partial (0): retrieved MAS listings exposed navigation/last-updated shells rather than dated inventories; the identified SGPC detail and result pages returned 404\n  • fstb — empty (0): verified FSTB listings; the sole 23 October appointment announcement did not meet the banking-product/control materiality gate\n  • legco — empty (0): verified rendered-browser retrieval of both configured listings; no in-window financial-services bill progress\n  • hk-banks-news — ok (1): verified configured bank listings and Hang Seng 2026 XML; collected HSBC’s 23 October Hong Kong stablecoin/PayMe product announcement\n  • lexology — partial (0): potentially relevant secondary candidates returned HTTP 403; no publisher-controlled in-window date or primary evidence could be recovered",
+  "rendered_sha256": "f97d721a7397f4fd8bb91449c8dd7e852f97f8e116686c5f319270ab14ab8249",
+  "schema_version": 2,
+  "title": "Regulatory Bulletin — 26 October 2026 (Daily)"
+}

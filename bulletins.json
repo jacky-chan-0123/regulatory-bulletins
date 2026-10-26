@@ -1,5 +1,18 @@
 [
   {
+    "date": "2026-10-26",
+    "draft_sha256": "2a065938c96808224152b25b83eeebcd04da2e4be0752cbd50090e095c7b254c",
+    "item_ids": [
+      "item-20261023-hk-banks-news-aefdef81f0",
+      "item-20261024-daily-exploratory-search-ec49ce890c"
+    ],
+    "mode": "daily",
+    "path": "bulletins/2026/10/26/daily/",
+    "rendered_sha256": "f97d721a7397f4fd8bb91449c8dd7e852f97f8e116686c5f319270ab14ab8249",
+    "schema_version": 2,
+    "title": "Regulatory Bulletin — 26 October 2026 (Daily)"
+  },
+  {
     "date": "2026-10-23",
     "draft_sha256": "198aa8ae1637f3224b823dda0b398c97c6fd1a37570ddde6f917681912c59c9f",
     "item_ids": [

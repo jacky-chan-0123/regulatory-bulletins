@@ -1,5 +1,97 @@
 [
   {
+    "authority": "HSBC Hong Kong",
+    "authority_label": "commercial/risk recommendation",
+    "bulletin_date": "2026-10-26",
+    "bulletin_path": "bulletins/2026/10/26/daily/",
+    "deadline": "No source deadline stated",
+    "document_type": "official bank product announcement",
+    "event_family": "HSBC RedCoin launch",
+    "id": "item-20261023-hk-banks-news-aefdef81f0",
+    "impact_areas": [
+      "stablecoins",
+      "payment-operations",
+      "financial-crime",
+      "product-governance",
+      "merchant-payments"
+    ],
+    "jurisdiction": "HK",
+    "official_published": "2026-10-23",
+    "products": [
+      "Payments",
+      "Digital wallets",
+      "Tokenised investments"
+    ],
+    "publisher": "HSBC Hong Kong",
+    "publisher_id": "hsbc-hong-kong",
+    "publishers": [
+      {
+        "id": "hsbc-hong-kong",
+        "name": "The Hongkong and Shanghai Banking Corporation Limited"
+      }
+    ],
+    "source_role": "official_entity",
+    "source_url": "https://www.about.hsbc.com.hk/news-and-media/hsbc-redcoin-launches-today",
+    "status": "current",
+    "summary": "HSBC states that its HKD-denominated RedCoin became available on PayMe on 23 October 2026. It says users will be able to activate wallets for peer-to-peer and merchant payments, with later-2026 plans for mobile-app wallets, tokenised-investment subscriptions and wholesale use cases.",
+    "title": "HSBC RedCoin launches today",
+    "topics": [
+      "stablecoins",
+      "payme",
+      "retail-payments",
+      "merchant-payments",
+      "digital-assets"
+    ]
+  },
+  {
+    "authority": "Department of Finance Canada",
+    "authority_label": "open interpretation",
+    "bulletin_date": "2026-10-26",
+    "bulletin_path": "bulletins/2026/10/26/daily/",
+    "deadline": "2026-12-23 (consultation representations due within 60 days of publication)",
+    "document_type": "proposed regulations consultation",
+    "event_family": "Canada Stablecoin Regulations consultation",
+    "id": "item-20261024-daily-exploratory-search-ec49ce890c",
+    "impact_areas": [
+      "stablecoins",
+      "payment-operations",
+      "safeguarding",
+      "operational-resilience",
+      "cross-border-regulatory-monitoring"
+    ],
+    "jurisdiction": "GLOBAL",
+    "official_published": "2026-10-24",
+    "products": [
+      "Payments",
+      "Digital assets",
+      "Cross-border services"
+    ],
+    "publisher": "Canada Gazette",
+    "publisher_id": "canada-gazette",
+    "publishers": [
+      {
+        "id": "canada-gazette",
+        "name": "Canada Gazette"
+      },
+      {
+        "id": "department-of-finance-canada",
+        "name": "Department of Finance Canada"
+      }
+    ],
+    "source_role": "government_or_court",
+    "source_url": "https://gazette.gc.ca/rp-pr/p1/2026/2026-10-24/html/reg1-eng.html",
+    "status": "current",
+    "summary": "Canada’s Department of Finance prepublished proposed Stablecoin Regulations on 24 October 2026, with related Retail Payment Activities Regulations amendments. The consultation proposes requirements for issuer registration, reserves, redemption, governance, data security, recovery and resolution, reporting and notices; representations are invited within 60 days.",
+    "title": "Canada Gazette, Part I, Volume 160, Number 43: Stablecoin Regulations",
+    "topics": [
+      "stablecoins",
+      "consultation",
+      "payments",
+      "digital-assets",
+      "reserves"
+    ]
+  },
+  {
     "authority": "Hong Kong Monetary Authority",
     "authority_label": "supervisory expectation",
     "bulletin_date": "2026-10-23",
