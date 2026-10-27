@@ -1,5 +1,85 @@
 [
   {
+    "authority": "Securities and Futures Commission",
+    "authority_label": "commercial/risk recommendation",
+    "bulletin_date": "2026-10-27",
+    "bulletin_path": "bulletins/2026/10/27/daily/",
+    "deadline": "No source deadline stated",
+    "document_type": "SFC approval announcement",
+    "event_family": "SFC tokenised public funds secondary-trading pilot",
+    "id": "item-20261026-sfc-web-26pr174",
+    "impact_areas": [
+      "Product governance",
+      "Investor protection",
+      "Liquidity and pricing"
+    ],
+    "jurisdiction": "Hong Kong",
+    "official_published": "2026-10-26",
+    "products": [
+      "Tokenised funds",
+      "Virtual-asset trading",
+      "Digital payments"
+    ],
+    "publisher": "Securities and Futures Commission",
+    "publisher_id": "securities-and-futures-commission",
+    "publishers": [
+      {
+        "id": "sfc",
+        "name": "Securities and Futures Commission"
+      }
+    ],
+    "source_role": "primary_authority",
+    "source_url": "https://apps.sfc.hk/edistributionWeb/gateway/EN/news/doc?refNo=26PR174",
+    "status": "current",
+    "summary": "The SFC approved secondary trading of two existing SFC-authorised tokenised money-market funds on an SFC-licensed virtual-asset trading platform, with around-the-clock trading beginning on 26 October 2026. The approval applies the April 2026 pilot framework; it is not a new sector-wide rule or direct instruction outside the approved arrangement.",
+    "title": "SFC approves first-ever secondary trading of tokenised public funds",
+    "topics": [
+      "Tokenised funds",
+      "Virtual-asset trading",
+      "Digital assets"
+    ]
+  },
+  {
+    "authority": "HSBC Hong Kong",
+    "authority_label": "commercial/risk recommendation",
+    "bulletin_date": "2026-10-27",
+    "bulletin_path": "bulletins/2026/10/27/daily/",
+    "deadline": "No source deadline stated",
+    "document_type": "Official bank product announcement",
+    "event_family": "HSBCnio transaction-banking launch",
+    "id": "item-20261026-hk-banks-news-808c29cdd6",
+    "impact_areas": [
+      "AI and model risk",
+      "Data security",
+      "API and channel controls"
+    ],
+    "jurisdiction": "Hong Kong",
+    "official_published": "2026-10-26",
+    "products": [
+      "Transaction banking",
+      "APIs",
+      "Corporate treasury"
+    ],
+    "publisher": "HSBC Hong Kong",
+    "publisher_id": "hsbc-hong-kong",
+    "publishers": [
+      {
+        "id": "hsbc-hong-kong",
+        "name": "The Hongkong and Shanghai Banking Corporation Limited"
+      }
+    ],
+    "source_role": "official_entity",
+    "source_url": "https://www.about.hsbc.com.hk/news-and-media/hsbc-launches-new-ai-enabled-solution-to-transform-transaction-banking",
+    "status": "current",
+    "summary": "HSBC announced HSBCnio for corporate and institutional clients, with existing-permission web/mobile access, APIs and read-only access by client AI tools to authorised account and transaction data. This is a bank product announcement and a commercial/control benchmark, not a Hong Kong regulatory change or sector-wide obligation.",
+    "title": "HSBC launches new AI-enabled solution to transform transaction banking",
+    "topics": [
+      "Transaction banking",
+      "Artificial intelligence",
+      "Application programming interfaces"
+    ]
+  },
+  {
     "authority": "HSBC Hong Kong",
     "authority_label": "commercial/risk recommendation",
     "bulletin_date": "2026-10-26",

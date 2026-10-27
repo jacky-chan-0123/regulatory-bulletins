@@ -1,0 +1,94 @@
+{
+  "date": "2026-10-27",
+  "draft_sha256": "d2ab593c7c179c8836f4d0606915ea53919f3e472e85695cf750cc0388315517",
+  "findings": [
+    {
+      "authority": "Securities and Futures Commission",
+      "authority_label": "commercial/risk recommendation",
+      "bulletin_date": "2026-10-27",
+      "deadline": "No source deadline stated",
+      "document_type": "SFC approval announcement",
+      "event_family": "SFC tokenised public funds secondary-trading pilot",
+      "id": "item-20261026-sfc-web-26pr174",
+      "impact_areas": [
+        "Product governance",
+        "Investor protection",
+        "Liquidity and pricing"
+      ],
+      "jurisdiction": "Hong Kong",
+      "official_published": "2026-10-26",
+      "products": [
+        "Tokenised funds",
+        "Virtual-asset trading",
+        "Digital payments"
+      ],
+      "publisher": "Securities and Futures Commission",
+      "publisher_id": "securities-and-futures-commission",
+      "publishers": [
+        {
+          "id": "securities-and-futures-commission",
+          "name": "Securities and Futures Commission"
+        }
+      ],
+      "source_role": "primary_authority",
+      "source_url": "https://apps.sfc.hk/edistributionWeb/gateway/EN/news/doc?refNo=26PR174",
+      "status": "current",
+      "summary": "The SFC approved secondary trading of two existing SFC-authorised tokenised money-market funds on an SFC-licensed virtual-asset trading platform, with around-the-clock trading beginning on 26 October 2026. The approval applies the April 2026 pilot framework; it is not a new sector-wide rule or direct instruction outside the approved arrangement.",
+      "title": "SFC approves first-ever secondary trading of tokenised public funds",
+      "topics": [
+        "Tokenised funds",
+        "Virtual-asset trading",
+        "Digital assets"
+      ]
+    },
+    {
+      "authority": "HSBC Hong Kong",
+      "authority_label": "commercial/risk recommendation",
+      "bulletin_date": "2026-10-27",
+      "deadline": "No source deadline stated",
+      "document_type": "Official bank product announcement",
+      "event_family": "HSBCnio transaction-banking launch",
+      "id": "item-20261026-hk-banks-news-808c29cdd6",
+      "impact_areas": [
+        "AI and model risk",
+        "Data security",
+        "API and channel controls"
+      ],
+      "jurisdiction": "Hong Kong",
+      "official_published": "2026-10-26",
+      "products": [
+        "Transaction banking",
+        "APIs",
+        "Corporate treasury"
+      ],
+      "publisher": "HSBC Hong Kong",
+      "publisher_id": "hsbc-hong-kong",
+      "publishers": [
+        {
+          "id": "hsbc-hong-kong",
+          "name": "HSBC Hong Kong"
+        }
+      ],
+      "source_role": "official_entity",
+      "source_url": "https://www.about.hsbc.com.hk/news-and-media/hsbc-launches-new-ai-enabled-solution-to-transform-transaction-banking",
+      "status": "current",
+      "summary": "HSBC announced HSBCnio for corporate and institutional clients, with existing-permission web/mobile access, APIs and read-only access by client AI tools to authorised account and transaction data. This is a bank product announcement and a commercial/control benchmark, not a Hong Kong regulatory change or sector-wide obligation.",
+      "title": "HSBC launches new AI-enabled solution to transform transaction banking",
+      "topics": [
+        "Transaction banking",
+        "Artificial intelligence",
+        "Application programming interfaces"
+      ]
+    }
+  ],
+  "item_ids": [
+    "item-20261026-hk-banks-news-808c29cdd6",
+    "item-20261026-sfc-web-26pr174"
+  ],
+  "mode": "daily",
+  "path": "bulletins/2026/10/27/daily/",
+  "rendered_html": "<b><u>📔 Regulatory Bulletin — 27 October 2026 (Daily)</u></b>\n\n<b><u>Executive Summary</u></b>\n\n  • The SFC approved the first secondary trading of two tokenised public money-market funds on a licensed virtual-asset platform. This is a live application of the April pilot framework, so investment and digital-asset businesses should monitor scope, pricing, liquidity and disclosure implications rather than treat it as a new sector-wide obligation.\n  • HSBC launched HSBCnio for corporate and institutional transaction banking, combining existing-permission web/mobile access, APIs and read-only access by client AI tools to authorised account and transaction data. The launch is a commercial benchmark for treasury-channel, data-access and AI/API control design, not a Hong Kong regulatory change.\n\n<b><u>Hong Kong</u></b>\n\n\n<b>🟡 SFC approves first-ever secondary trading of tokenised public funds 🇭🇰</b>\n<b>Item ID:</b> item-20261026-sfc-web-26pr174\n<b>⏰ Deadline:</b> No source deadline stated\n<b>Products:</b> Tokenised funds; virtual-asset trading; digital payments\n\nOn 26 October 2026, the Securities and Futures Commission approved secondary trading of two existing SFC-authorised tokenised money-market funds on an SFC-licensed virtual-asset trading platform, with around-the-clock trading beginning that day. The SFC states that its April 2026 pilot framework sets requirements and safeguards for trading-channel operation, fair pricing, liquidity provision and disclosure. This is the first stated live approval under that existing pilot rather than a new rule or a direct instruction to institutions outside the approved arrangement; the SFC will monitor activity and may consider broader product scope. Banks with authorised-fund, digital-asset distribution, tokenised-deposit or settlement roles may need to monitor whether a future expansion affects their product, disclosure, pricing, liquidity, settlement or 24/7 operating model.\n\nSource: <a href=\"https://apps.sfc.hk/edistributionWeb/gateway/EN/news/doc?refNo=26PR174\">SFC approves first-ever secondary trading of tokenised public funds</a>\n\n\n<b>🟡 HSBC launches new AI-enabled solution to transform transaction banking 🇭🇰</b>\n<b>Item ID:</b> item-20261026-hk-banks-news-808c29cdd6\n<b>⏰ Deadline:</b> No source deadline stated\n<b>Products:</b> Transaction banking; APIs; corporate treasury\n\nOn 26 October 2026, HSBC announced HSBCnio, an AI-enabled transaction-banking solution for corporate and institutional clients that supports web/mobile access through existing HSBCnet credentials and permissions, as well as API connections to client systems. HSBC says client AI tools can access authorised account and transaction data on a read-only basis through its Model Context Protocol, using established permissions and appropriate controls. Stated use cases include cash and transaction views, trade loans, FX, payment tracking and cross-border cash analysis; HSBC says the planned Ask HSBC feature is not yet current. This is a peer-bank product announcement, not a Hong Kong regulatory change, approval or sector-wide obligation, but it provides a commercial/control benchmark for permissions, customer-data access, API integration and AI/vendor governance in corporate treasury workflows.\n\nSource: <a href=\"https://www.about.hsbc.com.hk/news-and-media/hsbc-launches-new-ai-enabled-solution-to-transform-transaction-banking\">HSBC launches new AI-enabled solution to transform transaction banking</a>\n\n<b><u>Mainland/GBA</u></b>\n\nNo validated items for this run.\n\n<b><u>SG/UK/GLOBAL Benchmark</u></b>\n\n<i>Comparable overseas developments and commercial/control benchmarks. They do not establish Hong Kong requirements.</i>\n\nNo validated items for this run.\n\n<b><u>Watch List</u></b>\n\n  • Monitor whether the SFC broadens the tokenised-fund pilot beyond the approved arrangement, including the products and participant roles covered.\n  • Monitor whether HSBC introduces write-capable AI functions or publishes customer, jurisdictional or control terms for HSBCnio.\n\n<b><u>Coverage</u></b>\n\n  • customs-tdo — skipped (0): out-of-cadence for daily mode\n  • consumer-council — skipped (0): out-of-cadence for daily mode\n  • imf-wbg-international-policy — skipped (0): out-of-cadence for daily mode\n  • imf-wbg-international-policy-search — skipped (0): out-of-cadence for daily mode\n  • interpol-financial-cyber — skipped (0): out-of-cadence for daily mode\n  • hkcert — skipped (0): out-of-cadence for daily mode\n  • sme-schemes — skipped (0): out-of-cadence for daily mode\n  • gba-official — skipped (0): out-of-cadence for daily mode\n  • gba-mainland-sweep — skipped (0): out-of-cadence for daily mode\n  • industry-bodies — skipped (0): out-of-cadence for daily mode\n  • lawfirm-big4-pages — skipped (0): out-of-cadence for daily mode\n  • lawfirm-big4-sweep — skipped (0): out-of-cadence for daily mode\n  • fca-benchmark — skipped (0): out-of-cadence for daily mode\n  • boe-benchmark — skipped (0): out-of-cadence for daily mode\n  • scam-fraud-cluster — disabled (0): disabled 2026-07-22 — CyberDefender and Scameter return HTTP 403 and remain blocked by Cloudflare in browser mode; search fallback found no current items. JFIU is reachable but its latest listed activity is from 2025.\n  • regulation-asia — disabled (0): Disabled at user request: the latest-news page is subscription-gated, making extraction unreliable, and recent results yielded no scoped HK/CN-GBA/SG/UK banking items.\n  • daily-exploratory-search — partial (0): Tavily plan completed; HKEX T+1 lead has only month-level publication evidence and Eversheds leads returned verified-TLS HTTP 403, so no admissible candidate was collected.\n  • hkma-circulars — empty (0): Verified-TLS RSS retrieved; no item dated 2026-10-26.\n  • hkma-guidelines — empty (0): Verified-TLS RSS retrieved; no item dated 2026-10-26.\n  • hkma-spm — empty (0): Verified-TLS RSS retrieved; no item dated 2026-10-26.\n  • hkma-consultations — empty (0): Verified-TLS RSS retrieved; no item dated 2026-10-26.\n  • hkma-press — ok (1): Verified-TLS RSS and canonical page retrieved; collected item-20261026-hkma-press-ae91ad90c5 and completed its HKMA source chain.\n  • hkma-brdr — empty (0): Verified-TLS BRDR listing retrieved; latest listed document is 23 Oct 2026 and no document is dated 2026-10-26.\n  • sfc-circulars — empty (0): Verified-TLS SFC circular search API retrieved; no circular has official release date 2026-10-26.\n  • sfc-aml-circulars — empty (0): Verified-TLS SFC circular inventory retrieved; no official circular release date is 2026-10-26, including the AML/CFT listing route.\n  • sfc-consultations — empty (0): Verified-TLS SFC consultation search API retrieved; no consultation or conclusions record has official issue date 2026-10-26.\n  • sfc-web — ok (1): Verified-TLS SFC news API retrieved; collected item-20261026-sfc-web-26pr174 from official news record 26PR174 dated 2026-10-26.\n  • pcpd — empty (0): Standard PCPD responses were JavaScript cookie shells; allowlisted verified-TLS rendered-browser fallback recovered all three listings, none with a 2026-10-26 publication.\n  • hk-enforcement-actions — partial (0): HKMA disciplinary-actions listing was verified and has no 2026-10-26 action; the SFC enforcement e-Distribution route returned a content-free application shell, not substantive listing evidence.\n  • global-material-incidents-enforcement — empty (0): Verified-TLS FCA and OCC listings checked; FCA&#x27;s two 2026-10-26 publications were a non-binding sector blog and a small IFA liquidation, neither exceptionally material or transferable, and OCC&#x27;s latest linked enforcement issuance is 2026-10-22.\n  • mas-regulatory-announcements — empty (0): MAS listings were retrieved through the configured verified-TLS MAS browser fallback after standard maintenance shells; SGPC MAS inventory and MAS listings show no 2026-10-26 publication (latest 2026-10-23/2026-10-14 as applicable).\n  • fstb — empty (0): Verified-TLS FSTB press, consultation, bills and LegCo-brief listings checked; latest press entry is 2026-10-23 and none is dated 2026-10-26.\n  • legco — partial (0): Standard client TLS chain validation failed for both listings; configured verified-TLS rendered-browser fallback retrieved them but found no verifiable 2026-10-26 financial-services bill progress, while the committee page is an undated directory.\n  • hk-banks-news — ok (1): Verified-TLS bank listings and Hang Seng current-year XML checked; collected official HSBCnio transaction-banking announcement item-20261026-hk-banks-news-808c29cdd6 dated 2026-10-26.\n  • lexology — partial (0): Verified-TLS popular listing retrieved, but it supplies no exact publication dates; a potentially material FinCEN enforcement commentary candidate returned HTTP 403 and the verified local browser encountered a Cloudflare security-verification shell, so no canonical publisher evidence or in-window date could be established.",
+  "rendered_sha256": "2aceb9fa0aad081fb81ea0a93c0b74af96b5969526d6b37df3415aea85fa55e2",
+  "schema_version": 2,
+  "title": "Regulatory Bulletin — 27 October 2026 (Daily)"
+}
