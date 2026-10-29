@@ -1,6 +1,85 @@
 [
   {
     "authority": "Securities and Futures Commission",
+    "authority_label": "supervisory expectation",
+    "bulletin_date": "2026-10-29",
+    "bulletin_path": "bulletins/2026/10/29/daily/",
+    "deadline": "Revised UT Code effective 1 November 2026; scoped managers must enhance policies and procedures as soon as practicable and by 31 October 2027",
+    "document_type": "SFC supervisory circular",
+    "event_family": "sfc-revised-ut-code-implementation-guidance-2026",
+    "id": "item-20261028-sfc-circulars-26ec67",
+    "impact_areas": [
+      "liquidity-risk-management",
+      "product-governance",
+      "investor-protection",
+      "disclosures",
+      "regulatory-reporting"
+    ],
+    "jurisdiction": "HK",
+    "official_published": "2026-10-28",
+    "products": [
+      "investment"
+    ],
+    "publisher": "Securities and Futures Commission",
+    "publisher_id": "securities-and-futures-commission",
+    "publishers": [
+      {
+        "id": "sfc",
+        "name": "Securities and Futures Commission"
+      }
+    ],
+    "source_role": "primary_authority",
+    "source_url": "https://apps.sfc.hk/edistributionWeb/gateway/EN/circular/doc?refNo=26EC67",
+    "status": "current",
+    "summary": "The SFC circular sets enhanced liquidity-risk-management guidance for managers of SFC-authorised open-ended funds, including expectations on liquidity assessment, liquidity-management tools, investor disclosure and reporting when specified tools or measures are activated.",
+    "title": "Supplemental circular to management companies of SFC-authorised funds on liquidity risk management",
+    "topics": [
+      "liquidity-risk-management",
+      "unit-trusts-and-mutual-funds",
+      "investor-protection"
+    ]
+  },
+  {
+    "authority": "Securities and Futures Commission",
+    "authority_label": "supervisory expectation",
+    "bulletin_date": "2026-10-29",
+    "bulletin_path": "bulletins/2026/10/29/daily/",
+    "deadline": "Revised UT Code effective 1 November 2026; specified changes are subject to a 12-month transitional period",
+    "document_type": "SFC guidance announcement",
+    "event_family": "sfc-revised-ut-code-implementation-guidance-2026",
+    "id": "item-20261028-sfc-web-26pr176",
+    "impact_areas": [
+      "product-governance",
+      "liquidity-risk-management",
+      "disclosures",
+      "derivatives-risk-management"
+    ],
+    "jurisdiction": "HK",
+    "official_published": "2026-10-28",
+    "products": [
+      "investment"
+    ],
+    "publisher": "Securities and Futures Commission",
+    "publisher_id": "securities-and-futures-commission",
+    "publishers": [
+      {
+        "id": "sfc",
+        "name": "Securities and Futures Commission"
+      }
+    ],
+    "source_role": "primary_authority",
+    "source_url": "https://apps.sfc.hk/edistributionWeb/gateway/EN/news/doc?refNo=26PR176",
+    "status": "current",
+    "summary": "The SFC announced guidance, FAQs, updated application guides and key facts statement templates to support the revised UT Code, covering derivatives exposure, liquidity risk, money market funds, disclosures and transition arrangements.",
+    "title": "SFC issues guidance to support enhancements to Hong Kong’s retail fund regime",
+    "topics": [
+      "unit-trusts-and-mutual-funds",
+      "retail-funds",
+      "implementation-guidance"
+    ]
+  },
+  {
+    "authority": "Securities and Futures Commission",
     "authority_label": "commercial/risk recommendation",
     "bulletin_date": "2026-10-27",
     "bulletin_path": "bulletins/2026/10/27/daily/",

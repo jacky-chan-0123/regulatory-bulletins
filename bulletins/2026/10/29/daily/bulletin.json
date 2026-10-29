@@ -1,0 +1,93 @@
+{
+  "date": "2026-10-29",
+  "draft_sha256": "8e8545b5138f8afbdd2d374edf86649346f31d79a58257550f4059a87960e27e",
+  "findings": [
+    {
+      "authority": "Securities and Futures Commission",
+      "authority_label": "supervisory expectation",
+      "bulletin_date": "2026-10-29",
+      "deadline": "Revised UT Code effective 1 November 2026; scoped managers must enhance policies and procedures as soon as practicable and by 31 October 2027",
+      "document_type": "SFC supervisory circular",
+      "event_family": "sfc-revised-ut-code-implementation-guidance-2026",
+      "id": "item-20261028-sfc-circulars-26ec67",
+      "impact_areas": [
+        "liquidity-risk-management",
+        "product-governance",
+        "investor-protection",
+        "disclosures",
+        "regulatory-reporting"
+      ],
+      "jurisdiction": "HK",
+      "official_published": "2026-10-28",
+      "products": [
+        "investment"
+      ],
+      "publisher": "Securities and Futures Commission",
+      "publisher_id": "securities-and-futures-commission",
+      "publishers": [
+        {
+          "id": "securities-and-futures-commission",
+          "name": "Securities and Futures Commission"
+        }
+      ],
+      "source_role": "primary_authority",
+      "source_url": "https://apps.sfc.hk/edistributionWeb/gateway/EN/circular/doc?refNo=26EC67",
+      "status": "current",
+      "summary": "The SFC circular sets enhanced liquidity-risk-management guidance for managers of SFC-authorised open-ended funds, including expectations on liquidity assessment, liquidity-management tools, investor disclosure and reporting when specified tools or measures are activated.",
+      "title": "Supplemental circular to management companies of SFC-authorised funds on liquidity risk management",
+      "topics": [
+        "liquidity-risk-management",
+        "unit-trusts-and-mutual-funds",
+        "investor-protection"
+      ]
+    },
+    {
+      "authority": "Securities and Futures Commission",
+      "authority_label": "supervisory expectation",
+      "bulletin_date": "2026-10-29",
+      "deadline": "Revised UT Code effective 1 November 2026; specified changes are subject to a 12-month transitional period",
+      "document_type": "SFC guidance announcement",
+      "event_family": "sfc-revised-ut-code-implementation-guidance-2026",
+      "id": "item-20261028-sfc-web-26pr176",
+      "impact_areas": [
+        "product-governance",
+        "liquidity-risk-management",
+        "disclosures",
+        "derivatives-risk-management"
+      ],
+      "jurisdiction": "HK",
+      "official_published": "2026-10-28",
+      "products": [
+        "investment"
+      ],
+      "publisher": "Securities and Futures Commission",
+      "publisher_id": "securities-and-futures-commission",
+      "publishers": [
+        {
+          "id": "securities-and-futures-commission",
+          "name": "Securities and Futures Commission"
+        }
+      ],
+      "source_role": "primary_authority",
+      "source_url": "https://apps.sfc.hk/edistributionWeb/gateway/EN/news/doc?refNo=26PR176",
+      "status": "current",
+      "summary": "The SFC announced guidance, FAQs, updated application guides and key facts statement templates to support the revised UT Code, covering derivatives exposure, liquidity risk, money market funds, disclosures and transition arrangements.",
+      "title": "SFC issues guidance to support enhancements to Hong Kong’s retail fund regime",
+      "topics": [
+        "unit-trusts-and-mutual-funds",
+        "retail-funds",
+        "implementation-guidance"
+      ]
+    }
+  ],
+  "item_ids": [
+    "item-20261028-sfc-circulars-26ec67",
+    "item-20261028-sfc-web-26pr176"
+  ],
+  "mode": "daily",
+  "path": "bulletins/2026/10/29/daily/",
+  "rendered_html": "<b><u>📔 Regulatory Bulletin — 29 October 2026 (Daily)</u></b>\n\n<b><u>Executive Summary</u></b>\n\n  • 🔴 The SFC expects managers of SFC-authorised open-ended funds to enhance liquidity-risk-management policies and procedures by 31 October 2027. Confirm entities and funds in scope, then sequence control and disclosure changes.\n  • 🟡 The revised Code on Unit Trusts and Mutual Funds takes effect on 1 November 2026. The SFC’s accompanying guidance points to concurrent liquidity, derivatives, disclosure and transition work for affected retail funds.\n\n<b><u>Hong Kong</u></b>\n\n\n\n<b>🔴 Supplemental circular to management companies of SFC-authorised funds on liquidity risk management 🇭🇰</b>\n\n<b>Item ID:</b> item-20261028-sfc-circulars-26ec67\n<b>⏰ Deadline:</b> Revised UT Code effective 1 November 2026; scoped managers must enhance policies and procedures as soon as practicable and by 31 October 2027\n<b>Products:</b> Retail funds, liquidity management, fund distribution\n\nThe SFC’s supplemental circular applies to managers of SFC-authorised open-ended funds and sets enhanced liquidity-risk-management guidance aligned to the revised UT Code. It expects managers to assess asset and portfolio liquidity against redemption terms, adopt and use appropriate liquidity-management tools and measures, and support these with systems, procedures and controls. Managers licensed by or registered with the SFC should enhance their policies and procedures as soon as practicable and no later than 31 October 2027. This is a supervisory expectation for scoped fund managers, rather than a universal banking requirement.\n\n<b>Actions:</b> By the next governance cycle, confirm whether relevant entities manage, act as trustee for, or distribute scoped funds and approve the applicability decision. Then map fund policies, liquidity-management-tool readiness, stress tests, disclosures and SFC-reporting playbooks to the source-backed transition date.\n\nSource: <a href=\"https://apps.sfc.hk/edistributionWeb/gateway/EN/circular/doc?refNo=26EC67\">Supplemental circular to management companies of SFC-authorised funds on liquidity risk management</a>\n\n\n\n<b>🟡 SFC issues guidance to support enhancements to Hong Kong’s retail fund regime 🇭🇰</b>\n\n<b>Item ID:</b> item-20261028-sfc-web-26pr176\n<b>⏰ Deadline:</b> Revised UT Code effective 1 November 2026; specified changes are subject to a 12-month transitional period\n<b>Products:</b> Retail funds, fund distribution, disclosures\n\nThe SFC announced a guidance package supporting the revised UT Code, which takes effect on 1 November 2026. The package covers circulars, FAQs and updated application guides on derivatives Value-at-Risk, liquidity risk, money-market-fund investment and disclosure, and transitional arrangements. It signals a concurrent applicability and implementation review for entities that manage, distribute, administer or provide custody operations for SFC-authorised retail funds. The announcement sets out regulatory expectations and clarifies some existing practices, but is not itself the operative rule for every named topic or entity.\n\nSource: <a href=\"https://apps.sfc.hk/edistributionWeb/gateway/EN/news/doc?refNo=26PR176\">SFC issues guidance to support enhancements to Hong Kong’s retail fund regime</a>\n\n<b><u>Mainland/GBA</u></b>\n\nNo validated Mainland/GBA regulatory items in this run.\n\n<b><u>SG/UK/GLOBAL Benchmark</u></b>\n\n<i>Comparable overseas developments and commercial/control benchmarks. They do not establish Hong Kong requirements.</i>\n\nNo validated benchmark items in this run.\n\n<b><u>Watch List</u></b>\n\nMonitor the SFC’s implementation and transitional guidance to determine which documents and conditions apply to each existing or new SFC-authorised fund. Align the fund inventory with the revised UT Code transition provisions.\n\n<b><u>Coverage</u></b>\n\n  • customs-tdo — skipped (0): out-of-cadence for daily mode\n  • consumer-council — skipped (0): out-of-cadence for daily mode\n  • imf-wbg-international-policy — skipped (0): out-of-cadence for daily mode\n  • imf-wbg-international-policy-search — skipped (0): out-of-cadence for daily mode\n  • interpol-financial-cyber — skipped (0): out-of-cadence for daily mode\n  • hkcert — skipped (0): out-of-cadence for daily mode\n  • sme-schemes — skipped (0): out-of-cadence for daily mode\n  • gba-official — skipped (0): out-of-cadence for daily mode\n  • gba-mainland-sweep — skipped (0): out-of-cadence for daily mode\n  • industry-bodies — skipped (0): out-of-cadence for daily mode\n  • lawfirm-big4-pages — skipped (0): out-of-cadence for daily mode\n  • lawfirm-big4-sweep — skipped (0): out-of-cadence for daily mode\n  • fca-benchmark — skipped (0): out-of-cadence for daily mode\n  • boe-benchmark — skipped (0): out-of-cadence for daily mode\n  • scam-fraud-cluster — disabled (0): disabled by configuration\n  • regulation-asia — disabled (0): disabled at user request\n  • daily-exploratory-search — partial (0): Tavily plan completed; no admissible in-window candidate\n  • hkma-circulars — empty (0): verified no 2026-10-28 publication\n  • hkma-guidelines — empty (0): verified no 2026-10-28 publication\n  • hkma-spm — empty (0): verified no 2026-10-28 publication\n  • hkma-consultations — empty (0): verified no 2026-10-28 publication\n  • hkma-press — empty (0): verified no 2026-10-28 publication\n  • hkma-brdr — empty (0): verified no 2026-10-28 publication\n  • sfc-circulars — ok (2): verified official circular API; two collected, one included\n  • sfc-aml-circulars — empty (0): verified no AML circular publication\n  • sfc-consultations — empty (0): verified no consultation or conclusion publication\n  • sfc-web — ok (2): verified official news and circular APIs; two collected, one included\n  • pcpd — partial (0): JavaScript challenge and access restriction prevented substantive coverage\n  • hk-enforcement-actions — partial (0): SFC enforcement listing unresolved\n  • global-material-incidents-enforcement — empty (0): verified no qualifying FCA or OCC event\n  • mas-regulatory-announcements — partial (0): detail requests returned 404, leaving material evidence unresolved\n  • fstb — empty (0): verified no 2026-10-28 publication\n  • legco — partial (0): TLS verification and browser fallback unavailable\n  • hk-banks-news — empty (0): verified no qualifying publication\n  • lexology — empty (0): verified no qualifying candidate",
+  "rendered_sha256": "dffcc677f21a14401c6a430a1358d81afb32af449f77e13015bca29aa285af3b",
+  "schema_version": 2,
+  "title": "Regulatory Bulletin — 29 October 2026 (Daily)"
+}

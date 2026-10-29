@@ -1,5 +1,18 @@
 [
   {
+    "date": "2026-10-29",
+    "draft_sha256": "8e8545b5138f8afbdd2d374edf86649346f31d79a58257550f4059a87960e27e",
+    "item_ids": [
+      "item-20261028-sfc-circulars-26ec67",
+      "item-20261028-sfc-web-26pr176"
+    ],
+    "mode": "daily",
+    "path": "bulletins/2026/10/29/daily/",
+    "rendered_sha256": "dffcc677f21a14401c6a430a1358d81afb32af449f77e13015bca29aa285af3b",
+    "schema_version": 2,
+    "title": "Regulatory Bulletin — 29 October 2026 (Daily)"
+  },
+  {
     "date": "2026-10-27",
     "draft_sha256": "d2ab593c7c179c8836f4d0606915ea53919f3e472e85695cf750cc0388315517",
     "item_ids": [
