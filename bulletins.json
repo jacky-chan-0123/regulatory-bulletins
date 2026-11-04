@@ -1,5 +1,17 @@
 [
   {
+    "date": "2026-11-04",
+    "draft_sha256": "8950891e7a71c8e9c9bf8f1977be87b8a38ddc16969c33a0f77c3343c5fd7da1",
+    "item_ids": [
+      "item-20261103-daily-exploratory-search-mas-ffi"
+    ],
+    "mode": "daily",
+    "path": "bulletins/2026/11/04/daily/",
+    "rendered_sha256": "a2e5be0e43b3546f202716e569e9098674c48c146d355b8be202a05982b7fdcf",
+    "schema_version": 2,
+    "title": "Regulatory Bulletin — 4 November 2026 (Daily)"
+  },
+  {
     "date": "2026-10-29",
     "draft_sha256": "8e8545b5138f8afbdd2d374edf86649346f31d79a58257550f4059a87960e27e",
     "item_ids": [

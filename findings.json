@@ -1,5 +1,44 @@
 [
   {
+    "authority": "Monetary Authority of Singapore",
+    "authority_label": "industry good practice",
+    "bulletin_date": "2026-11-04",
+    "bulletin_path": "bulletins/2026/11/04/daily/",
+    "deadline": "No source deadline stated",
+    "document_type": "media release",
+    "event_family": "Future of Finance Institute AI in finance",
+    "id": "item-20261103-daily-exploratory-search-mas-ffi",
+    "impact_areas": [
+      "AI governance",
+      "Model risk",
+      "Third-party risk"
+    ],
+    "jurisdiction": "Singapore",
+    "official_published": "2026-11-03",
+    "products": [
+      "Digital banking",
+      "AI-enabled services"
+    ],
+    "publisher": "Monetary Authority of Singapore",
+    "publisher_id": "monetary-authority-of-singapore",
+    "publishers": [
+      {
+        "id": "monetary-authority-of-singapore",
+        "name": "Monetary Authority of Singapore"
+      }
+    ],
+    "source_role": "primary_authority",
+    "source_url": "https://www.mas.gov.sg/news/media-releases/2026/future-of-finance-institute-commences-operations-starting-with-ai-in-finance",
+    "status": "current",
+    "summary": "MAS announced that Singapore's Future of Finance Institute has commenced operations. Its initial AI work includes good practices and practical resources for AI use-case risk assessment, testing and assurance, and third-party AI; the release describes an industry initiative rather than a new binding instrument.",
+    "title": "Future of Finance Institute Commences Operations, Starting with AI in Finance",
+    "topics": [
+      "AI governance",
+      "model risk",
+      "third-party risk"
+    ]
+  },
+  {
     "authority": "Securities and Futures Commission",
     "authority_label": "supervisory expectation",
     "bulletin_date": "2026-10-29",

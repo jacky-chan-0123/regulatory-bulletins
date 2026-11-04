@@ -1,0 +1,53 @@
+{
+  "date": "2026-11-04",
+  "draft_sha256": "8950891e7a71c8e9c9bf8f1977be87b8a38ddc16969c33a0f77c3343c5fd7da1",
+  "findings": [
+    {
+      "authority": "Monetary Authority of Singapore",
+      "authority_label": "industry good practice",
+      "bulletin_date": "2026-11-04",
+      "deadline": "No source deadline stated",
+      "document_type": "media release",
+      "event_family": "Future of Finance Institute AI in finance",
+      "id": "item-20261103-daily-exploratory-search-mas-ffi",
+      "impact_areas": [
+        "AI governance",
+        "Model risk",
+        "Third-party risk"
+      ],
+      "jurisdiction": "Singapore",
+      "official_published": "2026-11-03",
+      "products": [
+        "Digital banking",
+        "AI-enabled services"
+      ],
+      "publisher": "Monetary Authority of Singapore",
+      "publisher_id": "monetary-authority-of-singapore",
+      "publishers": [
+        {
+          "id": "monetary-authority-of-singapore",
+          "name": "Monetary Authority of Singapore"
+        }
+      ],
+      "source_role": "primary_authority",
+      "source_url": "https://www.mas.gov.sg/news/media-releases/2026/future-of-finance-institute-commences-operations-starting-with-ai-in-finance",
+      "status": "current",
+      "summary": "MAS announced that Singapore's Future of Finance Institute has commenced operations. Its initial AI work includes good practices and practical resources for AI use-case risk assessment, testing and assurance, and third-party AI; the release describes an industry initiative rather than a new binding instrument.",
+      "title": "Future of Finance Institute Commences Operations, Starting with AI in Finance",
+      "topics": [
+        "AI governance",
+        "model risk",
+        "third-party risk"
+      ]
+    }
+  ],
+  "item_ids": [
+    "item-20261103-daily-exploratory-search-mas-ffi"
+  ],
+  "mode": "daily",
+  "path": "bulletins/2026/11/04/daily/",
+  "rendered_html": "<b><u>📔 Regulatory Bulletin — 4 November 2026 (Daily)</u></b>\n\n<b><u>Executive Summary</u></b>\n\n  • 🟡 <b>Singapore AI governance benchmark:</b> MAS announced that the Future of Finance Institute has begun operations, with initial work on AI use, including agentic AI, testing, assurance and third-party AI. The initiative is not a new binding requirement, but its future tools and good practices may inform regional governance and vendor-risk monitoring where Singapore operations or shared AI services are material.\n\n<b><u>SG/UK/GLOBAL Benchmark</u></b>\n\n<i>Comparable overseas developments and commercial/control benchmarks. They do not establish Hong Kong requirements.</i>\n\n\n<b>🟡 Future of Finance Institute Commences Operations, Starting with AI in Finance 🇸🇬</b>\n<b>Item ID:</b> item-20261103-daily-exploratory-search-mas-ffi\n<b>⏰ Deadline:</b> No source deadline stated\n<b>Products:</b> Digital banking, AI-enabled services\n\nMAS announced on 3 November that Singapore’s public-private Future of Finance Institute (FFI) has commenced operations. Its initial work on AI in finance comprises PathFin.ai, BuildFin.ai and SafeFin.ai, including experience sharing and good practices for deploying agentic AI. MAS says the work will cover practical resources for its AI Risk Management Guidelines, including AI use-case risk assessment, testing and assurance, and third-party AI. This is an industry initiative rather than a new binding instrument or Hong Kong requirement, but may serve as a regional benchmark for AI governance and provider oversight where Singapore operations or shared AI services are material.\n\nSource: <a href=\"https://www.mas.gov.sg/news/media-releases/2026/future-of-finance-institute-commences-operations-starting-with-ai-in-finance\">Future of Finance Institute Commences Operations, Starting with AI in Finance</a>\n\n<b><u>Watch List</u></b>\n\n  • Monitor future FFI materials for the scope, status and practical content of its AI guidance, tools and standards.\n\n<b><u>Coverage</u></b>\n\n  • customs-tdo — skipped (0): out-of-cadence for daily mode\n  • consumer-council — skipped (0): out-of-cadence for daily mode\n  • imf-wbg-international-policy — skipped (0): out-of-cadence for daily mode\n  • imf-wbg-international-policy-search — skipped (0): out-of-cadence for daily mode\n  • interpol-financial-cyber — skipped (0): out-of-cadence for daily mode\n  • hkcert — skipped (0): out-of-cadence for daily mode\n  • sme-schemes — skipped (0): out-of-cadence for daily mode\n  • gba-official — skipped (0): out-of-cadence for daily mode\n  • gba-mainland-sweep — skipped (0): out-of-cadence for daily mode\n  • industry-bodies — skipped (0): out-of-cadence for daily mode\n  • lawfirm-big4-pages — skipped (0): out-of-cadence for daily mode\n  • lawfirm-big4-sweep — skipped (0): out-of-cadence for daily mode\n  • fca-benchmark — skipped (0): out-of-cadence for daily mode\n  • boe-benchmark — skipped (0): out-of-cadence for daily mode\n  • scam-fraud-cluster — disabled (0): disabled 2026-07-22 — CyberDefender and Scameter return HTTP 403 and remain blocked by Cloudflare in browser mode; search fallback found no current items. JFIU is reachable but its latest listed activity is from 2025.\n  • regulation-asia — disabled (0): Disabled at user request: the latest-news page is subscription-gated, making extraction unreliable, and recent results yielded no scoped HK/CN-GBA/SG/UK banking items.\n  • daily-exploratory-search — ok (1): Tavily 7/7 queries succeeded; reviewed 35 discovery leads and admitted one canonical MAS publication dated 2026-11-03.\n  • hkma-circulars — empty (0): Verified TLS RSS feed had no official publication dated 2026-11-03.\n  • hkma-guidelines — empty (0): Verified TLS RSS feed had no official publication dated 2026-11-03.\n  • hkma-spm — empty (0): Verified TLS RSS feed had no official publication dated 2026-11-03.\n  • hkma-consultations — empty (0): Verified TLS RSS feed had no official publication dated 2026-11-03.\n  • hkma-press — ok (2): Verified TLS RSS feed had two official publications dated 2026-11-03; both canonical pages and bounded HKMA source chains were recovered.\n  • hkma-brdr — empty (0): Verified TLS BRDR main listing was substantive; newest listed document is dated 2026-11-02, with no 2026-11-03 document.\n  • sfc-circulars — empty (0): Verified TLS e-Distribution listing shell and official circular POST API; newest circular is dated 2026-10-30, with no 2026-11-03 publication.\n  • sfc-aml-circulars — empty (0): Verified TLS AML listing shell and official filtered circular POST API; no AML/CFT circular was published on 2026-11-03.\n  • sfc-consultations — empty (0): Verified TLS configured official consultation POST API; no consultation paper or conclusions publication is dated 2026-11-03.\n  • sfc-web — empty (0): Verified TLS Regulatory Update and virtual-asset pages plus official news, product-authorisation and suitability API listings; no configured sub-source has a 2026-11-03 publication.\n  • pcpd — partial (0): All three configured PCPD listings returned EO_Bot_Ssid JavaScript shells to the standard profile; the allowlisted verified-TLS rendered-browser fallback yielded access-restricted content or HTTP 567, so no substantive run-window coverage was recovered.\n  • hk-enforcement-actions — partial (0): HKMA disciplinary-actions index was substantive but newest action is 22 Jul 2025; SFC Enforcement News returned only a JavaScript shell, so its 2026-11-03 coverage could not be verified.\n  • global-material-incidents-enforcement — empty (0): Verified TLS FCA and OCC listings were substantive; FCA&#x27;s sole 2026-11-03 entry was a routine unauthorized-firm warning and OCC&#x27;s newest linked issuance is 22 Oct 2026, with no exceptional in-window bank-control event.\n  • mas-regulatory-announcements — partial (0): Verified TLS MAS fallback recovered all configured MAS listings; SGPC listed the 2026-11-03 FFI release, already collected from the fixed exploratory result, but the configured SGPC Detail request returned 404, preventing complete SGPC detail/attachment verification.\n  • fstb — empty (0): All four configured FSTB listings were substantive under verified TLS; newest dated press item is 30 Oct 2026 and no consultation, bill/resolution or Legislative Council brief is dated 2026-11-03.\n  • legco — partial (0): Both configured LegCo listings failed verified TLS certificate-chain validation; the allowlisted rendered-browser fallback was unavailable because Playwright is not installed, so no verifiable run-window bill progress was recovered.\n  • hk-banks-news — empty (0): Verified TLS listings and the Hang Seng current-year XML had no 2026-11-03 publication; Standard Chartered&#x27;s listing date was resolved against its canonical PDF as 2 Nov, and DBS&#x27;s 3 Nov Singapore senior-channel promotion did not meet materiality.\n  • lexology — partial (0): Verified TLS popular listing was substantive but provided only a listing last-updated timestamp, not article publication dates. The potentially relevant UK/EU operational-resilience commentary link returned verified-TLS HTTP 403 and the verified browser encountered a Cloudflare challenge; its canonical publisher page/date and primary authority evidence could not be recovered.",
+  "rendered_sha256": "a2e5be0e43b3546f202716e569e9098674c48c146d355b8be202a05982b7fdcf",
+  "schema_version": 2,
+  "title": "Regulatory Bulletin — 4 November 2026 (Daily)"
+}
