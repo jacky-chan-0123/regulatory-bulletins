@@ -1,5 +1,88 @@
 [
   {
+    "authority": "Government of the Hong Kong Special Administrative Region",
+    "authority_label": "open interpretation",
+    "bulletin_date": "2026-11-05",
+    "bulletin_path": "bulletins/2026/11/05/daily/",
+    "deadline": "CARF information collection in 2027; CARF exchanges from 2028; amended CRS takes effect in 2028 and exchanges start in 2029",
+    "document_type": "government announcement on legislation passed by the Legislative Council",
+    "event_family": "Hong Kong CARF and amended CRS implementation",
+    "id": "item-20261104-daily-exploratory-search-36149d91eb",
+    "impact_areas": [
+      "tax-reporting",
+      "customer-due-diligence",
+      "data-governance"
+    ],
+    "jurisdiction": "HK",
+    "official_published": "2026-11-04",
+    "products": [
+      "digital",
+      "deposit",
+      "investment"
+    ],
+    "publisher": "Government of the Hong Kong Special Administrative Region",
+    "publisher_id": "hong-kong-government",
+    "publishers": [
+      {
+        "id": "hong-kong-government",
+        "name": "Government of the Hong Kong Special Administrative Region"
+      }
+    ],
+    "source_role": "government_or_court",
+    "source_url": "https://www.info.gov.hk/gia/general/202611/04/P2026110400310.htm",
+    "status": "current",
+    "summary": "The Government announced that the Legislative Council passed the Bill to implement OECD CARF and amended CRS. Relevant service providers will collect CARF-specified information in 2027 for IRD exchanges from 2028; amended CRS takes effect in 2028 and exchanges begin in 2029. IRD will issue guidance and provide technical support.",
+    "title": "Government welcomes passage of Inland Revenue (Amendment) (Crypto-Asset Reporting Framework and Amended Common Reporting Standard) Bill 2026",
+    "topics": [
+      "crypto-asset-reporting",
+      "common-reporting-standard",
+      "tax-transparency",
+      "data-governance"
+    ]
+  },
+  {
+    "authority": "Government of the Hong Kong Special Administrative Region",
+    "authority_label": "open interpretation",
+    "bulletin_date": "2026-11-05",
+    "bulletin_path": "bulletins/2026/11/05/daily/",
+    "deadline": "Government intends to introduce a Bill by end-2026; no commencement or compliance date stated",
+    "document_type": "Legislative Council written reply",
+    "event_family": "Hong Kong digital-asset policy and virtual-asset service licensing expansion",
+    "id": "item-20261104-fstb-ec4be02ffb",
+    "impact_areas": [
+      "AML-CFT",
+      "licensing-perimeter",
+      "tokenised-products"
+    ],
+    "jurisdiction": "HK",
+    "official_published": "2026-11-04",
+    "products": [
+      "digital",
+      "investment",
+      "payment"
+    ],
+    "publisher": "Government of the Hong Kong Special Administrative Region",
+    "publisher_id": "hong-kong-government",
+    "publishers": [
+      {
+        "id": "hong-kong-government",
+        "name": "Government of the Hong Kong Special Administrative Region"
+      }
+    ],
+    "source_role": "government_or_court",
+    "source_url": "https://www.info.gov.hk/gia/general/202611/04/P2026110400341.htm",
+    "status": "current",
+    "summary": "In a Legislative Council reply, the Government said it and the SFC will introduce a Bill by end-2026 to extend the virtual-asset regime to dealing, advisory, management and custody. FSTB and HKMA are advancing a legislative review on wider distributed-ledger-technology use in fixed income and digital assets. The reply is a policy statement and future legislative intention, not an enacted rule.",
+    "title": "LCQ1: Policy on the development of digital assets",
+    "topics": [
+      "digital-assets",
+      "virtual-asset-services",
+      "licensing",
+      "aml-cft",
+      "tokenisation"
+    ]
+  },
+  {
     "authority": "Monetary Authority of Singapore",
     "authority_label": "industry good practice",
     "bulletin_date": "2026-11-04",

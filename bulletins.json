@@ -1,5 +1,18 @@
 [
   {
+    "date": "2026-11-05",
+    "draft_sha256": "45f1fb0af39d767204a77a11e4f97b0ca28f264c42a59d4f76d6a456565995c8",
+    "item_ids": [
+      "item-20261104-daily-exploratory-search-36149d91eb",
+      "item-20261104-fstb-ec4be02ffb"
+    ],
+    "mode": "daily",
+    "path": "bulletins/2026/11/05/daily/",
+    "rendered_sha256": "cf585be59b874540f89eb7a7ce7bce81d41a3b0eea0024b5aca055b992720302",
+    "schema_version": 2,
+    "title": "Regulatory Bulletin — 5 November 2026 (Daily)"
+  },
+  {
     "date": "2026-11-04",
     "draft_sha256": "8950891e7a71c8e9c9bf8f1977be87b8a38ddc16969c33a0f77c3343c5fd7da1",
     "item_ids": [

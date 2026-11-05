@@ -1,0 +1,97 @@
+{
+  "date": "2026-11-05",
+  "draft_sha256": "45f1fb0af39d767204a77a11e4f97b0ca28f264c42a59d4f76d6a456565995c8",
+  "findings": [
+    {
+      "authority": "Government of the Hong Kong Special Administrative Region",
+      "authority_label": "open interpretation",
+      "bulletin_date": "2026-11-05",
+      "deadline": "CARF information collection in 2027; CARF exchanges from 2028; amended CRS takes effect in 2028 and exchanges start in 2029",
+      "document_type": "government announcement on legislation passed by the Legislative Council",
+      "event_family": "Hong Kong CARF and amended CRS implementation",
+      "id": "item-20261104-daily-exploratory-search-36149d91eb",
+      "impact_areas": [
+        "tax-reporting",
+        "customer-due-diligence",
+        "data-governance"
+      ],
+      "jurisdiction": "HK",
+      "official_published": "2026-11-04",
+      "products": [
+        "digital",
+        "deposit",
+        "investment"
+      ],
+      "publisher": "Government of the Hong Kong Special Administrative Region",
+      "publisher_id": "hong-kong-government",
+      "publishers": [
+        {
+          "id": "hong-kong-government",
+          "name": "Government of the Hong Kong Special Administrative Region"
+        }
+      ],
+      "source_role": "government_or_court",
+      "source_url": "https://www.info.gov.hk/gia/general/202611/04/P2026110400310.htm",
+      "status": "current",
+      "summary": "The Government announced that the Legislative Council passed the Bill to implement OECD CARF and amended CRS. Relevant service providers will collect CARF-specified information in 2027 for IRD exchanges from 2028; amended CRS takes effect in 2028 and exchanges begin in 2029. IRD will issue guidance and provide technical support.",
+      "title": "Government welcomes passage of Inland Revenue (Amendment) (Crypto-Asset Reporting Framework and Amended Common Reporting Standard) Bill 2026",
+      "topics": [
+        "crypto-asset-reporting",
+        "common-reporting-standard",
+        "tax-transparency",
+        "data-governance"
+      ]
+    },
+    {
+      "authority": "Government of the Hong Kong Special Administrative Region",
+      "authority_label": "open interpretation",
+      "bulletin_date": "2026-11-05",
+      "deadline": "Government intends to introduce a Bill by end-2026; no commencement or compliance date stated",
+      "document_type": "Legislative Council written reply",
+      "event_family": "Hong Kong digital-asset policy and virtual-asset service licensing expansion",
+      "id": "item-20261104-fstb-ec4be02ffb",
+      "impact_areas": [
+        "AML-CFT",
+        "licensing-perimeter",
+        "tokenised-products"
+      ],
+      "jurisdiction": "HK",
+      "official_published": "2026-11-04",
+      "products": [
+        "digital",
+        "investment",
+        "payment"
+      ],
+      "publisher": "Government of the Hong Kong Special Administrative Region",
+      "publisher_id": "hong-kong-government",
+      "publishers": [
+        {
+          "id": "hong-kong-government",
+          "name": "Government of the Hong Kong Special Administrative Region"
+        }
+      ],
+      "source_role": "government_or_court",
+      "source_url": "https://www.info.gov.hk/gia/general/202611/04/P2026110400341.htm",
+      "status": "current",
+      "summary": "In a Legislative Council reply, the Government said it and the SFC will introduce a Bill by end-2026 to extend the virtual-asset regime to dealing, advisory, management and custody. FSTB and HKMA are advancing a legislative review on wider distributed-ledger-technology use in fixed income and digital assets. The reply is a policy statement and future legislative intention, not an enacted rule.",
+      "title": "LCQ1: Policy on the development of digital assets",
+      "topics": [
+        "digital-assets",
+        "virtual-asset-services",
+        "licensing",
+        "aml-cft",
+        "tokenisation"
+      ]
+    }
+  ],
+  "item_ids": [
+    "item-20261104-daily-exploratory-search-36149d91eb",
+    "item-20261104-fstb-ec4be02ffb"
+  ],
+  "mode": "daily",
+  "path": "bulletins/2026/11/05/daily/",
+  "rendered_html": "<b><u>📔 Regulatory Bulletin — 5 November 2026 (Daily)</u></b>\n\n<b><u>Executive Summary</u></b>\n  • 🔴 Hong Kong passed the CARF and amended CRS Bill: relevant service providers are to collect CARF information in 2027, ahead of reciprocal exchanges from 2028; affected firms should establish scope, data and ownership decisions while awaiting IRD guidance.\n  • 🟡 The Government signals a Bill by end-2026 to extend the virtual-asset regime to dealing, advisory, management and custody. This is policy intent, not a current obligation, but supports early perimeter and service-inventory preparation.\n\n<b><u>Hong Kong</u></b>\n\n\n<b>🔴 Government welcomes passage of Crypto-Asset Reporting Framework and amended Common Reporting Standard Bill 🇭🇰</b>\n<b>Item ID:</b> item-20261104-daily-exploratory-search-36149d91eb\n<b>⏰ Deadline:</b> CARF information collection in 2027; exchanges from 2028; amended CRS takes effect in 2028 and exchanges start in 2029\n<b>Products:</b> Digital assets, deposits, investments\n\nThe Government announced that the Legislative Council passed the Bill to implement the OECD Crypto-Asset Reporting Framework (CARF) and amended Common Reporting Standard (CRS). It states that relevant service providers will collect CARF-specified information in 2027 for Inland Revenue Department exchanges with partner jurisdictions from 2028; amended CRS takes effect in 2028, with exchanges from 2029. The announcement says the exchanges will be reciprocal and subject to data confidentiality and security, and that the IRD will issue guidance and provide technical support. The announcement does not set out covered providers or accounts, exemptions, reporting format, due-diligence rules or commencement mechanics, so applicability should remain subject to enacted text and IRD guidance.\n\n<b>Actions:</b> In the next 30 days, Tax Reporting and Compliance should assign accountability, document an applicability decision, and inventory relevant entities, products and data. Then map CRS and crypto-asset data lineage, vendor dependencies and customer communications, with second-line challenge, before designing configuration or testing against operative requirements and IRD guidance.\n\nSource: <a href=\"https://www.info.gov.hk/gia/general/202611/04/P2026110400310.htm\">Government welcomes passage of Inland Revenue (Amendment) (Crypto-Asset Reporting Framework and Amended Common Reporting Standard) Bill 2026</a>\n\n\n<b>🟡 Policy on the development of digital assets 🇭🇰</b>\n<b>Item ID:</b> item-20261104-fstb-ec4be02ffb\n<b>⏰ Deadline:</b> Government intends to introduce a Bill by end-2026; no commencement or compliance date stated\n<b>Products:</b> Digital assets, investments, payments\n\nIn a Legislative Council reply, the Government said it and the Securities and Futures Commission will introduce a Bill by end-2026 to amend the Anti-Money Laundering and Counter-Terrorist Financing Ordinance and extend the virtual-asset trading-platform regime to dealing, advisory, management and custody services. The reply also says the Financial Services and the Treasury Bureau and HKMA are advancing a legislative review on wider distributed-ledger-technology use in fixed income and digital assets. It describes a risk-based, technology-neutral approach, with standards aligned with and tailored from traditional financial-services and securities standards. This is a policy statement and future legislative intention, not a Bill, enacted rule, licence condition or present obligation; the legal perimeter, transition, commencement and authorised-institution implications are not stated.\n\nSource: <a href=\"https://www.info.gov.hk/gia/general/202611/04/P2026110400341.htm\">LCQ1: Policy on the development of digital assets</a>\n\n<b><u>Mainland/GBA</u></b>\n\nNo validated current-run items.\n\n<b><u>SG/UK/GLOBAL Benchmark</u></b>\n<i>Comparable overseas developments and commercial/control benchmarks. They do not establish Hong Kong requirements.</i>\n\nNo validated current-run benchmark items.\n\n<b><u>Watch List</u></b>\n\n  • Monitor IRD guidance and commencement materials for the CARF and amended CRS implementation.\n  • Monitor the proposed virtual-asset Bill and the FSTB/HKMA distributed-ledger-technology legislative-review outputs for scope, transition and commencement detail.\n\n<b><u>Coverage</u></b>\n  • customs-tdo — skipped (0): out-of-cadence for daily mode\n  • consumer-council — skipped (0): out-of-cadence for daily mode\n  • imf-wbg-international-policy — skipped (0): out-of-cadence for daily mode\n  • imf-wbg-international-policy-search — skipped (0): out-of-cadence for daily mode\n  • interpol-financial-cyber — skipped (0): out-of-cadence for daily mode\n  • hkcert — skipped (0): out-of-cadence for daily mode\n  • sme-schemes — skipped (0): out-of-cadence for daily mode\n  • gba-official — skipped (0): out-of-cadence for daily mode\n  • gba-mainland-sweep — skipped (0): out-of-cadence for daily mode\n  • industry-bodies — skipped (0): out-of-cadence for daily mode\n  • lawfirm-big4-pages — skipped (0): out-of-cadence for daily mode\n  • lawfirm-big4-sweep — skipped (0): out-of-cadence for daily mode\n  • fca-benchmark — skipped (0): out-of-cadence for daily mode\n  • boe-benchmark — skipped (0): out-of-cadence for daily mode\n  • scam-fraud-cluster — disabled (0): disabled because configured services remain blocked and fallback found no current items\n  • regulation-asia — disabled (0): disabled at user request because extraction is unreliable\n  • daily-exploratory-search — partial (1): seven Tavily queries completed; one Singapore lead lacked recoverable official primary evidence\n  • hkma-circulars — empty (0): verified TLS RSS feed had no 2026-11-04 publication\n  • hkma-guidelines — empty (0): verified TLS RSS feed had no 2026-11-04 publication\n  • hkma-spm — empty (0): verified TLS RSS feed had no 2026-11-04 publication\n  • hkma-consultations — empty (0): verified TLS RSS feed had no 2026-11-04 publication\n  • hkma-press — ok (1): verified TLS RSS feed yielded one canonical press release and complete source chain\n  • hkma-brdr — empty (0): verified TLS listing had no 2026-11-04 publication\n  • sfc-circulars — empty (0): verified TLS search and listing had no 2026-11-04 publication\n  • sfc-aml-circulars — empty (0): verified TLS search and AML listing had no 2026-11-04 publication\n  • sfc-consultations — empty (0): verified TLS consultation search had no 2026-11-04 publication\n  • sfc-web — ok (0): verified TLS pages had no distinct material development\n  • pcpd — partial (0): standard and allowlisted browser fallbacks could not verify absence\n  • hk-enforcement-actions — partial (0): SFC listing was a JavaScript-required shell, so absence could not be verified\n  • global-material-incidents-enforcement — empty (0): verified FCA and OCC sources had no qualifying event\n  • mas-regulatory-announcements — partial (0): fallbacks lacked substantive category listings, so absence could not be verified\n  • fstb — ok (2): verified FSTB listings yielded two in-window Legislative Council replies\n  • legco — partial (0): TLS verification failed and rendered-browser fallback was unavailable\n  • hk-banks-news — empty (0): verified bank listings identified no 2026-11-04 publication\n  • lexology — partial (0): article dates were unavailable and the plausible article returned HTTP 403",
+  "rendered_sha256": "cf585be59b874540f89eb7a7ce7bce81d41a3b0eea0024b5aca055b992720302",
+  "schema_version": 2,
+  "title": "Regulatory Bulletin — 5 November 2026 (Daily)"
+}
