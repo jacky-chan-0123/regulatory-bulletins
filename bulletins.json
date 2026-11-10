@@ -1,5 +1,17 @@
 [
   {
+    "date": "2026-11-10",
+    "draft_sha256": "261c208dc05cd081f715df47d283bfe52198d8bf4b06c5c83f7411ce387a8da5",
+    "item_ids": [
+      "item-20261109-daily-exploratory-search-b7a6f2ee17-hkscc-amendments-for-uncertificated-securities-market"
+    ],
+    "mode": "daily",
+    "path": "bulletins/2026/11/10/daily/",
+    "rendered_sha256": "59dbb2dd1a2c38be6ace931cd7c93f010f4c78c3e6165dcf47dbd18a86144185",
+    "schema_version": 2,
+    "title": "Regulatory Bulletin — 10 November 2026 (Daily)"
+  },
+  {
     "date": "2026-11-05",
     "draft_sha256": "45f1fb0af39d767204a77a11e4f97b0ca28f264c42a59d4f76d6a456565995c8",
     "item_ids": [

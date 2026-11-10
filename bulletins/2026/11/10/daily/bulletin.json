@@ -1,0 +1,55 @@
+{
+  "date": "2026-11-10",
+  "draft_sha256": "261c208dc05cd081f715df47d283bfe52198d8bf4b06c5c83f7411ce387a8da5",
+  "findings": [
+    {
+      "authority": "Hong Kong Securities Clearing Company Limited (HKSCC)",
+      "authority_label": "required",
+      "bulletin_date": "2026-11-10",
+      "deadline": "16 November 2026",
+      "document_type": "Circular",
+      "event_family": "Hong Kong Uncertificated Securities Market implementation",
+      "id": "item-20261109-daily-exploratory-search-b7a6f2ee17-hkscc-amendments-for-uncertificated-securities-market",
+      "impact_areas": [
+        "Securities settlement",
+        "Market infrastructure",
+        "Operations",
+        "Customer data",
+        "Fees and billing"
+      ],
+      "jurisdiction": "Hong Kong",
+      "official_published": "2026-11-09",
+      "products": [
+        "Investments",
+        "Securities settlement"
+      ],
+      "publisher": "Hong Kong Securities Clearing Company Limited (HKSCC)",
+      "publisher_id": "hkscc",
+      "publishers": [
+        {
+          "id": "hkscc",
+          "name": "Hong Kong Securities Clearing Company Limited (HKSCC)"
+        }
+      ],
+      "source_role": "official_entity",
+      "source_url": "https://www.hkex.com.hk/-/media/HKEX-Market/Services/Circulars-and-Notices/Participant-and-Members-Circulars/HKSCC/080_26_HKSCC_GR_OP_USM_e.pdf",
+      "status": "current",
+      "summary": "HKSCC states that the SFC approved amendments to its rules, procedures and FINI terms for the Uncertificated Securities Market initiative. The amendments take effect on 16 November 2026 and include defined participant controls for uncertificated securities transfers and ASR-fee arrangements.",
+      "title": "Amendments to HKSCC Rules, Operational Procedures and FINI Terms and Conditions",
+      "topics": [
+        "uncertificated-securities-market",
+        "ccass",
+        "securities-settlement"
+      ]
+    }
+  ],
+  "item_ids": [
+    "item-20261109-daily-exploratory-search-b7a6f2ee17-hkscc-amendments-for-uncertificated-securities-market"
+  ],
+  "mode": "daily",
+  "path": "bulletins/2026/11/10/daily/",
+  "rendered_html": "<b><u>📔 Regulatory Bulletin — 10 November 2026 (Daily)</u></b>\n\n<b><u>Executive Summary</u></b>\n  • 🟡 SFC-approved HKSCC rule, procedure and FINI-term amendments take effect on 16 November for the Uncertificated Securities Market initiative. CCASS participants with affected roles should confirm applicability and readiness for transfer controls, client-data authorisations, records and ASR-fee settlement.\n\n<b><u>Hong Kong</u></b>\n\n\n<b>🟡 Amendments to HKSCC Rules, Operational Procedures and FINI Terms and Conditions 🇭🇰</b>\n<b>Item ID:</b> item-20261109-daily-exploratory-search-b7a6f2ee17-hkscc-amendments-for-uncertificated-securities-market\n<b>⏰ Deadline:</b> 16 November 2026\n<b>Products:</b> Investments, securities settlement\n\nHKSCC states that the SFC has approved amendments to its General Rules, Operational Procedures and FINI Terms and Conditions to support Hong Kong’s Uncertificated Securities Market initiative and modernise the fee structure. The amendments take effect on 16 November 2026 and apply to the defined HKSCC participant population, rather than establishing an HKMA requirement for all authorised institutions. For participating securities in uncertificated form, only Stamp Authorized Persons may submit USI Transfer Requests; they must complete specified matching and beneficial-interest checks and retain records demonstrating compliance for at least six years. The circular also introduces ASR fees for prescribed securities, payable by participants other than registrar participants, with EPI included among the payment mechanisms.\n\nSource: <a href=\"https://www.hkex.com.hk/-/media/HKEX-Market/Services/Circulars-and-Notices/Participant-and-Members-Circulars/HKSCC/080_26_HKSCC_GR_OP_USM_e.pdf\">Amendments to the General Rules of HKSCC, the HKSCC Operational Procedures and the Terms and Conditions of FINI</a>\n\n<b><u>Mainland/GBA</u></b>\n\nNo validated current-run items.\n\n<b><u>SG/UK/GLOBAL Benchmark</u></b>\n<i>Comparable overseas developments and commercial/control benchmarks. They do not establish Hong Kong requirements.</i>\n\nNo validated current-run benchmark items.\n\n<b><u>Watch List</u></b>\n\n  • Confirm whether any entity or outsourced provider holds an affected HKSCC role and identify affected securities and workflows before the effective date.\n  • Monitor HKSCC implementation materials for operational detail on the Uncertificated Securities Market changes.\n\n<b><u>Coverage</u></b>\n\n  • customs-tdo — skipped (0): out-of-cadence for daily mode\n  • consumer-council — skipped (0): out-of-cadence for daily mode\n  • imf-wbg-international-policy — skipped (0): out-of-cadence for daily mode\n  • imf-wbg-international-policy-search — skipped (0): out-of-cadence for daily mode\n  • interpol-financial-cyber — skipped (0): out-of-cadence for daily mode\n  • hkcert — skipped (0): out-of-cadence for daily mode\n  • sme-schemes — skipped (0): out-of-cadence for daily mode\n  • gba-official — skipped (0): out-of-cadence for daily mode\n  • gba-mainland-sweep — skipped (0): out-of-cadence for daily mode\n  • industry-bodies — skipped (0): out-of-cadence for daily mode\n  • lawfirm-big4-pages — skipped (0): out-of-cadence for daily mode\n  • lawfirm-big4-sweep — skipped (0): out-of-cadence for daily mode\n  • fca-benchmark — skipped (0): out-of-cadence for daily mode\n  • boe-benchmark — skipped (0): out-of-cadence for daily mode\n  • scam-fraud-cluster — disabled (0): disabled 2026-07-22; configured services remain Cloudflare-blocked and fallback found no current items\n  • regulation-asia — disabled (0): disabled at user request because extraction is unreliable and recent results had no scoped items\n  • daily-exploratory-search — ok (1): seven Tavily query outcomes succeeded; 35 results reviewed and one verified in-window HKSCC circular admitted\n  • hkma-circulars — empty (0): verified TLS RSS feed contained no 2026-11-09 publication\n  • hkma-guidelines — empty (0): verified TLS RSS feed contained no 2026-11-09 publication\n  • hkma-spm — empty (0): verified TLS RSS feed contained no 2026-11-09 publication\n  • hkma-consultations — empty (0): verified TLS RSS feed contained no 2026-11-09 publication\n  • hkma-press — empty (0): verified TLS RSS feed contained no 2026-11-09 publication\n  • hkma-brdr — empty (0): verified TLS BRDR listing’s newest document was dated 2026-11-02\n  • sfc-circulars — empty (0): verified TLS SFC circular API returned no 2026-11-09 release\n  • sfc-aml-circulars — empty (0): verified TLS SFC AML circular API returned no 2026-11-09 release\n  • sfc-consultations — empty (0): verified TLS SFC consultation API returned no 2026-11-09 consultation or conclusion\n  • sfc-web — empty (0): verified TLS listings/API found one speech posting, excluded as non-actionable context\n  • pcpd — partial (0): configured listings returned access shells and browser fallback returned access-restricted content\n  • hk-enforcement-actions — partial (0): SFC enforcement listing yielded a JavaScript shell, so no action could be verified\n  • global-material-incidents-enforcement — empty (0): verified FCA listing had only routine warnings and OCC index’s newest issuance was 2026-10-22\n  • mas-regulatory-announcements — partial (0): standard requests returned maintenance shells and fallbacks exposed no substantive dated listings\n  • fstb — empty (0): verified FSTB listings had no 2026-11-09 publication\n  • legco — partial (0): standard TLS failed; fallback recovered bills but no verifiable financial-services progress\n  • hk-banks-news — empty (0): verified bank listings carried no 2026-11-09 publication\n  • lexology — partial (0): listing lacked exact dates and the materially reviewed candidate’s publisher date and evidence could not be established",
+  "rendered_sha256": "59dbb2dd1a2c38be6ace931cd7c93f010f4c78c3e6165dcf47dbd18a86144185",
+  "schema_version": 2,
+  "title": "Regulatory Bulletin — 10 November 2026 (Daily)"
+}

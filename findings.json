@@ -1,5 +1,46 @@
 [
   {
+    "authority": "Hong Kong Securities Clearing Company Limited (HKSCC)",
+    "authority_label": "required",
+    "bulletin_date": "2026-11-10",
+    "bulletin_path": "bulletins/2026/11/10/daily/",
+    "deadline": "16 November 2026",
+    "document_type": "Circular",
+    "event_family": "Hong Kong Uncertificated Securities Market implementation",
+    "id": "item-20261109-daily-exploratory-search-b7a6f2ee17-hkscc-amendments-for-uncertificated-securities-market",
+    "impact_areas": [
+      "Securities settlement",
+      "Market infrastructure",
+      "Operations",
+      "Customer data",
+      "Fees and billing"
+    ],
+    "jurisdiction": "Hong Kong",
+    "official_published": "2026-11-09",
+    "products": [
+      "Investments",
+      "Securities settlement"
+    ],
+    "publisher": "Hong Kong Securities Clearing Company Limited (HKSCC)",
+    "publisher_id": "hkscc",
+    "publishers": [
+      {
+        "id": "hong-kong-securities-clearing-company-limited-hkscc",
+        "name": "Hong Kong Securities Clearing Company Limited (HKSCC)"
+      }
+    ],
+    "source_role": "official_entity",
+    "source_url": "https://www.hkex.com.hk/-/media/HKEX-Market/Services/Circulars-and-Notices/Participant-and-Members-Circulars/HKSCC/080_26_HKSCC_GR_OP_USM_e.pdf",
+    "status": "current",
+    "summary": "HKSCC states that the SFC approved amendments to its rules, procedures and FINI terms for the Uncertificated Securities Market initiative. The amendments take effect on 16 November 2026 and include defined participant controls for uncertificated securities transfers and ASR-fee arrangements.",
+    "title": "Amendments to HKSCC Rules, Operational Procedures and FINI Terms and Conditions",
+    "topics": [
+      "uncertificated-securities-market",
+      "ccass",
+      "securities-settlement"
+    ]
+  },
+  {
     "authority": "Government of the Hong Kong Special Administrative Region",
     "authority_label": "open interpretation",
     "bulletin_date": "2026-11-05",
