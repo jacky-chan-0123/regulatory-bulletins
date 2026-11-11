@@ -1,5 +1,43 @@
 [
   {
+    "authority": "Hong Kong Monetary Authority",
+    "authority_label": "open interpretation",
+    "bulletin_date": "2026-11-11",
+    "bulletin_path": "bulletins/2026/11/11/daily/",
+    "deadline": "HKMA intends to submit proposed amendments to Legislative Council in Q1 2027, with a view to effect in Q2 2027",
+    "document_type": "HKMA press release",
+    "event_family": "Northern Metropolis project-finance capital treatment proposal",
+    "id": "item-20261110-hkma-press-922a99cc87",
+    "impact_areas": [
+      "capital adequacy",
+      "credit risk",
+      "infrastructure finance"
+    ],
+    "jurisdiction": "HK",
+    "official_published": "2026-11-10",
+    "products": [
+      "Project lending"
+    ],
+    "publisher": "Hong Kong Monetary Authority",
+    "publisher_id": "hong-kong-monetary-authority",
+    "publishers": [
+      {
+        "id": "hkma",
+        "name": "Hong Kong Monetary Authority"
+      }
+    ],
+    "source_role": "primary_authority",
+    "source_url": "https://www.hkma.gov.hk/eng/news-and-media/press-releases/2026/11/20261110-3/",
+    "status": "current",
+    "summary": "HKMA proposes amending the Banking (Capital) Rules to designate specified government-related entities as Domestic Public Sector Entities to support financing for Northern Metropolis projects. The proposal is not enacted; HKMA intends to submit amendments to Legislative Council in Q1 2027, with a view to effect in Q2 2027.",
+    "title": "Northern Metropolis Financial Advisory Taskforce holds its third meeting",
+    "topics": [
+      "capital-adequacy",
+      "credit-risk",
+      "infrastructure-finance"
+    ]
+  },
+  {
     "authority": "Hong Kong Securities Clearing Company Limited (HKSCC)",
     "authority_label": "required",
     "bulletin_date": "2026-11-10",

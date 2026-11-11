@@ -1,0 +1,52 @@
+{
+  "date": "2026-11-11",
+  "draft_sha256": "b005e453fdb76fa70852bcb2c7376f64bbb51eb904f331cb288cf50227d37a91",
+  "findings": [
+    {
+      "authority": "Hong Kong Monetary Authority",
+      "authority_label": "open interpretation",
+      "bulletin_date": "2026-11-11",
+      "deadline": "HKMA intends to submit proposed amendments to Legislative Council in Q1 2027, with a view to effect in Q2 2027",
+      "document_type": "HKMA press release",
+      "event_family": "Northern Metropolis project-finance capital treatment proposal",
+      "id": "item-20261110-hkma-press-922a99cc87",
+      "impact_areas": [
+        "capital adequacy",
+        "credit risk",
+        "infrastructure finance"
+      ],
+      "jurisdiction": "HK",
+      "official_published": "2026-11-10",
+      "products": [
+        "Project lending"
+      ],
+      "publisher": "Hong Kong Monetary Authority",
+      "publisher_id": "hong-kong-monetary-authority",
+      "publishers": [
+        {
+          "id": "hong-kong-monetary-authority",
+          "name": "Hong Kong Monetary Authority"
+        }
+      ],
+      "source_role": "primary_authority",
+      "source_url": "https://www.hkma.gov.hk/eng/news-and-media/press-releases/2026/11/20261110-3/",
+      "status": "current",
+      "summary": "HKMA proposes amending the Banking (Capital) Rules to designate specified government-related entities as Domestic Public Sector Entities to support financing for Northern Metropolis projects. The proposal is not enacted; HKMA intends to submit amendments to Legislative Council in Q1 2027, with a view to effect in Q2 2027.",
+      "title": "Northern Metropolis Financial Advisory Taskforce holds its third meeting",
+      "topics": [
+        "capital-adequacy",
+        "credit-risk",
+        "infrastructure-finance"
+      ]
+    }
+  ],
+  "item_ids": [
+    "item-20261110-hkma-press-922a99cc87"
+  ],
+  "mode": "daily",
+  "path": "bulletins/2026/11/11/daily/",
+  "rendered_html": "<b><u>📔 Regulatory Bulletin — 11 November 2026 (Daily)</u></b>\n\n<b><u>Executive Summary</u></b>\n\n  • 🟡 HKMA proposes a capital-treatment change for specified Northern Metropolis-related entities; final legislative scope and timing will determine any effect on project-lending capital economics.\n\n<b><u>Hong Kong</u></b>\n\n\n<b>🟡 Northern Metropolis Financial Advisory Taskforce holds its third meeting 🇭🇰</b>\n<b>Item ID:</b> item-20261110-hkma-press-922a99cc87\n<b>⏰ Deadline:</b> HKMA intends to submit proposed amendments to Legislative Council in Q1 2027, with a view to effect in Q2 2027\n<b>Products:</b> Project lending\n\nHKMA proposes amending the Banking (Capital) Rules to designate government-related entities, including 11 post-secondary institutions and three park companies, as Domestic Public Sector Entities. It states that the measure would lower banks’ capital costs and help those entities obtain bank financing for Northern Metropolis projects. HKMA intends to submit the proposed amendments to Legislative Council in Q1 2027, with a view to their taking effect in Q2 2027. This is a proposal and stated legislative timetable, not an enacted rule or current capital-treatment requirement; for potentially affected lenders, final entity and facility scope may affect project-lending capital economics, credit appetite and pricing.\n\nSource: <a href=\"https://www.hkma.gov.hk/eng/news-and-media/press-releases/2026/11/20261110-3/\">Northern Metropolis Financial Advisory Taskforce holds its third meeting</a>\n\n<b><u>SG/UK/GLOBAL Benchmark</u></b>\n<i>Comparable overseas developments and commercial/control benchmarks. They do not establish Hong Kong requirements.</i>\n\nNo comparable benchmark developments were retained for this edition.\n\n<b><u>Watch List</u></b>\n\n  • Monitor the proposed Legislative Council submission and the final amendment text, including scope, capital treatment, transition and effective date.\n\n<b><u>Coverage</u></b>\n\n  • customs-tdo — skipped (0): out-of-cadence for daily mode\n  • consumer-council — skipped (0): out-of-cadence for daily mode\n  • imf-wbg-international-policy — skipped (0): out-of-cadence for daily mode\n  • imf-wbg-international-policy-search — skipped (0): out-of-cadence for daily mode\n  • interpol-financial-cyber — skipped (0): out-of-cadence for daily mode\n  • hkcert — skipped (0): out-of-cadence for daily mode\n  • sme-schemes — skipped (0): out-of-cadence for daily mode\n  • gba-official — skipped (0): out-of-cadence for daily mode\n  • gba-mainland-sweep — skipped (0): out-of-cadence for daily mode\n  • industry-bodies — skipped (0): out-of-cadence for daily mode\n  • lawfirm-big4-pages — skipped (0): out-of-cadence for daily mode\n  • lawfirm-big4-sweep — skipped (0): out-of-cadence for daily mode\n  • fca-benchmark — skipped (0): out-of-cadence for daily mode\n  • boe-benchmark — skipped (0): out-of-cadence for daily mode\n  • scam-fraud-cluster — disabled (0): disabled 2026-07-22 — CyberDefender and Scameter return HTTP 403 and remain blocked by Cloudflare in browser mode; search fallback found no current items. JFIU is reachable but its latest listed activity is from 2025.\n  • regulation-asia — disabled (0): Disabled at user request: the latest-news page is subscription-gated, making extraction unreliable, and recent results yielded no scoped HK/CN-GBA/SG/UK banking items.\n  • daily-exploratory-search — partial (0): Tavily plan completed with 35 discovery results; no admissible in-window candidate. One potentially material Canadian payments-rail syndication lacked recoverable canonical primary evidence and exact official date.\n  • hkma-circulars — empty (0): Verified HKMA RSS feed retrieved with normal TLS; no entry carried an official 2026-11-10 publication date.\n  • hkma-guidelines — empty (0): Verified HKMA RSS feed retrieved with normal TLS; no entry carried an official 2026-11-10 publication date.\n  • hkma-spm — empty (0): Verified HKMA RSS feed retrieved with normal TLS; no entry carried an official 2026-11-10 publication date.\n  • hkma-consultations — empty (0): Verified HKMA RSS feed retrieved with normal TLS; no entry carried an official 2026-11-10 publication date.\n  • hkma-press — ok (2): Verified HKMA RSS feed retrieved with normal TLS; two 2026-11-10 publications collected and both bounded HKMA source chains completed.\n  • hkma-brdr — empty (0): Verified TLS fetch of BRDR main page and verified browser-rendered What&#x27;s New list; newest listed document is dated 2026-11-02, with no 2026-11-10 publication.\n  • sfc-circulars — empty (0): Official circular listing was dynamically verified through POST /api/circular/search with normal TLS; newest general circular is dated 2026-11-06, with no 2026-11-10 publication.\n  • sfc-aml-circulars — empty (0): Official AML circular listing was dynamically verified through the shared POST /api/circular/search inventory with normal TLS; no AML circular has a 2026-11-10 official publication date.\n  • sfc-consultations — empty (0): Configured POST /api/consultation/search was verified with normal TLS; newest consultation conclusion is dated 2026-11-06 and no consultation or conclusion has a 2026-11-10 publication date.\n  • sfc-web — empty (0): All five configured SFC web URLs were checked with normal TLS; the dynamically verified official news API&#x27;s newest record is dated 2026-11-09, with no 2026-11-10 publication.\n  • pcpd — partial (0): All three configured PCPD listings returned semantic JavaScript challenge or Access Restricted shells to the standard and allowlisted verified rendered-browser profiles; substantive public content was not recovered.\n  • hk-enforcement-actions — partial (0): HKMA disciplinary-actions listing was verified and its newest action is dated 8 November 2024; the configured SFC enforcement listing returned only an e-Distribution shell without substantive dated content, so no verified 2026-11-10 enforcement coverage was recovered.\n  • global-material-incidents-enforcement — empty (0): FCA and OCC official listings were retrieved with verified TLS; the only FCA 10 November entry concerns a fake takeover bid rather than a bank/control event, and OCC&#x27;s newest enforcement release is dated 22 October 2026.\n  • mas-regulatory-announcements — partial (0): All configured MAS listings were retrieved through the MAS-only verified fallback where required and SGPC returned one 10 November MAS gold-vaulting/tax-framework lead; configured SGPC detail and publisher routes and a MAS canonical recovery attempt returned 404, so canonical primary evidence was not recoverable.\n  • fstb — empty (0): All four configured FSTB listings were retrieved with verified TLS; their newest dated press, consultation/policy, bills/resolutions and LegCo-brief entries are 4 November, 2026 (year-only), 14 October and 4 November respectively, with no 2026-11-10 publication.\n  • legco — partial (0): The standard client could not verify the LegCo certificate chain; the allowlisted verified rendered-browser fallback retrieved both configured lists, but found no verifiable 2026-11-10 financial-services bill progress or dated committee paper.\n  • hk-banks-news — empty (0): All seven configured bank listings, including the Hang Seng XML index, were retrieved with verified TLS; the only 10 November releases located were BEA&#x27;s five-year bancassurance-partnership celebration and a Singapore DBS investor survey, neither a material incident, control-loss, enforcement response or eligible product development.\n  • lexology — partial (0): Verified TLS retrieval of the configured popular-articles listing yielded one potentially material bank/AI-agent commentary lead, but its Lexology detail page returned HTTP 403 and the verified browser fallback reached a Cloudflare verification shell; no exact publisher-controlled publication date or canonical primary evidence was recoverable.",
+  "rendered_sha256": "e7daf8f5b172b3f7b5e75858c671c49d301577496eb5ebd7c1ee16f731c3b68b",
+  "schema_version": 2,
+  "title": "Regulatory Bulletin — 11 November 2026 (Daily)"
+}
