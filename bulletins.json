@@ -1,5 +1,18 @@
 [
   {
+    "date": "2026-11-12",
+    "draft_sha256": "2f4ff373119b3c563e6706573a907c90379d042b3ed83c85c22816196acafa66",
+    "item_ids": [
+      "item-20261111-fstb-lcq14",
+      "item-20261111-fstb-sfo-amendment-bill"
+    ],
+    "mode": "daily",
+    "path": "bulletins/2026/11/12/daily/",
+    "rendered_sha256": "30101e67c67af5c13a7c474d306fa905da9addc2d48e187b88d627f8e75a512b",
+    "schema_version": 2,
+    "title": "Regulatory Bulletin — 12 November 2026 (Daily)"
+  },
+  {
     "date": "2026-11-11",
     "draft_sha256": "b005e453fdb76fa70852bcb2c7376f64bbb51eb904f331cb288cf50227d37a91",
     "item_ids": [

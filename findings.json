@@ -1,5 +1,82 @@
 [
   {
+    "authority": "Financial Services and the Treasury Bureau, Hong Kong SAR Government",
+    "authority_label": "open interpretation",
+    "bulletin_date": "2026-11-12",
+    "bulletin_path": "bulletins/2026/11/12/daily/",
+    "deadline": "Conditional on passage: disclosure of inside information and interests amendments expected 4 December 2027; other stated amendments effective on gazettal after passage.",
+    "document_type": "Legislative Council Second Reading speech",
+    "event_family": "Securities and Futures (Amendment) Bill 2026",
+    "id": "item-20261111-fstb-sfo-amendment-bill",
+    "impact_areas": [
+      "securities-conduct",
+      "market-disclosure",
+      "product-governance"
+    ],
+    "jurisdiction": "HK",
+    "official_published": "2026-11-11",
+    "products": [
+      "investment"
+    ],
+    "publisher": "Financial Services and the Treasury Bureau, Hong Kong SAR Government",
+    "publisher_id": "financial-services-and-the-treasury-bureau",
+    "publishers": [
+      {
+        "id": "fstb",
+        "name": "Financial Services and the Treasury Bureau"
+      }
+    ],
+    "source_role": "government_or_court",
+    "source_url": "https://www.info.gov.hk/gia/general/202611/11/P2026111100392.htm",
+    "status": "current",
+    "summary": "FSTB moved Second Reading of the Bill, which proposes REIT restructuring and compulsory-acquisition mechanisms and extends aspects of market-misconduct and disclosure regulation to listed collective investment schemes. It remains subject to passage; certain disclosure amendments are expected on 4 December 2027.",
+    "title": "SFST moves Second Reading of Securities and Futures (Amendment) Bill 2026",
+    "topics": [
+      "reit-regime",
+      "market-conduct",
+      "market-disclosure"
+    ]
+  },
+  {
+    "authority": "Financial Services and the Treasury Bureau, Hong Kong SAR Government",
+    "authority_label": "open interpretation",
+    "bulletin_date": "2026-11-12",
+    "bulletin_path": "bulletins/2026/11/12/daily/",
+    "deadline": "Planned official launch in Q1 2027; no source-stated bank compliance deadline.",
+    "document_type": "Legislative Council written reply",
+    "event_family": "Hong Kong Gold Central Clearing and Settlement System rollout",
+    "id": "item-20261111-fstb-lcq14",
+    "impact_areas": [
+      "financial-market-infrastructure",
+      "settlement-operations",
+      "product-strategy"
+    ],
+    "jurisdiction": "HK",
+    "official_published": "2026-11-11",
+    "products": [
+      "payment",
+      "investment"
+    ],
+    "publisher": "Financial Services and the Treasury Bureau, Hong Kong SAR Government",
+    "publisher_id": "financial-services-and-the-treasury-bureau",
+    "publishers": [
+      {
+        "id": "fstb",
+        "name": "Financial Services and the Treasury Bureau"
+      }
+    ],
+    "source_role": "government_or_court",
+    "source_url": "https://www.info.gov.hk/gia/general/202611/11/P2026111000415.htm",
+    "status": "current",
+    "summary": "The government reported that the gold clearing and settlement system is in trial operation with 11 provisional direct-participant banks and is planned to launch in Q1 2027. It is to connect with RTGS for delivery-versus-payment before launch; no bank participation requirement or compliance deadline is stated.",
+    "title": "LCQ14: Building international gold trading market",
+    "topics": [
+      "gold-market-infrastructure",
+      "clearing-and-settlement",
+      "delivery-versus-payment"
+    ]
+  },
+  {
     "authority": "Hong Kong Monetary Authority",
     "authority_label": "open interpretation",
     "bulletin_date": "2026-11-11",
