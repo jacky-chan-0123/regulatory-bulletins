@@ -1,5 +1,21 @@
 [
   {
+    "date": "2026-11-13",
+    "draft_sha256": "857e9ffbfad33f69b4e5f08df98f61c950387198f8a9fb646a278b8cc8fcb092",
+    "item_ids": [
+      "item-20261109-daily-exploratory-search-b7a6f2ee17",
+      "item-20261111-fstb-securities-futures-amendment-bill",
+      "item-20261112-hkma-press-2751460376-project-ensemble-tokenisation-seminar",
+      "item-20261113-fstb-mpf-amendment-bill",
+      "item-20261113-legco-crypto-asset-reporting-framework"
+    ],
+    "mode": "weekly",
+    "path": "bulletins/2026/11/13/weekly/",
+    "rendered_sha256": "f295a9480fb1cea0452821dce6b50e9e1fe44f67eab6ab805e6af1754219b7c4",
+    "schema_version": 2,
+    "title": "Regulatory Bulletin — 13 November 2026 (Weekly)"
+  },
+  {
     "date": "2026-11-12",
     "draft_sha256": "2f4ff373119b3c563e6706573a907c90379d042b3ed83c85c22816196acafa66",
     "item_ids": [

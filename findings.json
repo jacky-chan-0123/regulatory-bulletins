@@ -1,5 +1,210 @@
 [
   {
+    "authority": "Hong Kong Securities Clearing Company Limited (HKSCC)",
+    "authority_label": "required",
+    "bulletin_date": "2026-11-13",
+    "bulletin_path": "bulletins/2026/11/13/weekly/",
+    "deadline": "2026-11-16",
+    "document_type": "Circular",
+    "event_family": "Hong Kong Uncertificated Securities Market implementation",
+    "id": "item-20261109-daily-exploratory-search-b7a6f2ee17",
+    "impact_areas": [
+      "securities-settlement",
+      "market-infrastructure",
+      "operations",
+      "customer-data",
+      "fees-and-billing"
+    ],
+    "jurisdiction": "HK",
+    "official_published": "2026-11-09",
+    "products": [
+      "investment"
+    ],
+    "publisher": "Hong Kong Securities Clearing Company Limited",
+    "publisher_id": "hkscc",
+    "publishers": [
+      {
+        "id": "hong-kong-securities-clearing-company-limited",
+        "name": "Hong Kong Securities Clearing Company Limited"
+      }
+    ],
+    "source_role": "official_entity",
+    "source_url": "https://www.hkex.com.hk/-/media/HKEX-Market/Services/Circulars-and-Notices/Participant-and-Members-Circulars/HKSCC/080_26_HKSCC_GR_OP_USM_e.pdf",
+    "status": "current",
+    "summary": "HKSCC states that SFC-approved amendments effective 16 November 2026 introduce USI transfer role, identity and beneficial-interest check, six-year record-retention and ASR-fee provisions for affected Uncertificated Securities Market participants.",
+    "title": "Amendments to HKSCC Rules, Operational Procedures and FINI Terms and Conditions",
+    "topics": [
+      "uncertificated-securities",
+      "securities-settlement",
+      "usi-transfers",
+      "record-retention"
+    ]
+  },
+  {
+    "authority": "Financial Services and the Treasury Bureau, Hong Kong SAR Government",
+    "authority_label": "open interpretation",
+    "bulletin_date": "2026-11-13",
+    "bulletin_path": "bulletins/2026/11/13/weekly/",
+    "deadline": "Conditional on passage: specified inside-information and interests changes expected 2027-12-04; REIT and market-misconduct amendments would apply on gazettal.",
+    "document_type": "Legislative Council Second Reading speech",
+    "event_family": "Securities and Futures (Amendment) Bill 2026",
+    "id": "item-20261111-fstb-securities-futures-amendment-bill",
+    "impact_areas": [
+      "securities-conduct",
+      "market-disclosure",
+      "product-governance"
+    ],
+    "jurisdiction": "HK",
+    "official_published": "2026-11-11",
+    "products": [
+      "investment"
+    ],
+    "publisher": "Financial Services and the Treasury Bureau",
+    "publisher_id": "fstb",
+    "publishers": [
+      {
+        "id": "fstb",
+        "name": "Financial Services and the Treasury Bureau"
+      }
+    ],
+    "source_role": "government_or_court",
+    "source_url": "https://www.info.gov.hk/gia/general/202611/11/P2026111100392.htm",
+    "status": "current",
+    "summary": "The Second Reading speech describes a Bill that would introduce statutory REIT restructuring and compulsory-acquisition mechanisms and clarify market-misconduct and disclosure coverage for exchange-listed collective investment schemes; implementation remains conditional on passage.",
+    "title": "Second Reading moved for Securities and Futures (Amendment) Bill 2026",
+    "topics": [
+      "securities-and-futures",
+      "listed-collective-investment-schemes",
+      "reits",
+      "market-misconduct",
+      "disclosure"
+    ]
+  },
+  {
+    "authority": "Hong Kong Monetary Authority and Securities and Futures Commission",
+    "authority_label": "commercial/risk recommendation",
+    "bulletin_date": "2026-11-13",
+    "bulletin_path": "bulletins/2026/11/13/weekly/",
+    "deadline": "No source deadline stated",
+    "document_type": "Joint press release",
+    "event_family": "Project Ensemble tokenisation",
+    "id": "item-20261112-hkma-press-2751460376-project-ensemble-tokenisation-seminar",
+    "impact_areas": [
+      "tokenised-deposit strategy",
+      "digital-settlement-infrastructure",
+      "investment-product-distribution"
+    ],
+    "jurisdiction": "HK",
+    "official_published": "2026-11-12",
+    "products": [
+      "deposit",
+      "payment",
+      "investment"
+    ],
+    "publisher": "Hong Kong Monetary Authority",
+    "publisher_id": "hkma",
+    "publishers": [
+      {
+        "id": "hkma",
+        "name": "Hong Kong Monetary Authority"
+      },
+      {
+        "id": "sfc",
+        "name": "Securities and Futures Commission"
+      }
+    ],
+    "source_role": "primary_authority",
+    "source_url": "https://www.hkma.gov.hk/eng/news-and-media/press-releases/2026/11/20261112-3/",
+    "status": "current",
+    "summary": "HKMA and SFC described Project Ensemble activity, including 24/7 interbank settlement of tokenised deposits through Ensemble TX and round-the-clock secondary trading for tokenised money-market funds; the release does not require participation.",
+    "title": "HKMA and SFC co-host seminar to advance tokenisation in Hong Kong and promote collaborative opportunities within Project Ensemble",
+    "topics": [
+      "tokenisation",
+      "tokenised-deposits",
+      "digital-settlement",
+      "tokenised-investment-products"
+    ]
+  },
+  {
+    "authority": "Financial Services and the Treasury Bureau, Hong Kong SAR Government",
+    "authority_label": "open interpretation",
+    "bulletin_date": "2026-11-13",
+    "bulletin_path": "bulletins/2026/11/13/weekly/",
+    "deadline": "2026-11-25 (First Reading; not a compliance deadline)",
+    "document_type": "Gazette announcement",
+    "event_family": "Mandatory Provident Fund Schemes (Amendment) Bill 2026",
+    "id": "item-20261113-fstb-mpf-amendment-bill",
+    "impact_areas": [
+      "trustee-governance",
+      "retirement-product-compliance",
+      "enforcement-and-customer-protection-risk"
+    ],
+    "jurisdiction": "HK",
+    "official_published": "2026-11-13",
+    "products": [
+      "investment"
+    ],
+    "publisher": "Financial Services and the Treasury Bureau",
+    "publisher_id": "fstb",
+    "publishers": [
+      {
+        "id": "fstb",
+        "name": "Financial Services and the Treasury Bureau"
+      }
+    ],
+    "source_role": "government_or_court",
+    "source_url": "https://www.info.gov.hk/gia/general/202611/13/P2026111300289.htm",
+    "status": "current",
+    "summary": "The Bill, gazetted for First Reading on 25 November 2026, proposes a second-tier MPF arrears surcharge, employer information notices, trustee sanctions and member-charge restrictions; it is not a current obligation.",
+    "title": "Mandatory Provident Fund Schemes (Amendment) Bill 2026 gazetted",
+    "topics": [
+      "mandatory-provident-fund",
+      "mpf-arrears",
+      "trustee-governance",
+      "member-protection"
+    ]
+  },
+  {
+    "authority": "Legislative Council of the Hong Kong Special Administrative Region",
+    "authority_label": "open interpretation",
+    "bulletin_date": "2026-11-13",
+    "bulletin_path": "bulletins/2026/11/13/weekly/",
+    "deadline": "No source deadline stated; commencement and transition provisions are unavailable in the retrieved record",
+    "document_type": "Legislative bill record",
+    "event_family": "Crypto-Asset Reporting Framework and amended Common Reporting Standard",
+    "id": "item-20261113-legco-crypto-asset-reporting-framework",
+    "impact_areas": [
+      "tax-reporting",
+      "crypto-asset-customer-due-diligence",
+      "data-and-regulatory-reporting"
+    ],
+    "jurisdiction": "HK",
+    "official_published": "2026-11-13",
+    "products": [
+      "digital",
+      "investment"
+    ],
+    "publisher": "Legislative Council of the Hong Kong Special Administrative Region",
+    "publisher_id": "legco",
+    "publishers": [
+      {
+        "id": "legislative-council-of-the-hong-kong-special-administrative-region",
+        "name": "Legislative Council of the Hong Kong Special Administrative Region"
+      }
+    ],
+    "source_role": "government_or_court",
+    "source_url": "https://www.legco.gov.hk/en/legco-business/council/bills.html?bill_key=10005&session=2026",
+    "status": "current",
+    "summary": "The LegCo record states that the Bill passed with Administration amendments on 4 November 2026 and the resulting ordinance was gazetted on 13 November; the retrieved record does not establish commencement, scope or operative duties.",
+    "title": "Inland Revenue (Amendment) (Crypto-Asset Reporting Framework and Amended Common Reporting Standard) Bill 2026 — ordinance gazetted",
+    "topics": [
+      "crypto-asset-reporting",
+      "common-reporting-standard",
+      "tax-reporting",
+      "customer-due-diligence"
+    ]
+  },
+  {
     "authority": "Financial Services and the Treasury Bureau, Hong Kong SAR Government",
     "authority_label": "open interpretation",
     "bulletin_date": "2026-11-12",
