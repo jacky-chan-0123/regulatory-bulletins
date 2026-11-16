@@ -1,5 +1,45 @@
 [
   {
+    "authority": "Legislative Council of the Hong Kong Special Administrative Region",
+    "authority_label": "open interpretation",
+    "bulletin_date": "2026-11-16",
+    "bulletin_path": "bulletins/2026/11/16/daily/",
+    "deadline": "No source commencement or implementation deadline stated",
+    "document_type": "enacted ordinance status record",
+    "event_family": "crypto-asset-reporting-framework-amended-crs-hk-2026",
+    "id": "item-20261113-legco-crypto-asset-reporting-framework",
+    "impact_areas": [
+      "Tax reporting",
+      "Customer data",
+      "Regulatory change"
+    ],
+    "jurisdiction": "HK",
+    "official_published": "2026-11-13",
+    "products": [
+      "Investment services",
+      "Digital asset services"
+    ],
+    "publisher": "Legislative Council of the Hong Kong Special Administrative Region",
+    "publisher_id": "legislative-council-of-hong-kong",
+    "publishers": [
+      {
+        "id": "legislative-council-of-the-hong-kong-special-administrative-region",
+        "name": "Legislative Council of the Hong Kong Special Administrative Region"
+      }
+    ],
+    "source_role": "government_or_court",
+    "source_url": "https://www.legco.gov.hk/en/legco-business/council/bills.html?bill_key=10005&session=2026",
+    "status": "current",
+    "summary": "The Legislative Council record states that the Bill passed on 4 November 2026 and that the resulting Ordinance was gazetted on 13 November 2026. The record does not state commencement, transitional arrangements, reporting dates, affected entities or operative requirements.",
+    "title": "Inland Revenue (Amendment) (Crypto-Asset Reporting Framework and Amended Common Reporting Standard) Ordinance gazetted",
+    "topics": [
+      "crypto-assets",
+      "common-reporting-standard",
+      "tax-reporting",
+      "legislation"
+    ]
+  },
+  {
     "authority": "Hong Kong Securities Clearing Company Limited (HKSCC)",
     "authority_label": "required",
     "bulletin_date": "2026-11-13",

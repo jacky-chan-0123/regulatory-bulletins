@@ -1,0 +1,54 @@
+{
+  "date": "2026-11-16",
+  "draft_sha256": "c599f4b12d7180f951d11c9fb82609544e7bff72b46e21b501258a663e54443e",
+  "findings": [
+    {
+      "authority": "Legislative Council of the Hong Kong Special Administrative Region",
+      "authority_label": "open interpretation",
+      "bulletin_date": "2026-11-16",
+      "deadline": "No source commencement or implementation deadline stated",
+      "document_type": "enacted ordinance status record",
+      "event_family": "crypto-asset-reporting-framework-amended-crs-hk-2026",
+      "id": "item-20261113-legco-crypto-asset-reporting-framework",
+      "impact_areas": [
+        "Tax reporting",
+        "Customer data",
+        "Regulatory change"
+      ],
+      "jurisdiction": "HK",
+      "official_published": "2026-11-13",
+      "products": [
+        "Investment services",
+        "Digital asset services"
+      ],
+      "publisher": "Legislative Council of the Hong Kong Special Administrative Region",
+      "publisher_id": "legislative-council-of-hong-kong",
+      "publishers": [
+        {
+          "id": "legislative-council-of-hong-kong",
+          "name": "Legislative Council of the Hong Kong Special Administrative Region"
+        }
+      ],
+      "source_role": "government_or_court",
+      "source_url": "https://www.legco.gov.hk/en/legco-business/council/bills.html?bill_key=10005&session=2026",
+      "status": "current",
+      "summary": "The Legislative Council record states that the Bill passed on 4 November 2026 and that the resulting Ordinance was gazetted on 13 November 2026. The record does not state commencement, transitional arrangements, reporting dates, affected entities or operative requirements.",
+      "title": "Inland Revenue (Amendment) (Crypto-Asset Reporting Framework and Amended Common Reporting Standard) Ordinance gazetted",
+      "topics": [
+        "crypto-assets",
+        "common-reporting-standard",
+        "tax-reporting",
+        "legislation"
+      ]
+    }
+  ],
+  "item_ids": [
+    "item-20261113-legco-crypto-asset-reporting-framework"
+  ],
+  "mode": "daily",
+  "path": "bulletins/2026/11/16/daily/",
+  "rendered_html": "<b><u>📔 Regulatory Bulletin — 16 November 2026 (Daily)</u></b>\n\n<b><u>Executive Summary</u></b>\n\n  • 🟡 Hong Kong’s Legislative Council record shows that the Inland Revenue (Amendment) (Crypto-Asset Reporting Framework and Amended Common Reporting Standard) Ordinance was gazetted on 13 November after passage on 4 November. The record does not state commencement, scope, transition or reporting requirements, so management should obtain the enacted Gazette text before deciding applicability.\n\n<b><u>Hong Kong</u></b>\n\n\n<b>🟡 Inland Revenue (Amendment) (Crypto-Asset Reporting Framework and Amended Common Reporting Standard) Ordinance gazetted 🇭🇰</b>\n<b>Item ID:</b> item-20261113-legco-crypto-asset-reporting-framework\n<b>⏰ Deadline:</b> No source commencement or implementation deadline stated\n<b>Products:</b> Investment services, digital asset services\n\nThe Legislative Council record states that the Bill passed on 4 November 2026, with Administration amendments, and that the resulting Ordinance was gazetted on 13 November 2026. This moves the matter from the bill process to a gazetted Ordinance. The record does not set out commencement, transitional arrangements, reporting dates, affected entities, thresholds, exemptions or operative requirements; it therefore does not establish a current duty for a particular bank, product or customer group. Tax and Legal should obtain the enacted Gazette text and assess commencement and applicability before any implementation decision; if applicable, relevant reporting and customer-data flows may need further assessment.\n\nSource: <a href=\"https://www.legco.gov.hk/en/legco-business/council/bills.html?bill_key=10005&amp;session=2026\">Legislative Council bill record</a>\n\n<b><u>Mainland/GBA</u></b>\n\nNo validated items in this run.\n\n<b><u>SG/UK/GLOBAL Benchmark</u></b>\n\n<i>Comparable overseas developments and commercial/control benchmarks. They do not establish Hong Kong requirements.</i>\n\nNo validated benchmark items in this run.\n\n<b><u>Watch List</u></b>\n\n  • Obtain the enacted Gazette text to confirm commencement, transitional arrangements and the eventual scope of the crypto-asset reporting framework and amended Common Reporting Standard.\n\n<b><u>Coverage</u></b>\n\n  • customs-tdo — skipped (0): out-of-cadence for daily mode\n  • consumer-council — skipped (0): out-of-cadence for daily mode\n  • imf-wbg-international-policy — skipped (0): out-of-cadence for daily mode\n  • imf-wbg-international-policy-search — skipped (0): out-of-cadence for daily mode\n  • interpol-financial-cyber — skipped (0): out-of-cadence for daily mode\n  • hkcert — skipped (0): out-of-cadence for daily mode\n  • sme-schemes — skipped (0): out-of-cadence for daily mode\n  • gba-official — skipped (0): out-of-cadence for daily mode\n  • gba-mainland-sweep — skipped (0): out-of-cadence for daily mode\n  • industry-bodies — skipped (0): out-of-cadence for daily mode\n  • lawfirm-big4-pages — skipped (0): out-of-cadence for daily mode\n  • lawfirm-big4-sweep — skipped (0): out-of-cadence for daily mode\n  • fca-benchmark — skipped (0): out-of-cadence for daily mode\n  • boe-benchmark — skipped (0): out-of-cadence for daily mode\n  • scam-fraud-cluster — disabled (0): disabled 2026-07-22; configured sources remain access-restricted and fallback found no current items\n  • regulation-asia — disabled (0): disabled at user request; subscription-gated latest-news page made extraction unreliable\n  • daily-exploratory-search — empty (0): seven persisted queries completed; reviewed leads were excluded or context-only\n  • hkma-circulars — empty (0): verified TLS RSS; newest publication was outside the 13–15 November window\n  • hkma-guidelines — empty (0): verified TLS RSS; newest publication was outside the 13–15 November window\n  • hkma-spm — empty (0): verified TLS RSS; newest publication was outside the 13–15 November window\n  • hkma-consultations — empty (0): verified TLS RSS; newest publication was outside the 13–15 November window\n  • hkma-press — ok (3): verified TLS RSS collected three 13 November publications; source chains complete\n  • hkma-brdr — empty (0): verified TLS BRDR listing; newest document was outside the 13–15 November window\n  • sfc-circulars — empty (0): official circular API checked; newest release was outside the window\n  • sfc-aml-circulars — empty (0): official AML circular API checked; newest release was outside the window\n  • sfc-consultations — empty (0): official consultation API checked; no qualifying 13–15 November publication\n  • sfc-web — empty (0): official listings and news API checked; newest publication was outside the window\n  • pcpd — partial (0): configured listings remained access-restricted; no substantive dated content recovered\n  • hk-enforcement-actions — partial (0): HKMA index had no in-window action; SFC listing yielded an e-Distribution shell\n  • global-material-incidents-enforcement — empty (0): FCA and OCC listings checked; no exceptional qualifying event\n  • mas-regulatory-announcements — partial (0): FX-settlement lead found but operative primary publication was not recovered\n  • fstb — empty (0): official listings checked; no qualifying banking development found\n  • legco — ok (1): verified bill listing and record confirmed the Ordinance was gazetted on 13 November 2026\n  • hk-banks-news — empty (0): seven bank newsrooms and Hang Seng index checked; no in-window publication found\n  • lexology — partial (0): dates could not be established and detail pages were access-restricted",
+  "rendered_sha256": "ba13fee22ec3a9a583770eced7e9d62be91b67f205887266e10a576c2d0fb56b",
+  "schema_version": 2,
+  "title": "Regulatory Bulletin — 16 November 2026 (Daily)"
+}
