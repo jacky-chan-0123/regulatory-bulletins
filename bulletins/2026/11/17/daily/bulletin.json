@@ -1,0 +1,54 @@
+{
+  "date": "2026-11-17",
+  "draft_sha256": "aec3602e70e22e3fa4f0d107bea13ced29e59f418b682a0495ea582cd6ea14c1",
+  "findings": [
+    {
+      "authority": "Hong Kong Monetary Authority",
+      "authority_label": "commercial/risk recommendation",
+      "bulletin_date": "2026-11-17",
+      "deadline": "No source deadline stated",
+      "document_type": "HKMA press release / market-infrastructure collaboration update",
+      "event_family": "Project Ensemble tokenised-deposit interoperability",
+      "id": "item-20261116-hkma-press-17c87bd67d",
+      "impact_areas": [
+        "cross-border payment infrastructure",
+        "tokenised-deposit interoperability",
+        "digital-product strategy"
+      ],
+      "jurisdiction": "HK",
+      "official_published": "2026-11-16",
+      "products": [
+        "payment",
+        "digital",
+        "cross-border-GBA"
+      ],
+      "publisher": "Hong Kong Monetary Authority",
+      "publisher_id": "hong-kong-monetary-authority",
+      "publishers": [
+        {
+          "id": "hong-kong-monetary-authority",
+          "name": "Hong Kong Monetary Authority"
+        }
+      ],
+      "source_role": "primary_authority",
+      "source_url": "https://www.hkma.gov.hk/eng/news-and-media/press-releases/2026/11/20261116-4/",
+      "status": "current",
+      "summary": "HKMA and Swift are exploring cross-border, multi-currency tokenised-deposit interoperability between the Swift ledger and Project Ensemble’s settlement layer. The collaboration is a market-development update, not a participation mandate, supervisory expectation or production timetable.",
+      "title": "HKMA and Swift continue collaboration on Project Ensemble and Swift ledger",
+      "topics": [
+        "tokenised-deposits",
+        "cross-border-payments",
+        "payment-interoperability"
+      ]
+    }
+  ],
+  "item_ids": [
+    "item-20261116-hkma-press-17c87bd67d"
+  ],
+  "mode": "daily",
+  "path": "bulletins/2026/11/17/daily/",
+  "rendered_html": "<b><u>📔 Regulatory Bulletin — 17 November 2026 (Daily)</u></b>\n\n<b><u>Executive Summary</u></b>\n\n  • 🟡 HKMA and Swift are expanding exploratory work on multi-currency tokenised-deposit interoperability, relevant to strategic decisions on cross-border payment and digital-product infrastructure.\n  • The collaboration is not a participation mandate, supervisory expectation or production timetable; no source deadline is stated.\n  • Banks choosing to explore the use case may need to assess settlement, resilience, data, third-party and cross-border legal dependencies before committing scope.\n\n<b><u>Hong Kong</u></b>\n\n\n<b>🟡 HKMA and Swift continue collaboration on Project Ensemble and Swift ledger 🇭🇰</b>\n<b>Item ID:</b> item-20261116-hkma-press-17c87bd67d\n<b>⏰ Deadline:</b> No source deadline stated\n<b>Products:</b> Payments; Digital; Cross-border/GBA\n\nThe Hong Kong Monetary Authority (HKMA) announced a strengthened collaboration with Swift to explore cross-border, multi-currency tokenised-deposit interoperability between the Swift ledger and Project Ensemble’s settlement layer. HKMA named Bank of China (Hong Kong), Standard Chartered Bank (Hong Kong) and HSBC in the collaboration and said the work aims to support real-time, always-on and programmable transactions. This is a market-development update, not a rule, consultation, participation mandate or supervisory expectation, and the release does not evidence production deployment. Banks considering these use cases may need to assess entity and booking location, customer use case, settlement, data, resilience, and Swift/Project Ensemble dependencies before deciding whether to explore them.\n\nSource: <a href=\"https://www.hkma.gov.hk/eng/news-and-media/press-releases/2026/11/20261116-4/\">HKMA and Swift continue the collaboration to explore cross-border payment interoperability through Project Ensemble and Swift ledger</a>\n\n<b><u>SG/UK/GLOBAL Benchmark</u></b>\n\n<i>Comparable overseas developments and commercial/control benchmarks. They do not establish Hong Kong requirements.</i>\n\n<b><u>Watch List</u></b>\n\n  • Monitor whether participating institutions or the collaboration publish production use cases, participation terms or implementation milestones.\n\n<b><u>Coverage</u></b>\n\n  • customs-tdo — skipped (0): Out of cadence for daily mode.\n  • consumer-council — skipped (0): Out of cadence for daily mode.\n  • imf-wbg-international-policy — skipped (0): Out of cadence for daily mode.\n  • imf-wbg-international-policy-search — skipped (0): Out of cadence for daily mode.\n  • interpol-financial-cyber — skipped (0): Out of cadence for daily mode.\n  • hkcert — skipped (0): Out of cadence for daily mode.\n  • sme-schemes — skipped (0): Out of cadence for daily mode.\n  • gba-official — skipped (0): Out of cadence for daily mode.\n  • gba-mainland-sweep — skipped (0): Out of cadence for daily mode.\n  • industry-bodies — skipped (0): Out of cadence for daily mode.\n  • lawfirm-big4-pages — skipped (0): Out of cadence for daily mode.\n  • lawfirm-big4-sweep — skipped (0): Out of cadence for daily mode.\n  • fca-benchmark — skipped (0): Out of cadence for daily mode.\n  • boe-benchmark — skipped (0): Out of cadence for daily mode.\n  • scam-fraud-cluster — disabled (0): Disabled; configured services are blocked and no current items were found.\n  • regulation-asia — disabled (0): Disabled at user request; subscription-gated extraction is unreliable.\n  • daily-exploratory-search — partial (0): Tavily completed; a reported settlement-test lead could not be canonically verified.\n  • hkma-circulars — empty (0): Verified TLS RSS feed had no publication dated 2026-11-16.\n  • hkma-guidelines — empty (0): Verified TLS RSS feed had no publication dated 2026-11-16.\n  • hkma-spm — empty (0): Verified TLS RSS feed had no publication dated 2026-11-16.\n  • hkma-consultations — empty (0): Verified TLS RSS feed had no publication dated 2026-11-16.\n  • hkma-press — ok (2): Verified TLS RSS feed and canonical pages; two press releases collected.\n  • hkma-brdr — empty (0): Verified TLS listing had no publication dated 2026-11-16.\n  • sfc-circulars — empty (0): Official search API had no circular dated 2026-11-16.\n  • sfc-aml-circulars — empty (0): Official search API had no circular dated 2026-11-16.\n  • sfc-consultations — empty (0): Official consultation search had no publication dated 2026-11-16.\n  • sfc-web — partial (0): Current speeches were listed, but configured document URLs lacked substantive canonical content.\n  • pcpd — partial (0): Official listings remained access-restricted after the allowed fallback.\n  • hk-enforcement-actions — partial (0): SFC enforcement listing lacked substantive content; no HKMA action was dated 2026-11-16.\n  • global-material-incidents-enforcement — empty (0): FCA and OCC listings yielded no exceptionally material in-window event.\n  • mas-regulatory-announcements — ok (1): Canonical MAS release dated 2026-11-16 was retrieved and collected.\n  • fstb — empty (0): Configured listings had no qualifying financial-services publication.\n  • legco — partial (0): Certificate verification and the rendered-browser fallback were unavailable.\n  • hk-banks-news — ok (2): Configured bank listings yielded two material announcements; a routine alert was excluded.\n  • lexology — partial (0): Relevant candidate could not be canonically retrieved or dated.",
+  "rendered_sha256": "2e8dfaa4cc210aa3d8a82eeb6de3562e33cfb11d367096e9380e6d541319672b",
+  "schema_version": 2,
+  "title": "Regulatory Bulletin — 17 November 2026 (Daily)"
+}

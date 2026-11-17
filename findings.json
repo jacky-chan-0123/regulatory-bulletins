@@ -1,5 +1,45 @@
 [
   {
+    "authority": "Hong Kong Monetary Authority",
+    "authority_label": "commercial/risk recommendation",
+    "bulletin_date": "2026-11-17",
+    "bulletin_path": "bulletins/2026/11/17/daily/",
+    "deadline": "No source deadline stated",
+    "document_type": "HKMA press release / market-infrastructure collaboration update",
+    "event_family": "Project Ensemble tokenised-deposit interoperability",
+    "id": "item-20261116-hkma-press-17c87bd67d",
+    "impact_areas": [
+      "cross-border payment infrastructure",
+      "tokenised-deposit interoperability",
+      "digital-product strategy"
+    ],
+    "jurisdiction": "HK",
+    "official_published": "2026-11-16",
+    "products": [
+      "payment",
+      "digital",
+      "cross-border-GBA"
+    ],
+    "publisher": "Hong Kong Monetary Authority",
+    "publisher_id": "hong-kong-monetary-authority",
+    "publishers": [
+      {
+        "id": "hkma",
+        "name": "Hong Kong Monetary Authority"
+      }
+    ],
+    "source_role": "primary_authority",
+    "source_url": "https://www.hkma.gov.hk/eng/news-and-media/press-releases/2026/11/20261116-4/",
+    "status": "current",
+    "summary": "HKMA and Swift are exploring cross-border, multi-currency tokenised-deposit interoperability between the Swift ledger and Project Ensemble’s settlement layer. The collaboration is a market-development update, not a participation mandate, supervisory expectation or production timetable.",
+    "title": "HKMA and Swift continue collaboration on Project Ensemble and Swift ledger",
+    "topics": [
+      "tokenised-deposits",
+      "cross-border-payments",
+      "payment-interoperability"
+    ]
+  },
+  {
     "authority": "Legislative Council of the Hong Kong Special Administrative Region",
     "authority_label": "open interpretation",
     "bulletin_date": "2026-11-16",
