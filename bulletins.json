@@ -1,5 +1,18 @@
 [
   {
+    "date": "2026-11-18",
+    "draft_sha256": "01d9b43abc6f39f2796d6c35803bb5448672ac3f8443642855242944369ccb86",
+    "item_ids": [
+      "item-20261117-hkma-press-1b20b9fb3f",
+      "item-20261117-sfc-aml-circulars-096cf0355a"
+    ],
+    "mode": "daily",
+    "path": "bulletins/2026/11/18/daily/",
+    "rendered_sha256": "4f3e9fc25247625bd6f928026880ae3b590ee2d3da8ad9735bf4ae53485744f2",
+    "schema_version": 2,
+    "title": "Regulatory Bulletin — 18 November 2026 (Daily)"
+  },
+  {
     "date": "2026-11-17",
     "draft_sha256": "aec3602e70e22e3fa4f0d107bea13ced29e59f418b682a0495ea582cd6ea14c1",
     "item_ids": [

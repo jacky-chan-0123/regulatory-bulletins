@@ -1,5 +1,84 @@
 [
   {
+    "authority": "Securities and Futures Commission",
+    "authority_label": "supervisory expectation",
+    "bulletin_date": "2026-11-18",
+    "bulletin_path": "bulletins/2026/11/18/daily/",
+    "deadline": "As soon as practicable whenever there are updates",
+    "document_type": "AML/CFT sanctions circular",
+    "event_family": "DPRK-UN-sanctions-list-update-2026-11",
+    "id": "item-20261117-sfc-aml-circulars-096cf0355a",
+    "impact_areas": [
+      "AML/CFT",
+      "sanctions screening",
+      "regulatory compliance"
+    ],
+    "jurisdiction": "HK",
+    "official_published": "2026-11-17",
+    "products": [
+      "Investment services",
+      "virtual-asset services"
+    ],
+    "publisher": "Securities and Futures Commission",
+    "publisher_id": "securities-and-futures-commission",
+    "publishers": [
+      {
+        "id": "sfc",
+        "name": "Securities and Futures Commission"
+      }
+    ],
+    "source_role": "primary_authority",
+    "source_url": "https://apps.sfc.hk/edistributionWeb/gateway/EN/circular/aml/doc?refNo=26EC74",
+    "status": "current",
+    "summary": "The SFC reported an amendment to a DPRK sanctions-list entity record and publication of the updated Hong Kong list. It expects licensed firms and their associated entities to screen new or revised designations against client lists as soon as practicable whenever there are updates.",
+    "title": "Circular on DPRK sanctions-list update",
+    "topics": [
+      "aml-cft",
+      "sanctions",
+      "screening",
+      "virtual-assets"
+    ]
+  },
+  {
+    "authority": "Hong Kong Institute for Monetary and Financial Research (Hong Kong Academy of Finance)",
+    "authority_label": "open interpretation",
+    "bulletin_date": "2026-11-18",
+    "bulletin_path": "bulletins/2026/11/18/daily/",
+    "deadline": "No source deadline stated",
+    "document_type": "research report announcement",
+    "event_family": "hong-kong-financial-services-ai-adoption-governance-2026",
+    "id": "item-20261117-hkma-press-1b20b9fb3f",
+    "impact_areas": [
+      "AI governance",
+      "regulatory compliance",
+      "technology risk"
+    ],
+    "jurisdiction": "HK",
+    "official_published": "2026-11-17",
+    "products": [
+      "Digital services"
+    ],
+    "publisher": "Hong Kong Monetary Authority",
+    "publisher_id": "hong-kong-monetary-authority",
+    "publishers": [
+      {
+        "id": "hkma",
+        "name": "Hong Kong Monetary Authority"
+      }
+    ],
+    "source_role": "primary_authority",
+    "source_url": "https://www.hkma.gov.hk/eng/news-and-media/press-releases/2026/11/20261117-3/",
+    "status": "current",
+    "summary": "HKIMR released research on GenAI and agentic-AI adoption in Hong Kong financial services, including regulatory-compliance use. The research identifies explainability and security as adoption challenges and does not establish a regulatory requirement.",
+    "title": "Research report on AI adoption, governance and compliance",
+    "topics": [
+      "artificial-intelligence",
+      "governance",
+      "regulatory-compliance",
+      "technology-risk"
+    ]
+  },
+  {
     "authority": "Hong Kong Monetary Authority",
     "authority_label": "commercial/risk recommendation",
     "bulletin_date": "2026-11-17",

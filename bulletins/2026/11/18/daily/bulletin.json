@@ -1,0 +1,93 @@
+{
+  "date": "2026-11-18",
+  "draft_sha256": "01d9b43abc6f39f2796d6c35803bb5448672ac3f8443642855242944369ccb86",
+  "findings": [
+    {
+      "authority": "Securities and Futures Commission",
+      "authority_label": "supervisory expectation",
+      "bulletin_date": "2026-11-18",
+      "deadline": "As soon as practicable whenever there are updates",
+      "document_type": "AML/CFT sanctions circular",
+      "event_family": "DPRK-UN-sanctions-list-update-2026-11",
+      "id": "item-20261117-sfc-aml-circulars-096cf0355a",
+      "impact_areas": [
+        "AML/CFT",
+        "sanctions screening",
+        "regulatory compliance"
+      ],
+      "jurisdiction": "HK",
+      "official_published": "2026-11-17",
+      "products": [
+        "Investment services",
+        "virtual-asset services"
+      ],
+      "publisher": "Securities and Futures Commission",
+      "publisher_id": "securities-and-futures-commission",
+      "publishers": [
+        {
+          "id": "securities-and-futures-commission",
+          "name": "Securities and Futures Commission"
+        }
+      ],
+      "source_role": "primary_authority",
+      "source_url": "https://apps.sfc.hk/edistributionWeb/gateway/EN/circular/aml/doc?refNo=26EC74",
+      "status": "current",
+      "summary": "The SFC reported an amendment to a DPRK sanctions-list entity record and publication of the updated Hong Kong list. It expects licensed firms and their associated entities to screen new or revised designations against client lists as soon as practicable whenever there are updates.",
+      "title": "Circular on DPRK sanctions-list update",
+      "topics": [
+        "aml-cft",
+        "sanctions",
+        "screening",
+        "virtual-assets"
+      ]
+    },
+    {
+      "authority": "Hong Kong Institute for Monetary and Financial Research (Hong Kong Academy of Finance)",
+      "authority_label": "open interpretation",
+      "bulletin_date": "2026-11-18",
+      "deadline": "No source deadline stated",
+      "document_type": "research report announcement",
+      "event_family": "hong-kong-financial-services-ai-adoption-governance-2026",
+      "id": "item-20261117-hkma-press-1b20b9fb3f",
+      "impact_areas": [
+        "AI governance",
+        "regulatory compliance",
+        "technology risk"
+      ],
+      "jurisdiction": "HK",
+      "official_published": "2026-11-17",
+      "products": [
+        "Digital services"
+      ],
+      "publisher": "Hong Kong Monetary Authority",
+      "publisher_id": "hong-kong-monetary-authority",
+      "publishers": [
+        {
+          "id": "hong-kong-monetary-authority",
+          "name": "Hong Kong Monetary Authority"
+        }
+      ],
+      "source_role": "primary_authority",
+      "source_url": "https://www.hkma.gov.hk/eng/news-and-media/press-releases/2026/11/20261117-3/",
+      "status": "current",
+      "summary": "HKIMR released research on GenAI and agentic-AI adoption in Hong Kong financial services, including regulatory-compliance use. The research identifies explainability and security as adoption challenges and does not establish a regulatory requirement.",
+      "title": "Research report on AI adoption, governance and compliance",
+      "topics": [
+        "artificial-intelligence",
+        "governance",
+        "regulatory-compliance",
+        "technology-risk"
+      ]
+    }
+  ],
+  "item_ids": [
+    "item-20261117-hkma-press-1b20b9fb3f",
+    "item-20261117-sfc-aml-circulars-096cf0355a"
+  ],
+  "mode": "daily",
+  "path": "bulletins/2026/11/18/daily/",
+  "rendered_html": "<b><u>📔 Regulatory Bulletin — 18 November 2026 (Daily)</u></b>\n\n<b><u>Executive Summary</u></b>\n\n  • 🟡 The SFC has updated its DPRK-sanctions circular for licensed corporations, SFC-licensed virtual-asset service providers and associated entities; in-scope firms should confirm the amended entity record is reflected in sanctions screening.\n  • 🟡 HKIMR has published new research on GenAI and agentic-AI adoption in Hong Kong financial services, signalling governance, explainability and security considerations rather than a new regulatory requirement.\n\n<b><u>Hong Kong</u></b>\n\n\n<b>🟡 Circular on DPRK sanctions-list update 🇭🇰</b>\n<b>Item ID:</b> item-20261117-sfc-aml-circulars-096cf0355a\n<b>⏰ Deadline:</b> As soon as practicable whenever there are updates\n<b>Products:</b> Investment services; virtual-asset services\n\nThe Securities and Futures Commission (SFC) says the UN Security Council DPRK Sanctions Committee amended an entity record on 13 November 2026 (New York time), and that an updated Hong Kong list under section 31 of Cap. 537AE was published on 17 November. The circular is addressed to licensed corporations, SFC-licensed virtual-asset service providers and their associated entities, and the SFC expects them to screen all new or revised designations against client lists as soon as practicable whenever there are updates, under its AML/CFT Guideline. This is a sanctions-data update rather than a new sanctions regime; direct applicability to an authorised institution outside the stated SFC population is not established by the circular. In-scope operations may need to verify data-feed deployment, alert handling and retained screening evidence for the amended record.\n\nSource: <a href=\"https://apps.sfc.hk/edistributionWeb/gateway/EN/circular/aml/doc?refNo=26EC74\">Circular to Licensed Corporations, SFC-licensed Virtual Asset Service Providers and Associated Entities — Anti-Money Laundering / Counter-Financing of Terrorism: United Nations Sanctions (Democratic People’s Republic of Korea) Regulation</a>\n\n\n<b>🟡 Research report on AI adoption, governance and compliance 🇭🇰</b>\n<b>Item ID:</b> item-20261117-hkma-press-1b20b9fb3f\n<b>⏰ Deadline:</b> No source deadline stated\n<b>Products:</b> Digital services\n\nThe Hong Kong Institute for Monetary and Financial Research (HKIMR), the Hong Kong Academy of Finance’s research arm, released research on GenAI and agentic-AI adoption in Hong Kong financial services. The report draws on a January–July 2026 survey and interviews; it reports 90% current or planned GenAI adoption and identifies explainability and security as adoption challenges. It is research and market intelligence, not an HKMA rule, supervisory expectation or finding of deficient controls. It signals that digital and compliance teams may need to assess whether AI use cases have appropriate governance, security, explainability, data and third-party oversight before material deployment.\n\nSource: <a href=\"https://www.hkma.gov.hk/eng/news-and-media/press-releases/2026/11/20261117-3/\">Report on “From Assistance to Autonomy: A.I. Adoption, Governance, and Compliance in Hong Kong’s Financial Services Industry”</a>\n\n<b><u>Mainland/GBA</u></b>\n\n  • No validated Mainland/GBA items in this run.\n\n<b><u>SG/UK/GLOBAL Benchmark</u></b>\n<i>Comparable overseas developments and commercial/control benchmarks. They do not establish Hong Kong requirements.</i>\n\n  • No validated benchmark items in this run.\n\n<b><u>Watch List</u></b>\n\n  • No additional validated watch items in this run.\n\n<b><u>Coverage</u></b>\n\n  • customs-tdo — skipped (0): out-of-cadence for daily mode\n  • consumer-council — skipped (0): out-of-cadence for daily mode\n  • imf-wbg-international-policy — skipped (0): out-of-cadence for daily mode\n  • imf-wbg-international-policy-search — skipped (0): out-of-cadence for daily mode\n  • interpol-financial-cyber — skipped (0): out-of-cadence for daily mode\n  • hkcert — skipped (0): out-of-cadence for daily mode\n  • sme-schemes — skipped (0): out-of-cadence for daily mode\n  • gba-official — skipped (0): out-of-cadence for daily mode\n  • gba-mainland-sweep — skipped (0): out-of-cadence for daily mode\n  • industry-bodies — skipped (0): out-of-cadence for daily mode\n  • lawfirm-big4-pages — skipped (0): out-of-cadence for daily mode\n  • lawfirm-big4-sweep — skipped (0): out-of-cadence for daily mode\n  • fca-benchmark — skipped (0): out-of-cadence for daily mode\n  • boe-benchmark — skipped (0): out-of-cadence for daily mode\n  • scam-fraud-cluster — disabled (0): CyberDefender and Scameter remain blocked; JFIU’s latest listed activity is from 2025\n  • regulation-asia — disabled (0): subscription-gated latest-news page made extraction unreliable\n  • daily-exploratory-search — partial (0): Tavily plan completed; an SFC lead could not yield recoverable canonical date/content\n  • hkma-circulars — empty (0): verified RSS had no official publication dated 2026-11-17\n  • hkma-guidelines — empty (0): verified RSS had no official publication dated 2026-11-17\n  • hkma-spm — empty (0): verified RSS had no official publication dated 2026-11-17\n  • hkma-consultations — empty (0): verified RSS had no official publication dated 2026-11-17\n  • hkma-press — ok (3): verified canonical HKMA evidence dated 2026-11-17; source-chain manifests complete\n  • hkma-brdr — partial (0): results form returned invalid-search-syntax response; no reliable dated listing recovered\n  • sfc-circulars — empty (0): verified search API had no 2026-11-17 circular\n  • sfc-aml-circulars — ok (1): verified API and canonical content identified 26EC74 dated 2026-11-17; attachments retrieved\n  • sfc-consultations — empty (0): verified API had no 2026-11-17 publication\n  • sfc-web — empty (0): two publications did not meet the banking/control materiality gate\n  • pcpd — partial (0): configured listings returned semantic shells and fallback recovered no substantive public content\n  • hk-enforcement-actions — partial (0): SFC listing lacked a verifiable dated listing, leaving 17 November coverage unresolved\n  • global-material-incidents-enforcement — empty (0): verified FCA and OCC listings had no qualifying publication\n  • mas-regulatory-announcements — empty (0): verified pages/listing had no 17 November publication\n  • fstb — empty (0): verified listings showed no 17 November publication\n  • legco — empty (0): rendered-browser fallback recovered no qualifying dated financial-services progress\n  • hk-banks-news — ok (1): verified bank listings yielded one qualifying 17 November survey item\n  • lexology — partial (0): canonical publisher dates and primary authority links could not be recovered",
+  "rendered_sha256": "4f3e9fc25247625bd6f928026880ae3b590ee2d3da8ad9735bf4ae53485744f2",
+  "schema_version": 2,
+  "title": "Regulatory Bulletin — 18 November 2026 (Daily)"
+}
