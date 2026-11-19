@@ -1,0 +1,102 @@
+{
+  "date": "2026-11-19",
+  "draft_sha256": "fce3bb74880f8b2698b43c3bc8c36b800f4c0c05259559a0e1fda8ab4772ff25",
+  "findings": [
+    {
+      "authority": "Hong Kong Monetary Authority / HKSAR Government",
+      "authority_label": "required",
+      "bulletin_date": "2026-11-19",
+      "deadline": "Phased commencement starts 2027-01-01; later phases are not stated",
+      "document_type": "press release",
+      "event_family": "banking-legislation-miscellaneous-amendments-2026",
+      "id": "item-20261118-hkma-press-ee865a8bb3",
+      "impact_areas": [
+        "bank-holding-company-supervision",
+        "enforcement",
+        "banking-structure",
+        "resolution"
+      ],
+      "jurisdiction": "HK",
+      "official_published": "2026-11-18",
+      "products": [
+        "deposit",
+        "lending",
+        "payment"
+      ],
+      "publisher": "Hong Kong Monetary Authority",
+      "publisher_id": "hkma",
+      "publishers": [
+        {
+          "id": "hkma",
+          "name": "Hong Kong Monetary Authority"
+        }
+      ],
+      "source_role": "primary_authority",
+      "source_url": "https://www.hkma.gov.hk/eng/news-and-media/press-releases/2026/11/20261118-4/",
+      "status": "current",
+      "summary": "The Government announced Legislative Council passage of the Banking Legislation (Miscellaneous Amendments) Ordinance 2026. It amends banking legislation on bank holding companies, skilled-person engagement, enforcement, the banking-system structure, technical matters and resolution-related legislation; phased commencement starts 1 January 2027.",
+      "title": "Government welcomes passage of Banking Legislation (Miscellaneous Amendments) Bill 2026",
+      "topics": [
+        "banking-legislation",
+        "bank-holding-companies",
+        "enforcement",
+        "resolution"
+      ]
+    },
+    {
+      "authority": "Monetary Authority of Singapore and Association of Banks in Singapore",
+      "authority_label": "commercial/risk recommendation",
+      "bulletin_date": "2026-11-19",
+      "deadline": "Singapore roadmap: end-2027 foundational standards and trials; staged 2028 rollouts",
+      "document_type": "media release and implementation roadmap",
+      "event_family": "paynow-generation-2",
+      "id": "item-20261118-mas-regulatory-announcements-paynow-g2",
+      "impact_areas": [
+        "payment-infrastructure",
+        "merchant-payments",
+        "fraud-and-disputes",
+        "interoperability"
+      ],
+      "jurisdiction": "SG",
+      "official_published": "2026-11-18",
+      "products": [
+        "payment",
+        "digital"
+      ],
+      "publisher": "Monetary Authority of Singapore",
+      "publisher_id": "mas",
+      "publishers": [
+        {
+          "id": "mas",
+          "name": "Monetary Authority of Singapore"
+        },
+        {
+          "id": "abs",
+          "name": "Association of Banks in Singapore"
+        }
+      ],
+      "source_role": "primary_authority",
+      "source_url": "https://www.mas.gov.sg/news/media-releases/2026/mas-and-abs-set-out-paynow-generation-2-implementation-roadmap",
+      "status": "current",
+      "summary": "MAS and ABS published a Singapore PayNow Gen2 roadmap covering staged enhancements to QR interoperability, deep-linking, selected higher-value government payments, person-to-merchant dispute arrangements, richer payment data and micropayment testing. The roadmap targets foundational standards and trials by end-2027, with staged expansion in 2028; it is a coordinated implementation roadmap rather than an immediate MAS rule.",
+      "title": "MAS and ABS Set Out PayNow Generation 2 Implementation Roadmap",
+      "topics": [
+        "instant-payments",
+        "qr-interoperability",
+        "deep-linking",
+        "payment-disputes",
+        "payment-data"
+      ]
+    }
+  ],
+  "item_ids": [
+    "item-20261118-hkma-press-ee865a8bb3",
+    "item-20261118-mas-regulatory-announcements-paynow-g2"
+  ],
+  "mode": "daily",
+  "path": "bulletins/2026/11/19/daily/",
+  "rendered_html": "<b><u>📔 Regulatory Bulletin — 19 November 2026 (Daily)</u></b>\n\n<b><u>Executive Summary</u></b>\n\n  • 🟡 Hong Kong’s Banking Legislation (Miscellaneous Amendments) Ordinance 2026 has passed; phased commencement starts on 1 January 2027. Authorised institutions and relevant holding companies should establish applicability before the detailed commencement schedule is known.\n  • 🟡 Singapore’s PayNow Gen2 roadmap sets out 2027–28 payment-rail, merchant-journey and dispute-process enhancements. It is a non-binding overseas benchmark, not a Hong Kong requirement.\n\n<b><u>Hong Kong</u></b>\n\n\n<b>🟡 Government welcomes passage of Banking Legislation (Miscellaneous Amendments) Bill 2026 🇭🇰</b>\n<b>Item ID:</b> item-20261118-hkma-press-ee865a8bb3\n<b>⏰ Deadline:</b> Phased commencement starts 1 January 2027; later phases are not stated\n<b>Products:</b> Deposits, Lending, Payments\n\nThe Government announced Legislative Council passage of the Banking Legislation (Miscellaneous Amendments) Bill 2026, now the Banking Legislation (Miscellaneous Amendments) Ordinance 2026. The Ordinance amends the Banking Ordinance on bank-holding-company regulation, skilled-person engagement for supervisory purposes, enforcement modernisation, the move from a three-tier to a two-tier banking system, and technical matters; it also amends the HKAB and Financial Institutions (Resolution) Ordinances. It will commence in phases from 1 January 2027. Authorised institutions, relevant holding companies and resolution-regime participants may need to assess structural, authorisation-perimeter, enforcement-governance and operating-model effects, while the release does not state provision-specific transition duties or later commencement dates.\n\nSource: <a href=\"https://www.hkma.gov.hk/eng/news-and-media/press-releases/2026/11/20261118-4/\">Government welcomes passage of Banking Legislation (Miscellaneous Amendments) Bill 2026</a>\n\n<b><u>Mainland/GBA</u></b>\n\nNo current-run items.\n\n<b><u>SG/UK/GLOBAL Benchmark</u></b>\n\n<i>Comparable overseas developments and commercial/control benchmarks. They do not establish Hong Kong requirements.</i>\n\n\n<b>🟡 MAS and ABS Set Out PayNow Generation 2 Implementation Roadmap 🇸🇬</b>\n<b>Item ID:</b> item-20261118-mas-regulatory-announcements-paynow-g2\n<b>⏰ Deadline:</b> Singapore roadmap: end-2027 foundational standards and trials; staged 2028 rollouts\n<b>Products:</b> Payments, Digital, Merchant payments\n\nMAS and the Association of Banks in Singapore published a PayNow Gen2 implementation roadmap for Singapore. The roadmap covers seven staged enhancements, including SGQR+ interoperability, deep-linking, selected higher-value government payments, person-to-merchant dispute, fraud and scam arrangements, richer payment data and micropayment testing. Common deep-linking standards and a central facility are targeted by end-2027, with limited SGQR+ and higher-value-payment trials planned in 2027 and staged expansion in 2028. For comparable Hong Kong payment providers, the roadmap may inform monitoring of deep-link security, QR routing, dispute evidence and data, reconciliation, and cross-border interoperability; it is not an immediate MAS rule and does not establish Hong Kong requirements.\n\nSource: <a href=\"https://www.mas.gov.sg/news/media-releases/2026/mas-and-abs-set-out-paynow-generation-2-implementation-roadmap\">MAS and ABS Set Out PayNow Generation 2 Implementation Roadmap</a>\n\n<b><u>Watch List</u></b>\n\n  • Track commencement notices and provision-level transition arrangements for the Hong Kong Amendment Ordinance.\n  • Monitor final PayNow scheme rules, participant obligations and any regional payment-rail links.\n\n<b><u>Coverage</u></b>\n\n  • customs-tdo — skipped (0): out-of-cadence for daily mode\n  • consumer-council — skipped (0): out-of-cadence for daily mode\n  • imf-wbg-international-policy — skipped (0): out-of-cadence for daily mode\n  • imf-wbg-international-policy-search — skipped (0): out-of-cadence for daily mode\n  • interpol-financial-cyber — skipped (0): out-of-cadence for daily mode\n  • hkcert — skipped (0): out-of-cadence for daily mode\n  • sme-schemes — skipped (0): out-of-cadence for daily mode\n  • gba-official — skipped (0): out-of-cadence for daily mode\n  • gba-mainland-sweep — skipped (0): out-of-cadence for daily mode\n  • industry-bodies — skipped (0): out-of-cadence for daily mode\n  • lawfirm-big4-pages — skipped (0): out-of-cadence for daily mode\n  • lawfirm-big4-sweep — skipped (0): out-of-cadence for daily mode\n  • fca-benchmark — skipped (0): out-of-cadence for daily mode\n  • boe-benchmark — skipped (0): out-of-cadence for daily mode\n  • scam-fraud-cluster — disabled (0): disabled because configured sources remain inaccessible and search found no current items\n  • regulation-asia — disabled (0): disabled at user request because subscription access made extraction unreliable\n  • daily-exploratory-search — partial (0): Tavily plan completed; an SFC lead lacked verifiable canonical content and date\n  • hkma-circulars — empty (0): verified feed had no 18 November 2026 publication\n  • hkma-guidelines — empty (0): verified feed had no 18 November 2026 publication\n  • hkma-spm — empty (0): verified feed had no 18 November 2026 publication\n  • hkma-consultations — empty (0): verified feed had no 18 November 2026 publication\n  • hkma-press — ok (2): verified feed had two publications and both canonical pages and source chains were retrieved\n  • hkma-brdr — empty (0): verified main listing had no 18 November 2026 document\n  • sfc-circulars — empty (0): verified circular inventory had no 18 November 2026 publication\n  • sfc-aml-circulars — empty (0): verified circular inventory had no 18 November 2026 publication\n  • sfc-consultations — empty (0): verified consultation inventory had no 18 November 2026 publication\n  • sfc-web — empty (0): verified pages and inventories had no 18 November 2026 publication\n  • pcpd — partial (0): configured listings returned challenge or access-restricted shells\n  • hk-enforcement-actions — partial (0): SFC enforcement route returned a semantic shell and its content could not be verified\n  • global-material-incidents-enforcement — empty (0): verified FCA and OCC listings had no qualifying in-window item\n  • mas-regulatory-announcements — ok (2): canonical MAS pages and the PayNow report and annex were retrieved with verified TLS\n  • fstb — empty (0): verified listings had no eligible 18 November 2026 banking or control development\n  • legco — empty (0): the Banking Legislation Bill passage was already collected from HKMA; other items were not eligible\n  • hk-banks-news — empty (0): verified bank listings had no eligible Hong Kong publication\n  • lexology — partial (0): relevant detail content and publisher-controlled date could not be established",
+  "rendered_sha256": "e9de751b5a695221f09f60ae6c78a05e15e38f08b803a785abd15e749e1957cb",
+  "schema_version": 2,
+  "title": "Regulatory Bulletin — 19 November 2026 (Daily)"
+}

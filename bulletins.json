@@ -1,5 +1,18 @@
 [
   {
+    "date": "2026-11-19",
+    "draft_sha256": "fce3bb74880f8b2698b43c3bc8c36b800f4c0c05259559a0e1fda8ab4772ff25",
+    "item_ids": [
+      "item-20261118-hkma-press-ee865a8bb3",
+      "item-20261118-mas-regulatory-announcements-paynow-g2"
+    ],
+    "mode": "daily",
+    "path": "bulletins/2026/11/19/daily/",
+    "rendered_sha256": "e9de751b5a695221f09f60ae6c78a05e15e38f08b803a785abd15e749e1957cb",
+    "schema_version": 2,
+    "title": "Regulatory Bulletin — 19 November 2026 (Daily)"
+  },
+  {
     "date": "2026-11-18",
     "draft_sha256": "01d9b43abc6f39f2796d6c35803bb5448672ac3f8443642855242944369ccb86",
     "item_ids": [
