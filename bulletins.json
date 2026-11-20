@@ -1,5 +1,18 @@
 [
   {
+    "date": "2026-11-20",
+    "draft_sha256": "0343e697e8ca76c27a0e2aeb14f08f5f122251c156e1f59deb9b45367238a89d",
+    "item_ids": [
+      "item-20261119-global-material-incidents-enforcement-e994140b4f",
+      "item-20261119-hkma-brdr-ef9980b664"
+    ],
+    "mode": "daily",
+    "path": "bulletins/2026/11/20/daily/",
+    "rendered_sha256": "16e6e03afc5fb61a32e8bb6eac7fdb9492d44964c0a7ae53e96aaffd0e018e96",
+    "schema_version": 2,
+    "title": "Regulatory Bulletin — 20 November 2026 (Daily)"
+  },
+  {
     "date": "2026-11-19",
     "draft_sha256": "fce3bb74880f8b2698b43c3bc8c36b800f4c0c05259559a0e1fda8ab4772ff25",
     "item_ids": [

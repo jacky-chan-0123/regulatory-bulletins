@@ -1,0 +1,103 @@
+{
+  "date": "2026-11-20",
+  "draft_sha256": "0343e697e8ca76c27a0e2aeb14f08f5f122251c156e1f59deb9b45367238a89d",
+  "findings": [
+    {
+      "authority": "Hong Kong Monetary Authority",
+      "authority_label": "supervisory expectation",
+      "bulletin_date": "2026-11-20",
+      "deadline": "End of Q3 2027 (compliance-status report to HKMA)",
+      "document_type": "circular",
+      "event_family": "hkma-hkab-corruption-prevention-guideline-2026",
+      "id": "item-20261119-hkma-brdr-ef9980b664",
+      "impact_areas": [
+        "governance",
+        "conduct",
+        "financial-crime-controls",
+        "whistleblowing",
+        "regulatory-reporting"
+      ],
+      "jurisdiction": "HK",
+      "official_published": "2026-11-19",
+      "products": [
+        "Bank-wide operations"
+      ],
+      "publisher": "Hong Kong Monetary Authority",
+      "publisher_id": "hong-kong-monetary-authority",
+      "publishers": [
+        {
+          "id": "hong-kong-monetary-authority",
+          "name": "Hong Kong Monetary Authority"
+        }
+      ],
+      "source_role": "primary_authority",
+      "source_url": "https://brdr.hkma.gov.hk/eng/doc-ldg/current/20261027-1-EN",
+      "status": "current",
+      "summary": "HKMA's circular to all authorized institutions introduces HKAB's guideline. HKMA expects assessment against its good practices, enhancements where appropriate, and a compliance-status report by end-Q3 2027. The circular describes the guideline as a consolidated reference that reinforces existing regulations and statutory requirements.",
+      "title": "Guideline on Corruption Prevention issued by Hong Kong Association of Banks",
+      "topics": [
+        "governance",
+        "conduct",
+        "financial-crime-controls",
+        "whistleblowing",
+        "regulatory-reporting"
+      ]
+    },
+    {
+      "authority": "Financial Conduct Authority / Prudential Regulation Authority / Bank of England",
+      "authority_label": "open interpretation",
+      "bulletin_date": "2026-11-20",
+      "deadline": "26 February 2027 (consultation response deadline)",
+      "document_type": "joint guidance consultation",
+      "event_family": "gc26-9-cyber-risk-resilience-management",
+      "id": "item-20261119-global-material-incidents-enforcement-e994140b4f",
+      "impact_areas": [
+        "cyber-security",
+        "operational-resilience",
+        "third-party-risk"
+      ],
+      "jurisdiction": "UK",
+      "official_published": "2026-11-19",
+      "products": [
+        "Digital services",
+        "Payments"
+      ],
+      "publisher": "Financial Conduct Authority",
+      "publisher_id": "financial-conduct-authority",
+      "publishers": [
+        {
+          "id": "financial-conduct-authority",
+          "name": "Financial Conduct Authority"
+        },
+        {
+          "id": "prudential-regulation-authority",
+          "name": "Prudential Regulation Authority"
+        },
+        {
+          "id": "bank-of-england",
+          "name": "Bank of England"
+        }
+      ],
+      "source_role": "primary_authority",
+      "source_url": "https://www.fca.org.uk/publications/guidance-consultations/gc26-9-cyber-risk-resilience-management",
+      "status": "current",
+      "summary": "The FCA, PRA and Bank of England opened a joint consultation on non-Handbook guidance that clarifies existing UK rules. It sets draft proportionate cyber-risk and recovery expectations for specified UK firms; responses close 26 February 2027 and the source expects final guidance in H1 2027.",
+      "title": "GC26/9: Cyber risk and resilience management",
+      "topics": [
+        "cyber-security",
+        "operational-resilience",
+        "third-party-risk"
+      ]
+    }
+  ],
+  "item_ids": [
+    "item-20261119-global-material-incidents-enforcement-e994140b4f",
+    "item-20261119-hkma-brdr-ef9980b664"
+  ],
+  "mode": "daily",
+  "path": "bulletins/2026/11/20/daily/",
+  "rendered_html": "<b><u>📔 Regulatory Bulletin — 20 November 2026 (Daily)</u></b>\n\n<b><u>Executive Summary</u></b>\n\n  • 🔴 <b>HKMA expects all authorized institutions to assess and, where appropriate, enhance anti-corruption practices under the new HKAB guideline, with a compliance-status report due by end-Q3 2027.</b> Management should establish accountable ownership, evidence the assessment and sequence remediation.\n  • 🟡 <b>UK regulators are consulting on non-Handbook cyber-resilience guidance for UK-perimeter firms; it is not a Hong Kong requirement.</b> Confirm UK scope and shared-service dependencies, then monitor final guidance expected in H1 2027.\n\n<b><u>Hong Kong</u></b>\n\n\n<b>🔴 Guideline on Corruption Prevention issued by Hong Kong Association of Banks 🇭🇰</b>\n<b>Item ID:</b> item-20261119-hkma-brdr-ef9980b664\n<b>⏰ Deadline:</b> End of Q3 2027 (compliance-status report to HKMA)\n<b>Products:</b> Bank-wide operations\n\nHKMA’s circular to all authorized institutions introduces HKAB’s <i>Guideline on Corruption Prevention for Banks</i>. HKMA expects institutions to assess their practices against the guideline, make necessary enhancements where appropriate, and report compliance status by end-Q3 2027. The circular describes the guideline as a consolidated reference that reinforces existing regulations and statutory requirements; its good practices cover governance, whistleblowing, operational controls, consequence management and training.\n\n<b>Actions:</b>\n  • Within 30 days, assign accountable first-line and Compliance owners for an applicability and gap assessment, with second-line challenge.\n  • Map relevant controls and evidence to the guideline, including risk assessment, policy, training, whistleblowing, testing, case-log and closure evidence.\n  • Establish reporting ownership and sequence proportionate remediation ahead of the end-Q3 2027 status report.\n\nSource: <a href=\"https://brdr.hkma.gov.hk/eng/doc-ldg/current/20261027-1-EN\">Guideline on Corruption Prevention issued by Hong Kong Association of Banks</a>\n\n<b><u>SG/UK/GLOBAL Benchmark</u></b>\n\n<i>Comparable overseas developments and commercial/control benchmarks. They do not establish Hong Kong requirements.</i>\n\n\n<b>🟡 GC26/9: Cyber risk and resilience management 🇬🇧</b>\n<b>Item ID:</b> item-20261119-global-material-incidents-enforcement-e994140b4f\n<b>⏰ Deadline:</b> 26 February 2027 (consultation response deadline)\n<b>Products:</b> Digital services; Payments\n\nThe FCA, PRA and Bank of England opened a joint consultation on non-Handbook guidance that clarifies existing UK rules rather than adding rules. The draft expects proportionate accountability, inventories of assets and third-party dependencies, layered access controls, detection, and tested response and recovery for specified UK firms. It is not a Hong Kong requirement; any relevance to Hong Kong digital or payment services is analogous and depends on UK-perimeter entities or shared-service dependencies.\n\nSource: <a href=\"https://www.fca.org.uk/publications/guidance-consultations/gc26-9-cyber-risk-resilience-management\">GC26/9: Cyber risk and resilience management</a>\n\n<b><u>Watch List</u></b>\n\n  • Monitor HKMA communication on the format for the end-Q3 2027 compliance-status report.\n  • Monitor publication of final FCA/PRA/Bank of England guidance, expected in the first half of 2027.\n\n<b><u>Coverage</u></b>\n\n  • customs-tdo — skipped (0): out-of-cadence for daily mode\n  • consumer-council — skipped (0): out-of-cadence for daily mode\n  • imf-wbg-international-policy — skipped (0): out-of-cadence for daily mode\n  • imf-wbg-international-policy-search — skipped (0): out-of-cadence for daily mode\n  • interpol-financial-cyber — skipped (0): out-of-cadence for daily mode\n  • hkcert — skipped (0): out-of-cadence for daily mode\n  • sme-schemes — skipped (0): out-of-cadence for daily mode\n  • gba-official — skipped (0): out-of-cadence for daily mode\n  • gba-mainland-sweep — skipped (0): out-of-cadence for daily mode\n  • industry-bodies — skipped (0): out-of-cadence for daily mode\n  • lawfirm-big4-pages — skipped (0): out-of-cadence for daily mode\n  • lawfirm-big4-sweep — skipped (0): out-of-cadence for daily mode\n  • fca-benchmark — skipped (0): out-of-cadence for daily mode\n  • boe-benchmark — skipped (0): out-of-cadence for daily mode\n  • scam-fraud-cluster — disabled (0): disabled 2026-07-22; CyberDefender and Scameter returned HTTP 403 and JFIU’s latest listed activity was from 2025\n  • regulation-asia — disabled (0): disabled at user request; the latest-news page is subscription-gated and recent results yielded no scoped items\n  • daily-exploratory-search — partial (0): Tavily completed 7 queries; no admissible in-window candidate, and one HSF Kramer result could not be canonically verified after TLS-verified HTTP 403\n  • hkma-circulars — empty (0): TLS-verified RSS feed checked; no publication dated 2026-11-19\n  • hkma-guidelines — empty (0): TLS-verified RSS feed checked; no publication dated 2026-11-19\n  • hkma-spm — empty (0): TLS-verified RSS feed checked; no publication dated 2026-11-19\n  • hkma-consultations — empty (0): TLS-verified RSS feed checked; no publication dated 2026-11-19\n  • hkma-press — empty (0): TLS-verified RSS feed checked; no publication dated 2026-11-19\n  • hkma-brdr — ok (1): TLS-verified BRDR listing and current circular record checked; one 19 November publication retrieved with its complete two-node HKMA source chain\n  • sfc-circulars — empty (0): TLS-verified e-Distribution listing checked; sibling circular API returned no 2026-11-19 release\n  • sfc-aml-circulars — empty (0): TLS-verified AML e-Distribution listing checked; complete current API result set contains no 2026-11-19 release\n  • sfc-consultations — empty (0): TLS-verified configured POST API checked; newest consultation and conclusion dates returned were outside 2026-11-19\n  • sfc-web — empty (0): TLS-verified Regulatory Update, news, product-authorisation, suitability and virtual-assets pages checked; no qualifying 2026-11-19 publication\n  • pcpd — partial (0): configured pages returned JavaScript shells; the allowlisted rendered-browser fallback remained access-restricted or returned HTTP 567\n  • hk-enforcement-actions — empty (0): TLS-verified HKMA disciplinary-actions and SFC enforcement listings checked; neither contains an official 2026-11-19 bank-control action\n  • global-material-incidents-enforcement — ok (1): TLS-verified FCA and OCC listings checked; one in-window FCA/PRA/Bank of England joint cyber-resilience consultation was verified\n  • mas-regulatory-announcements — partial (0): four 2026-11-19 MAS publications were identified, but official PDF attachments returned verified HTTP 404 and the material tokenised-MAS-Bills release could not be substantively recovered\n  • fstb — empty (0): TLS-verified FSTB press, consultation, bills/resolutions and legislative-council-brief listings checked; no qualifying banking publication dated 2026-11-19\n  • legco — partial (0): standard retrieval failed certificate verification; rendered-browser fallback recovered indexes but no verifiable 2026-11-19 relevant document was present\n  • hk-banks-news — empty (0): TLS-verified bank newsroom listings checked; no run-window publication was listed\n  • lexology — partial (0): listing lacked exact candidate publication dates and potentially relevant articles could not be canonically verified through the access-restricted fallback",
+  "rendered_sha256": "16e6e03afc5fb61a32e8bb6eac7fdb9492d44964c0a7ae53e96aaffd0e018e96",
+  "schema_version": 2,
+  "title": "Regulatory Bulletin — 20 November 2026 (Daily)"
+}

@@ -1,5 +1,94 @@
 [
   {
+    "authority": "Hong Kong Monetary Authority",
+    "authority_label": "supervisory expectation",
+    "bulletin_date": "2026-11-20",
+    "bulletin_path": "bulletins/2026/11/20/daily/",
+    "deadline": "End of Q3 2027 (compliance-status report to HKMA)",
+    "document_type": "circular",
+    "event_family": "hkma-hkab-corruption-prevention-guideline-2026",
+    "id": "item-20261119-hkma-brdr-ef9980b664",
+    "impact_areas": [
+      "governance",
+      "conduct",
+      "financial-crime-controls",
+      "whistleblowing",
+      "regulatory-reporting"
+    ],
+    "jurisdiction": "HK",
+    "official_published": "2026-11-19",
+    "products": [
+      "Bank-wide operations"
+    ],
+    "publisher": "Hong Kong Monetary Authority",
+    "publisher_id": "hong-kong-monetary-authority",
+    "publishers": [
+      {
+        "id": "hkma",
+        "name": "Hong Kong Monetary Authority"
+      }
+    ],
+    "source_role": "primary_authority",
+    "source_url": "https://brdr.hkma.gov.hk/eng/doc-ldg/current/20261027-1-EN",
+    "status": "current",
+    "summary": "HKMA's circular to all authorized institutions introduces HKAB's guideline. HKMA expects assessment against its good practices, enhancements where appropriate, and a compliance-status report by end-Q3 2027. The circular describes the guideline as a consolidated reference that reinforces existing regulations and statutory requirements.",
+    "title": "Guideline on Corruption Prevention issued by Hong Kong Association of Banks",
+    "topics": [
+      "governance",
+      "conduct",
+      "financial-crime-controls",
+      "whistleblowing",
+      "regulatory-reporting"
+    ]
+  },
+  {
+    "authority": "Financial Conduct Authority / Prudential Regulation Authority / Bank of England",
+    "authority_label": "open interpretation",
+    "bulletin_date": "2026-11-20",
+    "bulletin_path": "bulletins/2026/11/20/daily/",
+    "deadline": "26 February 2027 (consultation response deadline)",
+    "document_type": "joint guidance consultation",
+    "event_family": "gc26-9-cyber-risk-resilience-management",
+    "id": "item-20261119-global-material-incidents-enforcement-e994140b4f",
+    "impact_areas": [
+      "cyber-security",
+      "operational-resilience",
+      "third-party-risk"
+    ],
+    "jurisdiction": "UK",
+    "official_published": "2026-11-19",
+    "products": [
+      "Digital services",
+      "Payments"
+    ],
+    "publisher": "Financial Conduct Authority",
+    "publisher_id": "financial-conduct-authority",
+    "publishers": [
+      {
+        "id": "fca",
+        "name": "Financial Conduct Authority"
+      },
+      {
+        "id": "prudential-regulation-authority",
+        "name": "Prudential Regulation Authority"
+      },
+      {
+        "id": "bank-of-england",
+        "name": "Bank of England"
+      }
+    ],
+    "source_role": "primary_authority",
+    "source_url": "https://www.fca.org.uk/publications/guidance-consultations/gc26-9-cyber-risk-resilience-management",
+    "status": "current",
+    "summary": "The FCA, PRA and Bank of England opened a joint consultation on non-Handbook guidance that clarifies existing UK rules. It sets draft proportionate cyber-risk and recovery expectations for specified UK firms; responses close 26 February 2027 and the source expects final guidance in H1 2027.",
+    "title": "GC26/9: Cyber risk and resilience management",
+    "topics": [
+      "cyber-security",
+      "operational-resilience",
+      "third-party-risk"
+    ]
+  },
+  {
     "authority": "Hong Kong Monetary Authority / HKSAR Government",
     "authority_label": "required",
     "bulletin_date": "2026-11-19",
