@@ -3,6 +3,96 @@
     "authority": "Hong Kong Monetary Authority",
     "authority_label": "supervisory expectation",
     "bulletin_date": "2026-11-20",
+    "bulletin_path": "bulletins/2026/11/20/weekly/",
+    "deadline": "End of Q3 2027 (compliance-status report to HKMA)",
+    "document_type": "HKMA circular",
+    "event_family": "hkma-hkab-corruption-prevention-guideline-2026",
+    "id": "item-20261119-hkma-circulars-ef9980b664",
+    "impact_areas": [
+      "anti-corruption controls",
+      "governance and culture",
+      "whistleblowing",
+      "compliance reporting"
+    ],
+    "jurisdiction": "HK",
+    "official_published": "2026-11-19",
+    "products": [
+      "SME onboarding",
+      "lending",
+      "digital"
+    ],
+    "publisher": "Hong Kong Monetary Authority",
+    "publisher_id": "hong-kong-monetary-authority",
+    "publishers": [
+      {
+        "id": "hkma",
+        "name": "Hong Kong Monetary Authority"
+      }
+    ],
+    "source_role": "primary_authority",
+    "source_url": "https://brdr.hkma.gov.hk/eng/doc-ldg/current/20261027-1-EN",
+    "status": "current",
+    "summary": "HKMA expects all authorised institutions to review the HKAB Guideline on Corruption Prevention for Banks, assess current policies and procedures, plan necessary enhancements where appropriate, and report compliance status by end-Q3 2027. The Guideline consolidates existing requirements and practical anti-corruption measures; the circular is a supervisory expectation, not a new statutory rule or prescribed uniform control design.",
+    "title": "Guideline on Corruption Prevention issued by Hong Kong Association of Banks",
+    "topics": [
+      "anti-corruption",
+      "governance",
+      "whistleblowing",
+      "compliance-reporting"
+    ]
+  },
+  {
+    "authority": "Financial Conduct Authority / Prudential Regulation Authority / Bank of England",
+    "authority_label": "open interpretation",
+    "bulletin_date": "2026-11-20",
+    "bulletin_path": "bulletins/2026/11/20/weekly/",
+    "deadline": "26 February 2027 (UK consultation response deadline; no Hong Kong deadline stated)",
+    "document_type": "joint guidance consultation",
+    "event_family": "gc26-9-cyber-risk-resilience-management",
+    "id": "item-20261119-global-material-incidents-enforcement-b8bc1c49f2",
+    "impact_areas": [
+      "cyber resilience",
+      "third-party dependencies",
+      "operational resilience"
+    ],
+    "jurisdiction": "UK",
+    "official_published": "2026-11-19",
+    "products": [
+      "digital",
+      "payment"
+    ],
+    "publisher": "Financial Conduct Authority",
+    "publisher_id": "financial-conduct-authority",
+    "publishers": [
+      {
+        "id": "fca",
+        "name": "Financial Conduct Authority"
+      },
+      {
+        "id": "prudential-regulation-authority",
+        "name": "Prudential Regulation Authority"
+      },
+      {
+        "id": "bank-of-england",
+        "name": "Bank of England"
+      }
+    ],
+    "source_role": "primary_authority",
+    "source_url": "https://www.fca.org.uk/news/press-releases/uk-financial-watchdogs-clarify-cyber-expectations-attacks-rise",
+    "status": "current",
+    "summary": "The FCA, PRA and Bank of England propose non-rigid guidance that consolidates existing UK requirements and supervisory lessons on cyber risk and resilience. Responses to GC26/9 close on 26 February 2027 and final guidance is expected in H1 2027. This is a UK consultation and comparable benchmark, not a Hong Kong obligation.",
+    "title": "UK financial watchdogs clarify cyber expectations as attacks rise",
+    "topics": [
+      "cyber-resilience",
+      "operational-resilience",
+      "third-party-dependencies",
+      "consultation"
+    ]
+  },
+  {
+    "authority": "Hong Kong Monetary Authority",
+    "authority_label": "supervisory expectation",
+    "bulletin_date": "2026-11-20",
     "bulletin_path": "bulletins/2026/11/20/daily/",
     "deadline": "End of Q3 2027 (compliance-status report to HKMA)",
     "document_type": "circular",
