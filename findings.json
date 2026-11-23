@@ -1,5 +1,42 @@
 [
   {
+    "authority": "Legislative Council of the Hong Kong Special Administrative Region",
+    "authority_label": "open interpretation",
+    "bulletin_date": "2026-11-23",
+    "bulletin_path": "bulletins/2026/11/23/daily/",
+    "deadline": "2 December 2026 (first reading and House Committee consideration; legislative milestone, not a compliance deadline)",
+    "document_type": "bill status record",
+    "event_family": "virtual-asset-services-legislation-amendment-bill-2026",
+    "id": "item-20261120-legco-5f9683f23a",
+    "impact_areas": [
+      "legislative-monitoring",
+      "digital-asset-regulation"
+    ],
+    "jurisdiction": "HK",
+    "official_published": "2026-11-20",
+    "products": [
+      "investment",
+      "digital"
+    ],
+    "publisher": "Legislative Council of the Hong Kong Special Administrative Region",
+    "publisher_id": "legislative-council-hong-kong",
+    "publishers": [
+      {
+        "id": "legislative-council-of-the-hong-kong-special-administrative-region",
+        "name": "Legislative Council of the Hong Kong Special Administrative Region"
+      }
+    ],
+    "source_role": "primary_authority",
+    "source_url": "https://www.legco.gov.hk/en/legco-business/council/bills.html?bill_key=10029&session=2026",
+    "status": "current",
+    "summary": "LegCo records that the Virtual Asset Services Legislation (Amendment) Bill 2026 was gazetted on 20 November 2026 and schedules first reading and House Committee consideration for 2 December 2026. The available bill record does not record passage or Ordinance gazettal, and does not establish the operative scope, commencement or transition arrangements.",
+    "title": "Virtual Asset Services Legislation (Amendment) Bill 2026 gazetted",
+    "topics": [
+      "virtual-assets",
+      "legislative-monitoring"
+    ]
+  },
+  {
     "authority": "Hong Kong Monetary Authority",
     "authority_label": "supervisory expectation",
     "bulletin_date": "2026-11-20",

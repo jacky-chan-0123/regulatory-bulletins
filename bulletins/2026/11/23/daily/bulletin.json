@@ -1,0 +1,51 @@
+{
+  "date": "2026-11-23",
+  "draft_sha256": "aa5fc5841345e175d4dd7cb7b39195a9d91bb3983f64bcc3ad18a4e020fe2eaf",
+  "findings": [
+    {
+      "authority": "Legislative Council of the Hong Kong Special Administrative Region",
+      "authority_label": "open interpretation",
+      "bulletin_date": "2026-11-23",
+      "deadline": "2 December 2026 (first reading and House Committee consideration; legislative milestone, not a compliance deadline)",
+      "document_type": "bill status record",
+      "event_family": "virtual-asset-services-legislation-amendment-bill-2026",
+      "id": "item-20261120-legco-5f9683f23a",
+      "impact_areas": [
+        "legislative-monitoring",
+        "digital-asset-regulation"
+      ],
+      "jurisdiction": "HK",
+      "official_published": "2026-11-20",
+      "products": [
+        "investment",
+        "digital"
+      ],
+      "publisher": "Legislative Council of the Hong Kong Special Administrative Region",
+      "publisher_id": "legislative-council-hong-kong",
+      "publishers": [
+        {
+          "id": "legislative-council-hong-kong",
+          "name": "Legislative Council of the Hong Kong Special Administrative Region"
+        }
+      ],
+      "source_role": "primary_authority",
+      "source_url": "https://www.legco.gov.hk/en/legco-business/council/bills.html?bill_key=10029&session=2026",
+      "status": "current",
+      "summary": "LegCo records that the Virtual Asset Services Legislation (Amendment) Bill 2026 was gazetted on 20 November 2026 and schedules first reading and House Committee consideration for 2 December 2026. The available bill record does not record passage or Ordinance gazettal, and does not establish the operative scope, commencement or transition arrangements.",
+      "title": "Virtual Asset Services Legislation (Amendment) Bill 2026 gazetted",
+      "topics": [
+        "virtual-assets",
+        "legislative-monitoring"
+      ]
+    }
+  ],
+  "item_ids": [
+    "item-20261120-legco-5f9683f23a"
+  ],
+  "mode": "daily",
+  "path": "bulletins/2026/11/23/daily/",
+  "rendered_html": "<b><u>📔 Regulatory Bulletin — 23 November 2026 (Daily)</u></b>\n\n<b><u>Executive Summary</u></b>\n\n  • <b>Legislative monitoring:</b> LegCo records the gazettal of the Virtual Asset Services Legislation (Amendment) Bill 2026 and schedules first reading and House Committee consideration for 2 December; the available record does not establish an enacted obligation, scope or commencement.\n\n<b><u>Hong Kong</u></b>\n\n\n<b>🟡 Virtual Asset Services Legislation (Amendment) Bill 2026 gazetted 🇭🇰</b>\n<b>Item ID:</b> item-20261120-legco-5f9683f23a\n<b>⏰ Deadline:</b> 2 December 2026 (first reading and House Committee consideration; legislative milestone, not a compliance deadline)\n<b>Products:</b> Investment, Digital\n\nLegCo’s bill record states that the Virtual Asset Services Legislation (Amendment) Bill 2026 was gazetted on 20 November 2026. The record schedules first reading and House Committee consideration for 2 December 2026. It does not record bill passage or Ordinance gazettal, and the retrieved record does not expose the operative bill or Legislative Council Brief content. This is a legislative-stage development rather than a current Hong Kong obligation; banks with investment or digital-asset activities may need to monitor confirmed scope, commencement and transition provisions when the underlying materials are available.\n\nSource: <a href=\"https://www.legco.gov.hk/en/legco-business/council/bills.html?bill_key=10029&amp;session=2026\">Legislative Council of the Hong Kong Special Administrative Region — Bills</a>\n\n<b><u>Mainland/GBA</u></b>\n\nNo validated items for this edition.\n\n<b><u>SG/UK/GLOBAL Benchmark</u></b>\n<i>Comparable overseas developments and commercial/control benchmarks. They do not establish Hong Kong requirements.</i>\n\nNo validated benchmark items for this edition.\n\n<b><u>Watch List</u></b>\n\n  • Monitor the 2 December legislative milestone and obtain the bill and Legislative Council Brief when available; the retrieved record does not establish the amendments’ scope, affected persons, commencement or transition arrangements.\n\n<b><u>Coverage</u></b>\n\n  • customs-tdo — skipped (0): out-of-cadence for daily mode\n  • consumer-council — skipped (0): out-of-cadence for daily mode\n  • imf-wbg-international-policy — skipped (0): out-of-cadence for daily mode\n  • imf-wbg-international-policy-search — skipped (0): out-of-cadence for daily mode\n  • interpol-financial-cyber — skipped (0): out-of-cadence for daily mode\n  • hkcert — skipped (0): out-of-cadence for daily mode\n  • sme-schemes — skipped (0): out-of-cadence for daily mode\n  • gba-official — skipped (0): out-of-cadence for daily mode\n  • gba-mainland-sweep — skipped (0): out-of-cadence for daily mode\n  • industry-bodies — skipped (0): out-of-cadence for daily mode\n  • lawfirm-big4-pages — skipped (0): out-of-cadence for daily mode\n  • lawfirm-big4-sweep — skipped (0): out-of-cadence for daily mode\n  • fca-benchmark — skipped (0): out-of-cadence for daily mode\n  • boe-benchmark — skipped (0): out-of-cadence for daily mode\n  • scam-fraud-cluster — disabled (0): disabled; configured sites remain inaccessible and no current fallback items\n  • regulation-asia — disabled (0): disabled at user request; subscription-gated extraction was unreliable\n  • daily-exploratory-search — partial (0): plan completed; no admissible in-window candidate, and one incident lead lacked primary evidence\n  • hkma-circulars — empty (0): verified RSS feed had no official publication in the run window\n  • hkma-guidelines — empty (0): verified RSS feed had no official publication in the run window\n  • hkma-spm — empty (0): verified RSS feed had no official publication in the run window\n  • hkma-consultations — empty (0): verified RSS feed had no official publication in the run window\n  • hkma-press — ok (3): verified RSS feed yielded three 20 November market announcements\n  • hkma-brdr — empty (0): verified listing; latest document was before the run window\n  • sfc-circulars — ok (0): index/API returned one in-window AML circular collected under the specific AML source\n  • sfc-aml-circulars — ok (1): API and canonical endpoint yielded circular 26EC77 dated 20 November\n  • sfc-consultations — empty (0): verified API; latest records were before the run window\n  • sfc-web — empty (0): verified pages and news API; latest record was before the run window\n  • pcpd — partial (0): listings returned access shells and no substantive listing evidence was recoverable\n  • hk-enforcement-actions — partial (0): SFC endpoint yielded no substantive listing records\n  • global-material-incidents-enforcement — empty (0): verified FCA and OCC listings had no qualifying in-window action\n  • mas-regulatory-announcements — partial (0): fallback did not expose substantive dated listing records\n  • fstb — empty (0): verified listings; latest relevant entries were before the run window\n  • legco — ok (1): verified bill record showed the bill was gazetted on 20 November\n  • hk-banks-news — empty (0): verified seven bank newsrooms; no qualifying in-window item\n  • lexology — partial (0): candidate pages were inaccessible and exact in-window publication dates were unrecoverable",
+  "rendered_sha256": "c99c556bf2347b32744b8dd8ab5d3a46b927fabcf0f7d161ea572fd8d8abdfee",
+  "schema_version": 2,
+  "title": "Regulatory Bulletin — 23 November 2026 (Daily)"
+}

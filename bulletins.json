@@ -1,5 +1,17 @@
 [
   {
+    "date": "2026-11-23",
+    "draft_sha256": "aa5fc5841345e175d4dd7cb7b39195a9d91bb3983f64bcc3ad18a4e020fe2eaf",
+    "item_ids": [
+      "item-20261120-legco-5f9683f23a"
+    ],
+    "mode": "daily",
+    "path": "bulletins/2026/11/23/daily/",
+    "rendered_sha256": "c99c556bf2347b32744b8dd8ab5d3a46b927fabcf0f7d161ea572fd8d8abdfee",
+    "schema_version": 2,
+    "title": "Regulatory Bulletin — 23 November 2026 (Daily)"
+  },
+  {
     "date": "2026-11-20",
     "draft_sha256": "73c8ba3033bea841d234069a708caab49f67b5c9f284c25feeb4852588a43e39",
     "item_ids": [
