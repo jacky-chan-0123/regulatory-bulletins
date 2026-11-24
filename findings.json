@@ -1,5 +1,43 @@
 [
   {
+    "authority": "Securities and Futures Commission",
+    "authority_label": "required",
+    "bulletin_date": "2026-11-24",
+    "bulletin_path": "bulletins/2026/11/24/daily/",
+    "deadline": "No source deadline stated",
+    "document_type": "SFC restriction notice",
+    "event_family": "da-yue-financial-group-client-money-restriction-notice-2026-11",
+    "id": "item-20261123-sfc-web-9d3eff0753",
+    "impact_areas": [
+      "client-asset safeguarding",
+      "futures margin controls",
+      "licensing and conduct"
+    ],
+    "jurisdiction": "HK",
+    "official_published": "2026-11-23",
+    "products": [
+      "investment"
+    ],
+    "publisher": "Securities and Futures Commission",
+    "publisher_id": "securities-and-futures-commission",
+    "publishers": [
+      {
+        "id": "sfc",
+        "name": "Securities and Futures Commission"
+      }
+    ],
+    "source_role": "primary_authority",
+    "source_url": "https://apps.sfc.hk/edistributionWeb/gateway/EN/news/doc?refNo=26PR197",
+    "status": "current",
+    "summary": "On 23 November 2026, the SFC issued DA YUE Financial Group Limited a restriction notice under sections 204 and 205 of the Securities and Futures Ordinance. Without prior written consent, the firm cannot conduct its licensed activities or deal with relevant property, subject to stated exceptions. The SFC says its initial enquiries indicate an approximately HK$29.6 million client-money shortfall and its review is ongoing.",
+    "title": "SFC issues restriction notice to DA YUE Financial Group Limited",
+    "topics": [
+      "client-assets",
+      "futures-margin",
+      "restriction-notice"
+    ]
+  },
+  {
     "authority": "Legislative Council of the Hong Kong Special Administrative Region",
     "authority_label": "open interpretation",
     "bulletin_date": "2026-11-23",

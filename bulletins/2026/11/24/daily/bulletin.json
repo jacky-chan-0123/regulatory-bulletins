@@ -1,0 +1,52 @@
+{
+  "date": "2026-11-24",
+  "draft_sha256": "23e27a5e0148ce9d960da619796eaad30e56b33fd1100a4dd425687ecca06dd5",
+  "findings": [
+    {
+      "authority": "Securities and Futures Commission",
+      "authority_label": "required",
+      "bulletin_date": "2026-11-24",
+      "deadline": "No source deadline stated",
+      "document_type": "SFC restriction notice",
+      "event_family": "da-yue-financial-group-client-money-restriction-notice-2026-11",
+      "id": "item-20261123-sfc-web-9d3eff0753",
+      "impact_areas": [
+        "client-asset safeguarding",
+        "futures margin controls",
+        "licensing and conduct"
+      ],
+      "jurisdiction": "HK",
+      "official_published": "2026-11-23",
+      "products": [
+        "investment"
+      ],
+      "publisher": "Securities and Futures Commission",
+      "publisher_id": "securities-and-futures-commission",
+      "publishers": [
+        {
+          "id": "securities-and-futures-commission",
+          "name": "Securities and Futures Commission"
+        }
+      ],
+      "source_role": "primary_authority",
+      "source_url": "https://apps.sfc.hk/edistributionWeb/gateway/EN/news/doc?refNo=26PR197",
+      "status": "current",
+      "summary": "On 23 November 2026, the SFC issued DA YUE Financial Group Limited a restriction notice under sections 204 and 205 of the Securities and Futures Ordinance. Without prior written consent, the firm cannot conduct its licensed activities or deal with relevant property, subject to stated exceptions. The SFC says its initial enquiries indicate an approximately HK$29.6 million client-money shortfall and its review is ongoing.",
+      "title": "SFC issues restriction notice to DA YUE Financial Group Limited",
+      "topics": [
+        "client-assets",
+        "futures-margin",
+        "restriction-notice"
+      ]
+    }
+  ],
+  "item_ids": [
+    "item-20261123-sfc-web-9d3eff0753"
+  ],
+  "mode": "daily",
+  "path": "bulletins/2026/11/24/daily/",
+  "rendered_html": "<b><u>📔 Regulatory Bulletin — 24 November 2026 (Daily)</u></b>\n\n<b><u>Executive Summary</u></b>\n\n  • The SFC has restricted DA YUE Financial Group Limited (DYFGL) from conducting its licensed activities or dealing with relevant property without prior written consent, to preserve client assets.\n  • The SFC’s initial enquiries indicate an approximately HK$29.6 million client-money shortfall involving futures-margin requirements and losses for other clients; its review remains ongoing and these are not final findings.\n  • Securities businesses with an actual DYFGL client, counterparty, custody or payment relationship should assess exposure and preserve relevant reconciliations; this firm-specific action is not a new general requirement for authorized institutions.\n\n<b><u>Hong Kong Regulatory Developments</u></b>\n\n\n<b>🟡 SFC issues restriction notice to DA YUE Financial Group Limited 🇭🇰</b>\n\n<b>Item ID:</b> item-20261123-sfc-web-9d3eff0753\n<b>⏰ Deadline:</b> No source deadline stated\n<b>Products:</b> Investment services, futures\n\nOn 23 November 2026, the Securities and Futures Commission (SFC) issued DA YUE Financial Group Limited (DYFGL) a restriction notice under sections 204 and 205 of the Securities and Futures Ordinance. Without the SFC’s prior written consent, DYFGL cannot conduct the regulated activities for which it is licensed or deal with relevant property, subject to stated exceptions for deposits to its account with an authorized financial institution and consented ordinary-course expenses. The SFC says its initial enquiries indicate an approximately HK$29.6 million client-money shortfall, including client money used for other clients’ futures-margin requirements and trading losses; around 270 active clients hold credit balances. The SFC’s review is ongoing, so the stated concerns are not final findings; for Hong Kong bank securities businesses, the notice is an analogous client-asset and futures-margin control signal where an actual DYFGL relationship exists, rather than a new general requirement.\n\nSource: <a href=\"https://apps.sfc.hk/edistributionWeb/gateway/EN/news/doc?refNo=26PR197\">SFC issues restriction notice to DA YUE Financial Group Limited</a>\n\n<b><u>SG/UK/GLOBAL Benchmark</u></b>\n\n<i>Comparable overseas developments and commercial/control benchmarks. They do not establish Hong Kong requirements.</i>\n\nNo qualifying benchmark developments were included in this edition.\n\n<b><u>Watch List</u></b>\n\n  • Monitor the SFC’s ongoing review of DYFGL and any subsequent public action or client-asset recovery development.\n\n<b><u>Coverage</u></b>\n\n  • customs-tdo — skipped (0): out-of-cadence for daily mode\n  • consumer-council — skipped (0): out-of-cadence for daily mode\n  • imf-wbg-international-policy — skipped (0): out-of-cadence for daily mode\n  • imf-wbg-international-policy-search — skipped (0): out-of-cadence for daily mode\n  • interpol-financial-cyber — skipped (0): out-of-cadence for daily mode\n  • hkcert — skipped (0): out-of-cadence for daily mode\n  • sme-schemes — skipped (0): out-of-cadence for daily mode\n  • gba-official — skipped (0): out-of-cadence for daily mode\n  • gba-mainland-sweep — skipped (0): out-of-cadence for daily mode\n  • industry-bodies — skipped (0): out-of-cadence for daily mode\n  • lawfirm-big4-pages — skipped (0): out-of-cadence for daily mode\n  • lawfirm-big4-sweep — skipped (0): out-of-cadence for daily mode\n  • fca-benchmark — skipped (0): out-of-cadence for daily mode\n  • boe-benchmark — skipped (0): out-of-cadence for daily mode\n  • scam-fraud-cluster — disabled (0): disabled because configured sources remain inaccessible or had no current items\n  • regulation-asia — disabled (0): disabled at user request because extraction is unreliable and recent results were out of scope\n  • daily-exploratory-search — partial (0): Tavily completed 7 queries; a KBZN candidate’s canonical primary evidence could not be recovered\n  • hkma-circulars — empty (0): verified TLS RSS feed had no 2026-11-23 publication\n  • hkma-guidelines — empty (0): verified TLS RSS feed had no 2026-11-23 publication\n  • hkma-spm — empty (0): verified TLS RSS feed had no 2026-11-23 publication\n  • hkma-consultations — empty (0): verified TLS RSS feed had no 2026-11-23 publication\n  • hkma-press — ok (2): verified TLS RSS feed collected two 2026-11-23 publications\n  • hkma-brdr — empty (0): verified TLS listing had no 2026-11-23 document\n  • sfc-circulars — empty (0): verified TLS API returned no 2026-11-23 released circular\n  • sfc-aml-circulars — empty (0): verified TLS API returned no 2026-11-23 AML circular\n  • sfc-consultations — empty (0): verified TLS API returned no 2026-11-23 consultation or conclusion\n  • sfc-web — ok (1): verified TLS SFC API confirmed one 2026-11-23 restriction notice\n  • pcpd — partial (0): configured listings returned challenge or access-restricted content and no substantive listing was recovered\n  • hk-enforcement-actions — partial (0): SFC enforcement listing was a JavaScript-required shell\n  • global-material-incidents-enforcement — empty (0): reviewed FCA and OCC listings had no qualifying item\n  • mas-regulatory-announcements — partial (0): a dated MAS release had no recoverable canonical operative evidence\n  • fstb — empty (0): verified TLS listings had no 2026-11-23 publication\n  • legco — partial (0): rendered-browser fallback was substantive but no verifiable 2026-11-23 financial-services bill progress was found\n  • hk-banks-news — empty (0): verified TLS bank listings had no official 2026-11-23 publication\n  • lexology — partial (0): candidate detail pages were inaccessible and date or canonical primary evidence could not be recovered",
+  "rendered_sha256": "fd5f8da5cc76a41ee7531a6127e84bbe9bb975f85d3fe49f3ef07ad9f7b6805b",
+  "schema_version": 2,
+  "title": "Regulatory Bulletin — 24 November 2026 (Daily)"
+}
