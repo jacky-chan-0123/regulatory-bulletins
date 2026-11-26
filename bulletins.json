@@ -1,5 +1,19 @@
 [
   {
+    "date": "2026-11-26",
+    "draft_sha256": "bac96ceba18f586864eb9c489e7fdbc9b5121edec3458ac886fdfb9f162cf8de",
+    "item_ids": [
+      "item-20261125-fstb-mpf-speech",
+      "item-20261125-fstb-stock-listing-rules",
+      "item-20261125-hkma-press-5c7fd95a47"
+    ],
+    "mode": "daily",
+    "path": "bulletins/2026/11/26/daily/",
+    "rendered_sha256": "51b8487b388b00f71127b2a671b6aeb38bb7435c73fd8be3755d719f8df2c5b9",
+    "schema_version": 2,
+    "title": "Regulatory Bulletin — 26 November 2026 (Daily)"
+  },
+  {
     "date": "2026-11-24",
     "draft_sha256": "23e27a5e0148ce9d960da619796eaad30e56b33fd1100a4dd425687ecca06dd5",
     "item_ids": [

@@ -1,0 +1,137 @@
+{
+  "date": "2026-11-26",
+  "draft_sha256": "bac96ceba18f586864eb9c489e7fdbc9b5121edec3458ac886fdfb9f162cf8de",
+  "findings": [
+    {
+      "authority": "Financial Services and the Treasury Bureau and Securities and Futures Commission",
+      "authority_label": "required",
+      "bulletin_date": "2026-11-26",
+      "deadline": "1 March 2027 (stated commencement date)",
+      "document_type": "Legislative Council Brief and annexed subsidiary legislation",
+      "event_family": "Securities and Futures (Stock Market Listing) (Amendment) Rules 2026",
+      "id": "item-20261125-fstb-stock-listing-rules",
+      "impact_areas": [
+        "securities conduct",
+        "market disclosure",
+        "listing governance"
+      ],
+      "jurisdiction": "HK",
+      "official_published": "2026-11-25",
+      "products": [
+        "listed securities",
+        "investment services"
+      ],
+      "publisher": "Financial Services and the Treasury Bureau",
+      "publisher_id": "financial-services-and-the-treasury-bureau",
+      "publishers": [
+        {
+          "id": "financial-services-and-the-treasury-bureau",
+          "name": "Financial Services and the Treasury Bureau"
+        },
+        {
+          "id": "securities-and-futures-commission",
+          "name": "Securities and Futures Commission"
+        }
+      ],
+      "source_role": "primary_authority",
+      "source_url": "https://www.fstb.gov.hk/fsb/en/legco/docs/smlr_20261125-e.pdf",
+      "status": "current",
+      "summary": "The Legislative Council Brief states that the SFC made the Amendment Rules and that the Chief Executive in Council ordered the Schedule 8 amendment. The stated timetable is Gazette publication on 27 November 2026, LegCo tabling on 2 December 2026 and commencement on 1 March 2027. The changes include continuing and post-listing conditions, an information power over listed issuers and expanded reviewable decisions.",
+      "title": "Securities and Futures (Stock Market Listing) (Amendment) Rules 2026 and Securities and Futures Ordinance (Amendment of Schedule 8) Order 2026",
+      "topics": [
+        "stock-market-listing",
+        "listed-issuers",
+        "securities-regulation"
+      ]
+    },
+    {
+      "authority": "Financial Services and the Treasury Bureau, Hong Kong SAR Government",
+      "authority_label": "open interpretation",
+      "bulletin_date": "2026-11-26",
+      "deadline": "No source deadline stated",
+      "document_type": "Legislative Council Second Reading speech",
+      "event_family": "Mandatory Provident Fund Schemes (Amendment) Bill 2026",
+      "id": "item-20261125-fstb-mpf-speech",
+      "impact_areas": [
+        "trustee governance",
+        "retirement product compliance",
+        "employer contribution recovery"
+      ],
+      "jurisdiction": "HK",
+      "official_published": "2026-11-25",
+      "products": [
+        "MPF administration",
+        "retirement investment",
+        "employer contributions"
+      ],
+      "publisher": "Financial Services and the Treasury Bureau",
+      "publisher_id": "financial-services-and-the-treasury-bureau",
+      "publishers": [
+        {
+          "id": "financial-services-and-the-treasury-bureau",
+          "name": "Financial Services and the Treasury Bureau"
+        }
+      ],
+      "source_role": "government_or_court",
+      "source_url": "https://www.info.gov.hk/gia/general/202611/25/P2026112500346.htm",
+      "status": "current",
+      "summary": "The Secretary for Financial Services and the Treasury moved the Second Reading of the Mandatory Provident Fund Schemes (Amendment) Bill 2026. The speech describes proposed changes to recovery of overdue mandatory contributions, MPF trustee discipline, MPF intermediary misconduct and MPF fund investment rules. It does not state that the Bill has been passed or provide a commencement date.",
+      "title": "Speech by SFST in moving the Second Reading of Mandatory Provident Fund Schemes (Amendment) Bill 2026",
+      "topics": [
+        "mandatory-provident-fund",
+        "trustee-discipline",
+        "contribution-arrears"
+      ]
+    },
+    {
+      "authority": "Hong Kong Monetary Authority",
+      "authority_label": "commercial/risk recommendation",
+      "bulletin_date": "2026-11-26",
+      "deadline": "No source deadline stated",
+      "document_type": "Press release",
+      "event_family": "CMU Digital Asset Platform",
+      "id": "item-20261125-hkma-press-5c7fd95a47",
+      "impact_areas": [
+        "financial market infrastructure",
+        "digital assets",
+        "settlement operations"
+      ],
+      "jurisdiction": "HK",
+      "official_published": "2026-11-25",
+      "products": [
+        "debt securities",
+        "settlement",
+        "digital assets"
+      ],
+      "publisher": "Hong Kong Monetary Authority",
+      "publisher_id": "hong-kong-monetary-authority",
+      "publishers": [
+        {
+          "id": "hong-kong-monetary-authority",
+          "name": "Hong Kong Monetary Authority"
+        }
+      ],
+      "source_role": "primary_authority",
+      "source_url": "https://www.hkma.gov.hk/eng/news-and-media/press-releases/2026/11/20261125-3/",
+      "status": "current",
+      "summary": "HKMA announced the launch of the CMU Digital Asset Platform, operated by CMU OmniClear on its behalf. The platform supports debt-securities issuance, clearing and settlement, coupon payments, redemption and tokenisation, with atomic on-chain delivery-versus-payment and interfaces to RTGS systems and central bank digital currencies. The source describes future exploration of additional asset classes and payment instruments.",
+      "title": "Launch of CMU Digital Asset Platform",
+      "topics": [
+        "central-moneymarkets-unit",
+        "digital-assets",
+        "debt-securities-settlement"
+      ]
+    }
+  ],
+  "item_ids": [
+    "item-20261125-fstb-mpf-speech",
+    "item-20261125-fstb-stock-listing-rules",
+    "item-20261125-hkma-press-5c7fd95a47"
+  ],
+  "mode": "daily",
+  "path": "bulletins/2026/11/26/daily/",
+  "rendered_html": "<b><u>📔 Regulatory Bulletin — 26 November 2026 (Daily)</u></b>\n\n<b><u>Executive Summary</u></b>\n\n  • The SFC’s stock-market-listing amendments are stated to commence on 1 March 2027; listed issuer groups should confirm applicability and prepare condition-management and information-response workflows before then.\n  • The Mandatory Provident Fund Schemes (Amendment) Bill 2026 remains a proposal, but it signals possible changes to contribution-arrears recovery, trustee discipline and MPF intermediary conduct for affected trustee, intermediary and employer roles.\n  • HKMA has launched the CMU Digital Asset Platform for debt-securities issuance and settlement; participation is not mandated, while any adoption would need an assessed operational and legal perimeter.\n\n<b><u>Hong Kong Regulatory Developments</u></b>\n\n\n<b>🟡 Securities and Futures (Stock Market Listing) (Amendment) Rules 2026 and Securities and Futures Ordinance (Amendment of Schedule 8) Order 2026 🇭🇰</b>\n\n<b>Item ID:</b> item-20261125-fstb-stock-listing-rules\n<b>⏰ Deadline:</b> 1 March 2027 (stated commencement date)\n<b>Products:</b> Listed securities, investment services\n\nThe Financial Services and the Treasury Bureau and Securities and Futures Commission state that the Amendment Rules and the Schedule 8 Order are scheduled for Gazette publication on 27 November, LegCo tabling on 2 December and commencement on 1 March 2027. The changes will give the SFC powers to impose continuing and post-listing conditions, require information from listed issuers, and amend, revoke or impose conditions; non-compliance with a post-listing condition may lead to an SFC direction to suspend dealings. The Schedule 8 changes extend Securities and Futures Appeals Tribunal review to specified decisions under the amended rules. Listed bank groups and securities businesses supporting listing applicants may need to confirm affected entities and prepare condition-management, escalation and SFC-information response workflows; the brief does not establish a current duty before commencement or a bank-specific perimeter.\n\nSource: <a href=\"https://www.fstb.gov.hk/fsb/en/legco/docs/smlr_20261125-e.pdf\">Securities and Futures (Stock Market Listing) (Amendment) Rules 2026 and Securities and Futures Ordinance (Amendment of Schedule 8) Order 2026</a>\n\n\n<b>🟡 Speech by SFST in moving the Second Reading of Mandatory Provident Fund Schemes (Amendment) Bill 2026 🇭🇰</b>\n\n<b>Item ID:</b> item-20261125-fstb-mpf-speech\n<b>⏰ Deadline:</b> No source deadline stated\n<b>Products:</b> MPF administration, retirement investment, employer contributions\n\nThe Secretary for Financial Services and the Treasury moved the Second Reading of the Mandatory Provident Fund Schemes (Amendment) Bill 2026 on 25 November, so the measures described remain proposals rather than enacted obligations. The speech proposes a two-tier surcharge for overdue mandatory contributions, including a 10% surcharge where arrears exceed 120 days, and a power for the MPFA to require suspected defaulting employers to provide employee-income information within a specified period. It also proposes trustee fines and/or public reprimands that cannot be passed to schemes, constituent funds or members, disciplinary action for MPF-intermediary misconduct, and investment-rule flexibility. Bank-affiliated MPF trustees or intermediaries, and group employers, may need to monitor the Bill and conditionally map arrears, notice-data, disciplinary-governance and member-charge processes; no commencement or compliance date is stated.\n\nSource: <a href=\"https://www.info.gov.hk/gia/general/202611/25/P2026112500346.htm\">Speech by SFST in moving the Second Reading of Mandatory Provident Fund Schemes (Amendment) Bill 2026</a>\n\n\n<b>🟡 Launch of CMU Digital Asset Platform 🇭🇰</b>\n\n<b>Item ID:</b> item-20261125-hkma-press-5c7fd95a47\n<b>⏰ Deadline:</b> No source deadline stated\n<b>Products:</b> Debt securities, settlement, digital assets\n\nThe HKMA has launched the CMU Digital Asset Platform, a distributed-ledger platform operated by CMU OmniClear on its behalf. It supports paperless debt-security issuance, secondary clearing and settlement, coupon payments, redemption and tokenisation, with atomic on-chain delivery-versus-payment, RTGS and CBDC interfaces, and 24-hour multi-currency settlement using cash tokens. The stated roadmap explores funds, real-world assets, tokenised deposits and regulated stablecoins, which are not described as current services. This is not a participation mandate or new authorized-institution obligation; debt-market participants considering use may need to assess settlement, resilience, data, legal-perimeter and customer or product dependencies before adoption.\n\nSource: <a href=\"https://www.hkma.gov.hk/eng/news-and-media/press-releases/2026/11/20261125-3/\">Launch of CMU Digital Asset Platform</a>\n\n<b><u>SG/UK/GLOBAL Benchmark</u></b>\n\n<i>Comparable overseas developments and commercial/control benchmarks. They do not establish Hong Kong requirements.</i>\n\nNo qualifying benchmark developments were included in this edition.\n\n<b><u>Watch List</u></b>\n\n  • Confirm the Gazette text and progress of the stock-market-listing instruments before the stated commencement date.\n  • Monitor legislative progress and any commencement details for the Mandatory Provident Fund Schemes (Amendment) Bill 2026.\n  • Monitor CMU DAP participant terms and the availability of additional asset classes.\n\n<b><u>Coverage</u></b>\n\n  • customs-tdo — skipped (0): out-of-cadence for daily mode\n  • consumer-council — skipped (0): out-of-cadence for daily mode\n  • imf-wbg-international-policy — skipped (0): out-of-cadence for daily mode\n  • imf-wbg-international-policy-search — skipped (0): out-of-cadence for daily mode\n  • interpol-financial-cyber — skipped (0): out-of-cadence for daily mode\n  • hkcert — skipped (0): out-of-cadence for daily mode\n  • sme-schemes — skipped (0): out-of-cadence for daily mode\n  • gba-official — skipped (0): out-of-cadence for daily mode\n  • gba-mainland-sweep — skipped (0): out-of-cadence for daily mode\n  • industry-bodies — skipped (0): out-of-cadence for daily mode\n  • lawfirm-big4-pages — skipped (0): out-of-cadence for daily mode\n  • lawfirm-big4-sweep — skipped (0): out-of-cadence for daily mode\n  • fca-benchmark — skipped (0): out-of-cadence for daily mode\n  • boe-benchmark — skipped (0): out-of-cadence for daily mode\n  • scam-fraud-cluster — disabled (0): disabled 2026-07-22 — CyberDefender and Scameter return HTTP 403 and remain blocked by Cloudflare in browser mode; search fallback found no current items.\n  • regulation-asia — disabled (0): Disabled at user request: the latest-news page is subscription-gated, making extraction unreliable, and recent results yielded no scoped HK/CN-GBA/SG/UK banking items.\n  • daily-exploratory-search — partial (0): Tavily plan completed (35 results); no admissible in-window candidate. Crypto-custody lead returned HTTP 403 over verified TLS, leaving canonical primary evidence unresolved.\n  • hkma-circulars — empty (0): Verified RSS feed contained no publication dated 2026-11-25.\n  • hkma-guidelines — empty (0): Verified RSS feed contained no publication dated 2026-11-25.\n  • hkma-spm — empty (0): Verified RSS feed contained no publication dated 2026-11-25.\n  • hkma-consultations — empty (0): Verified RSS feed contained no publication dated 2026-11-25.\n  • hkma-press — ok (1): Verified RSS feed contained one 2026-11-25 publication; run-local canonical evidence and HKMA source chain collected.\n  • hkma-brdr — empty (0): Verified BRDR listing; its latest displayed document is dated 2026-11-19, with none dated 2026-11-25.\n  • sfc-circulars — empty (0): Verified SFC rendered circular listing and bounded official circular-search API; latest listed circular is dated 2026-11-20, with none dated 2026-11-25.\n  • sfc-aml-circulars — empty (0): Verified SFC rendered AML/CFT circular listing; latest listed AML/CFT circular is dated 2026-11-23, with none dated 2026-11-25.\n  • sfc-consultations — empty (0): Verified official consultation-search API (217 records); no consultation paper or consultation conclusion has official publication date 2026-11-25.\n  • sfc-web — empty (0): Verified SFC regulatory-update and virtual-assets pages plus official news-search API; newest news item is dated 2026-11-24 and no configured section yielded a 2026-11-25 publication.\n  • pcpd — partial (0): All three configured PCPD listings returned EO_Bot_Ssid JavaScript challenge shells to the standard client; the allowlisted verified rendered-browser fallback returned access-restricted content or HTTP 567, so no substantive public content was recovered.\n  • hk-enforcement-actions — partial (0): HKMA disciplinary-action index was verified and last revised 2025-07-22; SFC enforcement listing returned a JavaScript-only shell, so no substantive SFC listing evidence was recovered.\n  • global-material-incidents-enforcement — empty (0): Verified FCA and OCC official listings; 25 November FCA results were a general investment-performance blog and routine warnings, with no exceptionally material or transferable bank incident/enforcement action.\n  • mas-regulatory-announcements — empty (0): All configured MAS listings were recovered through the MAS allowlisted fallback after standard maintenance shells; SGPC MAS feed latest publication was 2026-11-23 and no official 2026-11-25 publication was identified.\n  • fstb — ok (2): Verified FSTB listings yielded two 2026-11-25 publications: Legislative Council Brief on Stock Market Listing amendment rules/order and an MPF Bill second-reading speech; canonical evidence collected.\n  • legco — partial (0): Both configured LegCo pages failed normal TLS certificate verification; allowlisted rendered-browser fallback was unavailable because Playwright is not installed, so no verifiable run-window progress was recovered.\n  • hk-banks-news — empty (0): Verified all configured bank listings and Hang Seng current-year XML; no listing contained an official publication dated 2026-11-25 (Hang Seng XML latest item was 2026-10-29).\n  • lexology — partial (0): Verified popular-articles listing was retrieved over TLS, but it provides only a Last updated timestamp and no exact candidate publication dates. The potentially relevant UK cyber-resilience commentary returned HTTP 403 to the verified evidence client and a Cloudflare verification shell in the verified browser; canonical secondary and primary evidence could not be recovered.",
+  "rendered_sha256": "51b8487b388b00f71127b2a671b6aeb38bb7435c73fd8be3755d719f8df2c5b9",
+  "schema_version": 2,
+  "title": "Regulatory Bulletin — 26 November 2026 (Daily)"
+}

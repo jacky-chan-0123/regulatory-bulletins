@@ -1,5 +1,128 @@
 [
   {
+    "authority": "Financial Services and the Treasury Bureau and Securities and Futures Commission",
+    "authority_label": "required",
+    "bulletin_date": "2026-11-26",
+    "bulletin_path": "bulletins/2026/11/26/daily/",
+    "deadline": "1 March 2027 (stated commencement date)",
+    "document_type": "Legislative Council Brief and annexed subsidiary legislation",
+    "event_family": "Securities and Futures (Stock Market Listing) (Amendment) Rules 2026",
+    "id": "item-20261125-fstb-stock-listing-rules",
+    "impact_areas": [
+      "securities conduct",
+      "market disclosure",
+      "listing governance"
+    ],
+    "jurisdiction": "HK",
+    "official_published": "2026-11-25",
+    "products": [
+      "listed securities",
+      "investment services"
+    ],
+    "publisher": "Financial Services and the Treasury Bureau",
+    "publisher_id": "financial-services-and-the-treasury-bureau",
+    "publishers": [
+      {
+        "id": "fstb",
+        "name": "Financial Services and the Treasury Bureau"
+      },
+      {
+        "id": "sfc",
+        "name": "Securities and Futures Commission"
+      }
+    ],
+    "source_role": "primary_authority",
+    "source_url": "https://www.fstb.gov.hk/fsb/en/legco/docs/smlr_20261125-e.pdf",
+    "status": "current",
+    "summary": "The Legislative Council Brief states that the SFC made the Amendment Rules and that the Chief Executive in Council ordered the Schedule 8 amendment. The stated timetable is Gazette publication on 27 November 2026, LegCo tabling on 2 December 2026 and commencement on 1 March 2027. The changes include continuing and post-listing conditions, an information power over listed issuers and expanded reviewable decisions.",
+    "title": "Securities and Futures (Stock Market Listing) (Amendment) Rules 2026 and Securities and Futures Ordinance (Amendment of Schedule 8) Order 2026",
+    "topics": [
+      "stock-market-listing",
+      "listed-issuers",
+      "securities-regulation"
+    ]
+  },
+  {
+    "authority": "Financial Services and the Treasury Bureau, Hong Kong SAR Government",
+    "authority_label": "open interpretation",
+    "bulletin_date": "2026-11-26",
+    "bulletin_path": "bulletins/2026/11/26/daily/",
+    "deadline": "No source deadline stated",
+    "document_type": "Legislative Council Second Reading speech",
+    "event_family": "Mandatory Provident Fund Schemes (Amendment) Bill 2026",
+    "id": "item-20261125-fstb-mpf-speech",
+    "impact_areas": [
+      "trustee governance",
+      "retirement product compliance",
+      "employer contribution recovery"
+    ],
+    "jurisdiction": "HK",
+    "official_published": "2026-11-25",
+    "products": [
+      "MPF administration",
+      "retirement investment",
+      "employer contributions"
+    ],
+    "publisher": "Financial Services and the Treasury Bureau",
+    "publisher_id": "financial-services-and-the-treasury-bureau",
+    "publishers": [
+      {
+        "id": "fstb",
+        "name": "Financial Services and the Treasury Bureau"
+      }
+    ],
+    "source_role": "government_or_court",
+    "source_url": "https://www.info.gov.hk/gia/general/202611/25/P2026112500346.htm",
+    "status": "current",
+    "summary": "The Secretary for Financial Services and the Treasury moved the Second Reading of the Mandatory Provident Fund Schemes (Amendment) Bill 2026. The speech describes proposed changes to recovery of overdue mandatory contributions, MPF trustee discipline, MPF intermediary misconduct and MPF fund investment rules. It does not state that the Bill has been passed or provide a commencement date.",
+    "title": "Speech by SFST in moving the Second Reading of Mandatory Provident Fund Schemes (Amendment) Bill 2026",
+    "topics": [
+      "mandatory-provident-fund",
+      "trustee-discipline",
+      "contribution-arrears"
+    ]
+  },
+  {
+    "authority": "Hong Kong Monetary Authority",
+    "authority_label": "commercial/risk recommendation",
+    "bulletin_date": "2026-11-26",
+    "bulletin_path": "bulletins/2026/11/26/daily/",
+    "deadline": "No source deadline stated",
+    "document_type": "Press release",
+    "event_family": "CMU Digital Asset Platform",
+    "id": "item-20261125-hkma-press-5c7fd95a47",
+    "impact_areas": [
+      "financial market infrastructure",
+      "digital assets",
+      "settlement operations"
+    ],
+    "jurisdiction": "HK",
+    "official_published": "2026-11-25",
+    "products": [
+      "debt securities",
+      "settlement",
+      "digital assets"
+    ],
+    "publisher": "Hong Kong Monetary Authority",
+    "publisher_id": "hong-kong-monetary-authority",
+    "publishers": [
+      {
+        "id": "hkma",
+        "name": "Hong Kong Monetary Authority"
+      }
+    ],
+    "source_role": "primary_authority",
+    "source_url": "https://www.hkma.gov.hk/eng/news-and-media/press-releases/2026/11/20261125-3/",
+    "status": "current",
+    "summary": "HKMA announced the launch of the CMU Digital Asset Platform, operated by CMU OmniClear on its behalf. The platform supports debt-securities issuance, clearing and settlement, coupon payments, redemption and tokenisation, with atomic on-chain delivery-versus-payment and interfaces to RTGS systems and central bank digital currencies. The source describes future exploration of additional asset classes and payment instruments.",
+    "title": "Launch of CMU Digital Asset Platform",
+    "topics": [
+      "central-moneymarkets-unit",
+      "digital-assets",
+      "debt-securities-settlement"
+    ]
+  },
+  {
     "authority": "Securities and Futures Commission",
     "authority_label": "required",
     "bulletin_date": "2026-11-24",
