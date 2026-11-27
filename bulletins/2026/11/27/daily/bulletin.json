@@ -1,0 +1,55 @@
+{
+  "date": "2026-11-27",
+  "draft_sha256": "9bff79ad49a6c8ce97b84fe2c53c76946766c8bfb8a2276687a5a608a9c3548b",
+  "findings": [
+    {
+      "authority": "The Hongkong and Shanghai Banking Corporation Limited",
+      "authority_label": "commercial/risk recommendation",
+      "bulletin_date": "2026-11-27",
+      "deadline": "No source deadline stated",
+      "document_type": "official bank product-adoption update",
+      "event_family": "HSBC RedCoin launch and adoption",
+      "id": "item-20261126-hk-banks-news-ccf9e83f3a",
+      "impact_areas": [
+        "stablecoin-market-development",
+        "merchant-payments",
+        "tokenised-investments",
+        "customer-protection"
+      ],
+      "jurisdiction": "HK",
+      "official_published": "2026-11-26",
+      "products": [
+        "payment",
+        "digital",
+        "investment"
+      ],
+      "publisher": "HSBC",
+      "publisher_id": "hsbc",
+      "publishers": [
+        {
+          "id": "hsbc",
+          "name": "HSBC"
+        }
+      ],
+      "source_role": "official_entity",
+      "source_url": "https://www.about.hsbc.com.hk/news-and-media/hsbc-redcoin-surpasses-100-000-users",
+      "status": "current",
+      "summary": "HSBC says its Hong Kong dollar-denominated stablecoin, RedCoin, surpassed 100,000 users approximately one month after launch. It says customers can use it through PayMe for instant transfers and payments at more than 100,000 merchants, while eligible customers can access a tokenised HKD money-market-fund unit class in its mobile app.",
+      "title": "HSBC RedCoin surpasses 100,000 users",
+      "topics": [
+        "stablecoin",
+        "payments",
+        "tokenised-investments"
+      ]
+    }
+  ],
+  "item_ids": [
+    "item-20261126-hk-banks-news-ccf9e83f3a"
+  ],
+  "mode": "daily",
+  "path": "bulletins/2026/11/27/daily/",
+  "rendered_html": "<b><u>📔 Regulatory Bulletin — 27 November 2026 (Daily)</u></b>\n\n<b><u>Executive Summary</u></b>\n\n  • 🟡 HSBC reports that its HKD stablecoin, RedCoin, exceeded 100,000 users roughly one month after launch, signalling material customer uptake in Hong Kong payments and tokenised-investment distribution.\n  • RedCoin is available through PayMe for instant transfers and payments at more than 100,000 merchants; eligible customers can access a tokenised HKD money-market-fund unit class in HSBC’s mobile app.\n  • This is a bank-reported product-adoption update, not an HKMA or SFC action and not a new requirement for other institutions; comparable propositions may warrant commercial and control assessment.\n\n<b><u>Hong Kong</u></b>\n\n\n<b>🟡 HSBC RedCoin surpasses 100,000 users 🇭🇰</b>\n<b>Item ID:</b> item-20261126-hk-banks-news-ccf9e83f3a\n<b>⏰ Deadline:</b> No source deadline stated\n<b>Products:</b> Payments, digital wallet, tokenised investments\n\nHSBC says its Hong Kong dollar-denominated stablecoin, RedCoin (RCHKD), has surpassed 100,000 users approximately one month after launch. It says customers can use RedCoin through PayMe for instant transfers and payments at more than 100,000 merchants, while eligible customers can access a tokenised unit class of an established HKD money-market fund through its mobile-banking app. HSBC says broader wealth-management and wholesale use cases will proceed in stages, reflecting client needs, technology readiness and regulatory expectations. This is an official bank product-adoption update rather than an authority action; it may affect comparable payment, wallet, investment-distribution and associated customer-protection, financial-crime and resilience considerations, subject to each institution’s product and customer perimeter.\n\nSource: <a href=\"https://www.about.hsbc.com.hk/news-and-media/hsbc-redcoin-surpasses-100-000-users\">HSBC RedCoin surpasses 100,000 users</a>\n\n<b><u>Mainland/GBA</u></b>\n\nNo current-run items.\n\n<b><u>SG/UK/GLOBAL Benchmark</u></b>\n\n<i>Comparable overseas developments and commercial/control benchmarks. They do not establish Hong Kong requirements.</i>\n\nNo current-run items.\n\n<b><u>Watch List</u></b>\n\n  • Monitor the scope and terms of HSBC’s staged wealth-management and wholesale RedCoin expansion; the announcement does not state customer eligibility, redemption, limits, fees, reserve terms, SME availability or cross-border availability.\n\n<b><u>Coverage</u></b>\n\n  • customs-tdo — skipped (0): Out of cadence for daily mode.\n  • consumer-council — skipped (0): Out of cadence for daily mode.\n  • imf-wbg-international-policy — skipped (0): Out of cadence for daily mode.\n  • imf-wbg-international-policy-search — skipped (0): Out of cadence for daily mode.\n  • interpol-financial-cyber — skipped (0): Out of cadence for daily mode.\n  • hkcert — skipped (0): Out of cadence for daily mode.\n  • sme-schemes — skipped (0): Out of cadence for daily mode.\n  • gba-official — skipped (0): Out of cadence for daily mode.\n  • gba-mainland-sweep — skipped (0): Out of cadence for daily mode.\n  • industry-bodies — skipped (0): Out of cadence for daily mode.\n  • lawfirm-big4-pages — skipped (0): Out of cadence for daily mode.\n  • lawfirm-big4-sweep — skipped (0): Out of cadence for daily mode.\n  • fca-benchmark — skipped (0): Out of cadence for daily mode.\n  • boe-benchmark — skipped (0): Out of cadence for daily mode.\n  • scam-fraud-cluster — disabled (0): Disabled after CyberDefender and Scameter access blocks; JFIU had no current activity.\n  • regulation-asia — disabled (0): Disabled at user request because the latest-news page is subscription-gated and recent results had no scoped items.\n  • daily-exploratory-search — empty (0): Seven successful queries produced no admissible in-window canonical candidate.\n  • hkma-circulars — empty (0): Verified RSS had no 26 November 2026 publication.\n  • hkma-guidelines — empty (0): Verified RSS had no 26 November 2026 publication.\n  • hkma-spm — empty (0): Verified RSS had no 26 November 2026 publication.\n  • hkma-consultations — empty (0): Verified RSS had no 26 November 2026 publication.\n  • hkma-press — ok (3): Three canonical market-announcement pages were verified; source chains were complete.\n  • hkma-brdr — empty (0): Verified index had no dated 26 November 2026 publication.\n  • sfc-circulars — empty (0): Verified listings and search API had no 26 November 2026 publication.\n  • sfc-aml-circulars — empty (0): Verified AML listings and search API had no 26 November 2026 publication.\n  • sfc-consultations — empty (0): Verified consultation sources had no 26 November 2026 publication.\n  • sfc-web — empty (0): Two notices did not meet the banking/control materiality gate.\n  • pcpd — partial (0): JavaScript challenge and rendered-browser fallback did not establish substantive coverage.\n  • hk-enforcement-actions — partial (0): SFC enforcement listing returned a JavaScript shell, preventing verification.\n  • global-material-incidents-enforcement — partial (0): FCA News returned HTTP 403, leaving the composite source incomplete.\n  • mas-regulatory-announcements — partial (0): The SGPC lead could not be resolved after configured pages returned HTTP 404.\n  • fstb — empty (0): Verified listings had no 26 November 2026 financial-services publication.\n  • legco — partial (0): Verified fallback indexes did not supply verifiable financial-services bill progress.\n  • hk-banks-news — ok (1): Verified bank listings identified HSBC’s 26 November 2026 RedCoin adoption announcement.\n  • lexology — partial (0): Relevant candidates were blocked or challenged, so dates and primary evidence could not be established.",
+  "rendered_sha256": "68429b7f2728f48a9851a049e1e4c25839e2e51e13a6f9717dba650bc691c14a",
+  "schema_version": 2,
+  "title": "Regulatory Bulletin — 27 November 2026 (Daily)"
+}

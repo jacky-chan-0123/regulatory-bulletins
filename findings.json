@@ -1,5 +1,46 @@
 [
   {
+    "authority": "The Hongkong and Shanghai Banking Corporation Limited",
+    "authority_label": "commercial/risk recommendation",
+    "bulletin_date": "2026-11-27",
+    "bulletin_path": "bulletins/2026/11/27/daily/",
+    "deadline": "No source deadline stated",
+    "document_type": "official bank product-adoption update",
+    "event_family": "HSBC RedCoin launch and adoption",
+    "id": "item-20261126-hk-banks-news-ccf9e83f3a",
+    "impact_areas": [
+      "stablecoin-market-development",
+      "merchant-payments",
+      "tokenised-investments",
+      "customer-protection"
+    ],
+    "jurisdiction": "HK",
+    "official_published": "2026-11-26",
+    "products": [
+      "payment",
+      "digital",
+      "investment"
+    ],
+    "publisher": "HSBC",
+    "publisher_id": "hsbc",
+    "publishers": [
+      {
+        "id": "hsbc",
+        "name": "HSBC"
+      }
+    ],
+    "source_role": "official_entity",
+    "source_url": "https://www.about.hsbc.com.hk/news-and-media/hsbc-redcoin-surpasses-100-000-users",
+    "status": "current",
+    "summary": "HSBC says its Hong Kong dollar-denominated stablecoin, RedCoin, surpassed 100,000 users approximately one month after launch. It says customers can use it through PayMe for instant transfers and payments at more than 100,000 merchants, while eligible customers can access a tokenised HKD money-market-fund unit class in its mobile app.",
+    "title": "HSBC RedCoin surpasses 100,000 users",
+    "topics": [
+      "stablecoin",
+      "payments",
+      "tokenised-investments"
+    ]
+  },
+  {
     "authority": "Financial Services and the Treasury Bureau and Securities and Futures Commission",
     "authority_label": "required",
     "bulletin_date": "2026-11-26",
