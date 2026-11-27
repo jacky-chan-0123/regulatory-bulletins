@@ -1,5 +1,48 @@
 [
   {
+    "authority": "Financial Services and the Treasury Bureau and Securities and Futures Commission, Hong Kong SAR Government",
+    "authority_label": "required",
+    "bulletin_date": "2026-11-27",
+    "bulletin_path": "bulletins/2026/11/27/weekly/",
+    "deadline": "1 March 2027 (commencement)",
+    "document_type": "Legislative Council Brief and annexed subsidiary legislation",
+    "event_family": "Securities and Futures (Stock Market Listing) (Amendment) Rules 2026",
+    "id": "item-20261125-fstb-14d119b43a",
+    "impact_areas": [
+      "capital-markets compliance",
+      "issuer disclosure",
+      "product governance"
+    ],
+    "jurisdiction": "HK",
+    "official_published": "2026-11-25",
+    "products": [
+      "investment",
+      "capital-markets services"
+    ],
+    "publisher": "Financial Services and the Treasury Bureau",
+    "publisher_id": "financial-services-and-the-treasury-bureau",
+    "publishers": [
+      {
+        "id": "fstb",
+        "name": "Financial Services and the Treasury Bureau"
+      },
+      {
+        "id": "sfc",
+        "name": "Securities and Futures Commission"
+      }
+    ],
+    "source_role": "primary_authority",
+    "source_url": "https://www.fstb.gov.hk/fsb/en/legco/docs/smlr_20261125-e.pdf",
+    "status": "current",
+    "summary": "Hong Kong subsidiary legislation scheduled to commence on 1 March 2027 permits continuing and post-listing conditions and issuer information requisitions. It is required for parties within its statutory perimeter; the source does not establish a direct bank-wide obligation.",
+    "title": "Securities and Futures (Stock Market Listing) amendments",
+    "topics": [
+      "securities-and-futures",
+      "stock-market-listing",
+      "subsidiary-legislation"
+    ]
+  },
+  {
     "authority": "The Hongkong and Shanghai Banking Corporation Limited",
     "authority_label": "commercial/risk recommendation",
     "bulletin_date": "2026-11-27",
